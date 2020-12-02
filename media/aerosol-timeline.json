@@ -13,8 +13,8 @@
   "events": [
     {
       "media": {
-        "url": "",
-        "caption": "",
+        "url": "https://wwwnc.cdc.gov/eid/images/20-0764-F1-tn.jpg",
+        "caption": "Sketch showing arrangement of restaurant tables and air conditioning airflow at site of outbreak ",
         "link": "https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article",
         "credit": ""
       },
@@ -41,7 +41,7 @@
       },
       "text": {
         "headline": "Growing body of research",
-        "text": "A growing body of research shows that SARS-CoV-2, the virus that causes COVID-19, can spread from person to person through the air. Indoor spaces with poor ventilation in areas where the virus is prevalent are particularly hazardous. <a href='https://theconversation.com/the-covid-19-virus-can-spread-through-the-air-heres-what-itll-take-to-detect-the-airborne-particles-140149'>Article on TheConversation</a> by Suresh Dhaniyala, Priyamvada Ravindran and Shantanu Sur."
+        "text": "A growing body of research shows that SARS-CoV-2, the virus that causes COVID-19, can spread from person to person through the air. Indoor spaces with poor ventilation in areas where the virus is prevalent are particularly hazardous"
       }
     },
     {
