@@ -13,6 +13,7 @@
   "events": [
     {
       "media": {
+        "thumbnail": "restaurant.jpg",
         "url": "https://wwwnc.cdc.gov/eid/images/20-0764-F1-tn.jpg",
         "caption": "Sketch showing arrangement of restaurant tables and air conditioning airflow at site of outbreak ",
         "link": "https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article",
