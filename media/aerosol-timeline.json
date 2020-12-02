@@ -13,6 +13,22 @@
   "events": [
     {
       "media": {
+        "url": "",
+        "caption": "",
+        "link": "https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 7
+      },
+      "text": {
+        "headline": "A/C in Guangzhou Restaurant",
+        "text": "Study: COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020"
+      }
+    },
+    {
+      "media": {
         "url": "https://images.theconversation.com/files/352604/original/file-20200812-20-31ojns.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=600&h=400&fit=crop&dpr=1",
         "caption": "Laser-induced fluorescence is a method of using lasers to cause specific substances to emit light",
         "link": "https://theconversation.com/the-covid-19-virus-can-spread-through-the-air-heres-what-itll-take-to-detect-the-airborne-particles-140149",
@@ -42,7 +58,7 @@
       },
       "text": {
         "headline": "CDC changes, then retracts, web posting on how virus spreads",
-        "text": "The top U.S. public health agency stirred confusion by posting — and then taking down — an apparent change in its position on how easily the coronavirus can spread from person to person through the air. <br>But officials at the Centers for Disease Control and Prevention say their position has not really changed and that the post last week on the agency’s website was an error that has been taken down. <br>It was &qt;an honest mistake&qt; that happened when a draft update was posted before going through a full editing and approval process, said Dr. Jay Butler, the CDC’s deputy director for infectious diseases."
+        "text": "The top U.S. public health agency stirred confusion by posting — and then taking down — an apparent change in its position on how easily the coronavirus can spread from person to person through the air. <br>But officials at the Centers for Disease Control and Prevention say their position has not really changed and that the post last week on the agency’s website was an error that has been taken down."
       }
     }
   ]
