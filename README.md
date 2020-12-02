@@ -1,1 +1,1 @@
-TODO
+Add events to this timeline via pull requests - change this file: https://github.com/timelinez/aerosolized-covid-19/blob/main/media/aerosol-timeline.json
