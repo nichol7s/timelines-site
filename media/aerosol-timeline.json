@@ -85,6 +85,24 @@
     },
     {
       "media": {
+        "thumbnail": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6919e6_ChoirPracticeCOVID19_IMAGE_12May20_1200x675-medium.jpg",
+        "caption": "Choir seatmap - infection distance",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm",
+        "credit": "CDC.gov"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 5,
+        "day": 15
+      },
+      "text": {
+        "headline": "People at choir practice infected at distance",
+        "text": "Following a 2.5-hour choir practice attended by 61 persons, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred (attack rate = 53.3% to 86.7%); three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet) during practice and augmented by the act of singing."
+      }
+    },
+    {
+      "media": {
         "url": "https://images.theconversation.com/files/352604/original/file-20200812-20-31ojns.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=600&h=400&fit=crop&dpr=1",
         "caption": "Laser-induced fluorescence is a method of using lasers to cause specific substances to emit light",
         "link": "https://theconversation.com/the-covid-19-virus-can-spread-through-the-air-heres-what-itll-take-to-detect-the-airborne-particles-140149",
