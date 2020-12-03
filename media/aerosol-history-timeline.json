@@ -62,6 +62,22 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/101094941-17d32b80-35b5-11eb-94d2-a4f7cfbec251.png",
+        "caption": "Flu too",
+        "link": "https://www.amjmed.com/article/0002-9343(74)90140-5/fulltext",
+        "credit": "Richard L Reilly"
+      },
+      "start_date": {
+        "year": "1974"
+      },
+      "text": {
+        "headline": "Airborne infection: Flu too",
+        "text": ""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://pbs.twimg.com/media/EgDCaInXoAQhN6G?format=png&name=small",
         "caption": "capture from the full report - see 'airborne' in text",
         "link": "https://pubmed.ncbi.nlm.nih.gov/3982900/",
