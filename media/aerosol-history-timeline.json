@@ -7,10 +7,26 @@
     },
     "text": {
       "headline": "Airborne/Aerosol: Old problem, new challenge!",
-      "text": "SARS-CoV-2 transmission: a inconsistency/ambiguity?<br>No authorities have admitted airborne transmission yet.<br>But all national and international authorities recommended maintaining good ventilation. If not airborne, why ventilate?"
+      "text": "SARS-CoV-2 transmission: a inconsistency/ambiguity?<br>No authorities have admitted airborne transmission yet.<br>But all national and international authorities recommended maintaining good ventilation. If not airborne, why ventilate? - Yuguo Li"
     }
   },
   "events": [
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/101091779-95486d00-35b0-11eb-8b6c-83be3a549dc7.png",
+        "caption": "Book Cover: Sources and modes of infection - Charles Chaplin MD",
+        "link": "https://ia802703.us.archive.org/15/items/sourcesmodesofin00chaprich/sourcesmodesofin00chaprich.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1910"
+      },
+      "text": {
+        "headline": "'Air-borne' as an infection mechanism discussed in depth",
+        "text": ""
+      }
+    },
     {
       "media": {
         "thumbnail": "",
