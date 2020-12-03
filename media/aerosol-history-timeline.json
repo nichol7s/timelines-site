@@ -1,0 +1,32 @@
+{
+  "title": {
+    "media": {
+      "url": "",
+      "caption": "",
+      "credit": ""
+    },
+    "text": {
+      "headline": "",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EgDCaInXoAQhN6G?format=png&name=small",
+        "caption": "capture from the full report - see 'airborne' in text",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/3982900/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1985",
+        "month": 4
+      },
+      "text": {
+        "headline": "1 kid infects 7 in physician's office #airborne",
+        "text": "Measles outbreak in a pediatric practice: airborne transmission in an office setting"
+      }
+    }
+  ]
+}
