@@ -103,6 +103,23 @@
     },
     {
       "media": {
+        "thumbnail": "",
+        "url": "https://ars.els-cdn.com/content/image/1-s2.0-S016041202031254X-gr1.jpg",
+        "caption": "Droplets hitting the group, aerosols going and going",
+        "link": "https://www.sciencedirect.com/science/article/pii/S016041202031254X",
+        "credit": "Lidia Morawskaa & Junji Cao vi Elsevier"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6
+      },
+      "text": {
+        "headline": "Facing reality",
+        "text": "Airborne transmission of SARS-CoV-2: The world should face the reality"
+      }
+    },
+    {
+      "media": {
         "url": "https://images.theconversation.com/files/352604/original/file-20200812-20-31ojns.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=600&h=400&fit=crop&dpr=1",
         "caption": "Laser-induced fluorescence is a method of using lasers to cause specific substances to emit light",
         "link": "https://theconversation.com/the-covid-19-virus-can-spread-through-the-air-heres-what-itll-take-to-detect-the-airborne-particles-140149",
