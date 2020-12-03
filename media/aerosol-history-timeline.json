@@ -46,6 +46,22 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/101093907-74354b80-35b3-11eb-8cf8-048386de5215.png",
+        "caption": "Account title",
+        "link": "https://www.atsjournals.org/doi/full/10.1164/ajrccm.163.1.hh11-00",
+        "credit": "Richard L Reilly"
+      },
+      "start_date": {
+        "year": "1962"
+      },
+      "text": {
+        "headline": "Guinea pigs proof of airborne nature of Tuberculosis (TB)",
+        "text": "Richard L. Riley - first hand account of 1962 proof by Riley, Mills, O'Grady, Sultan, Willstadt, Shivpuri, and Wells: 'Infectiousness of air from a tuberculosis ward'. That study: <a href='https://pubmed.ncbi.nlm.nih.gov/14492300/'>here</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://pbs.twimg.com/media/EgDCaInXoAQhN6G?format=png&name=small",
         "caption": "capture from the full report - see 'airborne' in text",
         "link": "https://pubmed.ncbi.nlm.nih.gov/3982900/",
