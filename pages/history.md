@@ -1,6 +1,6 @@
 ---
 title: Infectious diseases and 'Aerosols' - a historical timeline
-nav: History
+nav: Diseases & Aerosol History
 nav_order: 1
 timeline-json: aerosol-history-timeline.json
 timeline-options: 
