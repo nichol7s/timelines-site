@@ -27,6 +27,23 @@
         "headline": "1 kid infects 7 in physician's office #airborne",
         "text": "Measles outbreak in a pediatric practice: airborne transmission in an office setting. The study goes on to warn of modern office buildings having recirculated air"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://science.sciencemag.org/content/sci/339/6125/1272/F2.large.jpg?width=800&height=600&carousel=1",
+        "caption": "A man who spent one night at Hong Kong's Metropole Hotel (left) spread SARS to other ninth floor guests",
+        "link": "https://science.sciencemag.org/content/339/6125/1272",
+        "credit": "AP PHOTO/ANAT GIVON; WHO/WPRO"
+      },
+      "start_date": {
+        "year": "1985",
+        "month": 4
+      },
+      "text": {
+        "headline": "Metropole Hotel 2003 (SARS)",
+        "text": "Study: ... At the time, it was not clear if the causative agent was being transmitted by airborne particles, as measles and tuberculosis spread ..."
+      }
     }
   ]
 }
