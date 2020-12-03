@@ -120,6 +120,23 @@
     },
     {
       "media": {
+        "url": "https://i.insider.com/5f43d80c42f43f001ddfe9a0?width=1000&format=jpeg&auto=webp",
+        "caption": "Pic of a Starbucks",
+        "link": "https://www.businessinsider.com/56-got-coronavirus-south-korea-starbucks-mask-wearers-did-not-2020-8?r=US&IR=T",
+        "credit": "Dogyun Kim/Reuters"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 8,
+        "day": 24
+      },
+      "text": {
+        "headline": "56 infected in a Starbucks in South Korea",
+        "text": "56 coronavirus cases were linked to a Starbucks in South Korea. But employees who were wearing masks didn't get infected. TODO: Link/pic & date changed to be replaced with those of actual study."
+      }
+    },
+    {
+      "media": {
         "thumbnail": "media/cdc_retract.jpg",
         "url": "https://storage.googleapis.com/afs-prod/media/d478dedd87ee43fea2784a7a3ef02c09/800.jpeg",
         "caption": "Centers for Disease Control and Prevention Director Dr. Robert Redfield puts his mask back on after speaking at a Senate Appropriations subcommittee hearing",
