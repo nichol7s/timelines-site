@@ -28,7 +28,8 @@
         "headline": "A/C in Guangzhou Restaurant",
         "text": "Study: COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020"
       }
-    },    {
+    },
+    {
       "media": {
         "thumbnail": "",
         "url": "https://www.youtube.com/watch?v=2VIleZ2R0qE",
@@ -44,6 +45,24 @@
       "text": {
         "headline": "This is how we sneeze",
         "text": "High-speed Video showing a human sneeze"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://preview.redd.it/i74dhjidad451.gif?format=mp4&s=357f0e1c90e1f6296bf99c1d36aaae64436fe252",
+        "caption": "Man sneezing",
+        "link": "https://www.reddit.com/r/CovIdiots/comments/h79eov/how_there_is_any_debate_will_always_be_a_wonder/",
+        "credit": "Mater Misericordiae University Hospital Surgery"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6,
+        "day": 12
+      },
+      "text": {
+        "headline": "How there is there any debate?",
+        "text": ""
       }
     },
     {
