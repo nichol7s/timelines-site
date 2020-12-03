@@ -14,6 +14,22 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://en.wikipedia.org/wiki/Wells_curve#/media/File:Droplet_falling-evaporation_curves_for_different_humidities.png",
+        "caption": "Wells curves for different relative humiditie",
+        "link": "https://en.wikipedia.org/wiki/Wells_curve",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1934"
+      },
+      "text": {
+        "headline": " W. F. Wells founding the droplet nuclei science in 1934",
+        "text": "Wells thought that droplets smaller a certain size would quickly evaporate, leaving a dry residue that drifts in the air. Since droplets from an infected person may contain infectious bacteria or viruses, these processes influence transmission of respiratory diseases"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://pbs.twimg.com/media/EgDCaInXoAQhN6G?format=png&name=small",
         "caption": "capture from the full report - see 'airborne' in text",
         "link": "https://pubmed.ncbi.nlm.nih.gov/3982900/",
