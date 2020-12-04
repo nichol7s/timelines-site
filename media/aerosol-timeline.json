@@ -203,6 +203,24 @@
         "headline": "CDC changes, then retracts, web posting on how virus spreads",
         "text": "The top U.S. public health agency stirred confusion by posting — and then taking down — an apparent change in its position on how easily the coronavirus can spread from person to person through the air. <br>But officials at the Centers for Disease Control and Prevention say their position has not really changed ..."
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/101171440-ad170400-3637-11eb-94d2-f9d99d47e9f9.png",
+        "caption": "After only 5 minutes sitting in proximity to spreader, diner infected 21ft away",
+        "link": "https://jkms.org/DOIx.php?id=10.3346/jkms.2020.35.e415",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 11,
+        "day": 23
+      },
+      "text": {
+        "headline": "Infected in direct air flow in a Korean restaurant",
+        "text": "Study Conclusion: Droplet transmission can occur at a distance greater than 2 m if there is direct air flow from an infected person. Therefore, updated guidelines involving prevention, contact tracing, and quarantine for COVID-19 are required for control of this highly contagious disease."
+      }
     }
   ]
 }
