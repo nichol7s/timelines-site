@@ -12,6 +12,6 @@ Change these files:
 
 # Technology used
 
-Technology by: @NorthwesternU's @knightlab - [TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) 
+Technology by: Northwestern University's [knightlab](https://github.com/NUKnightLab) - [TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) 
 
-And a Git-centric template *change of emphasis* by @uidaho's Center for Digital Inquiry & Learning (CDIL): [timelinejs-template](https://github.com/thecdil/timelinejs-template)
+And a Git-centric template *change of emphasis* by University of Idaho's [Center for Digital Inquiry & Learning](https://github.com/thecdil) (CDIL): [timelinejs-template](https://github.com/thecdil/timelinejs-template)
