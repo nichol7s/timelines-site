@@ -3,7 +3,6 @@ title: Aerosol timeline
 nav: COVID-19 & Aerosols
 nav_order: 1
 timeline-json: aerosol-timeline.json
-permalink: /aerosolized-covid-19/
 timeline-options: 
   hash_bookmark: true
 ---
