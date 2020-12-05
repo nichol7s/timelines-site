@@ -30,6 +30,22 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EnYk--CXUAE_FTw?format=png&name=900x900",
+        "caption": "Charles Chapin - short treatise on scarlet fever",
+        "link": "https://archive.org/details/101169236.nlm.nih.gov",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1888"
+      },
+      "text": {
+        "headline": "Scarlet fever known to occasionally be airborne",
+        "text": "Charles Chapin, who would later promote that most transmission was droplet borne, still appreciated himself that scarlet fever could occasionally transmit reach the second floor of a house and was therefore airborne"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101091779-95486d00-35b0-11eb-8b6c-83be3a549dc7.png",
         "caption": "Book Cover: Sources and modes of infection - Charles Chapin MD",
         "link": "https://ia802703.us.archive.org/15/items/sourcesmodesofin00chaprich/sourcesmodesofin00chaprich.pdf",
