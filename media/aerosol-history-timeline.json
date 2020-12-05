@@ -112,7 +112,7 @@
       "media": {
         "thumbnail": "",
         "url": "https://twitter.com/jmcrookston/status/1297258187448516608/photo/1",
-        "caption": "snippet from article",
+        "caption": "snippet from Bloch article",
         "link": "https://pubmed.ncbi.nlm.nih.gov/3982900/",
         "credit": ""
       },
@@ -121,8 +121,8 @@
         "month": 3
       },
       "text": {
-        "headline": "Measles outbreak in doctor's office.",
-        "text": "Three children caught measles at a doctor's office an hour after the sick child left."
+        "headline": "Measles outbreak in doctor's office",
+        "text": "Three children caught measles at a doctor's office. They were there an hour after the sick child left."
       }
     },
     {
