@@ -14,7 +14,7 @@
     {
       "media": {
         "thumbnail": "",
-        "url": "https://user-images.githubusercontent.com/82182/101091779-95486d00-35b0-11eb-8b6c-83be3a549dc7.png",
+        "url": "",
         "caption": "Pringle - Observations on the diseases of the army...",
         "link": "https://archive.org/details/b30502962",
         "credit": ""
@@ -23,7 +23,7 @@
         "year": "1749"
       },
       "text": {
-        "headline": "xxx",
+        "headline": "Pringle's study of army medicine revealed fresh air was important.",
         "text": ""
       }
     },
@@ -65,13 +65,13 @@
         "url": "https://user-images.githubusercontent.com/82182/101093907-74354b80-35b3-11eb-8cf8-048386de5215.png",
         "caption": "Account title",
         "link": "https://www.atsjournals.org/doi/full/10.1164/ajrccm.163.1.hh11-00",
-        "credit": "Richard L Reilly"
+        "credit": "Richard L Riley"
       },
       "start_date": {
         "year": "1962"
       },
       "text": {
-        "headline": "Guinea pigs proof of airborne nature of Tuberculosis (TB)",
+        "headline": "Guinea pigs proof of airborne transmission of Tuberculosis (TB)",
         "text": "Richard L. Riley - first hand account of 1962 proof by Riley, Mills, O'Grady, Sultan, Willstadt, Shivpuri, and Wells: 'Infectiousness of air from a tuberculosis ward'. That study: <a href='https://pubmed.ncbi.nlm.nih.gov/14492300/'>here</a>"
       }
     },
@@ -106,6 +106,23 @@
       "text": {
         "headline": "1 kid infects 7 in physician's office #airborne",
         "text": "Measles outbreak in a pediatric practice: airborne transmission in an office setting. The study goes on to warn of modern office buildings having recirculated air"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://twitter.com/jmcrookston/status/1297258187448516608/photo/1",
+        "caption": "snippet from article",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/3982900/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1985",
+        "month": 3
+      },
+      "text": {
+        "headline": "Measles outbreak in doctor's office.",
+        "text": "Three children caught measles at a doctor's office an hour after the sick child left."
       }
     },
     {
