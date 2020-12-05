@@ -15,6 +15,22 @@
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101091779-95486d00-35b0-11eb-8b6c-83be3a549dc7.png",
+        "caption": "Pringle - Observations on the diseases of the army...",
+        "link": "https://archive.org/details/b30502962",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1749"
+      },
+      "text": {
+        "headline": "xxx",
+        "text": ""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/101091779-95486d00-35b0-11eb-8b6c-83be3a549dc7.png",
         "caption": "Book Cover: Sources and modes of infection - Charles Chaplin MD",
         "link": "https://ia802703.us.archive.org/15/items/sourcesmodesofin00chaprich/sourcesmodesofin00chaprich.pdf",
         "credit": ""
@@ -65,7 +81,7 @@
         "url": "https://user-images.githubusercontent.com/82182/101094941-17d32b80-35b5-11eb-94d2-a4f7cfbec251.png",
         "caption": "Flu too",
         "link": "https://www.amjmed.com/article/0002-9343(74)90140-5/fulltext",
-        "credit": "Richard L Reilly"
+        "credit": "Richard L Riley"
       },
       "start_date": {
         "year": "1974"
