@@ -158,6 +158,24 @@
         "headline": "Metropole Hotel 2003 (SARS)",
         "text": "[Study] 21 infected by one guest who vomited in a corridor. Excerpt: ... At the time, it was not clear if the causative agent was being transmitted by airborne particles, as measles and tuberculosis spread ..."
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/101265672-331e7200-3740-11eb-95bd-61809d2a526b.png",
+        "caption": "Airflow study of MERS in South Korean hospital",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6458380/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2019",
+        "month": 3,
+        "day": 153
+      },
+      "text": {
+        "headline": "South Korean Hospital (MERS)",
+        "text": "Airflow analysis of Pyeongtaek St Mary's Hospital during hospitalization of the first Middle East respiratory syndrome patient in Korea"
+      }
     }
   ]
 }
