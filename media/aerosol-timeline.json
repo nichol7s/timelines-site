@@ -137,6 +137,7 @@
     },
      {
       "media": {
+        "thumbnail": "media/drops.png",
         "url": "https://www.news-medical.net/image.axd?picture=2020%2f8%2f%40020.08.04.20168468v1.jpg&ts=20200810021637&ri=750",
         "caption": "Snapshots of the droplet-laden cough simulation",
         "link": "https://www.news-medical.net/news/20200810/SARS-CoV-2-droplets-travel-further-and-last-longer-than-thought-and-even-more-in-humid-air.aspx",
@@ -171,6 +172,7 @@
     },
     {
       "media": {
+        "thumbnail": "media/eh.png",
         "url": "https://user-images.githubusercontent.com/82182/101012518-dca40e80-355a-11eb-9a56-21730fb85a82.png",
         "caption": "Slide from recent NASEM workshop on airborne transmission of SARS-CoV-2",
         "link": "https://www.nationalacademies.org/event/08-26-2020/airborne-transmission-of-sars-cov-2-a-virtual-workshop",
