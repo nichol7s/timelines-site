@@ -1,0 +1,31 @@
+{
+  "title": {
+    "media": {
+      "url": "",
+      "caption": "",
+      "credit": ""
+    },
+    "text": {
+      "headline": "Hello",
+      "text": "Hellooooooo"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "",
+        "caption": "",
+        "link": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020"
+      },
+      "text": {
+        "headline": "something",
+        "text": "hello hello hello <a href='google.com'>google</a> <a href='microsoft.com'>msft</a> goodbye"
+      }
+    }
+  ]
+}
