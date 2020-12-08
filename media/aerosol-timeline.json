@@ -15,7 +15,7 @@
       "media": {
         "thumbnail": "media/twiceAsFar.png",
         "url": "https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/03/11/2367f83c-61fc-11ea-8e9f-2d196083a37c_972x_161511.jpg",
-        "caption": "Several passengers became infected during the four-hour bus journey.",
+        "caption": "Red is the index patient. Purple got on the bus 30 minutes after the index patient left.",
         "link": "https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay",
         "credit": ""
       },
@@ -25,8 +25,8 @@
         "day": 9
       },
       "text": {
-        "headline": "'Twice as far'",
-        "text": "Article: Coronavirus can travel twice as far as official ‘safe distance’ and stay in air for 30 minutes, Chinese study finds"
+        "headline": "'Twice as far' and can linger for 30 minutes",
+        "text": "Article: Coronavirus can travel twice as far as official ‘safe distance’ and stay in air for 30 minutes, Chinese study finds. A number of passengers became infected during the four-hour bus journey. One was infected AFTER the index patient got off. There is CCTV on all Chinese inter-city busses, so they knew that the index patient never got out of his seat. <a href=\"https://twitter.com/jmcrookston/status/1308907690987528198\">link to post about it and original report (@jmcrookston)</a>"
       }
     },
     {
@@ -239,7 +239,7 @@
       },
       "text": {
         "headline": "Canada acknowledges aerosol transmission",
-        "text": "Official Guidance: \"SARS-CoV-2, the virus that causes COVID-19, spreads from an infected person to others through respiratory droplets and aerosols created when an infected person coughs, sneezes, sings, shouts, or talks,\" the updated guidance said. <br><br>\",The droplets vary in size from large droplets that fall to the ground rapidly (within seconds or minutes) near the infected person, to smaller droplets, sometimes called aerosols, which linger in the air under some circumstances.\""
+        "text": "Official Guidance: \"SARS-CoV-2, the virus that causes COVID-19, spreads from an infected person to others through respiratory droplets and aerosols created when an infected person coughs, sneezes, sings, shouts, or talks,\" the updated guidance said. <br><br>\"The droplets vary in size from large droplets that fall to the ground rapidly (within seconds or minutes) near the infected person, to smaller droplets, sometimes called aerosols, which linger in the air under some circumstances.\""
       }
     },
     {
@@ -275,7 +275,7 @@
       },
       "text": {
         "headline": "Infected in direct air flow in a Korean restaurant",
-        "text": "Study Conclusion: Droplet transmission can occur at a distance greater than 2 m if there is direct air flow from an infected person. Therefore, updated guidelines involving prevention, contact tracing, and quarantine for COVID-19 are required for control of this highly contagious disease."
+        "text": "Study Conclusion: Droplet transmission can occur at a distance greater than 2 m if there is direct air flow from an infected person. Therefore, updated guidelines involving prevention, contact tracing, and quarantine for COVID-19 are required for control of this highly contagious disease. A post linking to another post about this event: <a href=\"https://twitter.com/jmcrookston/status/1334132864078721026\">post 1 (@jmcrookston)</a>."
       }
     }
   ]
