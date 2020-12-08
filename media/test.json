@@ -6,25 +6,25 @@
       "credit": ""
     },
     "text": {
-      "headline": "Hello",
-      "text": "Hellooooooo"
+      "headline": "Hello headline",
+      "text": "Hellooooooo text"
     }
   },
   "events": [
     {
       "media": {
         "thumbnail": "",
-        "url": "",
-        "caption": "",
-        "link": "",
-        "credit": ""
+        "url": "https://images.unsplash.com/photo-1586942699811-504903f2de76?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "caption": "caption",
+        "link": "https://unsplash.com/photos/I4WDjqFgHbE",
+        "credit": "credit"
       },
       "start_date": {
         "year": "2020"
       },
       "text": {
-        "headline": "something",
-        "text": "hello hello hello <a href='https://google.com'>google</a> <a href='https://microsoft.com'>msft</a> goodbye"
+        "headline": "event headline",
+        "text": "event text with two links that should open in other tabs <a href='https://twitter.com/BillGates/status/1336366810443042818'>Bill G in da house</a> <a href='https://microsoft.com'>msft</a> <a href='https://twitter.com/jljcolorado/status/1336390355923705858'>Jose-Luis Jimenezs is @jljcolorado</a>. Well, Goodbye then"
       }
     }
   ]
