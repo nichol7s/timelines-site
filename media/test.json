@@ -24,7 +24,7 @@
       },
       "text": {
         "headline": "something",
-        "text": "hello hello hello <a href='google.com'>google</a> <a href='microsoft.com'>msft</a> goodbye"
+        "text": "hello hello hello <a href='https://google.com'>google</a> <a href='https://microsoft.com'>msft</a> goodbye"
       }
     }
   ]
