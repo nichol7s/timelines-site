@@ -15,7 +15,7 @@
       "media": {
         "thumbnail": "",
         "url": "https://pbs.twimg.com/media/Ee1FHuIXoAMqRfq?format=png&name=small",
-        "caption": "Pringle - Observations on the diseases of the army.",
+        "caption": "Pringle - Observations on the diseases of the army (1753).",
         "link": "https://archive.org/details/b30502962",
         "credit": ""
       },
@@ -24,14 +24,30 @@
       },
       "text": {
         "headline": "Fresh air known to be important for army medical camps",
-        "text": "As long ago as 1749, Pringle, a doctor, studied medical army camp hospitals. He found that fresh air was important to stop disease spread"
+        "text": "As long ago as 1753, Pringle, a doctor, studied medical army camp hospitals. He found that fresh air was important to stop disease spread"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EgiuWLgXkAcCRX8?format=png&name=small",
+        "caption": "Fodere - Lecons sur les epidemies (1828).",
+        "link": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1828"
+      },
+      "text": {
+        "headline": "Fresh air again referred to as important",
+        "text": "Fodere, in his treatise Lecons sur les epidemies, noted that fresh air in hospitals was important."
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://pbs.twimg.com/media/EnYk--CXUAE_FTw?format=png&name=900x900",
-        "caption": "Charles Chapin - short treatise on scarlet fever",
+        "caption": "Charles Chapin - short treatise on scarlet fever (1888)",
         "link": "https://archive.org/details/101169236.nlm.nih.gov",
         "credit": ""
       },
@@ -47,7 +63,7 @@
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101091779-95486d00-35b0-11eb-8b6c-83be3a549dc7.png",
-        "caption": "Book Cover: Sources and modes of infection - Charles Chapin MD",
+        "caption": "Charles Chapin MD - Sources and modes of infection (1910)",
         "link": "https://ia802703.us.archive.org/15/items/sourcesmodesofin00chaprich/sourcesmodesofin00chaprich.pdf",
         "credit": ""
       },
