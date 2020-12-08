@@ -31,6 +31,24 @@
     },
     {
       "media": {
+        "thumbnail": "",
+        "url": "",
+        "caption": "Chinese mall",
+        "link": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 15
+      },
+      "text": {
+        "headline": "Indirect spread at a Chinese mall",
+        "text": "Indirect spread at a Chinese mall. Postulated either fomite in elevator or, you guessed it, aerosol. <a href=\"https://twitter.com/jmcrookston/status/1252290275512377350\">single post about it on Twitter</a>"
+      }
+    },
+    {
+      "media": {
         "thumbnail": "media/restaurant.png",
         "url": "https://user-images.githubusercontent.com/82182/101359313-fd8a9d80-3893-11eb-9432-4a5b7815e7ab.png",
         "caption": "Diagram showing arrangement of restaurant tables and air conditioning airflow at site of outbreak ",
