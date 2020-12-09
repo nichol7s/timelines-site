@@ -176,6 +176,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.youtube.com/watch?v=59tQeL0ehbM",
+        "caption": "Clearing the Air Effectively",
+        "link": "https://www.youtube.com/watch?v=59tQeL0ehbM",
+        "credit": "NHK WORLD-JAPAN"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6,
+        "day": 30
+      },
+      "text": {
+        "headline": "Japanese news education around mitigating aerosol risk",
+        "text": " Key is ventilation. Japan assumed it was airborne from the very beginning. Hence their mask culture and focus on air flow. Here is how to ventilate a room quickly. See <a href='https://twitter.com/DrEricDing/status/1334638682414985217'>@DrEricDing tweet</a> too."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "",
         "caption": "Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020",
         "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm",
