@@ -158,6 +158,42 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "",
+        "caption": "SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6,
+        "day": 17
+      },
+      "text": {
+        "headline": "SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020",
+        "text": "SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020. 597 Georgia residents attended camp A. Median camper age was 12 years. 344 were tested and 260 (76%) were positive. The overall attack rate was 44% (260 of 597). <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm'>Reported in MMWR journal in August</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "",
+        "caption": "Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 1
+      },
+      "text": {
+        "headline": "Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020",
+        "text": "Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020.  Adolescent was source of outbreak. Family members who visited the house but stayed outdoors were not infected. <a href='https://twitter.com/jmcrookston/status/1313281284249182208'>Link to Twitter thread</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://pbs.twimg.com/card_img/1334568127984771073/ktW6yDEu?format=jpg&name=small",
         "caption": "Clip from Japanese video on computer modelling of aerosol nature of Covid-19",
         "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/",
