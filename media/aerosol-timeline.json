@@ -103,6 +103,24 @@
     },
     {
       "media": {
+        "thumbnail": "media/choir.png",
+        "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6919e6_ChoirPracticeCOVID19_IMAGE_12May20_1200x675-medium.jpg",
+        "caption": "Skagit Choir seatmap: infection distance",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm",
+        "credit": "CDC.gov"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 5,
+        "day": 15
+      },
+      "text": {
+        "headline": "People at choir practice infected at distance",
+        "text": "Following a 2.5-hour choir practice attended by 61 people, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred (attack rate = 53.3% to 86.7%); three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet for some) during practice and augmented by the act of singing. Reported in: <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm'>CDC Journal May 15, 2020</a> as well as a <a href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>larger study that was available much later in September</a>. See also a <a href=\"https://twitter.com/jljcolorado/status/1335754175066611713\">one-slide summary (@jljcolorado)</a>"
+      }
+    },
+    {
+      "media": {
         "thumbnail": "",
         "url": "media/cloud.mp4",
         "caption": "Man sneezing",
@@ -117,24 +135,6 @@
       "text": {
         "headline": "How there is there any debate?",
         "text": "Simple social media post on Reddit, 'the front page of the internet'. (Source unknown)"
-      }
-    },
-    {
-      "media": {
-        "thumbnail": "media/choir.png",
-        "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6919e6_ChoirPracticeCOVID19_IMAGE_12May20_1200x675-medium.jpg",
-        "caption": "Skagit Choir seatmap: infection distance",
-        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm",
-        "credit": "CDC.gov"
-      },
-      "start_date": {
-        "year": "2020",
-        "month": 5,
-        "day": 15
-      },
-      "text": {
-        "headline": "People at choir practice infected at distance",
-        "text": "Following a 2.5-hour choir practice attended by 61 people, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred (attack rate = 53.3% to 86.7%); three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet for some) during practice and augmented by the act of singing. Study available <a href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>much later in September</a>. Also a <a href=\"https://twitter.com/jljcolorado/status/1335754175066611713\">one-slide summary (@jljcolorado)</a>"
       }
     },
     {
