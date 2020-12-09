@@ -24,7 +24,7 @@
       },
       "text": {
         "headline": "event headline",
-        "text": "event text with two links that should open in other tabs <a href='https://twitter.com/BillGates/status/1336366810443042818'>Bill G in da house</a> <a href='https://microsoft.com'>msft</a> <a href='https://twitter.com/jljcolorado/status/1336390355923705858'>Jose-Luis Jimenezs is @jljcolorado</a>. Well, Goodbye then"
+        "text": "event text with three links that should open in other tabs <a href='https://twitter.com/BillGates/status/1336366810443042818'>Bill G in da house</a> <a href='https://microsoft.com'>msft</a> <a href='https://twitter.com/jljcolorado/status/1336390355923705858'>Jose-Luis Jimenezs is @jljcolorado</a>. Well, Goodbye then"
       }
     }
   ]
