@@ -158,10 +158,10 @@
     {
       "media": {
         "thumbnail": "",
-        "url": "",
-        "caption": "SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020",
+        "url": "https://media.wired.com/photos/5f21b7edfd6517d6ce008a7e/master/w_2560%2Cc_limit/Science_summercamp_83266659.jpg",
+        "caption": "Generic tug-of-war pic, typical of campers",
         "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm",
-        "credit": ""
+        "credit": "PHOTOGRAPH: MARTIN BARRAUD/GETTY IMAGES"
       },
       "start_date": {
         "year": "2020",
@@ -169,8 +169,26 @@
         "day": 17
       },
       "text": {
-        "headline": "SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020",
-        "text": "SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020. 597 Georgia residents attended camp A. Median camper age was 12 years. 344 were tested and 260 (76%) were positive. The overall attack rate was 44% (260 of 597). <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm'>Reported in MMWR journal in August</a>"
+        "headline": "SARS-CoV-2 Transmission and Infection at Overnight Camp in Georgia, USA",
+        "text": "SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020. 597 Georgia residents attended camp A. Median camper age was 12 years. 344 were tested and 260 (76%) were positive. The overall attack rate was 44% (260 of 597). <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm'>Reported in MMWR journal in August</a>. See <a href='https://www.wired.com/story/a-summer-camp-covid-19-outbreak-offers-back-to-school-lessons/'>Wired Article</a> too."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.youtube.com/watch?v=59tQeL0ehbM",
+        "caption": "Clearing the Air Effectively",
+        "link": "https://www.youtube.com/watch?v=59tQeL0ehbM",
+        "credit": "NHK WORLD-JAPAN"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6,
+        "day": 30
+      },
+      "text": {
+        "headline": "Japanese news - education around mitigating aerosol risk",
+        "text": " Key is ventilation. Japan assumed it was airborne from the very beginning. Hence their mask culture and focus on air flow. Here is how to ventilate a room quickly. See <a href='https://twitter.com/DrEricDing/status/1334638682414985217'>@DrEricDing tweet</a> too."
       }
     },
     {
@@ -317,19 +335,19 @@
     {
       "media": {
         "thumbnail": "",
-        "url": "https://pbs.twimg.com/media/EopQAewW4AAlotN?format=jpg&name=small",
-        "caption": "CBS news feed pic",
-        "link": "https://www.cbc.ca/news/health/coronavirus-canada-aerosol-transmission-covid-19-1.5789906",
-        "credit": ""
+        "url": "https://user-images.githubusercontent.com/82182/101791159-1e086100-3afb-11eb-8cb1-c787c2c41b16.png",
+        "caption": "After four hours without safety measures",
+        "link": "https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html",
+        "credit": "El Pais artwork"
       },
       "start_date": {
         "year": "2020",
-        "month": 11,
-        "day": 4
+        "month": 10,
+        "day": 28
       },
       "text": {
-        "headline": "Canada acknowledges aerosol transmission",
-        "text": "Official Guidance: \"SARS-CoV-2, the virus that causes COVID-19, spreads from an infected person to others through respiratory droplets and aerosols created when an infected person coughs, sneezes, sings, shouts, or talks,\" the updated guidance said. <br><br>\"The droplets vary in size from large droplets that fall to the ground rapidly (within seconds or minutes) near the infected person, to smaller droplets, sometimes called aerosols, which linger in the air under some circumstances.\""
+        "headline": "how the coronavirus is spread through the air",
+        "text": "Article: The risk of contagion is highest in indoor spaces but can be reduced by applying all available measures to combat infection via aerosols. Here is an overview of the likelihood of infection in three everyday scenarios, based on the safety measures used and the length of exposure."
       }
     },
     {
@@ -348,6 +366,24 @@
       "text": {
         "headline": "New head of US CDC acknowledges aerosol nature of COVID-19",
         "text": "“...aerosols, I think, was another surprise. We thought we knew how respiratory viruses generally work. We thought it was going to be droplet, and it turns out, you know, a lot of aerosol.” - Rochelle Walensky"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EopQAewW4AAlotN?format=jpg&name=small",
+        "caption": "CBS news feed pic",
+        "link": "https://www.cbc.ca/news/health/coronavirus-canada-aerosol-transmission-covid-19-1.5789906",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 11,
+        "day": 4
+      },
+      "text": {
+        "headline": "Canada acknowledges aerosol transmission",
+        "text": "Official Guidance: \"SARS-CoV-2, the virus that causes COVID-19, spreads from an infected person to others through respiratory droplets and aerosols created when an infected person coughs, sneezes, sings, shouts, or talks,\" the updated guidance said. <br><br>\"The droplets vary in size from large droplets that fall to the ground rapidly (within seconds or minutes) near the infected person, to smaller droplets, sometimes called aerosols, which linger in the air under some circumstances.\""
       }
     },
     {
