@@ -25,9 +25,9 @@
       "text": {
         "headline": "event headline",
         "text": "event text with three links that should open in other tabs <a href='https://twitter.com/BillGates/status/1336366810443042818'>Bill G in da house</a> <a href='https://microsoft.com'>msft</a> <a href='https://twitter.com/jljcolorado/status/1336390355923705858'>Jose-Luis Jimenezs is @jljcolorado</a>. Well, Goodbye then"
-      },
+      }
     },
-    {  
+    {
       "media": {
         "thumbnail": "",
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Chuck_Yeager.jpg/220px-Chuck_Yeager.jpg",
@@ -42,7 +42,7 @@
       },
       "text": {
         "headline": "Chuck Yeager breaks sound barrier!",
-        "text": "Yeager broke the sound barrier on October 14, 1947, flying the X-1 Glamorous Glennis at Mach 1.05 at an altitude of 45,000 feet (13,700 m)[38][d] over the Rogers Dry Lake in the Mojave Desert. "
+        "text": "Yeager broke the sound barrier on October 14, 1947, flying the X-1 Glamorous Glennis at Mach 1.05 at an altitude of 45,000 feet (13,700 m) over the Rogers Dry Lake in the Mojave Desert. "
       }
     }
   ]
