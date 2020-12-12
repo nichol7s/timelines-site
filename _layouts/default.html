@@ -10,6 +10,11 @@
         {{ content }}
         {% if page.layout == "default" and page.timeline or page.timeline-json %}<div class="my-4"><div id="timeline-embed" style="height: 600px" class="w-100"></div></div>{% endif %}
         </main>
+        {% if page.name contains "test" %}
+        <section>
+            <a class="btn btn--gray-border" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ftimelinez.github.io%2Faerosolized-covid-19{{ page.url }}&via=paul-hammant&text=%20%23covidIsAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation" target="_blank">Tweet This</a>
+        </section>
+        {% endif %}
         {% include template/footer.html %}
         {% include template/foot.html %}
     </body>
