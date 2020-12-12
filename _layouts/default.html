@@ -44,7 +44,9 @@
             });
         }, 2000);
         $( window ).on( 'hashchange', function( e ) {
-            console.log( $(this).href + 'hash changed ' + window.location.hash);
-        } );
+            console.log('hash changed ' + location.hash);
+        });
+        $(window).hashchange();
+
     </script>
 </html>
