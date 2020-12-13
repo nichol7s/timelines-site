@@ -335,6 +335,25 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "",
+        "caption": "",
+        "link": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 9,
+        "day": 15
+      },
+      "text": {
+        "headline": "26 of 27 people in a small meeting room catch it. The one who escaped was masked.",
+        "text": "26 of 27 people in a small meeting room catch it. The one who escaped was masked. <a href='https://twitter.com/jmcrookston/status/1306207694039248901'>Twitter thread</a>"
+      }
+    },
+
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101791159-1e086100-3afb-11eb-8cb1-c787c2c41b16.png",
         "caption": "After four hours without safety measures",
         "link": "https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html",
