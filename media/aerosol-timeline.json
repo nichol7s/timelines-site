@@ -350,6 +350,24 @@
         "text": "26 of 27 people in a small meeting room catch it. The one who escaped was masked. <br><a href='https://news.v.daum.net/v/20200916030023673'>News report in Korean</a>.<br><a href='https://twitter.com/jmcrookston/status/1306207694039248901'>Twitter thread</a>. <br>QUOTE: On the 29th of last month, 26 out of 27 people who attended the'Congchunghacho briefing session' held in a building in Buk-gu, Daegu, were confirmed as a new coronavirus infection (Corona 19). The infection rate is a whopping 97%. Most of them were in their 50s to 80s and gathered from all over the country, including Daegu, Gyeongbuk, Gyeongnam, and Chungbuk. After contact with them, the infection spread to each area.<br><br>Jeong Mo (63, Sangju, Gyeongbuk) was the only person who avoided infection even after attending the briefing session...People sat close together in a narrow space of about 100m² with poor ventilation."
       }
     },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102145853-e6354c80-3e5f-11eb-8fc1-3f2f3ff2e5a7.png",
+        "caption": "Diagram of room with the depiction of patient bed and air sampler locations",
+        "link": "https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 9,
+        "day": 16
+      },
+      "text": {
+        "headline": "Air sampled from room of COVID19 patients had th virus in it",
+        "text": "Viable (infectious) SARS-CoV-2 was present in aerosols within the hospital room of COVID-19 patients.<br><br>Airborne virus was detected in the absence of healthcare aerosol-generating procedures.<br><br>The virus strain detected in the aerosols matched with the virus strain isolated from a patient with acute COVID-19."
+      }
+    },
 
     {
       "media": {
@@ -440,6 +458,6 @@
         "headline": "Analyzing the dominant SARS-CoV-2 transmission routes",
         "text": "Study excerpt: At typical, air-conditioned yet quiescent indoor space, for average viral loading, cough droplets of initial diameter between 10 µm and 50 µm are found to have the highest infection probability. However, by the time they are inhaled, the diameters reduce to about 1/6th of their initial diameters"
       }
-    }
+    },
   ]
 }
