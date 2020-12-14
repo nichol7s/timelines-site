@@ -368,7 +368,6 @@
         "text": "Viable (infectious) SARS-CoV-2 was present in aerosols within the hospital room of COVID-19 patients.<br><br>Airborne virus was detected in the absence of healthcare aerosol-generating procedures.<br><br>The virus strain detected in the aerosols matched with the virus strain isolated from a patient with acute COVID-19."
       }
     },
-
     {
       "media": {
         "thumbnail": "",
@@ -458,6 +457,6 @@
         "headline": "Analyzing the dominant SARS-CoV-2 transmission routes",
         "text": "Study excerpt: At typical, air-conditioned yet quiescent indoor space, for average viral loading, cough droplets of initial diameter between 10 µm and 50 µm are found to have the highest infection probability. However, by the time they are inhaled, the diameters reduce to about 1/6th of their initial diameters"
       }
-    },
+    }
   ]
 }
