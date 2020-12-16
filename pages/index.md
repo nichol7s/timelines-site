@@ -1,5 +1,5 @@
 ---
-title: COVID-19 is transmitted in Aerosols
+title: COVID-19 is transmitted in aerosols - it's airborne!
 nav: Home
 nav_order: 1
 layout: page
@@ -9,7 +9,7 @@ We're fans of Prof Jose-Luis Jimenez, Prof Kimberly Prather and Prof Linsey Marr
 
 Their Twitter accounts: [@jljcolorado](https://twitter.com/jljcolorado), and [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr) - which you should follow.
 
-# Important Links
+## Important Links
 
 And here is an Aerosols Frequently Asked Questions (FAQ) which you should read: [tinyurl.com/FAQ-aerosols](https://tinyurl.com/FAQ-aerosols)
 
