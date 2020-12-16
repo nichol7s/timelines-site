@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Aerosol timeline
 nav: COVID-19 & Aerosols
-nav_order: 1
+nav_order: 2
 timeline-json: aerosol-timeline.json
 timeline-options: 
   hash_bookmark: true
