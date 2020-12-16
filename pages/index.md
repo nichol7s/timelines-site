@@ -11,9 +11,17 @@ Their Twitter accounts - [@jljcolorado](https://twitter.com/jljcolorado), [@kpra
 
 ## More Reading & Important Links
 
+### FAQ
+
 Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ-aerosols](https://tinyurl.com/FAQ-aerosols)
 
-[@COVIDisAirborne](https://twitter.com/covidisairborne) is running a change.org campaign to get reconition for this fact: [bit.ly/COVIDisAirborne](https://bit.ly/COVIDisAirborne)
+### Change.org campaign
+
+[@COVIDisAirborne](https://twitter.com/covidisairborne) is running a change.org campaign to get recognition for this fact: [bit.ly/COVIDisAirborne](https://bit.ly/COVIDisAirborne):
+
+![](https://pbs.twimg.com/media/EoziqusXUAMYZ8d?format=jpg&name=medium)
+
+### Get MAD!
 
 [@LastMileWorks](https://twitter.com/lastmileworks) runs [CovidStraightTalk.org](https://covidstraighttalk.org/) and publishes info posters for employes and workers, including the great MAD acronym:
 
