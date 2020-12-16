@@ -17,4 +17,4 @@ Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ
 
 [@LastMileWorks](https://twitter.com/lastmileworks) runs [covidstraighttalk.org](https://covidstraighttalk.org/) and publishes info posters for employes and workers, including the great MAD acronym:
 
-![](https://pbs.twimg.com/media/EmJXtdhW0AAP5fG?format=jpg)
+![](https://user-images.githubusercontent.com/82182/102404351-82d22880-3fdf-11eb-9b1a-c5a105e89101.png). Tweet This TODO.
