@@ -9,6 +9,19 @@ To learn more, follow these experts who study aerosols: **Prof Jose-Luis Jimenez
 
 Their Twitter accounts - [@jljcolorado](https://twitter.com/jljcolorado), [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr) - which you should follow.
 
+## The two timelines hosted here
+
+### COVID-19 is Airborne
+
+[![](https://user-images.githubusercontent.com/82182/102419911-ba999a00-3ff8-11eb-9f10-eb39d02c7794.png)](/covid19-timeline)
+
+### Many other diseases are airborne too
+
+[![](https://user-images.githubusercontent.com/82182/102420197-78248d00-3ff9-11eb-8b63-20bb4cc08b2d.png)](/historical-timeline)
+
+This is important because the world's default pandemic response should have been to tread COVID-19
+as if it was airborne.
+
 ## More Reading & Important Links
 
 ### FAQ
