@@ -9,4 +9,8 @@ We're fans of Prof Jose-Luis Jimenez, Prof Kimberly Prather and Prof Linsey Marr
 
 Their Twitter accounts: [@jljcolorado](https://twitter.com/jljcolorado), and [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr) - which you should follow.
 
+# Important Links
+
 And here is an Aerosols Frequently Asked Questions (FAQ) which you should read: [tinyurl.com/FAQ-aerosols](https://tinyurl.com/FAQ-aerosols)
+
+[@COVIDisAirborne](https://twitter.com/covidisairborne) is running a change.org campaign to get reconition for this fact: [bit.ly/COVIDisAirborne](https://bit.ly/COVIDisAirborne)
