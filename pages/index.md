@@ -5,4 +5,8 @@ nav_order: 1
 layout: page
 ---
 
-TODO
+Hello!
+
+We're fans of Prof Jose-Luis Jimenez, Prof Kimberly Prather and Prof Linsey Marr who have been educating the world on the aerosol transmission nature of COVID-19.
+
+See: [@jljcolorado](https://twitter.com/jljcolorado), and [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr).
