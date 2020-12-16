@@ -19,4 +19,4 @@ Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ
 
 ![](https://user-images.githubusercontent.com/82182/102404351-82d22880-3fdf-11eb-9b1a-c5a105e89101.png) 
 
-<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FEpYzewrXYAcDxpa?format=png&name=small&via=AerosolizedC19&text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation. Masks! Air! Distance!" target="_blank">Tweet That</a>
+<a href="https://twitter.com/intent/tweet?text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation.%20Masks!%20Air!%20Distance!%20pbs.twimg.com%2Fmedia%2FEpYzewrXYAcDxpa?format=png" target="_blank">Tweet That</a>
