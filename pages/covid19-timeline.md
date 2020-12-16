@@ -1,5 +1,5 @@
 ---
-title: Aerosol timeline
+title: COVID-19 Aerosol timeline
 nav: COVID-19 & Aerosols
 nav_order: 1
 timeline-json: aerosol-timeline.json
