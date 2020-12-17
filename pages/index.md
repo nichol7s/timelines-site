@@ -5,11 +5,11 @@ nav_order: 1
 layout: page
 ---
 
-To learn more, follow these experts who study aerosols: **Prof Jose-Luis Jimenez**, **Prof Kimberly Prather** and **Prof Linsey Marr** who have been educating the world on the aerosol transmission nature of COVID-19.
+This site exists as a resource to outline that there has been scientific evidence for some time to support COVID-19 infection being driven by airborne/aerosol transmission. This is not new science, it is old science. The next pandemic should assume the same rather than waste months with policies that did not halt infections. 
 
-Their Twitter accounts - [@jljcolorado](https://twitter.com/jljcolorado), [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr) - which you should follow.
+To learn more, follow these experts who study aerosols: **Prof Jose-Luis Jimenez**, **Prof Kimberly Prather** and **Prof Linsey Marr** who have been educating the world on the aerosol transmission nature of COVID-19. Their Twitter accounts - [@jljcolorado](https://twitter.com/jljcolorado), [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr) - which you should follow.
 
-## Two timelines hosted on this microsite
+## Two timelines are hosted on this microsite
 
 ### COVID-19 is Airborne:
 
@@ -22,22 +22,26 @@ Their Twitter accounts - [@jljcolorado](https://twitter.com/jljcolorado), [@kpra
 This is important because the world's default pandemic response should have been to tread COVID-19
 as if it was airborne.
 
+If you want to make a contibution, take a look at our [GitHub site](https://github.com/its-airborne/timelines-site)
+
 ## More Reading & Important Links
 
 ### FAQ
 
 Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ-aerosols](https://tinyurl.com/FAQ-aerosols)
 
-### Change.org campaign
+### Change.org campaign: "COVID is airborne"
 
 [@COVIDisAirborne](https://twitter.com/covidisairborne) is running a change.org campaign to get recognition for this fact: [bit.ly/COVIDisAirborne](https://bit.ly/COVIDisAirborne):
 
 ![](https://pbs.twimg.com/media/EoziqusXUAMYZ8d?format=jpg&name=medium)
 
-### Get MAD!
+### M.A.D. Guidelines
 
-[@LastMileWorks](https://twitter.com/lastmileworks) runs [CovidStraightTalk.org](https://covidstraighttalk.org/) and publishes info posters for employes and workers, including the great MAD acronym:
+[CovidStraightTalk.org](https://covidstraighttalk.org/) and publishes info posters for employers and workers, including the great M.A.D. acronym:
 
 ![](https://user-images.githubusercontent.com/82182/102404351-82d22880-3fdf-11eb-9b1a-c5a105e89101.png) 
 
 <a href="https://twitter.com/intent/tweet?text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation.%20Masks!%20Air!%20Distance!%20https://pic.twitter.com/noIWVuuogr&name=small" target="_blank">☝️Tweet That Yourself</a>
+
+Their Twitter is [@LastMileWorks](https://twitter.com/lastmileworks).
