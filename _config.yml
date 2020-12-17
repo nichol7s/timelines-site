@@ -4,6 +4,7 @@ year: 2020
 author: various contributors
 # add search box to navbar, true/false
 search: false
+markdown: kramdown
 
 #######
 # Defaults 
