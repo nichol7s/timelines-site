@@ -40,7 +40,9 @@ Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ
 
 [CovidStraightTalk.org](https://covidstraighttalk.org/) and publishes info posters for employers and workers, including the great M.A.D. acronym:
 
+{:refdef: style="text-align: center;"}
 ![](https://user-images.githubusercontent.com/82182/102404351-82d22880-3fdf-11eb-9b1a-c5a105e89101.png) 
+{: refdef}
 
 <a href="https://twitter.com/intent/tweet?text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation.%20Masks!%20Air!%20Distance!%20https://pic.twitter.com/noIWVuuogr&name=small" target="_blank">☝️Tweet That Yourself</a>
 
