@@ -7,7 +7,7 @@ layout: page
 
 This site exists as a resource to outline that there has been scientific evidence for some time to support COVID-19 infection being driven by airborne/aerosol transmission. This is not new science, it is old science. The next pandemic should assume the same rather than waste months with policies that did not halt infections. 
 
-To learn more, follow these experts who study aerosols: **Prof Jose-Luis Jimenez**, **Prof Kimberly Prather** and **Prof Linsey Marr** who have been educating the world on the aerosol transmission nature of COVID-19. Their Twitter accounts - [@jljcolorado](https://twitter.com/jljcolorado), [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr) - which you should follow.
+To learn more, follow these experts who study aerosol and are activey pushing the **COVID is airborne** agenda: **Prof Jose-Luis Jimenez**, **Prof Kimberly Prather** and **Prof Linsey Marr** who have been educating the world on the aerosol transmission nature of COVID-19. Their Twitter accounts - [@jljcolorado](https://twitter.com/jljcolorado), [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr) - which you should follow.
 
 ## Two timelines are hosted on this microsite
 
@@ -26,9 +26,9 @@ If you want to make a contibution, take a look at our [GitHub site](https://gith
 
 ## More Reading & Important Links
 
-### FAQ
+### Aerosols: Frequently Asked Questions
 
-Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ-aerosols](https://tinyurl.com/FAQ-aerosols)
+Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ-aerosols](https://tinyurl.com/FAQ-aerosols). This is actively maintained by a bunch of Profs and Drs.
 
 ### Change.org campaign: "COVID is airborne"
 
