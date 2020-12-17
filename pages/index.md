@@ -34,8 +34,8 @@ Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ
 
 [@COVIDisAirborne](https://twitter.com/covidisairborne) is running a change.org campaign to get recognition for this fact: [bit.ly/COVIDisAirborne](https://bit.ly/COVIDisAirborne):
 
-{:refdef: style="text-align: center; width: 50%"}
-![](https://pbs.twimg.com/media/EoziqusXUAMYZ8d?format=jpg&name=medium)
+{:refdef: style="text-align: center;"}
+![](https://user-images.githubusercontent.com/82182/102479775-3de9d880-4057-11eb-84ca-ba2b024c2127.png)
 {: refdef}
 
 ### M.A.D. Guidelines
