@@ -38,7 +38,7 @@ If you want to make a contibution, take a look at our [GitHub site](https://gith
    </div>
 </div>
 
-## More Reading & Important Links
+## More Reading
 
 ### Aerosols: Frequently Asked Questions
 
