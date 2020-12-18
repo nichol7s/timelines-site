@@ -26,10 +26,17 @@ If you want to make a contibution, take a look at our [GitHub site](https://gith
 
 ## Now we know it's airborne
 
-<span style="font-size: 150%; margin-left: 10%;">"When indoors with other people<br/></span>
-<span style="font-size: 150%; margin-left: 10%;">(except your own household members),<br/></span> 
-<span style="font-size: 150%; margin-left: 10%;">wear the best mask available covering<br/></span> 
-<span style="font-size: 150%; margin-left: 10%;">your nose and mouth at all times"<br/></span>
+<div id="slideshow">
+   <div>
+     <img src="https://user-images.githubusercontent.com/82182/102653821-724cba00-4167-11eb-8639-ac53c1d7543b.png">
+   </div>
+   <div>
+     <img src="https://user-images.githubusercontent.com/82182/102656421-c2c61680-416b-11eb-804d-502ebed06d17.png">
+   </div>
+   <!-- div>
+     Pretty cool eh? This slide is proof the content can be anything.
+   </div -->
+</div>
 
 ## More Reading & Important Links
 
