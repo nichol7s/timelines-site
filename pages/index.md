@@ -26,7 +26,7 @@ If you want to make a contibution, take a look at our [GitHub site](https://gith
 
 ## Now we know it's airborne
 
-<span style="font-size: 150%; padding-left: 10%;">
+<span style="font-size: 150%; margin-left: 10%;">
 "When indoors with other people<br/> 
 (except your own household members),<br/> 
 wear the best mask available covering<br/> 
