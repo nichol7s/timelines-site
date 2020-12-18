@@ -24,6 +24,15 @@ as if it was airborne.
 
 If you want to make a contibution, take a look at our [GitHub site](https://github.com/its-airborne/timelines-site)
 
+## Now we know it's airborne
+
+{:refdef: style="font-size: 150%; padding-left: 10%;"}
+"When indoors with other people 
+(except your own household members), 
+wear the best mask available covering 
+your nose and mouth at all times"
+{: refdef}
+
 ## More Reading & Important Links
 
 ### Aerosols: Frequently Asked Questions
