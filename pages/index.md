@@ -13,11 +13,15 @@ To learn more, follow these experts who study aerosol and are activey pushing th
 
 ### COVID-19 is Airborne:
 
+{:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/102419911-ba999a00-3ff8-11eb-9f10-eb39d02c7794.png)](/covid19-timeline)
+{: refdef}
 
 ### Many other diseases are airborne too:
 
+{:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/102420197-78248d00-3ff9-11eb-8b63-20bb4cc08b2d.png)](/historical-timeline)
+{: refdef}
 
 This is important because the world's default pandemic response should have been to tread COVID-19
 as if it was airborne.
