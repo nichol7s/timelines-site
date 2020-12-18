@@ -43,13 +43,12 @@
                     "</svg>" + $(this).html());
             });
         }, 2000);
-        $("#slideshow > div:gt(0)").hide();
 
+        $("#slideshow > div:gt(0)").hide();
         setInterval(function() {
             $('#slideshow > div:first')
                 .fadeOut(2000)
                 .next()
-                .delay(5000)
                 .fadeIn(2000)
                 .end()
                 .appendTo('#slideshow');
