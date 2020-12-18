@@ -44,11 +44,11 @@ If you want to make a contibution, take a look at our [GitHub site](https://gith
 
 ## More Reading
 
-### Aerosols: Frequently Asked Questions
+#### Aerosols: Frequently Asked Questions
 
 Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ-aerosols](https://tinyurl.com/FAQ-aerosols). This is actively maintained by a bunch of Profs and Drs.
 
-### Change.org campaign: "COVID is airborne"
+#### Change.org campaign: "COVID is airborne"
 
 [@COVIDisAirborne](https://twitter.com/covidisairborne) is running a change.org campaign to get recognition for this fact: [bit.ly/COVIDisAirborne](https://bit.ly/COVIDisAirborne):
 
@@ -56,7 +56,7 @@ Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ
 ![](https://user-images.githubusercontent.com/82182/102479775-3de9d880-4057-11eb-84ca-ba2b024c2127.png)
 {: refdef}
 
-### M.A.D. Guidelines
+#### M.A.D. Guidelines
 
 [CovidStraightTalk.org](https://covidstraighttalk.org/) and publishes info posters for employers and workers, including the great M.A.D. acronym:
 
