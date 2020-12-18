@@ -1,4 +1,3 @@
-
 ---
 title: test2
 nav: x
