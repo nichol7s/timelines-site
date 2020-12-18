@@ -1,7 +1,7 @@
 
 ---
-title:
-nav: .
+title: test2
+nav: ..
 nav_order: 4
 layout: page
 ---
