@@ -26,7 +26,7 @@ If you want to make a contibution, take a look at our [GitHub site](https://gith
 
 ## Now we know it's airborne
 
-{:refdef: style="font-size: 200%; padding-left: 10%;"}
+{:refdef: style="font-size: 200%; padding-left: 10%; text-align: left;"}
 "When indoors with other people<br/> 
 (except your own household members),<br/> 
 wear the best mask available covering<br/> 
