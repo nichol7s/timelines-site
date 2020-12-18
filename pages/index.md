@@ -34,7 +34,7 @@ If you want to make a contibution, take a look at our [GitHub site](https://gith
      <img src="https://user-images.githubusercontent.com/82182/102656421-c2c61680-416b-11eb-804d-502ebed06d17.png">
    </div>
    <div>
-     <img src="https://user-images.githubusercontent.com/82182/102659324-21da5a00-4171-11eb-960f-692e3522dcea.png">
+     <img src="https://user-images.githubusercontent.com/82182/102660722-6c5cd600-4173-11eb-96b8-8585946c0149.png">
    </div>
 </div>
 
