@@ -244,23 +244,6 @@
         "text": "Study: Airborne transmission of SARS-CoV-2: The world should face the reality - Lidia Morawska and Junji Caob"
       }
     },
-    {
-      "media": {
-        "url": "https://images.theconversation.com/files/352604/original/file-20200812-20-31ojns.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=600&h=400&fit=crop&dpr=1",
-        "caption": "Laser-induced fluorescence is a method of using lasers to cause specific substances to emit light",
-        "link": "https://theconversation.com/the-covid-19-virus-can-spread-through-the-air-heres-what-itll-take-to-detect-the-airborne-particles-140149",
-        "credit": "By Jan Pavelka/Wikimedia Commons, CC BY-SA"
-      },
-      "start_date": {
-        "year": "2020",
-        "month": 8,
-        "day": 14
-      },
-      "text": {
-        "headline": "Growing body of research",
-        "text": "Article: A growing body of research shows that SARS-CoV-2, the virus that causes COVID-19, can spread from person to person through the air. Indoor spaces with poor ventilation in areas where the virus is prevalent are particularly hazardous"
-      }
-    },
      {
       "media": {
         "thumbnail": "media/drops.png",
@@ -277,6 +260,23 @@
       "text": {
         "headline": "Airborne transmission",
         "text": "Study: Long-distance airborne transmission through multiphase turbulent droplet cloud emission is an essential factor"
+      }
+    },
+    {
+      "media": {
+        "url": "https://images.theconversation.com/files/352604/original/file-20200812-20-31ojns.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=600&h=400&fit=crop&dpr=1",
+        "caption": "Laser-induced fluorescence is a method of using lasers to cause specific substances to emit light",
+        "link": "https://theconversation.com/the-covid-19-virus-can-spread-through-the-air-heres-what-itll-take-to-detect-the-airborne-particles-140149",
+        "credit": "By Jan Pavelka/Wikimedia Commons, CC BY-SA"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 8,
+        "day": 14
+      },
+      "text": {
+        "headline": "Growing body of research",
+        "text": "Article: A growing body of research shows that SARS-CoV-2, the virus that causes COVID-19, can spread from person to person through the air. Indoor spaces with poor ventilation in areas where the virus is prevalent are particularly hazardous"
       }
     },
     {
