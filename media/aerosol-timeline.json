@@ -194,24 +194,6 @@
     {
       "media": {
         "thumbnail": "",
-        "url": "",
-        "caption": "Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020",
-        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm",
-        "credit": ""
-      },
-      "start_date": {
-        "year": "2020",
-        "month": 10,
-        "day": 1
-      },
-      "text": {
-        "headline": "Outbreak: Adolescent with COVID-19 Source of Outbreak at 3-Week Family Gathering",
-        "text": "Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020.  Adolescent was source of outbreak. Family members who visited the house but stayed outdoors were not infected. <a href='https://twitter.com/jmcrookston/status/1313281284249182208'>Link to Twitter thread</a>"
-      }
-    },
-    {
-      "media": {
-        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/102695187-a4205800-421d-11eb-9d7c-60243676e463.png",
         "caption": "Clip from Japanese video on computer modelling of aerosol nature of Covid-19",
         "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/",
@@ -384,6 +366,24 @@
       "text": {
         "headline": "Air sampled from room of COVID-19 patients had the virus-laden aerosols",
         "text": "Viable (infectious) SARS-CoV-2 was present in aerosols within the hospital room of COVID-19 patients.<br><br>Airborne virus was detected in the absence of healthcare aerosol-generating procedures.<br><br>The virus strain detected in the aerosols matched with the virus strain isolated from a patient with acute COVID-19."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "",
+        "caption": "Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 1
+      },
+      "text": {
+        "headline": "Outbreak: Adolescent with COVID-19 Source of Outbreak at 3-Week Family Gathering",
+        "text": "Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020.  Adolescent was source of outbreak. Family members who visited the house but stayed outdoors were not infected. <a href='https://twitter.com/jmcrookston/status/1313281284249182208'>Link to Twitter thread</a>"
       }
     },
     {
