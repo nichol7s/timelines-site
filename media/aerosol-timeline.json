@@ -139,6 +139,23 @@
     },
     {
       "media": {
+        "thumbnail": "media/reality.png",
+        "url": "https://ars.els-cdn.com/content/image/1-s2.0-S016041202031254X-gr1.jpg",
+        "caption": "Droplets hitting the group, aerosols going and going",
+        "link": "https://www.sciencedirect.com/science/article/pii/S016041202031254X",
+        "credit": "Lidia Morawskaa & Junji Cao vi Elsevier"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6
+      },
+      "text": {
+        "headline": "Facing reality",
+        "text": "Study: Airborne transmission of SARS-CoV-2: The world should face the reality - Lidia Morawska and Junji Caob"
+      }
+    },
+    {
+      "media": {
         "thumbnail": "",
         "url": "media/cloud.mp4",
         "caption": "Man sneezing",
@@ -225,23 +242,6 @@
       "text": {
         "headline": "Mounting evidence suggests coronavirus is airborne",
         "text": "239 scientists signed an open letter to the transnational organization urging it to consider emerging evidence that the virus can be considered airborne and to adjust its guidance accordingly."
-      }
-    },
-    {
-      "media": {
-        "thumbnail": "media/reality.png",
-        "url": "https://ars.els-cdn.com/content/image/1-s2.0-S016041202031254X-gr1.jpg",
-        "caption": "Droplets hitting the group, aerosols going and going",
-        "link": "https://www.sciencedirect.com/science/article/pii/S016041202031254X",
-        "credit": "Lidia Morawskaa & Junji Cao vi Elsevier"
-      },
-      "start_date": {
-        "year": "2020",
-        "month": 6
-      },
-      "text": {
-        "headline": "Facing reality",
-        "text": "Study: Airborne transmission of SARS-CoV-2: The world should face the reality - Lidia Morawska and Junji Caob"
       }
     },
      {
