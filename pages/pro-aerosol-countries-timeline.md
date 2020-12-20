@@ -2,7 +2,7 @@
 title: Some countries were pro-aerosol from the start of the pandemic
 nav: .
 nav_order: 4
-timeline-json: pro-aerosol-countries-timeline.json
+timeline-json: pro-aerosol-countries.json
 timeline-options: 
   hash_bookmark: true
 ---
