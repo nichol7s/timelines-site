@@ -28,5 +28,23 @@
         "headline": "Taiwan: 2 million masks distributed to stores",
         "text": "Over 2 million face masks were released to the four major convenience store chains, pharmacies, and distribution channels over two consecutive days, with spot checks on prices."
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102719135-24a98c00-42e4-11eb-9cfa-16dd178fd5a0.png",
+        "caption": "Ministry of Health and Welfare (Taiwan) screenshot",
+        "link": "https://covid19.mohw.gov.tw/en/cp-4868-53742-206.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 28
+      },
+      "text": {
+        "headline": "Taiwan: Pharmacies given 3 masks per person rule",
+        "text": "Pharmacies and licensed medical distributors were permitted to retail sale of face masks (limited to 3 pieces per person, 8 TWD/piece). Each store belonging to the four major convenience store chains received 500 pieces of surgical masks for sale everyday."
+      }
     }
   ]}
