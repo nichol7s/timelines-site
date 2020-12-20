@@ -46,5 +46,23 @@
         "headline": "Taiwan: Pharmacies given 3 masks per person rule",
         "text": "Pharmacies and licensed medical distributors were permitted to retail sale of face masks (limited to 3 pieces per person, 8 TWD/piece). Each store belonging to the four major convenience store chains received 500 pieces of surgical masks for sale everyday."
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102719205-ac8f9600-42e4-11eb-9b2c-3f4ac2d2efd4.png",
+        "caption": "Ministry of Health and Welfare (Taiwan) screenshot",
+        "link": "https://covid19.mohw.gov.tw/en/cp-4868-53766-206.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 6
+      },
+      "text": {
+        "headline": "Taiwan: Mask rationing plan v1 comes into effect",
+        "text": "Mask rationing plan 1.0 came into effect. Individuals need to present National Health Insurance (NHI) Card at contracted pharmacies to register and purchase face masks"
+      }
     }
   ]}
