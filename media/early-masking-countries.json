@@ -79,8 +79,26 @@
         "day": 14
       },
       "text": {
-        "headline": "Souh Korea: Rations masks to two per person",
+        "headline": "South Korea: Rations masks to two per person",
         "text": "South Korean health officials have urged all citizens, even healthy ones to wear filtered masks"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102809898-b257ab00-43ba-11eb-9963-65221158030b.png",
+        "caption": "",
+        "link": "https://www3.nhk.or.jp/nhkworld/en/news/ataglance/844",
+        "credit": "NHK still from video"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 14
+      },
+      "text": {
+        "headline": "Japan: Microdroplets pose coronavirus risk",
+        "text": "An NHK experiment found that microdroplets emitted while sneezing and coughing and during conversations stay in the air for longer than normal droplets, potentially posing a uniquely dangerous risk for coronavirus infection."
       }
     },
     {
