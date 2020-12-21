@@ -6,7 +6,7 @@
       "credit": ""
     },
     "text": {
-      "headline": "Countries that put their citizens into masks at the beginning of the pandemic",
+      "headline": "Countries that put their citizens into masks at the beginning of the pandemic (quarter one of 2020)",
       "text": "Some countries ignored the WHO 'beware of fomites' messaging."
     }
   },
@@ -153,24 +153,6 @@
       "text": {
         "headline": "Japan: Microdroplets pose coronavirus risk",
         "text": "An NHK experiment found that microdroplets emitted while sneezing and coughing and during conversations stay in the air for longer than normal droplets, potentially posing a uniquely dangerous risk for coronavirus infection."
-      }
-    },
-    {
-      "media": {
-        "thumbnail": "",
-        "url": "https://user-images.githubusercontent.com/82182/102724940-fee3ad80-430a-11eb-9a30-33a27f33a8cf.png",
-        "caption": "Ministry of Health and Welfare (Taiwan) screenshot",
-        "link": "https://covid19.mohw.gov.tw/en/cp-4868-54767-206.html",
-        "credit": ""
-      },
-      "start_date": {
-        "year": "2020",
-        "month": 6,
-        "day": 23
-      },
-      "text": {
-        "headline": "Taiwan: Forms a national team to produce high-quality masks",
-        "text": "Taiwan forms a national team to produce high-quality masks. To ensure quality and protect their consumers, their government agencies adopted the promulgation of 'Regulations for Conducting Inspection and Examination of Imported Medical Masks'"
       }
     }
   ]
