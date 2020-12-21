@@ -475,6 +475,24 @@
         "headline": "Analyzing the dominant SARS-CoV-2 transmission routes",
         "text": "Study excerpt: At typical, air-conditioned yet quiescent indoor space, for average viral loading, cough droplets of initial diameter between 10 µm and 50 µm are found to have the highest infection probability. However, by the time they are inhaled, the diameters reduce to about 1/6th of their initial diameters"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102808613-77547800-43b8-11eb-9ba9-6e0fb9a29a7d.png",
+        "caption": "bax fan pic",
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html",
+        "credit": "Immo Wegmann / unsplash"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 15
+      },
+      "text": {
+        "headline": "Ventilation in Buildings: CDC recommendation",
+        "text": "CDC now recommends good ventilation for buildings: increasing outdoor air, better filtration, importance of system maintenance, HEPA portable air cleaners, and Ultraviolet Germicidal Irradiation (UVGI) Air Purifiers"
+      }
     }
   ]
 }
