@@ -68,6 +68,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102728656-e4b6c900-4324-11eb-9a30-e0d37e81b2fb.png",
+        "caption": "Andrew Jeong visited a test site in South Korea",
+        "link": "https://www.wsj.com/articles/south-korea-rations-face-masks-in-coronavirus-fight-11584283720",
+        "credit": "Denis Bosnic for the Wall Street Journal"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 14
+      },
+      "text": {
+        "headline": "Souh Korea: Rations masks to two per person",
+        "text": "South Korean health officials have urged all citizens, even healthy ones to wear filtered masks"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/102724940-fee3ad80-430a-11eb-9a30-33a27f33a8cf.png",
         "caption": "Ministry of Health and Welfare (Taiwan) screenshot",
         "link": "https://covid19.mohw.gov.tw/en/cp-4868-54767-206.html",
