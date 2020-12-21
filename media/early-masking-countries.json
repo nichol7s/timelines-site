@@ -68,6 +68,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102812572-2300c680-43bf-11eb-890c-bee06f0be342.png",
+        "caption": "Library pic of Tokyo Governor Yuriko Koike",
+        "link": "https://cn.reuters.com/article/instant-article/idUKKBN1ZW04R",
+        "credit": "REUTERS/Issei Kato"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 2
+      },
+      "text": {
+        "headline": "Japan: Tokyo governor Yuriko Koike says for citizens to wear masks",
+        "text": "I would like you to wash your hands and fingers properly, and wear masks to protect yourselves. There are many ways to do it, but I’d like you to start yourselves with such small steps to control it"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/102810696-129b1c80-43bc-11eb-8cb7-dbab5554b220.png",
         "caption": "",
         "link": "https://www.bangkokpost.com/business/1849269/chinese-authorities-promote-face-masks-but-some-experts-question-them",
