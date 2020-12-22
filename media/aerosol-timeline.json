@@ -68,6 +68,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102899304-9e678400-4462-11eb-84a1-105dc58275c8.png",
+        "caption": "",
+        "link": "http://www.xinhuanet.com/english/2020-02/08/c_138766344.htm",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 8
+      },
+      "text": {
+        "headline": "Novel coronavirus can transmit via aerosol: expert",
+        "text": "Zeng Qun, deputy head of Shanghai Civil Affairs Bureau: 'The routes of the novel coronavirus infection include transmission via aerosol', and goes on to say 'residents should take a series of measures including canceling all social activities and gatherings, opening windows regularly to maintain the circulation of indoor air and focusing on household disinfection.'"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://wwwnc.cdc.gov/eid/images/20-1274-F2.jpg",
         "caption": "Diagram showing arrangement of infecteds at the call centre, in blue.",
         "link": "https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article",
