@@ -493,6 +493,24 @@
         "headline": "Ventilation in Buildings: CDC recommendation",
         "text": "CDC now recommends good ventilation for buildings: increasing outdoor air, better filtration, importance of system maintenance, HEPA portable air cleaners, and Ultraviolet Germicidal Irradiation (UVGI) Air Purifiers"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/05d942d9-3ffa-4e9f-a6af-e016d1bc029b/gr1.jpg",
+        "caption": "Structure of the apartment building where the infection outbreaks occurred in two vertical line",
+        "link": "https://www.ijidonline.com/article/S1201-9712(20)32558-3/fulltext",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 16
+      },
+      "text": {
+        "headline": "Airborne Transmission through Apartment Air Ducts",
+        "text": "Possible #Airborne #SARSCoV2 Transmission through Air Ducts (August): after a series of infections, all 437 residents of an apt building were tested. 10 infections uncovered, all living on different floors but along two vertical lines with openings through their bathrooms. See also <a href='https://twitter.com/AliNouriPhD/status/1341193351014572032'>Twitter thread by (@AliNouriPhD)"
+      }
     }
   ]
 }
