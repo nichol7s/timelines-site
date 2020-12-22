@@ -9,4 +9,4 @@ timeline-options:
 
 Based on prior experiences some countries treated the pandemic as aerosol from the earliest
 opportunity and got their **own citizens** into masks, which is what you would do if you 
-accepted it was airborne (or aerosols droplet nuclei -- all the same thing). **As well as masks, good broder controls, great quarantine and outstanding test & trace**.
+accepted it was airborne (or aerosols droplet nuclei -- all the same thing). **As well as masks, good border controls, great quarantine and outstanding test & trace**.
