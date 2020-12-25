@@ -169,7 +169,7 @@
       },
       "text": {
         "headline": "Facing reality",
-        "text": "Study: Airborne transmission of SARS-CoV-2: The world should face the reality - Lidia Morawska and Junji Caob"
+        "text": "Study: Airborne transmission of SARS-CoV-2: The world should face the reality - Lidia Morawska and Junji Caob. See also <a href='https://www.sciencedirect.com/science/article/pii/S0160412020317876'>September 2020 study from Morawskaa et al</a>"
       }
     },
     {
@@ -330,6 +330,24 @@
       "text": {
         "headline": "Environmental Health Matters Initiative (EHMI) workshop",
         "text": "Workshop session: Droplets versus aerosols and more for the pandemic. Downloadable PDFs for 19 speakers in the workshop an a video of proceedings."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/103123726-380a7d80-467d-11eb-8be3-5fd6f17553ab.png",
+        "caption": "Transmission routes through drains",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7464151/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 9,
+        "day": 1
+      },
+      "text": {
+        "headline": "Airborne in apartment building through the drainage system",
+        "text": "Evidence of #Airborne #SARSCoV2 traveling 12 floors of an apt building through the drainage system: 200+ residents in a wing of a high-rise were tested, revealing 9 infections. Those families lived in 3 vertically aligned flats connected by drainage pipes in the bathrooms. See <a href='https://twitter.com/AliNouriPhD/status/1342232561205047301'>@AliNouriPhD thread</>"
       }
     },
     {
