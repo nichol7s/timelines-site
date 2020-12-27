@@ -140,6 +140,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://static.reuters.com/resources/r/?m=02&d=20200312&t=2&i=1502093289&r=LYNXMPEG2B0I4&w=600",
+        "caption": "",
+        "link": "https://uk.reuters.com/article/uk-health-coronavirus-thailand-masks/better-than-nothing-thailand-encourages-cloth-masks-amid-surgical-mask-shortage-idUKKBN20Z0V3",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 12
+      },
+      "text": {
+        "headline": "Thailand: Cloth masks are better than nothing",
+        "text": "Thailand’s health authorities are encouraging people to make cloth face masks at home to guard against the spread of the coronavirus amid a shortage of surgical masks. [Reuters]"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://image.vietnamnews.vn/uploadvnnews/Article/2020/3/15/74516_01.jpg",
         "caption": "Foreign tourists wear face masks to stop the spread of COVID-19",
         "link": "https://vietnamnews.vn/society/653646/face-masks-required-for-all.html",
