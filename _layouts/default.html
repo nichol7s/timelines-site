@@ -15,6 +15,24 @@
     </body>
     <script>
 
+        const ukNav = "<li class=\"nav-item\">\n" +
+            "  <a class=\"nav-link\" href=\"/\">\n" +
+            "    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png'>" +
+            "  </a>\n" +
+            "</li>\n";
+
+        const frNav = "<li class=\"nav-item\">\n" +
+            "  <a class=\"nav-link\" href=\"/fr/\">\n" +
+            "    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png'>\n" +
+            "  </a>\n" +
+            "</li>\n";
+
+        const spNav = "<li class=\"nav-item\">\n" +
+            "  <a class=\"nav-link\" href=\"/es/\">\n" +
+            "    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png'>\n" +
+            "  </a>\n" +
+            "</li>\n";
+
         if (window.location.href.indexOf("/fr/") > -1) {
             $("#navbarContent").each(function (idx) {
                 $(this).html("<ul class=\"navbar-nav mr-auto\">\n" +
@@ -30,16 +48,8 @@
                     "<li class=\"nav-item\">\n" +
                     "  <a class=\"nav-link\" href=\"/fr/premiers-pays-masqués.html\">Pays de masquage précoce</a>\n" +
                     "</li>\n" +
-                    "<li class=\"nav-item\">\n" +
-                    "  <a class=\"nav-link\" href=\"/es/\">\n" +
-                    "    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png'>\n" +
-                    "  </a>\n" +
-                    "</li>\n" +
-                    "<li class=\"nav-item\">\n" +
-                    "  <a class=\"nav-link\" href=\"/\">\n" +
-                    "    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png'>" +
-                    "  </a>\n" +
-                    "</li>\n" +
+                    spNav +
+                    ukNav +
                     "</ul>");
             })
         } else if (window.location.href.indexOf("/es/") > -1) {
@@ -57,31 +67,15 @@
                     "<li class=\"nav-item\">\n" +
                     "  <a class=\"nav-link\" href=\"/es/primeros-países-de-enmascaramiento.html\">Países de enmascaramiento temprano</a>\n" +
                     "</li>\n" +
-                    "<li class=\"nav-item\">\n" +
-                    "  <a class=\"nav-link\" href=\"/fr/\">\n" +
-                    "    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png'>\n" +
-                    "  </a>\n" +
-                    "</li>\n" +
-                    "<li class=\"nav-item\">\n" +
-                    "  <a class=\"nav-link\" href=\"/\">\n" +
-                    "    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png'>" +
-                    "  </a>\n" +
-                    "</li>\n" +
+                    frNav +
+                    ukNav +
                     "</ul>");
             })
         } else {
             $("#navbarContent ul").each(function (idx) {
                 $(this).append(
-                    "<li class=\"nav-item\">\n" +
-                    "  <a class=\"nav-link\" href=\"/fr/\">\n" +
-                    "    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png'>\n" +
-                    "  </a>\n" +
-                    "</li>\n" +
-                    "<li class=\"nav-item\">\n" +
-                    "  <a class=\"nav-link\" href=\"/es/\">\n" +
-                    "    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png'>\n" +
-                    "  </a>\n" +
-                    "</li>\n");
+                    frNav +
+                    spNav);
             })
         }
 
