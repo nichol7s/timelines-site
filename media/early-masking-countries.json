@@ -140,6 +140,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://image.vietnamnews.vn/uploadvnnews/Article/2020/3/15/74516_01.jpg",
+        "caption": "Foreign tourists wear face masks to stop the spread of COVID-19",
+        "link": "https://vietnamnews.vn/society/653646/face-masks-required-for-all.html",
+        "credit": "VNA/VNS Photo Thành Đạt"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 16
+      },
+      "text": {
+        "headline": "Việt Nam: Face masks required for all",
+        "text": "All Vietnamese citizens as well as foreign citizens in Việt Nam to wear face masks in public places where there are many people, such as supermarkets, airports, bus terminals or public transport."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/102809898-b257ab00-43ba-11eb-9963-65221158030b.png",
         "caption": "",
         "link": "https://www3.nhk.or.jp/nhkworld/en/news/ataglance/844",
