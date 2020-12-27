@@ -9,9 +9,9 @@ This site exists as a resource to outline that there has been scientific evidenc
 
 To learn more, follow these experts who study aerosol and are activey pushing the **COVID is airborne** agenda: **Prof Jose-Luis Jimenez**, **Prof Kimberly Prather** and **Prof Linsey Marr** who have been educating the world on the aerosol transmission nature of COVID-19. Their Twitter accounts - [@jljcolorado](https://twitter.com/jljcolorado), [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr) - which you should follow.
 
-## Two timelines are hosted on this microsite
+## Three timelines are hosted on this microsite
 
-### COVID-19 is Airborne:
+### COVID-19 is Airborne (studies/events):
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/102419911-ba999a00-3ff8-11eb-9f10-eb39d02c7794.png)](/covid19-timeline)
@@ -23,8 +23,13 @@ To learn more, follow these experts who study aerosol and are activey pushing th
 [![](https://user-images.githubusercontent.com/82182/102420197-78248d00-3ff9-11eb-8b63-20bb4cc08b2d.png)](/historical-timeline)
 {: refdef}
 
-This is important because the world's default pandemic response should have been to tread COVID-19
-as if it was airborne.
+This is important because the world's default pandemic response should have been to treat COVID-19 as if it was airborne.
+
+### Knowing it was airborne, masks were a part of some successful countries strategies:
+
+{:refdef: style="text-align: center;"}
+[![](https://user-images.githubusercontent.com/82182/103177609-f132a880-4873-11eb-8c78-8e4c231785eb.png)](/early-masking-countries)
+{: refdef}
 
 If you want to make a contibution, take a look at our [GitHub site](https://github.com/its-airborne/timelines-site)
 

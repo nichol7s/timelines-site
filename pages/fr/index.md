@@ -22,8 +22,14 @@ Pour en savoir plus, suivez ces experts qui étudient les aérosols et poussent 
 [![](https://user-images.githubusercontent.com/82182/102420197-78248d00-3ff9-11eb-8b63-20bb4cc08b2d.png)](/fr/chronologie-historique)
 {: refdef}
 
-This is important because the world's default pandemic response should have been to tread COVID-19
-as if it was airborne.
+This is important because the world's default pandemic response should have been to treat COVID-19 as if it was airborne.
+
+### Knowing it was airborne, masks were a part of some successful countries strategies:
+
+{:refdef: style="text-align: center;"}
+[![](https://user-images.githubusercontent.com/82182/103177609-f132a880-4873-11eb-8c78-8e4c231785eb.png)](/fr/premiers-pays-masqués)
+{: refdef}
+
 
 If you want to make a contibution, take a look at our [GitHub site](https://github.com/its-airborne/timelines-site)
 

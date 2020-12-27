@@ -13,17 +13,23 @@ To learn more, follow these experts who study aerosol and are activey pushing th
 ### COVID-19 is Airborne:
 
 {:refdef: style="text-align: center;"}
-[![](https://user-images.githubusercontent.com/82182/102419911-ba999a00-3ff8-11eb-9f10-eb39d02c7794.png)](/covid19-timeline)
+[![](https://user-images.githubusercontent.com/82182/102419911-ba999a00-3ff8-11eb-9f10-eb39d02c7794.png)](/es/línea-de-tiempo-covid19)
 {: refdef}
 
 ### Many other diseases are airborne too:
 
 {:refdef: style="text-align: center;"}
-[![](https://user-images.githubusercontent.com/82182/102420197-78248d00-3ff9-11eb-8b63-20bb4cc08b2d.png)](/historical-timeline)
+[![](https://user-images.githubusercontent.com/82182/102420197-78248d00-3ff9-11eb-8b63-20bb4cc08b2d.png)](/es/cronología-histórica)
 {: refdef}
 
-This is important because the world's default pandemic response should have been to tread COVID-19
-as if it was airborne.
+This is important because the world's default pandemic response should have been to treat COVID-19 as if it was airborne.
+
+### Knowing it was airborne, masks were a part of some successful countries strategies:
+
+{:refdef: style="text-align: center;"}
+[![](https://user-images.githubusercontent.com/82182/103177609-f132a880-4873-11eb-8c78-8e4c231785eb.png)](/es/primeros-países-de-enmascaramiento)
+{: refdef}
+
 
 If you want to make a contibution, take a look at our [GitHub site](https://github.com/its-airborne/timelines-site)
 
