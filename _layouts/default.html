@@ -14,6 +14,31 @@
         {% include template/foot.html %}
     </body>
     <script>
+
+        if (window.location.href.indexOf("/fr/") > -1) {
+            $("#navbarContent").each(function (idx) {
+                $(this).html("<ul class=\"navbar-nav mr-auto\">\n" +
+                    "                                \n" +
+                    "                <li class=\"nav-item\">\n" +
+                    "                <a class=\"nav-link\" href=\"/fr/\">Accueil</a>\n" +
+                    "                </li>\n" +
+                    "                \n" +
+                    "                <li class=\"nav-item\">\n" +
+                    "                <a class=\"nav-link\" href=\"/fr/covid19-chronologie.html\">COVID-19 et aérosols</a>\n" +
+                    "                </li>\n" +
+                    "                \n" +
+                    "                <li class=\"nav-item\">\n" +
+                    "                <a class=\"nav-link\" href=\"/fr/chronologie-historique.html\">Maladies et antécédents d'aérosols</a>\n" +
+                    "                </li>\n" +
+                    "                \n" +
+                    "                <li class=\"nav-item\">\n" +
+                    "                <a class=\"nav-link\" href=\"/fr/premiers-pays-masqués.html\">Pays de masquage précoce</a>\n" +
+                    "                </li>\n" +
+                    "                \n" +
+                    "            </ul>");
+            })
+        }
+
         setTimeout(function () {
             document.getElementById('timeline-embed')
                 .querySelectorAll('a')
