@@ -30,10 +30,9 @@ This is important because the world's default pandemic response should have been
 [![](https://user-images.githubusercontent.com/82182/103177609-f132a880-4873-11eb-8c78-8e4c231785eb.png)](/es/primeros-países-de-enmascaramiento)
 {: refdef}
 
-
-If you want to make a contibution, take a look at our [GitHub site](https://github.com/its-airborne/timelines-site)
-
 ## Now we know it's airborne
+
+If you want to make a contribution, take a look at our [GitHub site](https://github.com/its-airborne/timelines-site)
 
 <div id="slideshow">
    <div>
