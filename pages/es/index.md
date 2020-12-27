@@ -1,10 +1,10 @@
 ---
-title: COVID-19 is transmitted in aerosols - it's airborne!
+title: COVID-19 se transmite en aerosoles, ¡se transmite por el aire!
 layout: page
 permalink: /es/
 ---
 
-This site exists as a resource to outline that there has been scientific evidence for some time to support COVID-19 infection being driven by airborne/aerosol transmission. This is not new science, it is old science. The next pandemic should assume the same rather than waste months with policies that did not halt infections. 
+Este sitio existe como un recurso para describir que ha habido evidencia científica durante algún tiempo para respaldar que la infección por COVID-19 es impulsada por transmisión aérea / aerosol. Esta no es una ciencia nueva, es una ciencia vieja. La próxima pandemia debería asumir lo mismo en lugar de perder meses con políticas que no detengan las infecciones. 
 
 To learn more, follow these experts who study aerosol and are activey pushing the **COVID is airborne** agenda: **Prof Jose-Luis Jimenez**, **Prof Kimberly Prather** and **Prof Linsey Marr** who have been educating the world on the aerosol transmission nature of COVID-19. Their Twitter accounts - [@jljcolorado](https://twitter.com/jljcolorado), [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr) - which you should follow.
 
