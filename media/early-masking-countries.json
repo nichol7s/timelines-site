@@ -140,6 +140,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://s.abcnews.com/images/International/korea-1-gty-er-200227_hpMain_16x9_992.jpg",
+        "caption": "A man wears a mask and goggles as he waits in line to buy face masks from a post office",
+        "link": "https://abcnews.go.com/International/south-korea-takes-measures-face-masks-domestically-amid/story?id=69254114",
+        "credit": "Jung Yeon-Je/AFP/Getty Images"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 27
+      },
+      "text": {
+        "headline": "South Korea takes new measures to have enough face masks domestically amid coronavirus",
+        "text": "\"The government will make sure that 90% of total mask production in South Korea will be supplied within the country,\" Hong Nam-ki, the nation's finance minister, said Thursday. \"Around 140 companies that produce masks can provide 10 million masks a day, which means that 9 million masks will now be available for domestic sales.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "http://www.xinhuanet.com/english/2020-03/04/138843744_15834098671271n.jpg",
         "caption": "People wearing masks walk on street in Bangkok,",
         "link": "http://www.xinhuanet.com/english/2020-03/04/c_138843744.htm",
