@@ -140,6 +140,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "http://www.xinhuanet.com/english/2020-03/04/138843744_15834098671271n.jpg",
+        "caption": "People wearing masks walk on street in Bangkok,",
+        "link": "http://www.xinhuanet.com/english/2020-03/04/c_138843744.htm",
+        "credit": "(Xinhua/Rachen Sageamsak)"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 4
+      },
+      "text": {
+        "headline": "Thailand manufacturing 50 million cloth masks for people to wear against COVID-19",
+        "text": "Thailand is manufacturing as many as 50 million cloth masks which will be provided for people nationwide to wear against the COVID-19 outbreak, confirmed Interior Minister Anupong Paojinda on Wednesday."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://static.reuters.com/resources/r/?m=02&d=20200312&t=2&i=1502093289&r=LYNXMPEG2B0I4&w=600",
         "caption": "",
         "link": "https://uk.reuters.com/article/uk-health-coronavirus-thailand-masks/better-than-nothing-thailand-encourages-cloth-masks-amid-surgical-mask-shortage-idUKKBN20Z0V3",
