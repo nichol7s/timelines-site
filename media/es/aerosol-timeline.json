@@ -444,7 +444,7 @@
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101791159-1e086100-3afb-11eb-8cb1-c787c2c41b16.png",
-        "caption": "After four hours without safety measures",
+        "caption": "Después de cuatro horas sin medidas de seguridad",
         "link": "https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html",
         "credit": "El Pais artwork"
       },
@@ -454,8 +454,8 @@
         "day": 28
       },
       "text": {
-        "headline": "how the coronavirus is spread through the air",
-        "text": "Article: The risk of contagion is highest in indoor spaces but can be reduced by applying all available measures to combat infection via aerosols. Here is an overview of the likelihood of infection in three everyday scenarios, based on the safety measures used and the length of exposure."
+        "headline": "Cómo se propaga el coronavirus por el aire",
+        "text": "Artículo: El riesgo de contagio es mayor en los espacios interiores, pero se puede reducir aplicando todas las medidas disponibles para combatir la infección a través de aerosoles. A continuación, se ofrece una descripción general de la probabilidad de infección en tres escenarios cotidianos, según las medidas de seguridad utilizadas y la duración de la exposición."
       }
     },
     {
@@ -472,15 +472,15 @@
         "day": 4
       },
       "text": {
-        "headline": "Canada acknowledges aerosol transmission",
-        "text": "Official Guidance: \"SARS-CoV-2, the virus that causes COVID-19, spreads from an infected person to others through respiratory droplets and aerosols created when an infected person coughs, sneezes, sings, shouts, or talks,\" the updated guidance said. <br><br>\"The droplets vary in size from large droplets that fall to the ground rapidly (within seconds or minutes) near the infected person, to smaller droplets, sometimes called aerosols, which linger in the air under some circumstances.\""
+        "headline": "Canadá reconoce la transmisión de aerosoles",
+        "text": "Orientación oficial: \"El SARS-CoV-2, el virus que causa el COVID-19, se transmite de una persona infectada a otras a través de gotitas respiratorias y aerosoles creados cuando una persona infectada tose, estornuda, canta, grita o habla\", la guía actualizada dijo. <br> <br> \"Las gotas varían en tamaño, desde gotas grandes que caen al suelo rápidamente (en segundos o minutos) cerca de la persona infectada, hasta gotas más pequeñas, a veces llamadas aerosoles, que permanecen en el aire en algunas circunstancias\"."
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2df5e824-68d5-4b01-b10a-780a273ff63b_721x660.png",
-        "caption": "After only 5 minutes sitting in proximity to spreader, a diner was infected 21 feet away",
+        "caption": "Después de solo 5 minutos sentado cerca del esparcidor, un comensal se infectó a 21 pies de distancia",
         "link": "https://jkms.org/DOIx.php?id=10.3346/jkms.2020.35.e415",
         "credit": ""
       },
@@ -490,15 +490,15 @@
         "day": 23
       },
       "text": {
-        "headline": "Outbreak: Infected in direct air flow in a Korean restaurant",
-        "text": "Study conclusion: Droplet transmission can occur at a distance greater than 2 m if there is direct air flow from an infected person. Therefore, updated guidelines involving prevention, contact tracing, and quarantine for COVID-19 are required for control of this highly contagious disease. A post linking to another post about this event: <a href=\"https://twitter.com/jmcrookston/status/1334132864078721026\">post 1 (@jmcrookston)</a>."
+        "headline": "Brote: infectado en el flujo de aire directo en un restaurante coreano",
+        "text": "Conclusión del estudio: La transmisión por gotitas puede ocurrir a una distancia superior a 2 m si hay un flujo de aire directo de una persona infectada. Por lo tanto, se requieren pautas actualizadas que involucren prevención, rastreo de contactos y cuarentena para COVID-19 para el control de esta enfermedad altamente contagiosa. Una publicación que enlaza con otra publicación sobre este evento: <a href=\"https://twitter.com/jmcrookston/status/1334132864078721026\">post 1 (@jmcrookston)</a>."
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101584992-c5d83e80-39d6-11eb-99c9-2737f87b3915.png",
-        "caption": "Wells curves modified by accounting for droplet cloud aerodynamics, thermodynamics, and droplet desiccation",
+        "caption": "Curvas de pozos modificadas teniendo en cuenta la aerodinámica, termodinámica y desecación de las gotas.",
         "link": "https://aip.scitation.org/doi/full/10.1063/5.0034032",
         "credit": "Diagram from Chaudhuri, Basu &amp; Saha's study"
       },
@@ -508,8 +508,8 @@
         "day": 4
       },
       "text": {
-        "headline": "Analyzing the dominant SARS-CoV-2 transmission routes",
-        "text": "Study excerpt: At typical, air-conditioned yet quiescent indoor space, for average viral loading, cough droplets of initial diameter between 10 µm and 50 µm are found to have the highest infection probability. However, by the time they are inhaled, the diameters reduce to about 1/6th of their initial diameters"
+        "headline": "Análisis de las rutas de transmisión dominantes del SARS-CoV-2",
+        "text": "Extracto del estudio: En un espacio interior típico, con aire acondicionado pero en reposo, para una carga viral promedio, las gotas de tos con un diámetro inicial entre 10 µm y 50 µm tienen la mayor probabilidad de infección. Sin embargo, en el momento en que se inhalan, los diámetros se reducen a aproximadamente 1/6 de sus diámetros iniciales."
       }
     },
     {
@@ -526,15 +526,15 @@
         "day": 15
       },
       "text": {
-        "headline": "Ventilation in Buildings: CDC recommendation",
-        "text": "CDC now recommends good ventilation for buildings: increasing outdoor air, better filtration, importance of system maintenance, HEPA portable air cleaners, and Ultraviolet Germicidal Irradiation (UVGI) Air Purifiers"
+        "headline": "Ventilación en edificios: recomendación de los CDC",
+        "text": "Los CDC ahora recomiendan una buena ventilación para los edificios: aumento del aire exterior, mejor filtración, importancia del mantenimiento del sistema, purificadores de aire portátiles HEPA y purificadores de aire con irradiación germicida ultravioleta (UVGI)"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/05d942d9-3ffa-4e9f-a6af-e016d1bc029b/gr1.jpg",
-        "caption": "Structure of the apartment building where the infection outbreaks occurred in two vertical line",
+        "caption": "Estructura del edificio de apartamentos donde se produjeron los brotes de infección en dos líneas verticales",
         "link": "https://www.ijidonline.com/article/S1201-9712(20)32558-3/fulltext",
         "credit": ""
       },
@@ -544,8 +544,8 @@
         "day": 16
       },
       "text": {
-        "headline": "Airborne Transmission through Apartment Air Ducts",
-        "text": "Possible #Airborne #SARSCoV2 Transmission through Air Ducts (August): after a series of infections, all 437 residents of an apt building were tested. 10 infections uncovered, all living on different floors but along two vertical lines with openings through their bathrooms. See also <a href='https://twitter.com/AliNouriPhD/status/1341193351014572032'>Twitter thread by (@AliNouriPhD)"
+        "headline": "Transmisión aérea a través de conductos de aire de apartamentos",
+        "text": "Posible transmisión #Airborne # SARSCoV2 a través de conductos de aire (agosto): después de una serie de infecciones, se realizaron pruebas a los 437 residentes de un edificio apto. 10 infecciones descubiertas, todas viviendo en diferentes pisos pero a lo largo de dos líneas verticales con aberturas a través de sus baños. Ver también <a href='https://twitter.com/AliNouriPhD/status/1341193351014572032'>Twitter thread by (@AliNouriPhD)"
       }
     }
   ]
