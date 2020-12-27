@@ -1,6 +1,7 @@
 ---
 title: Une chronologie historique des maladies infectieuses et des aérosols
 timeline-json: fr/aerosol-history-timeline.json
+permalink: /fr/chronologie-historique
 timeline-options: 
   hash_bookmark: true
 ---

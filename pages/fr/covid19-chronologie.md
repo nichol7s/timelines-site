@@ -1,6 +1,7 @@
 ---
 title: COVID-19 Aérosol chronologie
 timeline-json: fr/aerosol-timeline.json
+permalink: /fr/covid19-chronologie
 timeline-options: 
   hash_bookmark: true
 ---
