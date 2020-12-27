@@ -2,12 +2,12 @@
   "title": {
     "media": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/800px-SARS-CoV-2_without_background.png",
-      "caption": "This illustration, created at the Centers for Disease Control and Prevention (CDC)",
+      "caption": "Esta ilustración, creada en el US Centers for Disease Control and Prevention (CDC)",
       "credit": "CDC/ Alissa Eckert, MS; Dan Higgins, MAM"
     },
     "text": {
-      "headline": "Fact: The principal mechanism of COVID-19 infection is aerosol",
-      "text": "See the Frequently Asked Questions (FAQ) mega document: <a href='https://tinyurl.com/FAQ-aerosols'>https://tinyurl.com/FAQ-aerosols</a>"
+      "headline": "Hecho: El mecanismo principal de la infección por COVID-19 es el aerosol.",
+      "text": "Consulte el mega documento de Preguntas frecuentes (FAQ): <a href='https://tinyurl.com/FAQ-aerosols'>https://tinyurl.com/FAQ-aerosols</a>"
     }
   },
   "events": [
@@ -15,7 +15,7 @@
       "media": {
         "thumbnail": "/media/twiceAsFar.png",
         "url": "https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/03/11/2367f83c-61fc-11ea-8e9f-2d196083a37c_972x_161511.jpg",
-        "caption": "Red is the index patient. Purple got on the bus 30 minutes after the index patient left.",
+        "caption": "El rojo es el paciente índice. Purple subió al autobús 30 minutos después de que se fuera el paciente índice.",
         "link": "https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay",
         "credit": ""
       },
@@ -25,15 +25,15 @@
         "day": 20
       },
       "text": {
-        "headline": "Outbreak: Hunan bus. COVID-19 can travel 'twice as far' (4.5m) and linger 30 minutes",
-        "text": "Newspaper article: Coronavirus can travel twice as far as official ‘safe distance’ and stay in air for 30 minutes, Chinese study finds. A number of passengers became infected during the four-hour bus journey. One was infected AFTER the index patient got off. There is CCTV on all Chinese inter-city busses, so they knew that the index patient never got out of his seat. <a href='https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay'>Article in SCMP, reported mid-January</a>. <a target='_blank' href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>Study re-published in September after an initial retraction</a>.<br><br><a href='https://twitter.com/jmcrookston/status/1308907690987528198'>Twitter post and original report (@jmcrookston)</a>"
+        "headline": "Foco: autobús de Hunan. COVID-19 puede viajar 'el doble de lejos' (4,5 m) y permanecer 30 minutos",
+        "text": "Artículo de periódico: El coronavirus puede viajar el doble de la \"distancia segura\" oficial y permanecer en el aire durante 30 minutos, según un estudio chino. Varios pasajeros se infectaron durante el viaje en autobús de cuatro horas. Uno se infectó DESPUÉS de que el paciente índice se bajó. Hay CCTV en todos los autobuses interurbanos chinos, por lo que sabían que el paciente índice nunca se levantaba de su asiento. <a href='https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay'>Artículo en SCMP, informado a mediados de enero</a>. <a target='_blank' href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>Estudio reeditado en septiembre tras una retractación inicial</a>.<br><br><a href='https://twitter.com/jmcrookston/status/1308907690987528198'>Publicación de Twitter e informe original(@jmcrookston)</a>"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://pbs.twimg.com/media/EWD_1l2XgAMpMZC?format=jpg&name=medium",
-        "caption": "Chinese mall",
+        "caption": "Centro comercial chino",
         "link": "https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article",
         "credit": ""
       },
@@ -44,14 +44,14 @@
       },
       "text": {
         "headline": "Outbreak: Indirect spread at a Chinese mall",
-        "text": "Study: Indirect spread at a Chinese mall. Postulated either fomite in elevator or, you guessed it, aerosol. <a href='https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article'>Article in the EID Journal, reported mid-March</a>. See <a href='https://twitter.com/jmcrookston/status/1252290275512377350'>single post (@jmcrookston)</a>."
+        "text": "Estudio: propagación indirecta en un centro comercial chino. Postuló fomite en ascensor o, lo adivinó, aerosol. <a href='https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article'>Artículo en la Revista EID, publicado a mediados de marzo</a>. See <a href='https://twitter.com/jmcrookston/status/1252290275512377350'>publicación única (@jmcrookston)</a>."
       }
     },
     {
       "media": {
         "thumbnail": "/media/restaurant.png",
         "url": "https://user-images.githubusercontent.com/82182/101359313-fd8a9d80-3893-11eb-9432-4a5b7815e7ab.png",
-        "caption": "Diagram showing arrangement of restaurant tables and air conditioning airflow at site of outbreak ",
+        "caption": "Diagrama que muestra la disposición de las mesas del restaurante y el flujo de aire del aire acondicionado en el lugar del brote",
         "link": "https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1.full.pdf",
         "credit": ""
       },
@@ -61,8 +61,8 @@
         "day": 26
       },
       "text": {
-        "headline": "Outbreak in Guangzhou restaurant, circulated by air conditioning",
-        "text": "Everybody infected at a Chinese restaurant was sitting in the path of the air conditioning.<br><br>Reported in the CDC Journal in April as <a href='https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article'>COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020</a>. <a href='https://wwwnc.cdc.gov/eid/images/20-0764-F1.jpg'>Picture from that article</a>"
+        "headline": "Brote en restaurante de Guangzhou, circulado por aire acondicionado",
+        "text": "Todos los infectados en un restaurante chino estaban sentados en el camino del aire acondicionado. <br> <br> Reportado en el CDC Journal en abril como <a href='https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article'>Brote de COVID-19 asociado con aire acondicionado en restaurante, Guangzhou, China, 2020</a>. <a href='https://wwwnc.cdc.gov/eid/images/20-0764-F1.jpg'>Imagen de ese artículo</a>"
       }
     },
     {
@@ -79,15 +79,15 @@
         "day": 8
       },
       "text": {
-        "headline": "Novel coronavirus can transmit via aerosol: expert",
-        "text": "Zeng Qun, deputy head of Shanghai Civil Affairs Bureau: 'The routes of the novel coronavirus infection include transmission via aerosol', and goes on to say 'residents should take a series of measures including canceling all social activities and gatherings, opening windows regularly to maintain the circulation of indoor air and focusing on household disinfection.'"
+        "headline": "El nuevo coronavirus puede transmitirse por aerosol: experto",
+        "text": "Zeng Qun, subdirector de la Oficina de Asuntos Civiles de Shanghai: 'Las rutas de la infección por el nuevo coronavirus incluyen la transmisión a través de aerosoles', y continúa diciendo que 'los residentes deben tomar una serie de medidas, incluida la cancelación de todas las actividades sociales y reuniones, abriendo ventanas regularmente para mantener la circulación del aire interior y centrarse en la desinfección del hogar ”."
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://wwwnc.cdc.gov/eid/images/20-1274-F2.jpg",
-        "caption": "Diagram showing arrangement of infecteds at the call centre, in blue.",
+        "caption": "Diagrama que muestra la disposición de los infectados en el centro de llamadas, en azul.",
         "link": "https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article",
         "credit": ""
       },
@@ -97,17 +97,17 @@
         "day": 8
       },
       "text": {
-        "headline": "Outbreak at call centre in Seoul, South Korea",
-        "text": "Outbreak at South Korean call centre in Seoul. Reported in the CDC Journal as <a href='https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article'>Coronavirus Disease Outbreak in Call Center, South Korea</a> in late April as early release. <a href='https://wwwnc.cdc.gov/eid/images/20-1274-F1.jpg'>Picture 1</a>, <a href='https://wwwnc.cdc.gov/eid/images/20-1274-F2.jpg'>picture 2</a>."
+        "headline": "Brote en un centro de llamadas en Seúl, Corea del Sur",
+        "text": "Brote en el centro de llamadas de Corea del Sur en Seúl. Reportado en el CDC Journal como <a href='https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article'>Brote de enfermedad de coronavirus en el centro de llamadas, Corea del Sur</a> a finales de abril como lanzamiento anticipado. <a href='https://wwwnc.cdc.gov/eid/images/20-1274-F1.jpg'>imagen 1</a>, <a href='https://wwwnc.cdc.gov/eid/images/20-1274-F2.jpg'>imagen 2</a>."
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://www.youtube.com/watch?v=2VIleZ2R0qE",
-        "caption": "Schlieren Imaging with high speed sensitivity camera recording (10,000 frames/second, courtesy of Bell Labs)",
+        "caption": "Imágenes Schlieren con grabación de cámara con sensibilidad de alta velocidad (10,000 cuadros / segundo, cortesía de Bell Labs)",
         "link": "",
-        "credit": "Mater Misericordiae University Hospital Surgery"
+        "credit": "Cirugía del Hospital Universitario Mater Misericordiae"
       },
       "start_date": {
         "year": "2020",
@@ -115,15 +115,15 @@
         "day": 29
       },
       "text": {
-        "headline": "This is how we sneeze",
-        "text": "High-speed Video showing a human sneeze"
+        "headline": "Así es como estornudamos",
+        "text": "Video de alta velocidad que muestra un estornudo humano"
       }
     },
     {
       "media": {
         "thumbnail": "/media/choir.png",
         "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6919e6_ChoirPracticeCOVID19_IMAGE_12May20_1200x675-medium.jpg",
-        "caption": "Skagit Choir seatmap: infection distance",
+        "caption": "Mapa de asientos del Coro Skagit: distancia de infección",
         "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm",
         "credit": "CDC.gov"
       },
@@ -133,15 +133,15 @@
         "day": 15
       },
       "text": {
-        "headline": "Outbreak: People at Skagit choir practice infected at distance",
-        "text": "Following a 2.5-hour choir practice attended by 61 people, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred (attack rate = 53.3% to 86.7%); three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet for some) during practice and augmented by the act of singing. Reported in: <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm'>CDC Journal May 15, 2020</a> as well as a <a href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>larger study that was available much later in September</a>. See also a <a href=\"https://twitter.com/jljcolorado/status/1335754175066611713\">one-slide summary (@jljcolorado)</a>"
+        "headline": "Brote: personas en el coro de Skagit practican infectados a distancia",
+        "text": "Después de una práctica de coro de 2,5 horas a la que asistieron 61 personas, incluido un paciente índice sintomático, se produjeron 32 casos secundarios confirmados y 20 probables de COVID-19 (tasa de ataque = 53,3% a 86,7%); tres pacientes fueron hospitalizados y dos fallecieron. La transmisión probablemente fue facilitada por la proximidad (dentro de los 6 pies para algunos) durante la práctica y aumentada por el acto de cantar. Reportado en: <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm'>CDC Journal May 15, 2020</a> así como un <a href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>estudio más amplio que estuvo disponible mucho más tarde en septiembre</a>. Ver también un <a href=\"https://twitter.com/jljcolorado/status/1335754175066611713\">resumen de una diapositiva (@jljcolorado)</a>"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6920e2_ChurchEventsArkansasCOVID19_IMAGE_19May20_1200x675-medium.jpg",
-        "caption": "High COVID-19 attack rate at a Church in Arkansas",
+        "caption": "Alta tasa de ataque de COVID-19 en una iglesia en Arkansas",
         "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e2.htm",
         "credit": "CDC.gov"
       },
@@ -151,8 +151,8 @@
         "day": 16
       },
       "text": {
-        "headline": "Outbreak: High COVID-19 attack rate at a Church in Arkensas",
-        "text": "Two symptomatic people attended church events March 6-8. From that, 35 or 92 people were infected and 3 died. <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e2.htm'>Reported in the MMWR journal</a>."
+        "headline": "Brote: alta tasa de ataque de COVID-19 en una iglesia en Arkansas",
+        "text": "Dos personas sintomáticas asistieron a los eventos de la iglesia del 6 al 8 de marzo. De eso, 35 o 92 personas se infectaron y 3 murieron. <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e2.htm'>Reportado en la revista MMWR</a>."
       }
     },
     {
