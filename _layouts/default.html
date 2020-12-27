@@ -39,6 +39,30 @@
             })
         }
 
+        if (window.location.href.indexOf("/es/") > -1) {
+            $("#navbarContent").each(function (idx) {
+                $(this).html("<ul class=\"navbar-nav mr-auto\">\n" +
+                    "                                \n" +
+                    "                <li class=\"nav-item\">\n" +
+                    "                <a class=\"nav-link\" href=\"/es/\">Casa</a>\n" +
+                    "                </li>\n" +
+                    "                \n" +
+                    "                <li class=\"nav-item\">\n" +
+                    "                <a class=\"nav-link\" href=\"/es/línea-de-tiempo-covid19.html\">COVID-19 y aerosoles</a>\n" +
+                    "                </li>\n" +
+                    "                \n" +
+                    "                <li class=\"nav-item\">\n" +
+                    "                <a class=\"nav-link\" href=\"/es/cronología-histórica.html\">Enfermedades e historia de aerosoles</a>\n" +
+                    "                </li>\n" +
+                    "                \n" +
+                    "                <li class=\"nav-item\">\n" +
+                    "                <a class=\"nav-link\" href=\"/es/primeros-países-de-enmascaramiento.html\">Países de enmascaramiento temprano</a>\n" +
+                    "                </li>\n" +
+                    "                \n" +
+                    "            </ul>");
+            })
+        }
+
         setTimeout(function () {
             document.getElementById('timeline-embed')
                 .querySelectorAll('a')
