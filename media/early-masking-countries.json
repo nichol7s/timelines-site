@@ -50,6 +50,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102719135-24a98c00-42e4-11eb-9cfa-16dd178fd5a0.png",
+        "caption": "Journalist Diane Leow shows Singaporeans how to use masks (Jan 30th)",
+        "link": "https://user-images.githubusercontent.com/82182/103165588-c9125d80-4811-11eb-9a8c-6b470e5ed852.png",
+        "credit": "CNA"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 30
+      },
+      "text": {
+        "headline": "Singapore: households to get 4 face masks each amid worries over virus",
+        "text": "Mr Wong said the distribution is a \"one-time exercise\" where masks from Singapore’s national stockpile are being released directly to the public. “We are doing this to assure Singaporeans that every family will have access to masks if someone in your family really needs it,” he added."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/102811244-f8157300-43bc-11eb-8b1d-0b2d319d943d.png",
         "caption": "",
         "link": "https://www.straitstimes.com/asia/east-asia/wuhan-virus-chinese-goes-full-throttle-to-manufacture-masks-in-virus-fight",
