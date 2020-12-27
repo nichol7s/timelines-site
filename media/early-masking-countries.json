@@ -122,24 +122,6 @@
     {
       "media": {
         "thumbnail": "",
-        "url": "https://user-images.githubusercontent.com/82182/102728656-e4b6c900-4324-11eb-9a30-e0d37e81b2fb.png",
-        "caption": "Andrew Jeong visited a test site in South Korea",
-        "link": "https://www.wsj.com/articles/south-korea-rations-face-masks-in-coronavirus-fight-11584283720",
-        "credit": "Denis Bosnic for the Wall Street Journal"
-      },
-      "start_date": {
-        "year": "2020",
-        "month": 3,
-        "day": 14
-      },
-      "text": {
-        "headline": "South Korea: Rations masks to two per person",
-        "text": "South Korean health officials have urged all citizens, even healthy ones to wear filtered masks"
-      }
-    },
-    {
-      "media": {
-        "thumbnail": "",
         "url": "https://static.reuters.com/resources/r/?m=02&d=20200312&t=2&i=1502093289&r=LYNXMPEG2B0I4&w=600",
         "caption": "",
         "link": "https://uk.reuters.com/article/uk-health-coronavirus-thailand-masks/better-than-nothing-thailand-encourages-cloth-masks-amid-surgical-mask-shortage-idUKKBN20Z0V3",
@@ -153,6 +135,24 @@
       "text": {
         "headline": "Thailand: Cloth masks are better than nothing",
         "text": "Thailand’s health authorities are encouraging people to make cloth face masks at home to guard against the spread of the coronavirus amid a shortage of surgical masks. [Reuters]"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102728656-e4b6c900-4324-11eb-9a30-e0d37e81b2fb.png",
+        "caption": "Andrew Jeong visited a test site in South Korea",
+        "link": "https://www.wsj.com/articles/south-korea-rations-face-masks-in-coronavirus-fight-11584283720",
+        "credit": "Denis Bosnic for the Wall Street Journal"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 14
+      },
+      "text": {
+        "headline": "South Korea: Rations masks to two per person",
+        "text": "South Korean health officials have urged all citizens, even healthy ones to wear filtered masks"
       }
     },
     {
