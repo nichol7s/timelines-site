@@ -159,7 +159,7 @@
       "media": {
         "thumbnail": "/media/reality.png",
         "url": "https://ars.els-cdn.com/content/image/1-s2.0-S016041202031254X-gr1.jpg",
-        "caption": "Droplets hitting the group, aerosols going and going",
+        "caption": "Gotas golpeando al grupo, aerosoles yendo y viniendo",
         "link": "https://www.sciencedirect.com/science/article/pii/S016041202031254X",
         "credit": "Lidia Morawskaa & Junji Cao vi Elsevier"
       },
@@ -168,8 +168,8 @@
         "month": 6
       },
       "text": {
-        "headline": "Facing reality",
-        "text": "Study: Airborne transmission of SARS-CoV-2: The world should face the reality - Lidia Morawska and Junji Caob. See also <a href='https://www.sciencedirect.com/science/article/pii/S0160412020317876'>September 2020 study from Morawskaa et al</a>"
+        "headline": "Frente a la realidad",
+        "text": "Estudio: Transmisión aérea del SARS-CoV-2: El mundo debe enfrentar la realidad - Lidia Morawska y Junji Caob. Ver también <a href='https://www.sciencedirect.com/science/article/pii/S0160412020317876'>Estudio de septiembre de 2020 de Morawskaa et al.</a>"
       }
     },
     {
@@ -186,15 +186,15 @@
         "day": 12
       },
       "text": {
-        "headline": "How there is there any debate?",
-        "text": "Simple social media post on Reddit, 'the front page of the internet'. (Source unknown)"
+        "headline": "Como hay debate?",
+        "text": "Publicación simple en redes sociales en Reddit, 'la página principal de Internet'. (Fuente desconocida)"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://media.wired.com/photos/5f21b7edfd6517d6ce008a7e/master/w_2560%2Cc_limit/Science_summercamp_83266659.jpg",
-        "caption": "Generic tug-of-war pic, typical of campers",
+        "caption": "Imagen genérica de tira y afloja, típica de los campistas",
         "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm",
         "credit": "PHOTOGRAPH: MARTIN BARRAUD/GETTY IMAGES"
       },
@@ -204,15 +204,15 @@
         "day": 17
       },
       "text": {
-        "headline": "Outbreak: SARS-CoV-2 Transmission and Infection at Overnight Camp in Georgia, USA",
-        "text": "SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020. 597 Georgia residents attended camp A. Median camper age was 12 years. 344 were tested and 260 (76%) were positive. The overall attack rate was 44% (260 of 597). <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm'>Reported in MMWR journal in August</a>. See <a href='https://www.wired.com/story/a-summer-camp-covid-19-outbreak-offers-back-to-school-lessons/'>Wired Article</a> too."
+        "headline": "Brote: transmisión e infección del SARS-CoV-2 en un campamento nocturno en Georgia, EE. UU.",
+        "text": "Transmisión e infección del SARS-CoV-2 entre los asistentes a un campamento nocturno - Georgia, junio de 2020. 597 residentes de Georgia asistieron al campamento A. La edad promedio de los campistas fue de 12 años. Se analizaron 344 y 260 (76%) dieron positivo. La tasa de ataque general fue del 44% (260 de 597). <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm'>Reportado en la revista MMWR en agosto</a>. See <a href='https://www.wired.com/story/a-summer-camp-covid-19-outbreak-offers-back-to-school-lessons/'>Wired Artículo</a> too."
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://www.youtube.com/watch?v=59tQeL0ehbM",
-        "caption": "Clearing the Air Effectively",
+        "caption": "Limpiar el aire con eficacia",
         "link": "https://www.youtube.com/watch?v=59tQeL0ehbM",
         "credit": "NHK WORLD-JAPAN"
       },
@@ -222,15 +222,15 @@
         "day": 30
       },
       "text": {
-        "headline": "Japanese news - education around mitigating aerosol risk",
-        "text": " Key is ventilation. Japan assumed it was airborne from the very beginning. Hence their mask culture and focus on air flow. Here is how to ventilate a room quickly. See <a href='https://twitter.com/DrEricDing/status/1334638682414985217'>@DrEricDing tweet</a> too."
+        "headline": "Noticias japonesas - educación sobre la mitigación del riesgo de aerosoles",
+        "text": "La clave es la ventilación. Japón asumió que estaba en el aire desde el principio. De ahí su cultura de máscaras y su enfoque en el flujo de aire. A continuación se explica cómo ventilar una habitación rápidamente. Ver <a href='https://twitter.com/DrEricDing/status/1334638682414985217'>@DrEricDing tweet</a> too."
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/102695187-a4205800-421d-11eb-9d7c-60243676e463.png",
-        "caption": "Clip from Japanese video on computer modelling of aerosol nature of Covid-19",
+        "caption": "Clip de video japonés sobre modelado por computadora de la naturaleza en aerosol de Covid-19",
         "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/",
         "credit": ""
       },
@@ -240,8 +240,8 @@
         "day": 13
       },
       "text": {
-        "headline": "Japan has long accepted COVID's airborne spread",
-        "text": "Article: \"If the WHO recognizes what we did in Japan, then maybe in other parts of the world, they will change (their antiviral procedures),\" said Shin-Ichi Tanabe, a professor in the architecture department of Japan's prestigious Waseda University. He was one of the 239 international scientists who co-wrote an open letter to the WHO urging the United Nations agency to revise its guidelines on how to stop the virus spreading"
+        "headline": "Japón ha aceptado durante mucho tiempo la propagación aérea de COVID",
+        "text": "Artículo: \"Si la OMS reconoce lo que hicimos en Japón, tal vez en otras partes del mundo, cambiarán (sus procedimientos antivirales)\", dijo Shin-Ichi Tanabe, profesor del departamento de arquitectura de la prestigiosa Universidad Waseda de Japón. Fue uno de los 239 científicos internacionales que coescribieron una carta abierta a la OMS instando a la agencia de las Naciones Unidas a revisar sus directrices sobre cómo detener la propagación del virus."
       }
     },
     {
@@ -258,17 +258,17 @@
         "day": 16
       },
       "text": {
-        "headline": "Mounting evidence suggests coronavirus is airborne",
-        "text": "239 scientists signed an open letter to the transnational organization urging it to consider emerging evidence that the virus can be considered airborne and to adjust its guidance accordingly."
+        "headline": "La creciente evidencia sugiere que el coronavirus se transmite por el aire",
+        "text": "239 científicos firmaron una carta abierta a la organización transnacional instándola a considerar la evidencia emergente de que el virus puede considerarse transmitido por el aire y ajustar su orientación en consecuencia."
       }
     },
     {
       "media": {
         "thumbnail": "/media/drops.png",
         "url": "https://www.news-medical.net/image.axd?picture=2020%2f8%2f%40020.08.04.20168468v1.jpg&ts=20200810021637&ri=750",
-        "caption": "Snapshots of the droplet-laden cough simulation",
+        "caption": "Instantáneas de la simulación de tos cargada de gotitas",
         "link": "https://www.news-medical.net/news/20200810/SARS-CoV-2-droplets-travel-further-and-last-longer-than-thought-and-even-more-in-humid-air.aspx",
-        "credit": "University of Twente and University of Rome Tor Vergata"
+        "credit": "Universidad de Twente y Universidad de Roma Tor Vergata"
       },
       "start_date": {
         "year": "2020",
@@ -276,14 +276,14 @@
         "day": 10
       },
       "text": {
-        "headline": "Airborne transmission",
-        "text": "Study: Long-distance airborne transmission through multiphase turbulent droplet cloud emission is an essential factor"
+        "headline": "Transmisión aérea",
+        "text": "Estudio: La transmisión aérea a larga distancia a través de la emisión de nubes de gotas turbulentas multifase es un factor esencial"
       }
     },
     {
       "media": {
         "url": "https://images.theconversation.com/files/352604/original/file-20200812-20-31ojns.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=600&h=400&fit=crop&dpr=1",
-        "caption": "Laser-induced fluorescence is a method of using lasers to cause specific substances to emit light",
+        "caption": "La fluorescencia inducida por láser es un método de uso de láseres para hacer que sustancias específicas emitan luz.",
         "link": "https://theconversation.com/the-covid-19-virus-can-spread-through-the-air-heres-what-itll-take-to-detect-the-airborne-particles-140149",
         "credit": "By Jan Pavelka/Wikimedia Commons, CC BY-SA"
       },
@@ -293,8 +293,8 @@
         "day": 14
       },
       "text": {
-        "headline": "Growing body of research",
-        "text": "Article: A growing body of research shows that SARS-CoV-2, the virus that causes COVID-19, can spread from person to person through the air. Indoor spaces with poor ventilation in areas where the virus is prevalent are particularly hazardous"
+        "headline": "Cuerpo de investigación creciente",
+        "text": "Artículo: Un creciente cuerpo de investigación muestra que el SARS-CoV-2, el virus que causa el COVID-19, puede transmitirse de persona a persona a través del aire. Los espacios interiores con poca ventilación en áreas donde el virus es prevalente son particularmente peligrosos"
       }
     },
     {
@@ -310,15 +310,15 @@
         "day": 24
       },
       "text": {
-        "headline": "Outbreak: 56 infected in a Starbucks in South Korea",
-        "text": "Study: 56 coronavirus cases were linked to a Starbucks in South Korea. But employees who were wearing masks didn't get infected. Read More: <a target='_blank' href='https://www.businessinsider.com/56-got-coronavirus-south-korea-starbucks-mask-wearers-did-not-2020-8'>Business Insider</a> or <a target='_blank' href='https://fortune.com/2020/08/25/covid-outbreak-starbucks-seoul-masks-employees/'>Fortune.com</a> or <a target='_blank' href='https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/h_d88a8d6e5ee96dd569bd1be5d494de45'>CNN</a>"
+        "headline": "Brote: 56 infectados en un Starbucks en Corea del Sur",
+        "text": "Estudio: 56 casos de coronavirus se vincularon a un Starbucks en Corea del Sur. Pero los empleados que usaban máscaras no se infectaron. Lee mas: <a target='_blank' href='https://www.businessinsider.com/56-got-coronavirus-south-korea-starbucks-mask-wearers-did-not-2020-8'>Business Insider</a> or <a target='_blank' href='https://fortune.com/2020/08/25/covid-outbreak-starbucks-seoul-masks-employees/'>Fortune.com</a> or <a target='_blank' href='https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/h_d88a8d6e5ee96dd569bd1be5d494de45'>CNN</a>"
       }
     },
     {
       "media": {
         "thumbnail": "/media/eh.png",
         "url": "https://user-images.githubusercontent.com/82182/101012518-dca40e80-355a-11eb-9a56-21730fb85a82.png",
-        "caption": "Slide from recent NASEM workshop on airborne transmission of SARS-CoV-2",
+        "caption": "Diapositiva del taller reciente de NASEM sobre transmisión aérea del SARS-CoV-2",
         "link": "https://www.nationalacademies.org/event/08-26-2020/airborne-transmission-of-sars-cov-2-a-virtual-workshop",
         "credit": "Dr. Jay C Butler (CDC)"
       },
@@ -328,15 +328,15 @@
         "day": 26
       },
       "text": {
-        "headline": "Environmental Health Matters Initiative (EHMI) workshop",
-        "text": "Workshop session: Droplets versus aerosols and more for the pandemic. Downloadable PDFs for 19 speakers in the workshop an a video of proceedings."
+        "headline": "Taller de la Iniciativa de Asuntos de Salud Ambiental (EHMI)",
+        "text": "Sesión de taller: Gotas versus aerosoles y más para la pandemia. PDF descargables para 19 ponentes en el taller y un video de las actas."
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/103123726-380a7d80-467d-11eb-8be3-5fd6f17553ab.png",
-        "caption": "Transmission routes through drains",
+        "caption": "Rutas de transmisión por desagües",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7464151/",
         "credit": ""
       },
@@ -346,8 +346,8 @@
         "day": 1
       },
       "text": {
-        "headline": "Airborne in apartment building through the drainage system",
-        "text": "Study: Evidence of #Airborne #SARSCoV2 traveling 12 floors of an apt building through the drainage system: 200+ residents in a wing of a high-rise were tested, revealing 9 infections. Those families lived in 3 vertically aligned flats connected by drainage pipes in the bathrooms. See <a href='https://twitter.com/AliNouriPhD/status/1342232561205047301'>@AliNouriPhD thread</>"
+        "headline": "Aerotransportado en edificio de apartamentos a través del sistema de drenaje",
+        "text": "Estudio: Evidencia de #Airborne # SARSCoV2 viajando 12 pisos de un edificio apto a través del sistema de drenaje: más de 200 residentes en un ala de un rascacielos fueron evaluados, revelando 9 infecciones. Esas familias vivían en 3 pisos alineados verticalmente conectados por tuberías de drenaje en los baños. See <a href='https://twitter.com/AliNouriPhD/status/1342232561205047301'>@AliNouriPhD thread</>"
       }
     },
     {
@@ -364,15 +364,15 @@
         "day": 15
       },
       "text": {
-        "headline": "Outbreak: 26 of 27 people in small meeting room infected. One who escaped was masked.",
-        "text": "26 of 27 people in a small meeting room catch it. The one who escaped was masked. <br><a href='https://news.v.daum.net/v/20200916030023673'>News report in Korean</a>.<br><a href='https://twitter.com/jmcrookston/status/1306207694039248901'>Twitter thread</a>. <br>QUOTE: On the 29th of last month, 26 out of 27 people who attended the'Congchunghacho briefing session' held in a building in Buk-gu, Daegu, were confirmed as a new coronavirus infection (Corona 19). The infection rate is a whopping 97%. Most of them were in their 50s to 80s and gathered from all over the country, including Daegu, Gyeongbuk, Gyeongnam, and Chungbuk. After contact with them, the infection spread to each area.<br><br>Jeong Mo (63, Sangju, Gyeongbuk) was the only person who avoided infection even after attending the briefing session...People sat close together in a narrow space of about 100m² with poor ventilation."
+        "headline": "Brote: 26 de 27 personas infectadas en una pequeña sala de reuniones. Uno que escapó estaba enmascarado.",
+        "text": "26 de 27 personas en una pequeña sala de reuniones lo captan. El que escapó estaba enmascarado. <br><a href='https://news.v.daum.net/v/20200916030023673'>Informe de noticias en coreano</a>.<br><a href='https://twitter.com/jmcrookston/status/1306207694039248901'>Twitter thread</a>. <br>QUOTE: El día 29 del mes pasado, 26 de las 27 personas que asistieron a la 'Sesión informativa de Congchunghacho' celebrada en un edificio en Buk-gu, Daegu, fueron confirmadas como una nueva infección por coronavirus (Corona 19). La tasa de infección es un enorme 97%. La mayoría de ellos tenían entre 50 y 80 años y procedían de todo el país, incluidos Daegu, Gyeongbuk, Gyeongnam y Chungbuk. Después del contacto con ellos, la infección se extendió a todas las áreas. <br> <br> Jeong Mo (63, Sangju, Gyeongbuk) fue la única persona que evitó la infección incluso después de asistir a la sesión informativa ... Las personas se sentaron muy juntas en un estrecho espacio de unos 100m² con poca ventilación."
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/102145853-e6354c80-3e5f-11eb-8fc1-3f2f3ff2e5a7.png",
-        "caption": "Diagram of room with the depiction of patient bed and air sampler locations",
+        "caption": "Diagrama de la habitación con la representación de la cama del paciente y la ubicación del muestreador de aire",
         "link": "https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext",
         "credit": ""
       },
@@ -382,15 +382,15 @@
         "day": 16
       },
       "text": {
-        "headline": "Air sampled from room of COVID-19 patients had the virus-laden aerosols",
-        "text": "Viable (infectious) SARS-CoV-2 was present in aerosols within the hospital room of COVID-19 patients.<br><br>Airborne virus was detected in the absence of healthcare aerosol-generating procedures.<br><br>The virus strain detected in the aerosols matched with the virus strain isolated from a patient with acute COVID-19."
+        "headline": "El aire de la habitación de los pacientes con COVID-19 tenía los aerosoles cargados de virus",
+        "text": "El SARS-CoV-2 viable (infeccioso) estaba presente en aerosoles dentro de la habitación del hospital de pacientes con COVID-19. <br> <br> Se detectó virus en el aire en ausencia de procedimientos sanitarios que generen aerosoles. <br> <br> El cepa de virus detectada en los aerosoles emparejada con la cepa de virus aislada de un paciente con COVID-19 agudo."
       }
     },
     {
       "media": {
         "thumbnail": "/media/cdc_retract.jpg",
         "url": "https://storage.googleapis.com/afs-prod/media/d478dedd87ee43fea2784a7a3ef02c09/800.jpeg",
-        "caption": "Centers for Disease Control and Prevention Director Dr. Robert Redfield puts his mask back on after speaking at a Senate Appropriations subcommittee hearing",
+        "caption": "El director de los Centros para el Control y la Prevención de Enfermedades, el Dr. Robert Redfield, se vuelve a poner la máscara después de hablar en una audiencia del subcomité de asignaciones del Senado",
         "link": "https://apnews.com/article/virus-outbreak-archive-public-health-cfb43dd5a28dd449cd1100a067cfd112",
         "credit": "AP Photo/Andrew Harnik"
       },
@@ -400,15 +400,15 @@
         "day": 22
       },
       "text": {
-        "headline": "CDC changes, then retracts, web posting on how virus spreads",
-        "text": "Article: The top U.S. public health agency stirred confusion by posting — and then taking down — an apparent change in its position [to aerosols] on how easily the coronavirus can spread from person to person through the air. <br>But officials at the Centers for Disease Control and Prevention say their position has not really changed ..."
+        "headline": "Los CDC cambian, luego se retracta, la publicación web sobre cómo se propaga el virus",
+        "text": "Artículo: La principal agencia de salud pública de EE. UU. Provocó confusión al publicar, y luego eliminar, un aparente cambio en su posición [a los aerosoles] sobre la facilidad con la que el coronavirus puede propagarse de persona a persona a través del aire. <br> Pero los funcionarios de los Centros para el Control y la Prevención de Enfermedades dicen que su posición no ha cambiado realmente ..."
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "",
-        "caption": "Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020",
+        "caption": "Adolescente con COVID-19 como origen de un brote en una reunión familiar de 3 semanas - Cuatro estados, junio-julio de 2020",
         "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm",
         "credit": ""
       },
@@ -418,15 +418,15 @@
         "day": 1
       },
       "text": {
-        "headline": "Outbreak: Adolescent with COVID-19 Source of Outbreak at 3-Week Family Gathering",
-        "text": "Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020.  Adolescent was source of outbreak. Family members who visited the house but stayed outdoors were not infected. <a href='https://twitter.com/jmcrookston/status/1313281284249182208'>Link to Twitter thread</a>"
+        "headline": "Brote: Adolescente con COVID-19 Fuente del brote en una reunión familiar de 3 semanas",
+        "text": "Adolescente con COVID-19 como origen de un brote en una reunión familiar de 3 semanas - Cuatro estados, junio-julio de 2020. El adolescente fue la fuente del brote. Los familiares que visitaron la casa pero se quedaron al aire libre no se infectaron. <a href='https://twitter.com/jmcrookston/status/1313281284249182208'>Link to Twitter thread</a>"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101375306-1fd9e680-38a7-11eb-94c9-5a6d0529ddb5.png",
-        "caption": "Still from JAMA Network conversation",
+        "caption": "Fotograma de la conversación de JAMA Network",
         "link": "https://edhub.ama-assn.org/jn-learning/video-player/18554257",
         "credit": ""
       },
@@ -436,8 +436,8 @@
         "day": 26
       },
       "text": {
-        "headline": "New head of US CDC acknowledges aerosol nature of COVID-19",
-        "text": "“...aerosols, I think, was another surprise. We thought we knew how respiratory viruses generally work. We thought it was going to be droplet, and it turns out, you know, a lot of aerosol.” - Rochelle Walensky"
+        "headline": "El nuevo director de los CDC de EE. UU. Reconoce la naturaleza en aerosol del COVID-19",
+        "text": "“... aerosoles, creo, fue otra sorpresa. Pensamos que sabíamos cómo funcionan generalmente los virus respiratorios. Pensamos que iba a ser una gota, y resulta, ya sabes, mucho aerosol \". - Rochelle Walensky"
       }
     },
     {
