@@ -104,6 +104,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217084/bin/nihpp-2020.04.13.20063784-f0001.jpg",
+        "caption": "Graph shows the spray factor for three emergent coronaviruses",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217084/",
+        "credit": "\"..... We also quantified the long-term persistence of SARS-CoV-2 and its ability to maintain infectivity when suspended in aerosols for up to 16 hours.\""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 4,
+        "day": 18
+      },
+      "text": {
+        "headline": "Study: Aerosol efficiencies of three emergent coronaviruses (incl SARS-CoV-2)",
+        "text": "High-speed Video showing a human sneeze"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://www.youtube.com/watch?v=2VIleZ2R0qE",
         "caption": "Schlieren Imaging with high speed sensitivity camera recording (10,000 frames/second, courtesy of Bell Labs)",
         "link": "",
