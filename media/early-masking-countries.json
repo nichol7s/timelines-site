@@ -248,6 +248,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.praguemorning.cz/wp-content/uploads/2020/03/too-much-space-3.png",
+        "caption": "DameRousky.cz at time of launch",
+        "link": "https://www.praguemorning.cz/face-masks-damerousky/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 14
+      },
+      "text": {
+        "headline": "Czech Republic: National mask-making portal launches",
+        "text": "Site 'DameRousky.cz' website collected contacts for people who could sew face masks (both for free and to buy), offer material for sewing or run a collection point where people can pick up the masks. The also <a href='https://damerousky.cz/'>site is still serving a need</a>."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://image.vietnamnews.vn/uploadvnnews/Article/2020/3/15/74516_01.jpg",
         "caption": "Foreign tourists wear face masks to stop the spread of COVID-19",
         "link": "https://vietnamnews.vn/society/653646/face-masks-required-for-all.html",
@@ -261,6 +279,24 @@
       "text": {
         "headline": "Vietnam: Face masks required for all",
         "text": "All Vietnamese citizens as well as foreign citizens in Việt Nam to wear face masks in public places where there are many people, such as supermarkets, airports, bus terminals or public transport."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://m.smedata.sk/api-media/media/image/spectator/5/61/6193615/6193615_300x.jpeg?rev=3",
+        "caption": "PM Igor Matovič announces new measures",
+        "link": "https://fashionunited.uk/news/fashion/thousands-of-czech-women-join-forces-to-sew-face-masks/2020031848048",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 18
+      },
+      "text": {
+        "headline": "Slovakia: Masks will be obligatory, new measures mainly aimed at the elderly",
+        "text": "Slovakia implemented a national mask-making programme, including the mailing of those in-country for free. Fairly quickly the whole country would be in cloth masks when mixing in public. By July the the rules were relaxed a little and new cases began to creep, but it wasn't until late September that the deaths began to rise significantly."
       }
     },
     {
