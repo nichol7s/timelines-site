@@ -225,8 +225,26 @@
         "day": 1
       },
       "text": {
-        "headline": "Ninth floor guests at the Metropole Hotel catch SARS. Index may have vomited in hall",
-        "text": "[Study] 21 infected by one guest who vomited in a corridor. Excerpt: ... At the time, it was not clear if the causative agent was being transmitted by airborne particles, as measles and tuberculosis spread ..."
+        "headline": "Study: Ninth floor guests at the Metropole Hotel catch SARS. Index may have vomited in hall",
+        "text": "Twenty-one infected by one guest who vomited in a corridor. Excerpt: \"... At the time, it was not clear if the causative agent was being transmitted by airborne particles, as measles and tuberculosis spread ...\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107804/bin/51-10-1176-fig003.jpg",
+        "caption": "Measured airflow rates at different ward locations",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107804/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2010",
+        "month": 11,
+        "day": 15
+      },
+      "text": {
+        "headline": "Study: Possible Role of Aerosol Transmission in a Hospital Outbreak of Influenza",
+        "text": "Conclusions: Our findings suggest a possible role of aerosol transmission of influenza in an acute ward setting. Source and engineering controls, such as avoiding aerosol generation and improving ventilation design, may warrant consideration to prevent nosocomial outbreaks."
       }
     },
     {
