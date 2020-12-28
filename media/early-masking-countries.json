@@ -266,6 +266,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://m.smedata.sk/api-media/media/image/spectator/5/61/6193615/6193615_300x.jpeg?rev=3",
+        "caption": "PM Igor Matovič announces new measures",
+        "link": "https://spectator.sme.sk/c/22366501/masks-will-be-obligatory-new-measures-mainly-aimed-at-the-elderly.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 24
+      },
+      "text": {
+        "headline": "Slovakia: Masks will be obligatory, new measures mainly aimed at the elderly",
+        "text": "Slovakia implemented a national mask-making programme, including the mailing of those in-country for free. Fairly quickly the whole country would be in cloth masks when mixing in public. By July the the rules were relaxed a little and new cases began to creep, but it wasn't until late September that the deaths began to rise significantly."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/102809898-b257ab00-43ba-11eb-9963-65221158030b.png",
         "caption": "",
         "link": "https://www3.nhk.or.jp/nhkworld/en/news/ataglance/844",
