@@ -32,6 +32,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/103182555-07585d00-48a4-11eb-8f1d-9e1bad72cd8a.png",
+        "caption": "",
+        "link": "https://www.youtube.com/watch?v=wOPN5AHJ27E",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 22
+      },
+      "text": {
+        "headline": "Hong Kong: Cathay Pacific cambia la política que permite al personal usar máscaras a medida que se propaga el mortal coronavirus de Wuhan",
+        "text": "La aerolínea de Hong Kong, Cathay Pacific Airways, ha cambiado su política para permitir que los miembros del personal usen máscaras quirúrgicas en todas las rutas. Anteriormente solo permitía cubrirse el rostro en rutas seleccionadas, el anuncio lo expandió a todas las rutas, y fue después de consultar a las \"autoridades sanitarias\"."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/102718998-3dfe0880-42e3-11eb-920f-33d3a3c12d2b.png",
         "caption": "Central Epidemic Command Center - CECC (Taiwan) screenshot",
         "link": "https://www.cdc.gov.tw/En/Bulletin/Detail/fp11P_DipG9-nOlWpMcPzg?typeid=158",
@@ -40,7 +58,7 @@
       "start_date": {
         "year": "2020",
         "month": 1,
-        "day": 22
+        "day": 23
       },
       "text": {
         "headline": "Taiwán: 2 millones de máscaras distribuidas en tiendas",
