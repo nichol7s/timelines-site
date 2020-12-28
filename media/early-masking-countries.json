@@ -14,6 +14,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://img2.chinadaily.com.cn/images/202001/23/5e28caa8a3101282064d7d0b.jpeg",
+        "caption": "People wearing face mask walk across a street in Wuhan",
+        "link": "https://www.chinadaily.com.cn/a/202001/22/WS5e285cada310128217272d84.html",
+        "credit": "Photo/China Daily"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 21
+      },
+      "text": {
+        "headline": "Wuhan: Government has required all people in public places - effective immediately",
+        "text": "The Wuhan government has required all people in public places such as hotels, restaurants, cinemas, parks, shopping centers and on public transportation to wear masks to prevent the spread of the novel coronavirus, according to an announcement made on Wednesday night.\n\nClear signs should be set up at entrances of public places to remind people to wear masks. People who do not follow the instructions, which come into force immediately, will be punished, the announcement said."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/102718998-3dfe0880-42e3-11eb-920f-33d3a3c12d2b.png",
         "caption": "Central Epidemic Command Center - CECC (Taiwan) screenshot",
         "link": "https://www.cdc.gov.tw/En/Bulletin/Detail/fp11P_DipG9-nOlWpMcPzg?typeid=158",

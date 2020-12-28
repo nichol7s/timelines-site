@@ -14,6 +14,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://img2.chinadaily.com.cn/images/202001/23/5e28caa8a3101282064d7d0b.jpeg",
+        "caption": "Personas con máscara facial cruzan una calle en Wuhan",
+        "link": "https://www.chinadaily.com.cn/a/202001/22/WS5e285cada310128217272d84.html",
+        "credit": "Photo/China Daily"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 21
+      },
+      "text": {
+        "headline": "Wuhan: el gobierno ha requerido a todas las personas en lugares públicos - con efecto inmediato",
+        "text": "El gobierno de Wuhan ha exigido que todas las personas en lugares públicos como hoteles, restaurantes, cines, parques, centros comerciales y en el transporte público usen máscaras para evitar la propagación del nuevo coronavirus, según un anuncio realizado el miércoles por la noche.\n\nSe deben colocar carteles claros en las entradas de los lugares públicos para recordar a las personas que deben usar máscaras. Las personas que no sigan las instrucciones, que entran en vigor de inmediato, serán sancionadas, según el anuncio."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/102718998-3dfe0880-42e3-11eb-920f-33d3a3c12d2b.png",
         "caption": "Central Epidemic Command Center - CECC (Taiwan) screenshot",
         "link": "https://www.cdc.gov.tw/En/Bulletin/Detail/fp11P_DipG9-nOlWpMcPzg?typeid=158",
