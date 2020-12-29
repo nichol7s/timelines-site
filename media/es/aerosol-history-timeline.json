@@ -232,6 +232,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107804/bin/51-10-1176-fig003.jpg",
+        "caption": "Tasas de flujo de aire medidas en diferentes ubicaciones de las salas",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107804/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2010",
+        "month": 11,
+        "day": 15
+      },
+      "text": {
+        "headline": "Estudio: posible papel de la transmisión de aerosoles en un brote de influenza en un hospital",
+        "text": "Conclusiones: Nuestros hallazgos sugieren un posible papel de la transmisión de la influenza por aerosol en un entorno de sala de agudos. Los controles de fuente e ingeniería, como evitar la generación de aerosoles y mejorar el diseño de la ventilación, pueden justificar su consideración para prevenir brotes nosocomiales."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101265672-331e7200-3740-11eb-95bd-61809d2a526b.png",
         "caption": "Estudio de flujo de aire de MERS en un hospital de Corea del Sur",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6458380/",
