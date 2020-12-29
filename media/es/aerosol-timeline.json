@@ -104,6 +104,25 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217084/bin/nihpp-2020.04.13.20063784-f0001.jpg",
+        "caption": "El gráfico muestra el factor de pulverización para tres coronavirus emergentes",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217084/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 4,
+        "day": 18
+      },
+      "text": {
+        "headline": "Estudio: Eficiencias de aerosol de tres coronavirus emergentes (incluido SARS-CoV-2)",
+        "text": "\"..... También cuantificamos la persistencia a largo plazo del SARS-CoV-2 y su capacidad para mantener la infectividad cuando se suspende en **aerosoles** hasta por 16 horas..\""
+      }
+    },
+
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://www.youtube.com/watch?v=2VIleZ2R0qE",
         "caption": "Imágenes Schlieren con grabación de cámara con sensibilidad de alta velocidad (10,000 cuadros / segundo, cortesía de Bell Labs)",
         "link": "",
