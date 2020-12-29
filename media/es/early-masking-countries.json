@@ -248,6 +248,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.praguemorning.cz/wp-content/uploads/2020/03/too-much-space-3.png",
+        "caption": "DameRousky.cz at time of launch",
+        "link": "https://www.praguemorning.cz/face-masks-damerousky/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 15
+      },
+      "text": {
+        "headline": "República Checa: lanzamiento del portal nacional de fabricación de máscaras",
+        "text": "El sitio web 'DameRousky.cz' recopiló contactos para personas que podían coser máscaras faciales (tanto gratis como para comprar), ofrecer material para coser o administrar un punto de recolección donde las personas pueden recoger las máscaras. El <a href='https://damerousky.cz/'>sitio sigue respondiendo a una necesidad</a>. Ver también <a href='https://fashionunited.uk/news/fashion/thousands-of-czech-women-join-forces-to-sew-face-masks/2020031848048'>Mujeres checas unen fuerzas para coser máscaras faciales</a> article."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://image.vietnamnews.vn/uploadvnnews/Article/2020/3/15/74516_01.jpg",
         "caption": "Los turistas extranjeros usan máscaras faciales para detener la propagación del COVID-19",
         "link": "https://vietnamnews.vn/society/653646/face-masks-required-for-all.html",
@@ -261,6 +279,42 @@
       "text": {
         "headline": "Vietnam: se requieren máscaras faciales para todos",
         "text": "Todos los ciudadanos vietnamitas, así como los ciudadanos extranjeros en Việt Nam, deben usar máscaras faciales en lugares públicos donde haya mucha gente, como supermercados, aeropuertos, terminales de autobuses o transporte público."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://m.smedata.sk/api-media/media/image/spectator/5/61/6193615/6193615_300x.jpeg?rev=3",
+        "caption": "",
+        "link": "https://fashionunited.uk/news/fashion/thousands-of-czech-women-join-forces-to-sew-face-masks/2020031848048",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 18
+      },
+      "text": {
+        "headline": "Eslovaquia: las máscaras serán obligatorias, nuevas medidas dirigidas principalmente a las personas mayores",
+        "text": "Eslovaquia implementó un programa nacional de fabricación de máscaras, incluido el envío gratuito de las que se encuentran en el país. Con bastante rapidez, todo el país estaría en máscaras de tela cuando se mezcla en público. Para julio, las reglas se relajaron un poco y comenzaron a aparecer nuevos casos, pero no fue hasta finales de septiembre que las muertes comenzaron a aumentar significativamente.."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://m.smedata.sk/api-media/media/image/spectator/5/61/6193615/6193615_300x.jpeg?rev=3",
+        "caption": "El primer ministro Igor Matovič anuncia nuevas medidas",
+        "link": "https://spectator.sme.sk/c/22366501/masks-will-be-obligatory-new-measures-mainly-aimed-at-the-elderly.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 24
+      },
+      "text": {
+        "headline": "Eslovaquia: las máscaras serán obligatorias, nuevas medidas dirigidas principalmente a las personas mayores",
+        "text": "Eslovaquia implementó un programa nacional de fabricación de máscaras, incluido el envío gratuito de las que se encuentran en el país. Con bastante rapidez, todo el país estaría en máscaras de tela cuando se mezcla en público. Para julio, las reglas se relajaron un poco y comenzaron a aparecer nuevos casos, pero no fue hasta finales de septiembre que las muertes comenzaron a aumentar significativamente."
       }
     },
     {
