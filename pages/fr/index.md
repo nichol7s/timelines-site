@@ -10,29 +10,29 @@ Pour en savoir plus, suivez ces experts qui étudient les aérosols et poussent 
 
 ## Deux chronologies sont hébergées sur ce microsite
 
-### COVID-19 is Airborne:
+### COVID-19 est aéroporté:
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/102419911-ba999a00-3ff8-11eb-9f10-eb39d02c7794.png)](/fr/covid19-chronologie)
 {: refdef}
 
-### Many other diseases are airborne too:
+### De nombreuses autres maladies sont également aéroportées:
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/102420197-78248d00-3ff9-11eb-8b63-20bb4cc08b2d.png)](/fr/chronologie-historique)
 {: refdef}
 
-This is important because the world's default pandemic response should have been to treat COVID-19 as if it was airborne.
+Ceci est important car la réponse à la pandémie par défaut dans le monde aurait dû être de traiter le COVID-19 comme s'il était en suspension dans l'air.
 
-### Knowing it was airborne, masks were a part of some successful countries strategies:
+### Sachant qu'il était en vol, les masques faisaient partie de certaines stratégies de pays réussies:
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/103177609-f132a880-4873-11eb-8c78-8e4c231785eb.png)](/fr/premiers-pays-masqués)
 {: refdef}
 
-## Now we know it's airborne
+## Maintenant nous savons qu'il est en l'air
 
-If you want to make a contribution, take a look at our [GitHub site](https://github.com/its-airborne/timelines-site)
+Si vous souhaitez apporter une contribution, jetez un œil à notre [GitHub site](https://github.com/its-airborne/timelines-site)
 
 <div id="slideshow">
    <div>
@@ -46,27 +46,27 @@ If you want to make a contribution, take a look at our [GitHub site](https://git
    </div>
 </div>
 
-## More Reading
+## Plus de lecture
 
-#### Aerosols: Frequently Asked Questions
+#### Aérosols: questions fréquemment posées
 
-Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ-aerosols](https://tinyurl.com/FAQ-aerosols). This is actively maintained by a bunch of Profs and Drs.
+Veuillez lire les questions fréquemment posées sur les aérosols (FAQ) ici: [tinyurl.com/FAQ-aerosols](https://translate.google.com/translate?hl=en&sl=en&tl=fr&u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2Fe%2F2PACX-1vTgVkamic82Ux90zCWb5NFC6gYcDSWKYxKgh2y49uHQ5OJfGBAuQXs8igbmOaGqODI9wJ0UUnpo1dZu%2Fpub&sandbox=1). Ceci est activement maintenu par un groupe de Profs et Drs.
 
-#### Change.org campaign: "COVID is airborne"
+#### Campagne Change.org: "COVID est en vol"
 
-[@COVIDisAirborne](https://twitter.com/covidisairborne) is running a change.org campaign to get recognition for this fact: [bit.ly/COVIDisAirborne](https://bit.ly/COVIDisAirborne):
+[@COVIDisAirborne](https://twitter.com/covidisairborne) lance une campagne change.org pour obtenir la reconnaissance de ce fait: [bit.ly/COVIDisAirborne](https://bit.ly/COVIDisAirborne):
 
 {:refdef: style="text-align: center;"}
 ![](https://user-images.githubusercontent.com/82182/102479775-3de9d880-4057-11eb-84ca-ba2b024c2127.png)
 {: refdef}
 
-#### M.A.D. Guidelines
+#### M.A.D. Des lignes directrices
 
-[CovidStraightTalk.org](https://covidstraighttalk.org/) and publishes info posters for employers and workers, including the great M.A.D. acronym:
+[CovidStraightTalk.org](https://covidstraighttalk.org/) et publie des affiches d'information pour les employeurs et les travailleurs, y compris le grand M.A.D. acronyme:
 
 {:refdef: style="text-align: center;"}
 ![](https://user-images.githubusercontent.com/82182/102404351-82d22880-3fdf-11eb-9b1a-c5a105e89101.png) 
-<br><a href="https://twitter.com/intent/tweet?text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation.%20Masks!%20Air!%20Distance!%20https://pic.twitter.com/noIWVuuogr&name=small" target="_blank">☝️Tweet That Yourself</a>
+<br><a href="https://twitter.com/intent/tweet?text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation.%20Masques!%20Air!%20Distance!%20https://pic.twitter.com/noIWVuuogr&name=small" target="_blank">☝️Tweetez-vous</a>
 {: refdef}
 
-Their Twitter is [@LastMileWorks](https://twitter.com/lastmileworks).
+Leur Twitter est [@LastMileWorks](https://twitter.com/lastmileworks).
