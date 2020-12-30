@@ -565,6 +565,24 @@
         "headline": "Transmission aérienne par les conduits d'air d'appartement",
         "text": "Transmission possible de #Airborne # SARSCoV2 par des conduits d'air (août): après une série d'infections, les 437 résidents d'un immeuble d'appartements ont été testés. 10 infections découvertes, toutes vivant sur des étages différents mais le long de deux lignes verticales avec des ouvertures dans leurs salles de bains. Voir également<a href='https://twitter.com/AliNouriPhD/status/1341193351014572032'>Fil Twitter par (@AliNouriPhD)"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "    https://user-images.githubusercontent.com/82182/103385120-07996800-4af1-11eb-8074-68a0c62fafb8.png",
+        "caption": "",
+        "link": "https://www.nature.com/articles/s41598-020-80078-7",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 16
+      },
+      "text": {
+        "headline": "La dynamique des fluides de l'infection aérienne au COVID-19 suggère des données urgentes pour une conception scientifique de la distanciation sociale",
+        "text": "Nos résultats montrent qu'une règle unique [comme 6 pieds] pour la distance sociale peut ne pas être adéquate pour protéger les individus dans différents environnements. <a href='https://twitter.com/EricTopol/status/1344297867578548225'>Fil Twitter par (@EricTopol)"
+      }
     }
   ]
 }

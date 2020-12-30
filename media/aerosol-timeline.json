@@ -565,6 +565,24 @@
         "headline": "Airborne Transmission through Apartment Air Ducts",
         "text": "Possible #Airborne #SARSCoV2 Transmission through Air Ducts (August): after a series of infections, all 437 residents of an apt building were tested. 10 infections uncovered, all living on different floors but along two vertical lines with openings through their bathrooms. See also <a href='https://twitter.com/AliNouriPhD/status/1341193351014572032'>Twitter thread by (@AliNouriPhD)"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "    https://user-images.githubusercontent.com/82182/103385120-07996800-4af1-11eb-8074-68a0c62fafb8.png",
+        "caption": "",
+        "link": "https://www.nature.com/articles/s41598-020-80078-7",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 16
+      },
+      "text": {
+        "headline": "Fluid dynamics of COVID-19 airborne infection suggests urgent data for a scientific design of social distancing",
+        "text": "Our results show that a single rule [like 6 feet] for social distancing may not be adequate to protect individuals in different environments. <a href='https://twitter.com/EricTopol/status/1344297867578548225'>Twitter thread by (@EricTopol)"
+      }
     }
   ]
 }

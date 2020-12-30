@@ -43,8 +43,8 @@
         "day": 20
       },
       "text": {
-        "headline": "Outbreak: Indirect spread at a Chinese mall",
-        "text": "Estudio: propagación indirecta en un centro comercial chino. Postuló fomite en ascensor o, lo adivinó, aerosol. <a href='https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article'>Artículo en la Revista EID, publicado a mediados de marzo</a>. See <a href='https://twitter.com/jmcrookston/status/1252290275512377350'>publicación única (@jmcrookston)</a>."
+        "headline": "Brote: propagación indirecta en un centro comercial chino",
+        "text": "Estudio: propagación indirecta en un centro comercial chino. Postuló fomite en ascensor o, lo adivinó, aerosol. <a href='https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article'>Artículo en la Revista EID, publicado a mediados de marzo</a>. Ver <a href='https://twitter.com/jmcrookston/status/1252290275512377350'>publicación única (@jmcrookston)</a>."
       }
     },
     {
@@ -563,7 +563,25 @@
       },
       "text": {
         "headline": "Transmisión aérea a través de conductos de aire de apartamentos",
-        "text": "Posible transmisión #Airborne # SARSCoV2 a través de conductos de aire (agosto): después de una serie de infecciones, se realizaron pruebas a los 437 residentes de un edificio apto. 10 infecciones descubiertas, todas viviendo en diferentes pisos pero a lo largo de dos líneas verticales con aberturas a través de sus baños. Ver también <a href='https://twitter.com/AliNouriPhD/status/1341193351014572032'>Twitter thread by (@AliNouriPhD)"
+        "text": "Posible transmisión #Airborne # SARSCoV2 a través de conductos de aire (agosto): después de una serie de infecciones, se realizaron pruebas a los 437 residentes de un edificio apto. 10 infecciones descubiertas, todas viviendo en diferentes pisos pero a lo largo de dos líneas verticales con aberturas a través de sus baños. Ver también <a href='https://twitter.com/AliNouriPhD/status/1341193351014572032'>Hilo de Twitter por (@AliNouriPhD)"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "    https://user-images.githubusercontent.com/82182/103385120-07996800-4af1-11eb-8074-68a0c62fafb8.png",
+        "caption": "",
+        "link": "https://www.nature.com/articles/s41598-020-80078-7",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 16
+      },
+      "text": {
+        "headline": "La dinámica de fluidos de la infección transmitida por el aire por COVID-19 sugiere datos urgentes para un diseño científico de distanciamiento social",
+        "text": "Nuestros resultados muestran que una sola regla [como 6 pies] para el distanciamiento social puede no ser adecuada para proteger a las personas en diferentes entornos. <a href='https://twitter.com/EricTopol/status/1344297867578548225'>Hilo de Twitter por (@EricTopol)"
       }
     }
   ]
