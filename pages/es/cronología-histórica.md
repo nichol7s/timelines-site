@@ -6,7 +6,7 @@ timeline-options:
   hash_bookmark: true
 ---
 
-A lo largo de los años, se ha hablado de la naturaleza de la infección en el aire o en aerosol para otras enfermedades, y esta línea de tiempo contiene muchos de los principales avances en estos temas.  <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fits-airborne.org%2Fhistorical-timeline&via=AerosolizedC19&text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation. See: " target="_blank">Tweet This Page</a>
+A lo largo de los años, se ha hablado de la naturaleza de la infección en el aire o en aerosol para otras enfermedades, y esta línea de tiempo contiene muchos de los principales avances en estos temas.  <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fits-airborne.org%2Fes%2Fcronología-histórica&via=AerosolizedC19&text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation. See: " target="_blank">Tweet esta página</a>
 
 Por el bien de esta línea de tiempo, **aerosol** = **en el aire** = **núcleos de gotitas**. Estas son partículas que tienen menos de 100 μm de diámetro y, por lo tanto, generalmente se evaporan antes de que Graivty las tire al suelo. Como partículas pequeñas, flotan durante minutos, o incluso horas, y pueden viajar una cierta distancia en este tiempo. La palabra aerosol simplemente significa una partícula suspendida en el aire.
 

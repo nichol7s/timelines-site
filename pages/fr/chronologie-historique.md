@@ -6,7 +6,7 @@ timeline-options:
   hash_bookmark: true
 ---
 
-La nature aérienne ou aérosol de l'infection a été évoquée pour d'autres maladies au fil des ans, et cette chronologie contient bon nombre des développements majeurs sur ces sujets..  <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fits-airborne.org%2Fhistorical-timeline&via=AerosolizedC19&text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation. Voir: " target="_blank">Tweet This Page</a>
+La nature aérienne ou aérosol de l'infection a été évoquée pour d'autres maladies au fil des ans, et cette chronologie contient bon nombre des développements majeurs sur ces sujets..  <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fits-airborne.org%2Fes%2Fchronologie-historique&via=AerosolizedC19&text=%23COVIDisAirborne%20%23masques%20%23masks4All%20%23aerosols%20%23aération%20%23ventilation. Voir: " target="_blank">Tweet cette page</a>
 
 Dans l'intérêt de cette chronologie, **aérosol** = **aéroporté** = **noyaux de gouttelettes**. Ce sont des particules dont le diamètre est inférieur à 100 μm et qui s'évaporent donc généralement avant que la gravité ne les tire vers le sol. En tant que petites particules, elles flottent pendant des minutes, voire des heures, et peuvent parcourir une certaine distance pendant cette période. Le mot aérosol signifie simplement une particule en suspension dans l'air.
 
