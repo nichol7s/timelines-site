@@ -479,6 +479,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://cdn.the-scientist.com/assets/articleNo/68094/iImg/40161/uploads/new%20transmission%20set-up.jpgg",
+        "caption": "Infected donor ferret below with a healthy indirect recipient ferret above",
+        "link": "https://www.the-scientist.com/news-opinion/ferret-study-reinforces-role-of-aerosols-in-sars-cov-2-spread-68094",
+        "credit": "The-scientist.com article pic"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 28
+      },
+      "text": {
+        "headline": "Elaborate apparatus shows the virus spreads via aerosolized particles between ferrets more than a meter apart",
+        "text": "Article: “If I were someone who thought that large droplets were the way [that SARS-CoV-2 was transmitted] and if I were skeptical about aerosols, this study might make me rethink my assumptions,” says Virginia Tech engineer Linsey Marr, who studies how viruses spread through aerosols and was not involved in the study."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://pbs.twimg.com/media/EopQAewW4AAlotN?format=jpg&name=small",
         "caption": "CBS news feed pic",
         "link": "https://www.cbc.ca/news/health/coronavirus-canada-aerosol-transmission-covid-19-1.5789906",
