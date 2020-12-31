@@ -443,6 +443,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/101791159-1e086100-3afb-11eb-8cb1-c787c2c41b16.png",
+        "caption": "After four hours without safety measures",
+        "link": "https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html",
+        "credit": "El Pais artwork"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 10
+      },
+      "text": {
+        "headline": "how the coronavirus is spread through the air",
+        "text": "Article: The risk of contagion is highest in indoor spaces but can be reduced by applying all available measures to combat infection via aerosols. Here is an overview of the likelihood of infection in three everyday scenarios, based on the safety measures used and the length of exposure."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101375306-1fd9e680-38a7-11eb-94c9-5a6d0529ddb5.png",
         "caption": "Still from JAMA Network conversation",
         "link": "https://edhub.ama-assn.org/jn-learning/video-player/18554257",
@@ -474,24 +492,6 @@
       "text": {
         "headline": "Study shows aerosol spread between ferrets",
         "text": "Article: Elaborate apparatus shows the virus spreads via aerosolized particles between ferrets more than a meter apart. Linsey Marr: “If I were someone who thought that large droplets were the way [that SARS-CoV-2 was transmitted] and if I were skeptical about aerosols, this study might make me rethink my assumptions,”"
-      }
-    },
-    {
-      "media": {
-        "thumbnail": "",
-        "url": "https://user-images.githubusercontent.com/82182/101791159-1e086100-3afb-11eb-8cb1-c787c2c41b16.png",
-        "caption": "After four hours without safety measures",
-        "link": "https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html",
-        "credit": "El Pais artwork"
-      },
-      "start_date": {
-        "year": "2020",
-        "month": 10,
-        "day": 29
-      },
-      "text": {
-        "headline": "how the coronavirus is spread through the air",
-        "text": "Article: The risk of contagion is highest in indoor spaces but can be reduced by applying all available measures to combat infection via aerosols. Here is an overview of the likelihood of infection in three everyday scenarios, based on the safety measures used and the length of exposure."
       }
     },
     {
