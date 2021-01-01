@@ -107,6 +107,17 @@
                     "style='fill:#3BA9EE;'/>" +
                     "</svg>" + $(this).html());
             });
+            $(".tl-media-content").each(function (idx) {
+                $(this)
+                    .mouseenter(function() {
+                        $(this).css("border","2px solid blue")
+                    })
+                    .mouseleave(function() {
+                        $(this).css("border","2px solid white")
+                    });
+                $(this).css("border","2px solid white")
+            });
+
         }, 2000);
 
         $("#slideshow > div:gt(0)").hide();
@@ -118,5 +129,8 @@
                 .end()
                 .appendTo('#slideshow');
         },  3000);
+
+
+
     </script>
 </html>
