@@ -29,4 +29,4 @@ If you can afford it, get KF94 masks (not cloth or washable) for use when mixing
 
 ## More Info
 
-* Masks4All has been pushing the "masks for all" message since [masks4all.co](https://masks4all.co) since March
+* [Masks4all.co](https://masks4all.co) has been pushing the "masks for all" message since March
