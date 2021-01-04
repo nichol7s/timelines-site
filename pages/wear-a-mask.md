@@ -26,3 +26,7 @@ If you can afford it, get KF94 masks (not cloth or washable) for use when mixing
   properties, particle size, partic](https://www.mpic.de/4745772/update-alltagsmasken-in-weiteren-tests) - Drewnick et al (Aug 2020)
 
 * University of Chicago and Argonne National Labs (USA): [Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7185834/) - Konda et al (2020)
+
+## More Info
+
+* Masks4All has been pushing the "masks for all" message since [masks4all.co](https://masks4all.co) since March
