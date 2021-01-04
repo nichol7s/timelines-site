@@ -3,6 +3,7 @@ title: Wear A Mask - it's airborne!
 nav: Masks!
 nav_order: 6
 layout: page
+permalink: /wear-a-mask
 ---
 
 If you're in a country that has not eliminated COVID-19, wear a mask.
