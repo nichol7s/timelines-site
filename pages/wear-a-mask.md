@@ -25,9 +25,10 @@ If you can afford it, get KF94 masks (not cloth or washable) for use when mixing
   for homemade face masks: Influence of material
   properties, particle size, particle electrical charge,
   face velocity, and leaks](https://www.mpic.de/4745772/update-alltagsmasken-in-weiteren-tests) - Drewnick et al. (Aug 2020)
-
 * University of Chicago and Argonne National Labs (USA): [Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7185834/) - Konda et al. (2020)
 
-## More Info
+## More Information
 
-* [Masks4all.co](https://masks4all.co) has been pushing the "masks for all" message since March
+* [Masks4all.co](https://masks4all.co) portal has been pushing the "masks for all" message since March. And a [discussion forum on reddit for the same](https://www.reddit.com/r/Masks4All/).
+* [damerousky.cz](https://damerousky.cz/en) - Citizen made portal for making masks, started in the Czech Republic (Europe) and now an international multi-language effort.
+* Goddard's Journal - [second exhaustive review](https://www.youtube.com/watch?v=9CGrBygEQY0) of mask **studies** over the years (and that they work; video).
