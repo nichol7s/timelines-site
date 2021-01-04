@@ -18,3 +18,11 @@ Any cloth face covering is better than nothing. But you should seek to get the *
 The stretchy spandex (lycra) ones that are single layer are insufficient.
 
 If you can afford it, get KF94 masks (not cloth or washable) for use when mixing with other in public. Citizen Scientist, Aaron Collins, [reviews masks for filtration effectiveness](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg) and talks about KF94 masks quite a bit.  Leave the N95 and FFP2 masks/respirators for respective medical and emergency workers.
+
+## Studies on filtration effectiveness of various masks:
+
+* Max-Planck Institute (Germany): [Aerosol filtration efficiency of household materials
+  for homemade face masks: Influence of material
+  properties, particle size, partic](https://www.mpic.de/4745772/update-alltagsmasken-in-weiteren-tests) - Drewnick et al (Aug 2020)
+
+* University of Chicago and Argonne National Labs (USA): [Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7185834/) - Konda et al (2020)
