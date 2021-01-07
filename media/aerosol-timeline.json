@@ -587,6 +587,24 @@
     {
       "media": {
         "thumbnail": "",
+          "url": "https://user-images.githubusercontent.com/82182/103912600-65d0d700-50ff-11eb-8dbb-265482472740.png",
+        "caption": "",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7771204/pdf/11783_2021_Article_1386.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 25
+      },
+      "text": {
+        "headline": "Aerosol spread in Chinese department store",
+        "text": "Aerosol transmission, an indispensable route of COVID-19\nspread: case study of a department-store cluster (back in Jan 2020). See <a href='https://twitter.com/AliNouriPhD/status/1346219061051596807'>tweet by @AliNouriPhD</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "    https://user-images.githubusercontent.com/82182/103385120-07996800-4af1-11eb-8074-68a0c62fafb8.png",
         "caption": "",
         "link": "https://www.nature.com/articles/s41598-020-80078-7",
