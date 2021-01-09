@@ -214,6 +214,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/104086297-8bb8c180-524e-11eb-80f6-2689602333b6.png",
+        "caption": "Computer model of aitflow from one apartment block to another",
+        "link": "https://www.nejm.org/doi/full/10.1056/nejmoa032867",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2004",
+        "month": 1,
+        "day": 1
+      },
+      "text": {
+        "headline": "Study: 187 airborne cases of SARS at 'Amoy Gardens' 2003",
+        "text": "\"According to our computational fluid-dynamics modeling, the buoyant [vurus laden] plume (blue) rose from the air shaft between two housing units in building E (yellow) and was carried by a northeasterly wind toward the middle-level floors in buildings C and D\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://science.sciencemag.org/content/sci/339/6125/1272/F2.large.jpg?width=800&height=600&carousel=1",
         "caption": "A man who spent one night at Hong Kong's Metropole Hotel (left) spread SARS to other ninth floor guests",
         "link": "https://science.sciencemag.org/content/339/6125/1272",
