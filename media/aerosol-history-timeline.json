@@ -144,23 +144,6 @@
     {
       "media": {
         "thumbnail": "",
-        "url": "https://pbs.twimg.com/media/EgDCaInXoAQhN6G?format=png&name=small",
-        "caption": "Capture from the Bloch article - see 'airborne' in text",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/3982900/",
-        "credit": ""
-      },
-      "start_date": {
-        "year": "1985",
-        "month": 4
-      },
-      "text": {
-        "headline": "One child infects seven in a physician's office (Bloch article)",
-        "text": "Measles outbreak in a pediatric practice: airborne transmission in an office setting. The study goes on to warn of modern office buildings having recirculated air.<br><br><a href=\"https://twitter.com/jmcrookston/status/1297250473448222720\">Measles thread (@jmcrookston)</a>.<br><br><a href=\"https://pubmed.ncbi.nlm.nih.gov/3982900/\">Link to Bloch article</a>."
-      }
-    },
-    {
-      "media": {
-        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/104123936-d9fcbc00-5345-11eb-9598-9ebf039f736c.png",
         "caption": "Lots are airborne, study says",
         "link": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC1805417&blobtype=pdf",
@@ -173,6 +156,23 @@
       "text": {
         "headline": "Study: Viruses And Indoor Air Pollution",
         "text": "\"Microbiologic and epidemiologic data have shown that a number of<br>viruses may contaminate the air of rooms and be capable of initiating\ndisease in those who inhale them. However, with the exception of lymphocytic choriomeningitis virus, all are viruses transmitted from person<br>to person.\" See <a href='https://twitter.com/jmcrookston/status/1314220831032193024'>@jmcrookston tweet</a>."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EgDCaInXoAQhN6G?format=png&name=small",
+        "caption": "Capture from the Bloch article - see 'airborne' in text",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/3982900/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1985",
+        "month": 4
+      },
+      "text": {
+        "headline": "One child infects seven in a physician's office (Bloch article)",
+        "text": "Measles outbreak in a pediatric practice: airborne transmission in an office setting. The study goes on to warn of modern office buildings having recirculated air.<br><br><a href=\"https://twitter.com/jmcrookston/status/1297250473448222720\">Measles thread (@jmcrookston)</a>.<br><br><a href=\"https://pubmed.ncbi.nlm.nih.gov/3982900/\">Link to Bloch article</a>."
       }
     },
     {
