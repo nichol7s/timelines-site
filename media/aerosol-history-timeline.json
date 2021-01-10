@@ -267,6 +267,23 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/104116944-0c41f580-5315-11eb-8b93-8808280e540c.png",
+        "caption": "Removal of upper 2/3 of windows from frames mitigated TB infection",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217216/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2018",
+        "month": 7
+      },
+      "text": {
+        "headline": "Study: Improving ventilation resulted in a 97% drop in cases in a TB outbreak at a university in Taiwan",
+        "text": "\"Maintaining adequate indoor ventilation could be a highly effective strategy for controlling TB outbreaks\". Study had stats for the university covering 8 or so years. See <a href='https://twitter.com/Orla_Hegarty/status/1347937626196750336'>@jmcrookston tweets</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101265672-331e7200-3740-11eb-95bd-61809d2a526b.png",
         "caption": "Airflow study of MERS in South Korean hospital",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6458380/",
