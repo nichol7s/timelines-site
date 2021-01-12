@@ -1,6 +1,6 @@
 ---
 title: Wear A Mask - it's airborne!
-nav: Wear a Mask
+nav: Wear a Mask!!
 nav_order: 6
 layout: page
 permalink: /wear-a-mask
