@@ -1,6 +1,6 @@
 ---
 title: 2021 - new mask rules
-nav: Better Masks
+nav: Countries In Better Masks 2021
 nav_order: 5
 timeline-json: masks-2021.json
 timeline-options: 
