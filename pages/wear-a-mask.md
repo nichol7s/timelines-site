@@ -15,9 +15,9 @@ Any cloth face covering is better than nothing. But you should seek to get the *
 * should not have gaps at your cheeks, sides, or throat
 * may concentrate virons on the outside - wash your hands after touching a dirty mask and wash/dry the mask after use.
 
-The stretchy spandex (lycra) ones that are single layer are insufficient. If you can't wear a mask or cloth face covering stay at home and get food delivered. 
+The stretchy spandex (lycra) ones that are single layer are really low self-protection. If you can't wear a mask or cloth face covering stay at home and get food delivered. 
 
-If you can afford it, get KF94 masks (not cloth or washable) for use when mixing with other in public. Citizen Scientist, Aaron Collins, [reviews masks for filtration effectiveness](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg) and talks about KF94 masks quite a bit.  Leave the N95 and FFP2 masks/respirators for respective medical and emergency workers.
+If you can afford it, get KF94 masks (that are not cloth or washable) for use when mixing with other in public. Citizen Scientist, Aaron Collins, [reviews masks for filtration effectiveness](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg) and talks about KF94 masks quite a bit.  Leave the N95 and FFP2 masks/respirators for respective medical and emergency workers.
 
 ## Studies on filtration effectiveness of various masks:
 
@@ -29,6 +29,7 @@ If you can afford it, get KF94 masks (not cloth or washable) for use when mixing
 
 ## More Information
 
+* Masks **do not** create a false sense of security, See Twitter [thread](https://twitter.com/robshirkey/status/1272945481820356608) by @robshirkey.
 * [Masks4all.co](https://masks4all.co) portal has been pushing the "masks for all" message since March. And a [discussion forum on reddit for the same](https://www.reddit.com/r/Masks4All/).
 * [damerousky.cz](https://damerousky.cz/en) - Citizen made portal for making masks, started in the Czech Republic (Europe) and now an international multi-language effort.
 * Goddard's Journal - [second exhaustive review](https://www.youtube.com/watch?v=9CGrBygEQY0) of mask **studies** over the years (and that they work; video).
