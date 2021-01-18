@@ -46,6 +46,26 @@
         "headline": "Article: Why Aren’t We Wearing Better Masks?",
         "text": "Zeynep Tufekci <a href='https://twitter.com/zeynep'></a> and Jeremy Howard <a href='https://twitter.com/jeremyphoward'></a> wrote a call-to-arms article for The Atlantic. Both have been selling masks hard to the west since the start. In this article they make a case for better masks for all. This is to the world, not just the USA where they reside."
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://cdn.vox-cdn.com/thumbor/l5kNslvY7uLnslvBfqU3QKoof3Q=/0x0:1024x683/920x613/filters:focal(431x261:593x423):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/68667433/GettyImages_1212966420__1_.0.jpg",
+        "caption": "Say goodbye to cloth masks. Say hello to tight-fitting surgical masks or even N95s. ",
+        "link": "https://www.vox.com/22220301/covid-spread-new-strain-variants-safe-grocery-store-n95-masks-vaccine",
+        "credit": "Credit: Dan Kitwood/Getty Images"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 1,
+        "day": 15
+      },
+      "text": {
+        "headline": "Get a better mask (2<sup>nd</sup> half of Vox article)",
+        "text": "“The fact that [the variants] are so infectious suggests to me having a better mask is a good idea,” Frieden said. When it comes to avoiding an infection, “a surgical mask is better than a cloth mask, a tight-fitting surgical mask is better than a loose-fitting mask, and an N95 is better than a surgical mask.”"
+      }
     }
+	
+	
   ]
 }
