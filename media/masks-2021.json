@@ -76,7 +76,8 @@
       "start_date": {
         "year": "2021",
         "month": 1,
-        "day": 18
+        "day": 18,
+		"hour": 17
       },
       "text": {
         "headline": "Austria: New mandatory masks FFP2 on busses and in shops",
@@ -94,7 +95,8 @@
       "start_date": {
         "year": "2021",
         "month": 1,
-        "day": 18
+        "day": 18,
+		"hour": 10
       },
       "text": {
         "headline": "Germany: Considers FFP2 mandates for the country",
