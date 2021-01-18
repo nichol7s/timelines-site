@@ -25,7 +25,7 @@
         "day": 12
       },
       "text": {
-        "headline": "Germany: Bavaria orders compulsory FFP2 masks on public transport and in shops",
+        "headline": "German State: Bavaria orders compulsory FFP2 masks on public transport and in shops",
         "text": "From next Monday, people in Bavaria will have to wear FFP2 mouth and nose coverings while travelling on public transport and when in shops.\n\nState premier Markus Söder, of Angela Merkel's CDU sister party the Christian Social Union (CSU), announced the changes after a cabinet meeting in Munich on Tuesday.\n\nSöder said that the \"normal community masks\" were for the protection of others during the pandemic. FFP2 masks, which are available in pharmacies, also protect the wearer. See also <a href='https://www.sueddeutsche.de/bayern/corona-bayern-news-testpflicht-ausland-pendler-1.5170384'>Süddeutsche Zeitung</a> and <a href='https://www.zeit.de/politik/deutschland/2021-01/bayern-macht-ffp2-masken-in-geschaeften-und-oepnv-zur-pflicht'>Die Zeit</a> articles in German"
       }
     },
@@ -81,6 +81,24 @@
       "text": {
         "headline": "Austria: New mandatory masks FFP2 on busses and in shops",
         "text": "“As of January 25, higher-quality FFP2 masks must be worn on public transportation and when shopping. These are to be offered at cost price in supermarkets. The government does not name a price, but it should be “very, very compatible”. At present, corresponding masks are available from about 1.50 euros. For income-poor ones they are to be made available free of charge”"
+      }
+    }
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://i.guim.co.uk/img/media/40e95e96d697dd903fda64c08c0f9f44219ea560/0_0_3525_2115/master/3525.jpg?width=620&quality=85&auto=format&fit=max&s=a2363de0efbaf570f047bd418b55ac96",
+        "caption": "The German health minister, Jens Spahn, wears a FFP2 protective mask",
+        "link": "https://www.theguardian.com/world/2021/jan/18/germany-weighs-up-mandatory-ffp2-masks-in-shops-and-on-transport",
+        "credit": "Credit: Hayoung Jeon/EPA -- The Guardian"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 1,
+        "day": 18
+      },
+      "text": {
+        "headline": "Germany: Considers FFP2 mandates for the country",
+        "text": "“Germany is weighing up following Austria and Bavaria’s lead in making it compulsory to wear full protective filter masks on public transport and in shops, as the country remains on high alert about the impact of possible coronavirus mutations. The Austrian chancellor, Sebastian Kurz, announced on Sunday that wearing single-use filtering facepiece respirator, or FFP2, masks would become mandatory on public transport and in shops from 25 January, as the Alpine state moves to extend its national lockdown until 7 February.”"
       }
     }
 	
