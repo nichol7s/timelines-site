@@ -17,19 +17,23 @@ To learn more, follow these experts who study aerosol and are activey pushing th
 [![](https://user-images.githubusercontent.com/82182/105086476-f361de80-5a90-11eb-8d3f-7dab334afa3d.png)](/covid19-timeline)
 {: refdef}
 
+Throughout the pandemic there have been studies, and events that prove the virus is airborne/aerosolized. Some countries set policy based on that fact from the start. This timeline spans the pandemic duration and calls out such 'events'.
+
 ### Many other diseases are airborne too:
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/105086571-18eee800-5a91-11eb-80d2-1244da2421c2.png)](/historical-timeline)
 {: refdef}
 
-This is important because the world's default pandemic response should have been to treat COVID-19 as if it was airborne.
+The fact that many other diseases are airborne/aerosolized (or can be in addition to other transmission mechanisms) is important in that it frames how COVID-19 should have been handled from the start.
 
-### Knowing it was airborne, masks were a part of some successful countries strategies:
+### Knowing it was airborne from the start, masks were a part of some countries early strategies:
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/105086641-358b2000-5a91-11eb-8fb2-9be3783ddfd4.png)](/early-masking-countries)
 {: refdef}
+
+Some countries in the west and many in the east mandates masks from very early moments. Those countres arelisted on this timeline. Others are omitted.
 
 ### In 2021, countries are setting new mandates for higher-spec masks
 
@@ -37,9 +41,9 @@ This is important because the world's default pandemic response should have been
 [![](https://user-images.githubusercontent.com/82182/105087417-56a04080-5a92-11eb-84d8-ae660b642070.png)](/masks-2021)
 {: refdef}
 
-## Now we know it's airborne
+With the B.1.1.7 strain of the virus, it is more important than ever to get the best mask you can. Those would be FFP2, N95, KF94, KN95 (etc) grades of masks/respirators.
 
-If you want to make a contribution, take a look at our [GitHub site](https://github.com/its-airborne/timelines-site)
+## Words from our scientist friends:
 
 <div id="slideshow">
    <div>
@@ -75,3 +79,8 @@ Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ
 ![](https://user-images.githubusercontent.com/82182/102404351-82d22880-3fdf-11eb-9b1a-c5a105e89101.png) 
 <br><a href="https://twitter.com/intent/tweet?text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation.%20Masks!%20Air!%20Distance!%20https://pic.twitter.com/noIWVuuogr&name=small" target="_blank">☝️Tweet That Yourself</a>
 {: refdef}
+
+## Contributions
+
+If you want to make a contribution, take a look at our [GitHub site](https://github.com/its-airborne/timelines-site). Suggest anything you like through the issue tracker, or proposed a change for us to merge in using the "pull request" system.
+
