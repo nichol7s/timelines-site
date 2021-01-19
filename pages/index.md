@@ -11,7 +11,7 @@ To learn more, follow these experts who study aerosol and are activey pushing th
 
 ## Four timelines are hosted on this microsite
 
-### COVID-19 is Airborne (studies/events):
+### 1. COVID-19 is Airborne (studies/events):
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/105086476-f361de80-5a90-11eb-8d3f-7dab334afa3d.png)](/covid19-timeline)
@@ -19,7 +19,7 @@ To learn more, follow these experts who study aerosol and are activey pushing th
 
 Throughout the pandemic there have been studies, and events that prove the virus is airborne/aerosolized. Some countries set policy based on that fact from the start. This timeline spans the pandemic duration and calls out such 'events'.
 
-### Many other diseases are airborne too:
+### 2. Many other diseases are airborne too:
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/105086571-18eee800-5a91-11eb-80d2-1244da2421c2.png)](/historical-timeline)
@@ -27,7 +27,7 @@ Throughout the pandemic there have been studies, and events that prove the virus
 
 The fact that many other diseases are airborne/aerosolized (or can be in addition to other transmission mechanisms) is important in that it frames how COVID-19 should have been handled from the start.
 
-### Knowing it was airborne from the start, masks were a part of some countries early strategies:
+### 3. Knowing it was airborne from the start, masks were a part of some countries early strategies:
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/105086641-358b2000-5a91-11eb-8fb2-9be3783ddfd4.png)](/early-masking-countries)
@@ -35,7 +35,7 @@ The fact that many other diseases are airborne/aerosolized (or can be in additio
 
 Some countries in the west and many in the east mandates masks from very early moments. Those countres arelisted on this timeline. Others are omitted.
 
-### In 2021, countries are setting new mandates for higher-spec masks
+### 4. In 2021, countries are setting new mandates for higher-spec masks
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/105087417-56a04080-5a92-11eb-84d8-ae660b642070.png)](/masks-2021)
