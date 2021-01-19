@@ -34,7 +34,7 @@ This is important because the world's default pandemic response should have been
 ### In 2021, countries are setting new mandates for higher-spec masks
 
 {:refdef: style="text-align: center;"}
-[![](https://user-images.githubusercontent.com/82182/105086641-358b2000-5a91-11eb-8fb2-9be3783ddfd4.png)](/masks-2021)
+[![](https://user-images.githubusercontent.com/82182/105087417-56a04080-5a92-11eb-84d8-ae660b642070.png)](/masks-2021)
 {: refdef}
 
 ## Now we know it's airborne
