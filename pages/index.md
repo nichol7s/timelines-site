@@ -63,6 +63,8 @@ With the B.1.1.7 strain of the virus, it is more important than ever to get the 
 
 Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ-aerosols](https://tinyurl.com/FAQ-aerosols). This is actively maintained by a bunch of Profs and Drs.
 
+Sometimes social media blocks use of well know redirector technologies like TinyURL, so we have our own to the same document: [its-airborne.org/FAQ](https://its-airborne.org/FAQ) (4 chars shorter).
+
 #### Change.org campaign: "COVID is airborne"
 
 [@COVIDisAirborne](https://twitter.com/covidisairborne) is running a change.org campaign to get recognition for this fact: [bit.ly/COVIDisAirborne](https://bit.ly/COVIDisAirborne):
@@ -80,7 +82,8 @@ Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ
 <br><a href="https://twitter.com/intent/tweet?text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation.%20Masks!%20Air!%20Distance!%20https://pic.twitter.com/noIWVuuogr&name=small" target="_blank">☝️Tweet That Yourself</a>
 {: refdef}
 
-## Contributions
+## Contributing
 
 If you want to make a contribution, take a look at our [GitHub site](https://github.com/its-airborne/timelines-site). Suggest anything you like through the issue tracker, or proposed a change for us to merge in using the "pull request" system.
 
+You don't have to be too technical to make a contribution, but if you are, understand that our four timelines themselves are in JSON, documents are in Markdown, the site technology is Jekyll and it is hosted on GitHub.
