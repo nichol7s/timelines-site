@@ -120,6 +120,25 @@
         "headline": "Germany: Considers FFP2 mandates for the country",
         "text": "“Germany is weighing up following Austria and Bavaria’s lead in making it compulsory to wear full protective filter masks on public transport and in shops, as the country remains on high alert about the impact of possible coronavirus mutations. The Austrian chancellor, Sebastian Kurz, announced on Sunday that wearing single-use filtering facepiece respirator, or FFP2, masks would become mandatory on public transport and in shops from 25 January, as the Alpine state moves to extend its national lockdown until 7 February.”"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZDUDZPC3C4I6XKLWXLLEGHQD4I.jpg&w=540",
+        "caption": "FFP2 Masks - Washington Post",
+        "link": "https://www.washingtonpost.com/world/europe/europe-coronavirus-masks-regulations/2021/01/20/23463c08-5a74-11eb-a849-6f9423a75ffd_story.html",
+        "credit": "Credit: Thomas Kienzle/AFP/Getty Images"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 1,
+        "day": 18,
+		"hour": 20
+      },
+      "text": {
+        "headline": "Article: Europe’s growing mask ask: Ditch the cloth ones for medical-grade coverings",
+        "text": "Washington Post Article: More about the decision in Germany, Daniel Camus (France's health advisory council):  “Since we don’t have any new weapons against [new variants], the only thing we can do is improve the ones we already have,” (meaning masks)."
+      }
     }
   ]
 }
