@@ -75,7 +75,7 @@ Sometimes social media blocks use of well know redirector technologies like Tiny
 
 #### Masks for All site
 
-The [masks4all.co](https://masks4all.co/) site, and the Twitter tag #masks4All was pushed to prominence by eleven scientists, entrepreneurs and technicians at the end of March. Their goal: a general worldwide deloyment of cloth face coverings, and towards that defeating the false-hoods about them.
+The [masks4all.co](https://masks4all.co/) site, and the Twitter tag #masks4All was pushed to prominence by eleven scientists, entrepreneurs and technicians at the end of March. Their goal: a general worldwide deloyment of cloth face coverings, and towards that defeating the false-hoods about them. [Jeremy Howard](https://twitter.com/jeremyphoward) is the most notable figurehead of this initiative - he's a Distinguished Research Scientist at the [University of San Francisco](https://twitter.com/usfca).
 
 #### M.A.D. Guidelines
 
