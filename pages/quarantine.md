@@ -22,7 +22,7 @@ Laurel Chor on her Paris CDG -> London Heathrow -> Hong Kong flight on **May 14t
 Countries and regions where "Zero Covid" has been attempted or achieved, or is the official "everyone" strategy:
 
 * Australia: A blip at the end of March, then another in August, Australia is now locked into zero-COVID
-* China: **A terrible Jan/Feb/March for Hubei provice** (Wuhan is in Hubei), but the country was not badly affected. Hubei included, China has been super-achieving since
+* China: **A terrible Jan/Feb/March for Hubei province** (Wuhan is in Hubei), but the country was not badly affected. Hubei included, China has been super-achieving since
 * Hong Kong: Some bad months, but continually trying to get there
 * New Zealand: Blip in April, but zero-COVID since
 * Singapore: achieved by October, but with some increase from Jan 2021
