@@ -25,6 +25,9 @@ Countries and regions where "Zero Covid" has been attempted or achieved, or is t
 * Singapore: achieved by Oct 2020, but with some increase from Jan 2021
 * Taiwan: Apart from Apr 2020, zero-COVID locked in
 
+## Not impeding incoming international travelers
+
+* TODO
 
 
 
