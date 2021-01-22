@@ -11,11 +11,19 @@ What effective quarantine looks like **where "Zero Covid" is the goal**. Laurel 
 
 ^ Twelve tweets and a video of a self-test. Click the pic above to open a new tab in Twitter so you can scroll through the tweets.
 
+**Summary:** Some countries and regions have been quarantining incoming passengers in the arly days of the pandemic, and adding proof of test requirements when those were available.
+
+# Countries and regions
+
+## Doing zero-COVID to some degree
+
 Countries and regions where "Zero Covid" has been attempted or achieved, or is the official "everyone" strategy:
 
-* Hong Kong
-* New Zealand
-* China
+* Hong Kong: Some bad months, but continually trying to get there
+* New Zealand: Blip in Apr 2020, but zero-COVID since
+* China: Terrible Feb 2020 for Hubei provice, but the country was not badly affected. Hubei included, China has been super-achieving since.
+* Singapore: achieved by Oct 2020, but with some increase from Jan 2021
+* Taiwan: Apart from Apr 2020, zero-COVID locked in
 
 
 
