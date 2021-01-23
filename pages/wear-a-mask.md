@@ -90,7 +90,7 @@ Timings from start of video:
        >https://youtu.be/vBvFkQizTT4</a></li>
     <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=762s" >12:42</a>
-    <span> Anfinrud et al (2020) </span>https://www.nejm.org/doi/full/10.1056...</a></li>
+    <span> Anfinrud et al (2020) </span>https://www.nejm.org/doi/full/10.1056/NEJMc2007800</li>
     <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=842s" >14:02</a>
     <span> Fears et al (2020) </span>
@@ -125,12 +125,12 @@ Timings from start of video:
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1154s" >19:14</a>
     <span> N95 mask-valve leakage </span>
     <a  href="https://youtu.be/watch?v=JEy1cF2pMdM"
-       >https://youtu.be/JEy1cF2pMdM</a></li>
+       >https://youtu.be/JEy1cF2pMdM</a> (video)</li>
     <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1233s" >20:33</a>
     <span> Anti-mask misinformation </span>
     <a  href="https://youtu.be/watch?v=hJpS_jajub0"
-       >https://youtu.be/hJpS_jajub0</a></li>
+       >https://youtu.be/hJpS_jajub0</a> (video)</li>
     <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1242s" >20:42</a>
     <span> That misinformation debunked by Prof Jimenez </span>
