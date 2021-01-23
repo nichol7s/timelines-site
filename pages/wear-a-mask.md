@@ -38,7 +38,7 @@ See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.e
 
 ## Key studies on filtration effectiveness of various materials/masks:
 
-* University of Wisonsin "fitter" study (above)
+* University of Wisconsin "fitter" study (above)
 * Max-Planck Institute (Germany): [Aerosol filtration efficiency of household materials
   for homemade face masks: Influence of material
   properties, particle size, particle electrical charge,
@@ -169,7 +169,7 @@ Of the nine case-control studies cited in Goddard's quotation of Jefferson, seve
     <a href="https://pubmed.ncbi.nlm.nih.gov/18042961/"
        rel="nofollow" target="_blank" >https://pubmed.ncbi.nlm.nih.gov/18042961</a></li>
     <li><span>@</span>
-    <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=121s" >2:29</a> <span>@ MacIntyre (2015) </span>
+    <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=121s" >2:29</a> <span>MacIntyre (2015) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/25858901/"
         rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/25858901</a></li>
     <li><span>@</span>
