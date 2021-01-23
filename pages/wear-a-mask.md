@@ -140,7 +140,7 @@ See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.e
     <span> Swiss-cheese protection model </span>
     <a 
        href="https://my.clevelandclinic.org/-/scassets/files/org/employer-solutions/covid-19-returning-to-work-guide.ashx"
-       rel="nofollow" target="_blank" >https://my.clevelandclinic.org/-/scas...</a>
+       rel="nofollow" target="_blank" >https://my.clevelandclinic.org/-/scassets/files/org/employer-solutions/covid-19-returning-to-work-guide.ashx</a>
 </div>
 
 #### Goddard's March 2020 video links
