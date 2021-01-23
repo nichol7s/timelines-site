@@ -34,7 +34,7 @@ The all important boost - indicated in chart form:
 
 ![](https://user-images.githubusercontent.com/82182/105577092-5b554500-5d6f-11eb-97fd-037eba011a96.png)
 
-See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.engr.wisc.edu/mask-fitter/).
+See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.engr.wisc.edu/mask-fitter/) and many other choices [google.com/search?q=mask+fitters](https://www.google.com/search?q=mask+fitters).
 
 ## Studies on filtration effectiveness of various masks:
 
