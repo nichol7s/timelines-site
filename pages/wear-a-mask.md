@@ -24,13 +24,13 @@ If you can afford it, get KF94 masks (that are not cloth or washable) for use wh
 
 ## Fitters (to be placed on top of your mask)
 
-[This](https://www.medrxiv.org/content/10.1101/2020.12.31.20249101v1.full.pdf) University of Wisconsin Study (Rothamer et al 2020) is key: Use a "fitter".
+[This](https://www.medrxiv.org/content/10.1101/2020.12.31.20249101v1.full.pdf) University of Wisconsin study (Rothamer et al 2020) is key: You **must** add a "fitter" to your lower quality mask to protect yourself.
 
-Pics of the masks they tested:
+Pics of the four masks they tested:
 
 ![](https://user-images.githubusercontent.com/82182/105577025-d36f3b00-5d6e-11eb-8e83-530b27fa6758.png)
 
-The all important boost - indicated in chart form:
+The all-important filtration boost - indicated in chart form:
 
 ![](https://user-images.githubusercontent.com/82182/105577092-5b554500-5d6f-11eb-97fd-037eba011a96.png)
 
