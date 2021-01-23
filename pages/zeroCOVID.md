@@ -17,10 +17,14 @@ Getting to Zero COVID for an higher infection country requires the above two, an
 * Lockdown all the way through to were Zero COVID has been achieved
 * Aggressive masks and cloth face coverings policies
 
-# Other countries have differnt strategies:
+# Other countries have different strategies
 
-* **Flatten The Curve** - not overwhelm hospitals, but acnowledge at people will die. This is most countries.
-* **Herd Immunity before Vaccine availablily** - countries are not admitting to this, Sweden and the UK have been accused of it at times during the pandemic
+* **Flatten The Curve** - not overwhelm hospitals, but acknowledge at people will die. This is most countries.
+* **Herd Immunity before Vaccine availability** - countries are not admitting to this, Sweden and the UK have been accused of it at times during the pandemic
+
+# Not to be confused with
+
+* "Covid Zero" - a UK national campaign to do with [reducing infection in hospital](https://www.uhs.nhs.uk/AboutTheTrust/Newsandpublications/COVID-ZERO/COVID-ZERO.aspx)
 
 # Articles
 
