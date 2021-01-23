@@ -49,4 +49,5 @@ See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.e
 * Masks **do not** create a false sense of security, See Twitter [thread](https://twitter.com/robshirkey/status/1272945481820356608) by @robshirkey.
 * [Masks4all.co](https://masks4all.co) portal has been pushing the "masks for all" message since March. And a [discussion forum on reddit for the same](https://www.reddit.com/r/Masks4All/).
 * [damerousky.cz](https://damerousky.cz/en) - Citizen made portal for making masks, started in the Czech Republic (Europe) and now an international multi-language effort.
+* [diymasks.ie](https://diymasks.ie/) - more citizen made mask choices and links
 * Goddard's Journal - [second exhaustive review](https://www.youtube.com/watch?v=9CGrBygEQY0) of mask **studies** over the years (and that they work; video).
