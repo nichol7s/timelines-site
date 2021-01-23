@@ -150,12 +150,12 @@ Timings from start of video:
 
 <ul style="font-size: 80%">
 <li>
-    <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=77s" >1:17</a>
-    <span> Jefferson et al (2011) </span>
+    @ <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=77s" >1:17</a>
+    <span>Jefferson et al (2011)</span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/21735402/"
         rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/21735402</a>
     <span>
-Of the nine case-control studies cited in Goddard's quotation of Jefferson, seven involved healthcare workers and two involved mask wearing by uninfected members of the public, Wu et al (2004) @ </span>
+Of the nine case-control studies cited in Goddard's quotation of Jefferson, seven involved healthcare workers and two involved mask wearing by uninfected members of the public, Wu et al (2004) </span>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322931/"
         rel="nofollow" target="_blank">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322931</a>
     <span> and Lau et al (2004) @ </span>
