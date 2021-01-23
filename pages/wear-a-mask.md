@@ -90,7 +90,8 @@ Timings from start of video:
        >https://youtu.be/vBvFkQizTT4</a></li>
     <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=762s" >12:42</a>
-    <span> Anfinrud et al (2020) </span>https://www.nejm.org/doi/full/10.1056/NEJMc2007800</li>
+    <span> Anfinrud et al (2020) </span><a 
+       href="https://www.nejm.org/doi/full/10.1056/NEJMc2007800">https://www.nejm.org/doi/full/10.1056/NEJMc2007800</a></li>
     <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=842s" >14:02</a>
     <span> Fears et al (2020) </span>
