@@ -145,7 +145,7 @@ See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.e
 
 #### Goddard's Oct 2020 video links
 
-<div>
+<div style="font-size: 80%">
 <span>Timings from start of video</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=77s" >1:17</a>
     <span> Jefferson et al (2011) </span>
