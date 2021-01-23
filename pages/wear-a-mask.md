@@ -36,8 +36,9 @@ The all-important filtration boost - indicated in chart form:
 
 See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.engr.wisc.edu/mask-fitter/) and many other choices [google.com/search?q=mask+fitters](https://www.google.com/search?q=mask+fitters).
 
-## Studies on filtration effectiveness of various masks:
+## Key studies on filtration effectiveness of various materials/masks:
 
+* University of Wisonsin "fitter" study (above)
 * Max-Planck Institute (Germany): [Aerosol filtration efficiency of household materials
   for homemade face masks: Influence of material
   properties, particle size, particle electrical charge,
