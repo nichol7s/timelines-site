@@ -243,10 +243,10 @@ Of the nine case-control studies cited in Goddard's quotation of Jefferson, seve
        rel="nofollow" target="_blank" >https://pubmed.ncbi.nlm.nih.gov/17026695</a></li>
     <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=1039s" >17:19</a>
-    <span> DIY facemask video @ </span>
-    <a href="https://youtu.be/watch?v=Pb59qBUNg1o" >https://youtu.be/Pb59qBUNg1o</a></li>
+    <span> DIY facemask </span>
+    <a href="https://youtu.be/watch?v=Pb59qBUNg1o" >https://youtu.be/Pb59qBUNg1o</a> (video)</li>
     <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=1114s" >18:34</a>
-    <span> DIY facemask video @ </span>
-    <a href="https://youtu.be/watch?v=Bs-E_R5WWsY" >https://youtu.be/Bs-E_R5WWsY</a></li>
+    <span> DIY facemask </span>
+    <a href="https://youtu.be/watch?v=Bs-E_R5WWsY" >https://youtu.be/Bs-E_R5WWsY</a> (video)</li>
 </ul>
