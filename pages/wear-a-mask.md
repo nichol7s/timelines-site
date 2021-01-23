@@ -230,10 +230,10 @@ Of the nine case-control studies cited in Goddard's quotation of Jefferson, seve
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=777s" >12:57</a>
     <span> Aiello et al (2012) </span>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266257/"
-        rel="nofollow" target="_blank">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266257</a>
-    <span>@</span>
-    <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=851s" >14:11</a></li>
-    <li><span> MacIntyre (2009) </span>
+        rel="nofollow" target="_blank">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266257</a></li>
+    <li><span>@</span>
+    <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=851s" >14:11</a>
+    <span> MacIntyre (2009) </span>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2662657/"
        rel="nofollow" target="_blank" >https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2662657</a></li>
     <li><span>@</span>
