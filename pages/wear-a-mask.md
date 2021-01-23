@@ -46,12 +46,12 @@ See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.e
 
 ## More Information
 
-* Masks **do not** create a false sense of security, See Twitter [thread](https://twitter.com/robshirkey/status/1272945481820356608) by @robshirkey.
-* [Masks4all.co](https://masks4all.co) portal has been pushing the "masks for all" message since March. And a [discussion forum on reddit for the same](https://www.reddit.com/r/Masks4All/).
-* [damerousky.cz](https://damerousky.cz/en) - Citizen made portal for making masks, started in the Czech Republic (Europe) and now an international multi-language effort.
+* Masks **do not** create a false sense of security, See Twitter [thread](https://twitter.com/robshirkey/status/1272945481820356608) by Rob Shirkey
+* [Masks4all.co](https://masks4all.co) portal has been pushing the "masks for all" message since March. And a [discussion forum on reddit for the same](https://www.reddit.com/r/Masks4All/)
+* [damerousky.cz](https://damerousky.cz/en) - Citizen made portal for making masks, started in the Czech Republic (Europe) and now an international multi-language effort
 * [DiyMasks.ie](https://diymasks.ie/) - more citizen made mask choices and links
-* Goddard's Journal: [second review of mask studies](https://www.youtube.com/watch?v=9CGrBygEQY0)  (Oct 15, 2020) over the years and that they work (video).
-* Goddard's Journal: [first review of mask studies](https://www.youtube.com/watch?v=_JH04M04eQQ)  (Mar 25, 2020) over the years and that they work (video).
+* Goddard's Journal: [second review of mask studies](https://www.youtube.com/watch?v=9CGrBygEQY0)  (Oct 15, 2020) over the years and that they work (video)
+* Goddard's Journal: [first review of mask studies](https://www.youtube.com/watch?v=_JH04M04eQQ)  (Mar 25, 2020) over the years and that they work (video)
 
 #### Goddard's October 2020 video links
 
@@ -165,8 +165,8 @@ Of the nine case-control studies cited in Goddard's quotation of Jefferson, seve
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=121s" >2:01</a>
     <span> Jefferson et al (2008) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/18042961/"
-       rel="nofollow" target="_blank" >https://pubmed.ncbi.nlm.nih.gov/18042961</a>
-    <span>@ MacIntyre (2015) </span>
+       rel="nofollow" target="_blank" >https://pubmed.ncbi.nlm.nih.gov/18042961</a></li>
+    <li><span>@ MacIntyre (2015) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/25858901/"
         rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/25858901</a></li>
     <li><span>@</span>
@@ -230,10 +230,9 @@ Of the nine case-control studies cited in Goddard's quotation of Jefferson, seve
     <span> Aiello et al (2012) </span>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266257/"
         rel="nofollow" target="_blank">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266257</a>
-    <span>
- @ </span>
-    <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=851s" >14:11</a>
-    <span> MacIntyre (2009) </span>
+    <span>@</span>
+    <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=851s" >14:11</a></li>
+    <li><span> MacIntyre (2009) </span>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2662657/"
        rel="nofollow" target="_blank" >https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2662657</a></li>
     <li><span>@</span>
