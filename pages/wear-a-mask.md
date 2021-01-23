@@ -53,9 +53,10 @@ See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.e
 * Goddard's Journal: [second review of mask studies](https://www.youtube.com/watch?v=9CGrBygEQY0)  (Oct 15, 2020) over the years and that they work (video).
 * Goddard's Journal: [first review of mask studies](https://www.youtube.com/watch?v=_JH04M04eQQ)  (Mar 25, 2020) over the years and that they work (video).
 
-#### Goddard video links - (October Study)
+#### Goddard video links - (Oct 2020 study)
 
-<div style="font-size: 60%">
+<div style="font-size: 80%">
+    <span>Timings from start of video above</span>
     <a href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=30s" dir="auto">00:30</a>
     <span dir="auto"> Wang et al (2020) </span>
     <a 
