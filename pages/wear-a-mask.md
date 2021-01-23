@@ -55,98 +55,101 @@ See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.e
 
 #### Goddard's October 2020 video links
 
-<div style="font-size: 80%">
-    <span>Timings from start of video</span>
-    <a href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=30s" >00:30</a>
+Timings from start of video:
+
+<ul style="font-size: 80%">
+    <li><span>@</span><a href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=30s" >00:30</a>
     <span> Wang et al (2020) </span>
     <a 
        href="https://gh.bmj.com/content/5/5/e002794"
-       rel="nofollow" target="_blank" >https://gh.bmj.com/content/5/5/e002794</a>
-    <span>@ </span>
+       rel="nofollow" target="_blank" >https://gh.bmj.com/content/5/5/e002794</a></li>
+    <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=102s" >01:42</a>
     <span> Chan et al (2020) </span>
     <a 
        href="https://academic.oup.com/cid/article/71/16/2139/5848814"
-       rel="nofollow" target="_blank" >https://academic.oup.com/cid/article/71/16/2139/5848814</a>
-    <span>@ </span>
+       rel="nofollow" target="_blank" >https://academic.oup.com/cid/article/71/16/2139/5848814</a></li>
+    <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=328s" >05:28</a>
     <span> Chu et al (2020) </span>
     <a 
        href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext"
-       rel="nofollow" target="_blank" >https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext</a>
-    <span>@ </span>
+       rel="nofollow" target="_blank" >https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext</a></li>
+    <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=607s" >10:07</a>
     <span> Leung et al (2020) </span>
     <a 
        href="https://www.nature.com/articles/s41591-020-0843-2"
-       rel="nofollow" target="_blank" >https://www.nature.com/articles/s41591-020-0843-2</a>
-    <span>@ </span>
+       rel="nofollow" target="_blank" >https://www.nature.com/articles/s41591-020-0843-2</a></li>
+    <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=723s" >12:03</a>
     <span> NHK program on airborne transmission </span>
     <a 
        href="https://youtu.be/watch?v=vBvFkQizTT4"
-       >https://youtu.be/vBvFkQizTT4</a>
-    <span>@ </span>
+       >https://youtu.be/vBvFkQizTT4</a></li>
+    <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=762s" >12:42</a>
-    <span> Anfinrud et al (2020) </span>https://www.nejm.org/doi/full/10.1056...</a>
-    <span>@ </span>
+    <span> Anfinrud et al (2020) </span>https://www.nejm.org/doi/full/10.1056...</a></li>
+    <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=842s" >14:02</a>
     <span> Fears et al (2020) </span>
     <a 
        href="https://wwwnc.cdc.gov/eid/article/26/9/20-1806_article"
-       rel="nofollow" target="_blank" >https://wwwnc.cdc.gov/eid/article/26/9/20-1806_article</a>
-    <span>@ </span>
+       rel="nofollow" target="_blank" >https://wwwnc.cdc.gov/eid/article/26/9/20-1806_article</a></li>
+    <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=873s" >14:33</a>
     <span> Lednicky et al (2020) </span>
     <a 
        href="https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext"
-       rel="nofollow" target="_blank" >https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext</a>
-    <span>@ </span>
+       rel="nofollow" target="_blank" >https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext</a></li>
+    <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=895s" >14:55</a>
     <span> Bourouiba (2020) </span>
     <a 
        href="https://jamanetwork.com/journals/jama/fullarticle/2763852"
-       rel="nofollow" target="_blank" >https://jamanetwork.com/journals/jama/fullarticle/2763852</a>
-    <span>@ </span>
+       rel="nofollow" target="_blank" >https://jamanetwork.com/journals/jama/fullarticle/2763852</a></li>
+    <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=905s" >15:05</a>
     <span> Verma et al (2020) </span>
     <a 
        href="https://aip.scitation.org/doi/10.1063/5.0016018"
-       rel="nofollow" target="_blank" >https://aip.scitation.org/doi/10.1063/5.0016018</a>
-    <span>@ </span>
+       rel="nofollow" target="_blank" >https://aip.scitation.org/doi/10.1063/5.0016018</a></li>
+    <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1006s" >16:46</a>
     <span> Fischer et al (2020) </span>
     <a 
        href="https://advances.sciencemag.org/content/6/36/eabd3083"
-       rel="nofollow" target="_blank" >https://advances.sciencemag.org/content/6/36/eabd3083</a>
-    <span>@ </span>
+       rel="nofollow" target="_blank" >https://advances.sciencemag.org/content/6/36/eabd3083</a></li>
+    <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1154s" >19:14</a>
     <span> N95 mask-valve leakage </span>
     <a  href="https://youtu.be/watch?v=JEy1cF2pMdM"
-       >https://youtu.be/JEy1cF2pMdM</a>
-    <span>@ </span>
+       >https://youtu.be/JEy1cF2pMdM</a></li>
+    <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1233s" >20:33</a>
     <span> Anti-mask misinformation </span>
     <a  href="https://youtu.be/watch?v=hJpS_jajub0"
-       >https://youtu.be/hJpS_jajub0</a>
-    <span>@ </span>
+       >https://youtu.be/hJpS_jajub0</a></li>
+    <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1242s" >20:42</a>
     <span> That misinformation debunked by Prof Jimenez </span>
     <a 
        href="https://twitter.com/NuritBaytch/status/1300064418458472453"
-       rel="nofollow" target="_blank" >https://twitter.com/NuritBaytch/status/1300064418458472453</a>
-    <span>@ </span>
+       rel="nofollow" target="_blank" >https://twitter.com/NuritBaytch/status/1300064418458472453</a></li>
+    <li><span>@</span>
     <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1249s" >20:49</a>
     <span> Swiss-cheese protection model </span>
     <a 
        href="https://my.clevelandclinic.org/-/scassets/files/org/employer-solutions/covid-19-returning-to-work-guide.ashx"
-       rel="nofollow" target="_blank" >https://my.clevelandclinic.org/-/scassets/files/org/employer-solutions/covid-19-returning-to-work-guide.ashx</a>
-</div>
+       rel="nofollow" target="_blank" >https://my.clevelandclinic.org/-/scassets/files/org/employer-solutions/covid-19-returning-to-work-guide.ashx</a></li>
+</ul>
 
 #### Goddard's March 2020 video links
 
-<div style="font-size: 80%">
-<span>Timings from start of video</span>
+Timings from start of video:
+
+<ul style="font-size: 80%">
+<li>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=77s" >1:17</a>
     <span> Jefferson et al (2011) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/21735402/"
@@ -157,72 +160,72 @@ Of the nine case-control studies cited in Goddard's quotation of Jefferson, seve
         rel="nofollow" target="_blank">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322931</a>
     <span> and Lau et al (2004) @ </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/15200846/"
-       rel="nofollow" target="_blank" >https://pubmed.ncbi.nlm.nih.gov/15200846</a>
-    <span>@ </span>
+       rel="nofollow" target="_blank" >https://pubmed.ncbi.nlm.nih.gov/15200846</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=121s" >2:01</a>
     <span> Jefferson et al (2008) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/18042961/"
        rel="nofollow" target="_blank" >https://pubmed.ncbi.nlm.nih.gov/18042961</a>
     <span>@ MacIntyre (2015) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/25858901/"
-        rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/25858901</a>
-    <span>@ </span>
+        rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/25858901</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=249s" >4:09</a>
     <span> Hui &amp; Chan (2010) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/20674795/"
         rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/20674795</a>
     <span> and Breban et al (2013) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/23831141/"
-       rel="nofollow" target="_blank" >https://pubmed.ncbi.nlm.nih.gov/23831...</a>
-    <span>@ </span>
+       rel="nofollow" target="_blank" >https://pubmed.ncbi.nlm.nih.gov/23831141</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=261s" >4:21</a>
     <span> van Doremalen et al </span>
     <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2004973"
         rel="nofollow" target="_blank">https://www.nejm.org/doi/full/10.1056/NEJMc2004973</a>
     <span> and Ong et al (2020) </span>
     <a href="https://jamanetwork.com/journals/jama/fullarticle/2762692"
-        rel="nofollow" target="_blank">https://jamanetwork.com/journals/jama/fullarticle/2762692</a>
-    <span>@ </span>
+        rel="nofollow" target="_blank">https://jamanetwork.com/journals/jama/fullarticle/2762692</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=326s" >5:26</a>
     <span> Tracht et al (2010) </span>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818714/"
-        rel="nofollow" target="_blank">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818714</a>
-    <span>@ </span>
+        rel="nofollow" target="_blank">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818714</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=418s" >6:58</a>
     <span> Cui et al (2019) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/31499643/"
-        rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/31499643/.</a>
-    <span>@ </span>
+        rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/31499643/.</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=502s" >8:22</a>
     <span> Tracht et al (2012) </span>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307882/"
-        rel="nofollow" target="_blank">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307882</a>
-    <span>@ </span>
+        rel="nofollow" target="_blank">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307882</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=595s" >9:55</a>
     <span> Aiello et al (2012) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/22295066/"
-        rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/22295066</a>
-    <span>@ </span>
+        rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/22295066</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=636s" >10:36</a>
     <span> Suess et al (2012) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/22280120/"
-        rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/22280120</a>
-    <span>@ </span>
+        rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/22280120</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=664s" >11:04</a>
     <span> Cowling et al (2009) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/19652172/"
-        rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/19652172</a>
-    <span>@ </span>
+        rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/19652172</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=692s" >11:32</a>
     <span> Larson et al (2010) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/20297744/"
-        rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/20297744</a>
-    <span>@ </span>
+        rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/20297744</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=723s" >12:03</a>
     <span> Simmerman et al (2011) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/21651736"
-        rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/21651736</a>
-    <span>@ </span>
+        rel="nofollow" target="_blank">https://pubmed.ncbi.nlm.nih.gov/21651736</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=777s" >12:57</a>
     <span> Aiello et al (2012) </span>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266257/"
@@ -232,18 +235,18 @@ Of the nine case-control studies cited in Goddard's quotation of Jefferson, seve
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=851s" >14:11</a>
     <span> MacIntyre (2009) </span>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2662657/"
-       rel="nofollow" target="_blank" >https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2662657</a>
-    <span>@ </span>
+       rel="nofollow" target="_blank" >https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2662657</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=945s" >15:45</a>
     <span> Foo et al (2006) </span>
     <a href="https://pubmed.ncbi.nlm.nih.gov/17026695/"
-       rel="nofollow" target="_blank" >https://pubmed.ncbi.nlm.nih.gov/17026695</a>
-    <span>@ </span>
+       rel="nofollow" target="_blank" >https://pubmed.ncbi.nlm.nih.gov/17026695</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=1039s" >17:19</a>
     <span> DIY facemask video @ </span>
-    <a href="https://youtu.be/watch?v=Pb59qBUNg1o" >https://youtu.be/Pb59qBUNg1o</a>
-    <span>@ </span>
+    <a href="https://youtu.be/watch?v=Pb59qBUNg1o" >https://youtu.be/Pb59qBUNg1o</a></li>
+    <li><span>@</span>
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=1114s" >18:34</a>
     <span> DIY facemask video @ </span>
-    <a href="https://youtu.be/watch?v=Bs-E_R5WWsY" >https://youtu.be/Bs-E_R5WWsY</a>
-</div>
+    <a href="https://youtu.be/watch?v=Bs-E_R5WWsY" >https://youtu.be/Bs-E_R5WWsY</a></li>
+</ul>
