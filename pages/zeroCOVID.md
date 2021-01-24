@@ -14,17 +14,21 @@ Maintaining Zero COVID requires:
 
 Getting to Zero COVID for an higher infection country requires the above two, and:
 
-* Lockdown all the way through to were Zero COVID has been achieved
+* Lockdown all the way through to where Zero COVID has been achieved
 * Aggressive masks and cloth face coverings policies
 
 # Other countries have different strategies
 
-* **Flatten The Curve** - not overwhelm hospitals, but acknowledge at people will die. This is most countries.
-* **Herd Immunity before Vaccine availability** - countries are not admitting to this, Sweden and the UK have been accused of it at times during the pandemic
+* **Flatten The Curve** - not overwhelm hospitals, but acknowledge at people will die. This is most countries. Depending on the R0 number and the availability of vaccines, there's a legitimate fear stay at home orders could just be repreated for long periods of time.
+* **Herd Immunity before Vaccine availability** - countries are not admitting to this, Sweden and the UK have been accused of it at times during the pandemic. A hallmark of this strategy would be to not restrict movements and not enact mask mandates.
 
 # Not to be confused with
 
 * "Covid Zero" - a UK national campaign to do with [reducing infection in hospital](https://www.uhs.nhs.uk/AboutTheTrust/Newsandpublications/COVID-ZERO/COVID-ZERO.aspx)
+
+# On Lockdowns
+
+Lockdowns to acheive Zero COVID has been proven possible. Most countries running forms of "stay at home" orders are doing it to flatten the curve and not achieve Zero COVID.  
 
 # Articles
 
