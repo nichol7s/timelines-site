@@ -1,8 +1,11 @@
-<html>
-<head>
- <meta charset=utf-8>
-</head>
-<body>
+---
+title: test
+nav_order: -1
+permalink: /svg-twt-mockup
+---
+
+Markdown markdown
+
 <a href="https://twitter.com/laurelchor/status/1260784481159442434">
 <svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="-53.5 -93.5 548 602" width="548" height="602">
  <defs>
@@ -85,8 +88,6 @@
  </g>
 </svg>
 </a>
-</body>
-</html>
 
-
+More markdown
 
