@@ -6,8 +6,7 @@ permalink: /svg-twt-mockup
 
 Markdown markdown
 
-<a href="https://twitter.com/laurelchor/status/1260784481159442434">
-<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="-53.5 -93.5 548 602" width="548" height="602">
+<a href="https://twitter.com/laurelchor/status/1260784481159442434"><svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="-53.5 -93.5 548 602" width="548" height="602">
  <defs>
   <font-face font-family="Helvetica Neue" font-size="19" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
    <font-face-src>
@@ -86,8 +85,7 @@ Markdown markdown
    </g>
   </g>
  </g>
-</svg>
-</a>
+</svg></a>
 
 More markdown
 
