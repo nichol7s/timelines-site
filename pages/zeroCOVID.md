@@ -12,15 +12,17 @@ Maintaining Zero COVID requires:
 * [Quarantine](/quarantine)
 * World-class "Test and Trace"
 
-Getting to Zero COVID for an higher infection country requires the above two, and:
+Getting to Zero COVID for a higher-infection country requires the above two, and:
 
-* Lockdown all the way through to where Zero COVID has been achieved
+* A solid lockdown
 * Aggressive masks and cloth face coverings policies
+
+These need to be held to until Zero COVID has been fully achieved.
 
 # Other countries have different strategies
 
-* **Flatten The Curve** - not overwhelm hospitals, but acknowledge at people will die. This is most countries. Depending on the R0 number and the availability of vaccines, there's a legitimate fear stay at home orders could just be repreated for long periods of time.
-* **Herd Immunity before Vaccine availability** - countries are not admitting to this, Sweden and the UK have been accused of it at times during the pandemic. A hallmark of this strategy would be to not restrict movements and not enact mask mandates.
+* **Flatten The Curve** - not overwhelm hospitals, but acknowledge at people will die. This is most countries. Depending on the R0 number and the availability of vaccines, there is a legitimate fear 'stay at home' orders could just be relaxed and then repeated for long periods of time.
+* **Herd Immunity before Vaccine availability** - countries are not admitting to this, Sweden and the UK have been accused of it at times during the pandemic. A hallmark of this strategy would be to not restrict movements and not enact solid mask mandates (or implement weak mask recommendations)
 
 # Not to be confused with
 
@@ -28,7 +30,7 @@ Getting to Zero COVID for an higher infection country requires the above two, an
 
 # On Lockdowns
 
-Lockdowns to acheive Zero COVID has been proven possible. Most countries running forms of "stay at home" orders are doing it to flatten the curve and not achieve Zero COVID.  
+Lockdowns to achieve Zero COVID has been proven possible. Most countries running forms of "stay at home" orders are doing it to flatten the curve though and not achieve Zero COVID.  
 
 # Articles
 
