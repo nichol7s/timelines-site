@@ -22,3 +22,7 @@ Inexpensive gauges can be used to show the levels of CO2 in an enclosed space. W
 If your country has achieved Zero COVID, then changes in ventilation may not be needed. [Quarantine](/quarantine) and Test and Trace are much more important. 
 
 If your country is aiming to get to Zero COVID and is not currently in lockdown, then ventilation is very importnt. 
+
+# 1918 Again
+
+After the "Spanish Flu" had subsided, there was a rise in home heating using radiators that lasted some decades until ducted air systems rose again. Read more on this bloombeg article: [Your Old Radiator Is a Pandemic-Fighting Weapon](https://www.bloomberg.com/news/articles/2020-08-05/the-curious-history-of-steam-heat-and-pandemics) (subtitle: Turn-of-the-century faith in ventilation to combat disease pushed engineers to design steam heating systems that still overheat apartments today; date Aug 2020).
