@@ -14,4 +14,4 @@ permalink: /two-meter-rule
 
 ![](https://www.cebm.net/wp-content/uploads/2020/06/2-metre-rule-PPTLB.jpg)
 
-[The article](https://www.cebm.net/covid-19/what-is-the-evidence-to-support-the-2-metre-social-distancing-rule-to-reduce-covid-19-transmission/)
+[Their exhaustive article](https://www.cebm.net/covid-19/what-is-the-evidence-to-support-the-2-metre-social-distancing-rule-to-reduce-covid-19-transmission/)
