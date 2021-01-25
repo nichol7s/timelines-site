@@ -7,11 +7,11 @@ permalink: /quarantine
 
 What effective quarantine looks like **where "Zero COVID" is the goal**. 
 
-Laurel Chor on her Paris CDG -> London Heathrow -> Hong Kong flight on **May 14th, 2020**:
+Laurel Chor on her Paris CDG -> London Heathrow -> Hong Kong flight on **May 14th, 2020** details the first half of effective quarantine - how you are greeted on arrival in a country:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve landed in Hong Kong after flying from Paris CDG, via London Heathrow. I now have to wait ~8 hours before I get my <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> test results and thus have ample time to tweet about my experience. <a href="https://t.co/jCDPuwrTzL">pic.twitter.com/jCDPuwrTzL</a></p>&mdash; Laurel Chor (@laurelchor) <a href="https://twitter.com/laurelchor/status/1260784481159442434?ref_src=twsrc%5Etfw">May 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-^ Twelve tweets and a video of a self-test. Click the pic above to open a new tab in Twitter so you can scroll through the tweets.
+^ Twelve tweets and a video of a self-test. Click the pic above to open a new tab in Twitter so you can scroll through the tweets. The second half of a perfect quarantine system would be the mandatory hotel stay to see if you have the virus but it doesn't get indicated by tests yet.
 
 **Summary:** Some countries and regions have been quarantining incoming passengers in the arly days of the pandemic, and adding proof of test requirements when those were available.
 
