@@ -13,6 +13,8 @@ Laurel Chor on her Paris CDG -> London Heathrow -> Hong Kong flight on **May 14t
 
 ^ Twelve tweets and a video of a self-test. Click the pic above to open a new tab in Twitter so you can scroll through the tweets. The second half of a perfect quarantine system would be the mandatory hotel stay to see if you have the virus but it doesn't get indicated by tests yet.
 
+The second half of effective quarantine is a mandatory stay in a hotel for 10-14 days. For Hong Kong and Laurel back in May, this was not necessary. It is a [part of Hong Kong's comprehensive strategy now](https://www.coronavirus.gov.hk/eng/designated-hotel.html).
+
 **Summary:** Some countries and regions have been quarantining incoming passengers in the arly days of the pandemic, and adding proof of test requirements when those were available.
 
 # Countries and regions
