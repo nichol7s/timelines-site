@@ -212,6 +212,24 @@
         "headline": "France bans certain homemade Covid masks for use in public",
         "text": "France has issued a decree banning certain homemade masks from being worn in public, saying they do not offer sufficient protection from the newer, more contagious Covid-19 variants."
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NJ7JNOFE6AI6VCMOWINZVA7XSI.jpg&w=916",
+        "caption": "A nurse poses for a portrait with an N95 mask",
+        "link": "https://www.washingtonpost.com/opinions/2021/01/26/n95-masks-safest-next-best-options/",
+        "credit": "Credit: Biz Herman for The Washington Post"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 1,
+        "day": 26
+      },
+      "text": {
+        "headline": "Opinion: Everyone should be wearing N95 masks now",
+        "text": "The masks I’m referring to, of course, are N95s. These are cheap — pre-pandemic they cost about 50 cents — and easy to manufacture. Yet our country has failed to invoke the Defense Production Act to produce enough masks for health-care workers and other essential workers [Joseph G. Allen, Op-ed]"
+      }
     }
   ]
 }
