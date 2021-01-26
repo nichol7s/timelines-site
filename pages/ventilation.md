@@ -5,6 +5,8 @@ layout: page
 permalink: /ventilation
 ---
 
+Ventilation is a prevention strategy alondside [quarantine](/quarantine), test and trace, masks, and distance
+
 # Synopsis
 
 Just like in 1918 for the Spanish Flu pandemic, ventilation of enclosed spaces is key to reducing transmission. That can range from opening windows to deliberate air cleaning solutions which were not available in 1918.
@@ -25,4 +27,11 @@ If your country is aiming to get to Zero COVID and is not currently in lockdown,
 
 # 1918 Again
 
+Orla Hegarty summarizes thousands of news clippings to reinforce a strategy back then:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Spanish flu had no vaccines, all efforts went to prevention<br><br>“The value of fresh air through open windows cannot be over-emphasized” <a href="https://t.co/6iJm6nBMCn">pic.twitter.com/6iJm6nBMCn</a></p>&mdash; Orla Hegarty (@Orla_Hegarty) <a href="https://twitter.com/Orla_Hegarty/status/1353808524179091457?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Home heating for a while after 1918
+
 After the "Spanish Flu" had subsided, there was a rise in home heating using radiators that lasted some decades until ducted air systems rose again. Read more on this bloombeg article: [Your Old Radiator Is a Pandemic-Fighting Weapon](https://www.bloomberg.com/news/articles/2020-08-05/the-curious-history-of-steam-heat-and-pandemics) (subtitle: Turn-of-the-century faith in ventilation to combat disease pushed engineers to design steam heating systems that still overheat apartments today; date Aug 2020).
+
