@@ -13,7 +13,7 @@
   "events": [
     {
       "media": {
-        "thumbnail": "",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png",
         "url": "https://user-images.githubusercontent.com/82182/106038475-e61ba400-60cf-11eb-9782-7904369c54b5.png",
         "caption": "",
         "link": "https://static01.nyt.com/images/2020/11/22/magazine/22mag-masks1/22mag-masks1-superJumbo.jpg?quality=90&auto=webp",
@@ -31,7 +31,7 @@
     },
     {
       "media": {
-        "thumbnail": "",
+        "thumbnail": "https://user-images.githubusercontent.com/82182/106069856-3ceaa300-60fb-11eb-8c22-345e9055b49b.png",
         "url": "https://user-images.githubusercontent.com/82182/106066344-91d6eb00-60f4-11eb-89cc-5e4987cfe737.png",
         "caption": "",
         "link": "https://www.bloomberg.com/news/articles/2020-02-06/want-to-avoid-virus-forget-face-masks-top-airline-doctor-says",
@@ -49,7 +49,7 @@
     },
     {
       "media": {
-        "thumbnail": "",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png",
         "url": "https://pbs.twimg.com/media/EUOl2i4XQAEH6xE?format=jpg&name=900x900",
         "caption": "",
         "link": "",
@@ -79,7 +79,7 @@
         "day": 5
       },
       "text": {
-        "headline": "UK: In the run up to their first lockdown, only 273 of the 18.1m air passengers quarantined",
+        "headline": "UK: Up to 1st lockdown, UK quarantines only 273 of 18.1m air passengers",
         "text": "The UK government insisted that the scientific advice showed that placing restrictions at the border would not have had a significant impact on the spread of the virus in the UK. Their first lockdown was the 16 March, 2020. See also <a href='https://www.theguardian.com/world/2020/jun/11/british-clampdown-on-non-essential-travel-came-a-week-too-late'>No 'patient zero' as Covid-19 came into UK at least 1,300 times</a>"
       }
     }
