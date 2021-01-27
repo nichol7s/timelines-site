@@ -87,7 +87,7 @@
                     elem.setAttribute('rel', 'noopener');
                 })
             $("a[href^='https://twitter.com']").each(function (idx) {
-                $(this).html("<svg width='17' height='17' " +
+                $(this).html("<span><svg width='17' height='17' " +
                     "viewBox='328 355 335 276' " +
                     "xmlns='http://www.w3.org/2000/svg'>  " +
                     "<path d='M 630, 425 " +
@@ -105,7 +105,7 @@
                     "A 117, 117 0 0 0 662, 390" +
                     "A  65,  65 0 0 1 630, 425 Z'    " +
                     "style='fill:#3BA9EE;'/>" +
-                    "</svg>" + $(this).html());
+                    "</svg></span>" + $(this).html());
             });
             $(".tl-media-content").each(function (idx) {
                 $(this)
