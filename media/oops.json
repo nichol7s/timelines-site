@@ -1,0 +1,33 @@
+{
+  "title": {
+    "media": {
+      "url": "",
+      "caption": "",
+      "credit": ""
+    },
+    "text": {
+      "headline": "",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.statnews.com/wp-content/uploads/2021/01/AdobeStock_350822281-768x432.jpeg",
+        "caption": "",
+        "link": "https://static01.nyt.com/images/2020/11/22/magazine/22mag-masks1/22mag-masks1-superJumbo.jpg?quality=90&auto=webp",
+          "credit": "New York Times"
+      },
+      "start_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      },
+      "text": {
+        "headline": "Claim: US Declines offer to expand N95 manufacture",
+        "text": "\"January [2020], Department of Health and Human Services officials effectively dismissed an offer from one of America’s few remaining N95 manufacturers, Prestige Ameritech, to expand its production lines\". Via  <a href='https://twitter.com/AbraarKaran/status/1354226326064910336'>@AbraarKaran</a> "
+      }
+    }
+  ]
+}
