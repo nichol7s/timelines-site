@@ -32,6 +32,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/106066344-91d6eb00-60f4-11eb-89cc-5e4987cfe737.png",
+        "caption": "",
+        "link": "https://www.bloomberg.com/news/articles/2020-02-06/want-to-avoid-virus-forget-face-masks-top-airline-doctor-says",
+        "credit": ""
+      },
+      "start_date": {
+        "year": 2020,
+        "month": 2,
+        "day": 6
+      },
+      "text": {
+        "headline": "IATA medical adviser : \"Forget Masks\"",
+        "text": "International Air Transport Association has a physician as a medical advisor, David Powell. He gave a video interview for Bloomberg and suggested that masks did a \"better job of spreading bugs than preventing them\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://pbs.twimg.com/media/EUOl2i4XQAEH6xE?format=jpg&name=900x900",
         "caption": "",
         "link": "",
@@ -44,7 +62,7 @@
       },
       "text": {
         "headline": "Instruction: US citizens should stop buying masks as they are \"not effective\"",
-        "text": "The tweet has been deleted now, but Surgeon General Jerome Adams, claimed that masks were ineffective. A month later he showed the world how to make masks from T-Shirts. When Joe Biden became the 46th president, Adams was asked to hand in his resignation. Adams hasn't accouted for what happened in February leading up to that regretable statement"
+        "text": "The tweet has been deleted now, but Surgeon General Jerome Adams, claimed that masks were ineffective. A month later he showed the world how to make masks from T-Shirts. When Joe Biden became the 46th president, Adams was asked to hand in his resignation. Adams hasn't accouted for what happened in February leading up to that regrettable statement"
       }
     }
   ]
