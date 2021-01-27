@@ -64,6 +64,24 @@
         "headline": "Instruction: US citizens should stop buying masks as they are \"not effective\"",
         "text": "The tweet has been deleted now, but Surgeon General Jerome Adams, claimed that masks were ineffective. A month later he showed the world how to make masks from T-Shirts. When Joe Biden became the 46th president, Adams was asked to hand in his resignation. Adams hasn't accouted for what happened in February leading up to that regrettable statement"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/32px-Flag_of_the_United_Kingdom.svg.png",
+        "url": "https://i.guim.co.uk/img/media/b547dddb1944047e5816a6a081fac07d98ae85b7/100_325_4370_2621/master/4370.jpg?width=620&quality=85&auto=format&fit=max&s=860a5d9971743ffae1cb0ef2edb49617",
+        "caption": "",
+        "link": "https://www.theguardian.com/world/2020/may/05/just-273-people-arriving-in-uk-in-run-up-to-lockdown-quarantined",
+          "credit": ""
+      },
+      "start_date": {
+        "year": 2020,
+        "month": 5,
+        "day": 5
+      },
+      "text": {
+        "headline": "UK: In the run up to their first lockdown, only 273 of the 18.1m air passengers quarantined",
+        "text": "The UK government insisted that the scientific advice showed that placing restrictions at the border would not have had a significant impact on the spread of the virus in the UK. Their first lockdown was the 16 March, 2020. See also <a href='https://www.theguardian.com/world/2020/jun/11/british-clampdown-on-non-essential-travel-came-a-week-too-late'>No 'patient zero' as Covid-19 came into UK at least 1,300 times</a>"
+      }
     }
   ]
 }
