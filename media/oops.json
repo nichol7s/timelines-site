@@ -7,14 +7,14 @@
     },
     "text": {
       "headline": "Oops Timeline",
-      "text": "Events, statements, laws, rulings that may have been regretted ☞"
+      "text": "Events, statements, laws, orders, rulings, and policy decisions that may have been regretted ☞"
     }
   },
   "events": [
     {
       "media": {
         "thumbnail": "",
-        "url": "https://www.statnews.com/wp-content/uploads/2021/01/AdobeStock_350822281-768x432.jpeg",
+        "url": "https://user-images.githubusercontent.com/82182/106038475-e61ba400-60cf-11eb-9782-7904369c54b5.png",
         "caption": "",
         "link": "https://static01.nyt.com/images/2020/11/22/magazine/22mag-masks1/22mag-masks1-superJumbo.jpg?quality=90&auto=webp",
           "credit": "New York Times"
@@ -26,7 +26,7 @@
       },
       "text": {
         "headline": "Claim: US Declines offer to expand N95 manufacture",
-        "text": "\"January [2020], Department of Health and Human Services officials effectively dismissed an offer from one of America’s few remaining N95 manufacturers, Prestige Ameritech, to expand its production lines\". Via  <a href='https://twitter.com/AbraarKaran/status/1354226326064910336'>@AbraarKaran</a> "
+        "text": "\"January [2020], Department of Health and Human Services officials effectively dismissed an offer from one of America’s few remaining N95 manufacturers, Prestige Ameritech, to expand its production lines\". New York Times article via  <a href='https://twitter.com/AbraarKaran/status/1354226326064910336'>@AbraarKaran</a> "
       }
     }
   ]
