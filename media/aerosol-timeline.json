@@ -624,6 +624,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.abc.net.au/cm/rimage/12895112-3x2-xlarge.jpg?v=2",
+        "caption": "Peppers Waymouth Hotel (Australia)- one of many quarantine hotels",
+        "link": "https://www.abc.net.au/news/2020-12-15/ventilation-system-may-have-caused-hotel-quarantine-transmission/12984280",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "202",
+        "month": 12,
+        "day": 15
+      },
+      "text": {
+        "headline": "Cases that ‘leak’ out of quarantine hotels are most likely due to failure to take #airborne precautions in buildings & transportation",
+        "text": "\"During those times it is possible for droplets and aerosol to come out of that room, and if the ventilation in the passageway is not optimal then it is possible for those droplets to concentrate\". ABC article via <a href='https://twitter.com/Orla_Hegarty/status/1352306551118245896'>@Orla_Hegarty</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/05d942d9-3ffa-4e9f-a6af-e016d1bc029b/gr1.jpg",
         "caption": "Structure of the apartment building where the infection outbreaks occurred in two vertical line",
         "link": "https://www.ijidonline.com/article/S1201-9712(20)32558-3/fulltext",
