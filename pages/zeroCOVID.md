@@ -28,6 +28,10 @@ These need to be held to until Zero COVID has been fully achieved.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Essential to watch <a href="https://t.co/ri1uIYXkHK">pic.twitter.com/ri1uIYXkHK</a></p>&mdash; Prof. Devi Sridhar (@devisridhar) <a href="https://twitter.com/devisridhar/status/1353320706268921858?ref_src=twsrc%5Etfw">January 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+# Some Countries Ponder Zero COVID
+
+* Canada (via "The Tyee" e-zine): [The Virus Changed. Now We Must ‘Get to Zero’ or Face Catastrophe](https://thetyee.ca/Analysis/2021/01/28/Virus-Changed-Get-To-Zero-Face-Catastrophe/)
+
 # Not to be confused with
 
 * "Covid Zero" - a UK national campaign to do with [reducing infection in hospital](https://www.uhs.nhs.uk/AboutTheTrust/Newsandpublications/COVID-ZERO/COVID-ZERO.aspx)
