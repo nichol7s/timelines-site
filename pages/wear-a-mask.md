@@ -38,12 +38,13 @@ See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.e
 
 ## Key studies on filtration effectiveness of various materials/masks:
 
-* University of Wisconsin "fitter" study (above)
-* Max-Planck Institute (Germany): [Aerosol filtration efficiency of household materials
+* Dec, 2020: University of Wisconsin "fitter" study (above)
+* Nov, 2020: Viginia Tech: [Cloth face coverings help protect both wearers and those nearby](https://vtnews.vt.edu/articles/2020/11/eng-marrmasks-1123.html) - Pan, Harb, Leng & Marr.
+* Aug, 2020: Max-Planck Institute (Germany): [Aerosol filtration efficiency of household materials
   for homemade face masks: Influence of material
   properties, particle size, particle electrical charge,
-  face velocity, and leaks](https://www.mpic.de/4745772/update-alltagsmasken-in-weiteren-tests) - Drewnick et al. (Aug 2020)
-* University of Chicago and Argonne National Labs (USA): [Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7185834/) - Konda et al. (2020)
+  face velocity, and leaks](https://www.mpic.de/4745772/update-alltagsmasken-in-weiteren-tests) - Drewnick et al.
+* May, 2020: University of Chicago and Argonne National Labs (USA): [Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7185834/) - Konda et al.
 
 ## More Information
 
