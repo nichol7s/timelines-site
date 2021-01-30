@@ -46,14 +46,17 @@ See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.e
   face velocity, and leaks](https://www.mpic.de/4745772/update-alltagsmasken-in-weiteren-tests) - Drewnick et al.
 * May, 2020: University of Chicago and Argonne National Labs (USA): [Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7185834/) - Konda et al.
 
-## More Information
+## Articles & More Information
 
+* January 29, 2021; New York Times & Colorado State Mask Study: [How to Choose the Best Cloth Face Mask for You](https://www.nytimes.com/wirecutter/reviews/best-cloth-face-masks/#how-we-picked-and-tested)
+* January 28, 2021; Buzzfeed: [What Is Double-Masking? Here’s How It Can Keep You Safer From The Coronavirus](https://www.buzzfeednews.com/article/skbaer/double-masking-coronavirus-variants)
 * Masks **do not** create a false sense of security, See Twitter [thread](https://twitter.com/robshirkey/status/1272945481820356608) by Rob Shirkey
-* [Masks4all.co](https://masks4all.co) portal has been pushing the "masks for all" message since March. And a [discussion forum on reddit for the same](https://www.reddit.com/r/Masks4All/)
-* [damerousky.cz](https://damerousky.cz/en) - Citizen made portal for making masks, started in the Czech Republic (Europe) and now an international multi-language effort
+* Active since March; [Masks4all.co](https://masks4all.co) portal has been pushing the "masks for all" message. And a [discussion forum on reddit for the same](https://www.reddit.com/r/Masks4All/)
+* Since March 2020; [damerousky.cz](https://damerousky.cz/en): Citizen made portal for making masks, started in the Czech Republic (Europe) and now an international multi-language effort
 * [DiyMasks.ie](https://diymasks.ie/) - more citizen made mask choices and links
-* Goddard's Journal video: [second review of mask studies](https://www.youtube.com/watch?v=9CGrBygEQY0)  (Oct 15, 2020) over the years and that they work
-* Goddard's Journal video: [first review of mask studies](https://www.youtube.com/watch?v=_JH04M04eQQ)  (Mar 25, 2020) over the years and that they work
+* October 15, 2020; Goddard's Journal video: [second review of mask studies](https://www.youtube.com/watch?v=9CGrBygEQY0) over the years and that they work
+* March 25, 2020; Goddard's Journal video: [first review of mask studies](https://www.youtube.com/watch?v=_JH04M04eQQ) over the years and that they work
+* Wikipedia Maintains a long page on mask use in the pandemic [here](https://en.wikipedia.org/wiki/Face_masks_during_the_COVID-19_pandemic)
 
 #### Goddard's October 2020 video links
 
