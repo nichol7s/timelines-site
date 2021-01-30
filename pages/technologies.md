@@ -5,15 +5,13 @@ layout: page
 permalink: /technologies
 ---
 
-A few years back, Northwestern University (Knight Lab) made a Timeline 'widget': [timeline.knightlab.com/](https://timeline.knightlab.com/) (TimelineJS3)
+A few years back, Northwestern University (Knight Lab) made a Timeline 'widget': [timeline.knightlab.com](https://timeline.knightlab.com/) (TimelineJS3). That's open source on GitHub.
 
-University of Idaho's the Center for Digital Inquiry and Learning (CDIL) use that technology in a "static site generator" way of working: [github.com/thecdil/timelinejs-template](https://github.com/thecdil/timelinejs-template). See preview site [thecdil.github.io/timelinejs-template/](https://thecdil.github.io/timelinejs-template/)
-
-The template also utilized Jekyll for static site generation.
+Moe recently, University of Idaho's the Center for Digital Inquiry and Learning (CDIL) use that technology in a "static site generator" way of working via [Jekyll](https://jekyllrb.com/): [github.com/thecdil/timelinejs-template](https://github.com/thecdil/timelinejs-template). See preview site [thecdil.github.io/timelinejs-template/](https://thecdil.github.io/timelinejs-template/)
 
 ## Pitch
 
-**You should work with that template**
+**You should work with that CDIL-made template**
 
 * Use the template to make your mini site
 * Pick a domain name for it. 
