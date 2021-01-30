@@ -253,3 +253,12 @@ Of the nine case-control studies cited in Goddard's quotation of Jefferson, seve
     <span> DIY facemask </span>
     <a href="https://youtu.be/watch?v=Bs-E_R5WWsY" >https://youtu.be/Bs-E_R5WWsY</a> (video)</li>
 </ul>
+
+## Anti-Masker activities
+
+Anti Masker groups motivated by politics, hatred of your group, bad science, their own bd breath and more, link to things that can (they claim) prove their case.
+
+MacIntyre et al 2015, figures quite a lot. Goddard's Journal went into this study above. Meanwhile, Raina C MacIntyre disgusted by the mis representation of the anti-masker crowd, published more this year to further indicate that **masks work and we should wear them**:
+
+* September 29, 2020: Raina MacIntyre in BMJ Opinion: [Cloth masks should be washed appropriately everyday](https://blogs.bmj.com/bmj/2020/09/29/raina-macintyre-cloth-masks-should-be-washed-appropriately-everyday/).
+* TODO
