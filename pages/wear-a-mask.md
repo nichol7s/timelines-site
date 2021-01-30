@@ -50,6 +50,9 @@ See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.e
 
 * January 29, 2021; New York Times & Colorado State Mask Study: [How to Choose the Best Cloth Face Mask for You](https://www.nytimes.com/wirecutter/reviews/best-cloth-face-masks/#how-we-picked-and-tested)
 * January 28, 2021; Buzzfeed: [What Is Double-Masking? Here’s How It Can Keep You Safer From The Coronavirus](https://www.buzzfeednews.com/article/skbaer/double-masking-coronavirus-variants)
+* January 28, 2021; Salon e-Zine: [How high-filtration masks — like the KN95, N95 and KN94 — differ](https://www.salon.com/2021/01/27/covid-19-face-masks-how-filtration-masks--like-the-kn95-n95-and-kn94--differ/)
+* January 28, 2021; CBC: [Why you might want to start wearing better masks — even outdoors](https://www.cbc.ca/news/health/masks-coronavirus-variants-canada-1.5890893)
+* January 27, 2021; Slate e-Zine: [Do You Really Need Two Masks Now?](https://slate.com/technology/2021/01/coronavirus-two-masks-when-how.html)
 * Masks **do not** create a false sense of security, See Twitter [thread](https://twitter.com/robshirkey/status/1272945481820356608) by Rob Shirkey
 * Active since March; [Masks4all.co](https://masks4all.co) portal has been pushing the "masks for all" message. And a [discussion forum on reddit for the same](https://www.reddit.com/r/Masks4All/)
 * Since March 2020; [damerousky.cz](https://damerousky.cz/en): Citizen made portal for making masks, started in the Czech Republic (Europe) and now an international multi-language effort
