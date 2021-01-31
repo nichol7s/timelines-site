@@ -88,8 +88,8 @@
                     elem.setAttribute('rel', 'noopener');
                 })
             $("a[href^='https://twitter.com']").each(function (idx) {
-                var ht = $(this).css('line-height');
-                $(this).html("<span><svg width='" + ht + "' height='" + ht + "' " +
+                var ht = $(this).css('line-height').replace("px","") * .8;
+                $(this).html("<span><svg width='" + ht + "px' height='" + ht + "px' " +
                     "viewBox='328 355 335 276' " +
                     "xmlns='http://www.w3.org/2000/svg'>  " +
                     "<path d='M 630, 425 " +
