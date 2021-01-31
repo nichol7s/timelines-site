@@ -230,6 +230,24 @@
         "headline": "Opinion: Everyone should be wearing N95 masks now",
         "text": "The masks I’m referring to, of course, are N95s. These are cheap — pre-pandemic they cost about 50 cents — and easy to manufacture. Yet our country has failed to invoke the Defense Production Act to produce enough masks for health-care workers and other essential workers [Joseph G. Allen, Op-ed]"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.startmag.it/wp-content/uploads/face-mask-4890115_1280-647x400.jpg",
+        "caption": "",
+        "link": "https://translate.google.com/translate?hl=en&sl=it&u=https://www.startmag.it/&prev=search&pto=aue",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 1,
+        "day": 29
+      },
+      "text": {
+        "headline": "Italy: It might make sense to make FFP2 mandatory in some settings",
+        "text": "“It is clear that the Ffp2 have a greater filtering capacity than surgical or community masks. So it might make sense to make them mandatory on board buses or inside closed rooms, but there is a supply problem as well as a cost problem, ” - Agostino Miozzo of the Scientific Technical Committee."
+      }
     }
   ]
 }
