@@ -462,6 +462,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6940e2_FamilyGatheringCOVID19_IMAGE_05Oct20_Social_1200x675-medium.jpg",
+        "caption": "",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 9
+      },
+      "text": {
+        "headline": "13 year old kid spreads it to 11 more in family",
+        "text": "Index case was 13 y.o. Spread to 11 more. [ed: kids transmit]. Twelve of the 14 who stayed INSIDE at the house (sleeping there) caught it. Six who came to the house, but remained distant outdoors did NOT. [ed: one more for indoor = bad, outdoor = good]. Via <a href='https://twitter.com/jmcrookston/status/1313281284249182208'>@jmcrookston</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101791159-1e086100-3afb-11eb-8cb1-c787c2c41b16.png",
         "caption": "After four hours without safety measures",
         "link": "https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html",
