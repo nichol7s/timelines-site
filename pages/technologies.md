@@ -28,7 +28,7 @@ Science: History-retaining merkle trees (such as Git) with static site generatio
 * You can also deploy the timelines using TimelineJS3 by using GoogleDocs to hold the timeline. See [timeline.knightlab.com/#make](https://timeline.knightlab.com/#make)
 * There's a [Wordpress plugin](GoogleDoc) for the same TimelineJS3 + GoogleDocs way of working.
 
-# Related Sites
+## Related Sites
 
 Link to **vaccine development timeline** here: TODO
 
