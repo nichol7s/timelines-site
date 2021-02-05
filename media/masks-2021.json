@@ -284,6 +284,24 @@
         "headline": "Congress and senate members implore Biden to distribute and increase supply of high quality masks",
         "text": "Schiff, Khanna, Sanders, Schatz Send Bicameral Letter to President Biden Encouraging Distribution and Increased Supply of High Quality Masks"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.abc.net.au/cm/rimage/13062844-3x2-xlarge.jpg?v=2",
+        "caption": "",
+        "link": "https://www.abc.net.au/news/2021-02-05/victoria-coronavirus-cases-mask-rules-tighten-in-quarantine/13123194",
+        "credit": "A quarantine hotel in Australia - ABC"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 2,
+        "day": 4
+      },
+      "text": {
+        "headline": "Victoria, Australia: N95s for workers in quarantine hotels",
+        "text": "Mask rules and the testing regime for workers will be tightened in Victoria's quarantine system after the worker contracted the virus. Epidemiologists believe all staff working in hotel quarantine should wear N95 masks, which provide a higher level of protection."
+      }
     }
   ]
 }
