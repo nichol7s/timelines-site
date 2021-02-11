@@ -38,8 +38,9 @@ See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.e
 
 ## Key studies & Test on filtration effectiveness of various materials/masks:
 
+* Feb, 2021: [Effectiveness of Mask Wearing to Control Community Spread of SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2776536) - Brooks & Butler
 * Dec, 2020: University of Wisconsin "fitter" study (above)
-* Nov, 2020: Viginia Tech: [Cloth face coverings help protect both wearers and those nearby](https://vtnews.vt.edu/articles/2020/11/eng-marrmasks-1123.html) - Pan, Harb, Leng & Marr.
+* Nov, 2020: Virginia Tech: [Cloth face coverings help protect both wearers and those nearby](https://vtnews.vt.edu/articles/2020/11/eng-marrmasks-1123.html) - Pan, Harb, Leng & Marr.
 * Q4 2020 onwards: Aaron Collins with the equipment needed at home [tests high-filtration masks he's acquired for filtration and leakage](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg)
 * Aug, 2020: Max-Planck Institute (Germany): [Aerosol filtration efficiency of household materials
   for homemade face masks: Influence of material
