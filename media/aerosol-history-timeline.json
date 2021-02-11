@@ -193,6 +193,23 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/107675435-0337a180-6c90-11eb-8912-77a1a2e710b5.png",
+        "caption": "",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2595130/pdf/yjbm00155-0028.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1974",
+        "month": 9
+      },
+      "text": {
+        "headline": "MEDICAL REVIEWS: \"Coronaviruses\"",
+        "text": "... It is therefore probable that human coronaviruses can be spread by aerosol as well as by large droplet. Aerosol transmission has actually been documented in poultry by the agent of avian infectious bronchitis."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/104123936-d9fcbc00-5345-11eb-9598-9ebf039f736c.png",
         "caption": "Lots are airborne, study says",
         "link": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC1805417&blobtype=pdf",
