@@ -22,7 +22,7 @@ If you can't wear a mask or cloth face covering stay at home and get food delive
 
 If you can afford it, get KF94 masks (that are not cloth or washable) for use when mixing with other in public. Citizen Scientist, Aaron Collins, [reviews masks for filtration effectiveness](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg) and talks about KF94 masks quite a bit.  Leave the N95 and FFP2 masks/respirators for respective medical and emergency workers.
 
-## Fitters (to be placed on top of your mask)
+## "Fitters" to be placed on top of your surgical-style mask (better masks)
 
 [This University of Wisconsin study](https://www.medrxiv.org/content/10.1101/2020.12.31.20249101v1.full.pdf) (Rothamer et al 2020) is key: You must add a "fitter" to your **lower quality mask** to protect yourself.
 
@@ -35,6 +35,10 @@ The all-important filtration boost - indicated in chart form:
 ![](https://user-images.githubusercontent.com/82182/105577092-5b554500-5d6f-11eb-97fd-037eba011a96.png)
 
 See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.engr.wisc.edu/mask-fitter/) and many other choices [google.com/search?q=mask+fitters](https://www.google.com/search?q=mask+fitters).
+
+## Double masking (better masks)
+
+* Feb, 2021: [Maximizing Fit for Cloth and Surgical-style Masks to Improve Filtration](https://www.cdc.gov/mmwr/volumes/70/wr/mm7007e1.htm?s_cid=mm7007e1_w) - Brooks et al (CDC)
 
 ## Key studies & Test on filtration effectiveness of various materials/masks:
 
