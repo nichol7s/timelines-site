@@ -338,6 +338,24 @@
         "headline": "Two Masks Are Better Than One, CDC Says",
         "text": "Turns out wearing two masks really is better than one. New research from the Centers for Disease Control and Prevention finds that double-masking can vastly improve protection from the coronavirus. The CDC is offering updated advice on face coverings as new, more transmissible variants of the coronavirus spread."
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/11F63/production/_116917537_gettyimages-1300225024.jpg",
+        "caption": "",
+        "link": "https://www.bbc.co.uk/news/health-56030384",
+        "credit": "Getty images"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 2,
+        "day": 12
+      },
+      "text": {
+        "headline": "Australia: Quarantine Hotel workers to wear N95",
+        "text": "\"In the state of Victoria, hotel staff now have to be equipped with a type of mask known as an N95, roughly equivalent to what is called an FFP2 in the UK.\""
+      }
     }
   ]
 }
