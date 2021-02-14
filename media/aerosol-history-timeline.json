@@ -445,11 +445,29 @@
       "start_date": {
         "year": "2019",
         "month": 3,
-        "day": 153
+        "day": 15
       },
       "text": {
         "headline": "South Korean Hospital (MERS)",
         "text": "Airflow analysis of Pyeongtaek St Mary's Hospital during hospitalization of the first Middle East respiratory syndrome patient in Korea"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://s.hdnux.com/photos/01/01/51/01/17207369/7/ratio3x2_1200.jpg",
+        "caption": "Texas Center for Infectious Disease",
+        "link": "https://www.mysanantonio.com/news/local/article/San-Antonio-man-can-t-leave-a-TB-hospital-for-13758246.php",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2019",
+        "month": 4,
+        "day": 11
+      },
+      "text": {
+        "headline": "San Antonio man can't leave a TB hospital for up to a year",
+        "text": "TB can be deadly and spreads through the air by sneezing and coughing. Treating active TB can require at least six to nine months of daily antibiotics"
       }
     }
   ]
