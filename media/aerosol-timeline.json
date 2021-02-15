@@ -606,6 +606,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-76442-2/MediaObjects/41598_2020_76442_Fig1_HTML.png?as=webp",
+        "caption": "Investigated COVID-19 ward rooms of the study",
+        "link": "https://www.nature.com/articles/s41598-020-76442-2",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 11,
+        "day": 11
+      },
+      "text": {
+        "headline": "Study: Long-distance airborne dispersal of SARS-CoV-2 in COVID-19 wards",
+        "text": "\"Evidence suggests that SARS-CoV-2, as well as other coronaviruses, can be dispersed and potentially transmitted by aerosols directly or via ventilation systems\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2df5e824-68d5-4b01-b10a-780a273ff63b_721x660.png",
         "caption": "After only 5 minutes sitting in proximity to spreader, a diner was infected 21 feet away",
         "link": "https://jkms.org/DOIx.php?id=10.3346/jkms.2020.35.e415",
