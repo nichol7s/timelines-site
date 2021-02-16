@@ -437,6 +437,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-019-38808-z/MediaObjects/41598_2019_38808_Fig1_HTML.png?as=webp",
+        "caption": "raw data in which a participant (F4) said 'ɑ' for 5 seconds, followed by 15 seconds of nose breathing",
+        "link": "https://www.nature.com/articles/s41598-019-38808-z",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2019",
+        "month": 2,
+        "day": 19
+      },
+      "text": {
+        "headline": "South Korean Hospital (MERS)",
+        "text": "\"The existence of speech superemitters motivates consideration of a new hypothesis: that speech superemitters contribute to “superspreading” of infectious diseases transmitted by emitted airborne particles.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101265672-331e7200-3740-11eb-95bd-61809d2a526b.png",
         "caption": "Airflow study of MERS in South Korean hospital",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6458380/",
