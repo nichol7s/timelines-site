@@ -836,6 +836,24 @@
         "headline": "New Orleans super-spreader event was via a single introduction (it's airborne)",
         "text": "\"Remember how New Orleans got hit badly, early? They trace the ~50,000 cases likely to a *single* introduction that fueled the Mardi Gras superspreading event. Overdispersion: helpful if taken  seriously, catastrophe if ignored\" - <a href='https://twitter.com/zeynep/status/1359322724989042692'>@Zeynep</a>"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/108107690-7a51a900-7087-11eb-90bb-02bf5e09f1de.png",
+        "caption": "'sampling chamber' test equipment",
+        "link": "https://www.medrxiv.org/content/10.1101/2021.02.07.21251309v2.full.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 2,
+        "day": 10
+      },
+      "text": {
+        "headline": "Study: The effect of respiratory activity, ventilatory therapy and facemasks on total aerosol emissions",
+        "text": "\"Conclusions: Talking, exertional breathing and coughing generate substantially more aerosols than the respiratory therapies HFNO and NIPPV which can reduce total emissions. The risk of aerosol exposure is underappreciated and warrants widespread targeted interventions.\" - <a href='https://twitter.com/zeynep/status/1359322724989042692'>@Zeynep</a>"
+      }
     }
   ]
 }
