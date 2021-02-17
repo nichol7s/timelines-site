@@ -374,6 +374,24 @@
         "headline": "Baleric Islands: Demand for FFP2 masks increases",
         "text": "\"The demand for FFP2 masks has increased in Mallorca, Ibiza and Formentera (Minorca has its own cooperative) due to the fact that in other European countries such as France or Germany where they are mandatory\""
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://cdn.cnn.com/cnnnext/dam/assets/210208202631-n-95-masks-file-exlarge-169.jpg",
+        "caption": "",
+        "link": "https://edition.cnn.com/2021/02/17/politics/biden-coronavirus-n95-masks/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 2,
+        "day": 17
+      },
+      "text": {
+        "headline": "Former Biden coronavirus advisers push White House to more widely recommend use of N95 masks",
+        "text": "Several members of President Joe Biden's former coronavirus advisory board are urging his administration to more widely recommend and mandate the use of N95 masks, citing a \"pressing and urgent need for action\" driven by the threat of new coronavirus variants [CNN]"
+      }
     }
   ]
 }
