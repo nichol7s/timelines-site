@@ -410,6 +410,24 @@
         "headline": "New Standards Will Help You Choose an Effective COVID-19 Face Mask",
         "text": "You could soon start seeing new labels that cover filtration efficiency, fit, and breathability. [...] Manufacturers will be encouraged to comply with the standard, and consumers [in the USA] will be able to have confidence in compliant products, knowing that they meet the standard."
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/108526397-00106700-72c9-11eb-8590-fd5284250ba6.png",
+        "caption": "letter written by Royal Collage of Nursing (UK)",
+        "link": "https://www.rcn.org.uk/about-us/our-influencing-work/open-letters/letter-to-the-prime-minister-on-protecting-health-care-workers-190221",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 2,
+        "day": 19
+      },
+      "text": {
+        "headline": "UK, Letter Re: Protecting health care workers - better ventilation, PPE, awareness and research",
+        "text": " Versus HCWs in surgical style masks today: \"The current UK Infection Prevention and Control (IPC) guidance which leads and determines the selection and use of PPE across the UK does not accurately depict the airborne risks when sharing health and care settings including working in patients’ homes and public buildings. [...] Amend the UK guidance to reflect and increase the level of respiratory protection as a precautionary principle [for HCWs] ...\""
+      }
     }
   ]
 }
