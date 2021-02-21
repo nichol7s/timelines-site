@@ -32,8 +32,8 @@ Science: History-retaining merkle trees (such as Git) with static site generatio
 
 ## Related Sites
 
-Link to **vaccine development timeline** here: TODO
+Link to **vaccine development timeline** here: a TODO for some other team
 
-Link to **EU / Astra Zeneca dispute** timeline here: TODO
+Link to **EU / Astra Zeneca dispute** timeline here: a TODO for some other team
 
 
