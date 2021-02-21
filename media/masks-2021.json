@@ -428,6 +428,24 @@
         "headline": "UK, Letter Re: Protecting health care workers - better ventilation, PPE, awareness and research",
         "text": " Versus HCWs in surgical style masks today: \"The current UK Infection Prevention and Control (IPC) guidance which leads and determines the selection and use of PPE across the UK does not accurately depict the airborne risks when sharing health and care settings including working in patients’ homes and public buildings. [...] Amend the UK guidance to reflect and increase the level of respiratory protection as a precautionary principle [for HCWs] ...\""
       }
-    }
+    },
+	    {
+	      "media": {
+	        "thumbnail": "",
+	        "url": "https://485075-1528146-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/02/Untitled-design-7-1-800x500.jpg",
+	        "caption": "",
+	        "link": "https://praguemorning.cz/ffp2-respirators-mandatory-public-transport",
+	        "credit": ""
+	      },
+	      "start_date": {
+	        "year": "2021",
+	        "month": 2,
+	        "day": 20
+	      },
+	      "text": {
+	        "headline": "Czech Republic: FFP2 Respirators To be Mandatory in Public Transport",
+	        "text": "\"On Monday, the Ministry of Health will order the wearing of FFP2 respirators, nano-filtered face masks or two surgical facemasks in public transport and other public places, said Minister of Health Jan Blatný (ANO) after the government meeting.\""
+	      }
+	    }	
   ]
 }
