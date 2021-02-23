@@ -68,7 +68,7 @@
     {
       "media": {
         "thumbnail": "https://pbs.twimg.com/media/Et925ZzXMAUymux?format=jpg&name=large",
-        "url": "https://twitter.com/GHS/status/1243624077782220800",
+        "url": "https://twitter.com/mvankerkhove/status/1241830233101275137",
         "caption": "screen cap of tweet",
         "link": "",
           "credit": ""
@@ -76,11 +76,11 @@
       "start_date": {
         "year": 2020,
         "month": 3,
-        "day": 27
+        "day": 22
       },
       "text": {
-        "headline": "WHO expert: COVID-19 is not Airborne",
-        "text": "Maria Van Kerkhove (@mvankerkhove on Twitter), Infectious Disease Epidemiologist and COVID-19 Technical Lead for the World Health Org's Health Emergencies Programme:  \"COVID-19 is not Airborne\". See <a href='https://twitter.com/mvankerkhove/status/1241830233101275137'>pertinent tweet</a> too."
+        "headline": "WHO expert Tweet: COVID-19 is not Airborne",
+        "text": "Maria Van Kerkhove (@mvankerkhove on Twitter), Infectious Disease Epidemiologist and COVID-19 Technical Lead for the World Health Org's Health Emergencies Programme:  \"COVID-19 is not Airborne\". See also <a href='https://twitter.com/GHS/status/1243624077782220800'>related tweet</a> too."
       }
     },
     {
@@ -97,7 +97,7 @@
         "day": 28
       },
       "text": {
-        "headline": "WHO: (Incorrect) \"FACT: #COVID19 is NOT airborne\" (Tweet)",
+        "headline": "WHO Tweet:  \"FACT: #COVID19 is NOT airborne\"",
         "text": "A tweet incorrectly saying COVID19 is not airborne and prpmoting distance and fomites only was pushed out on Twitter and promoted by WHO staff following that."
       }
     },
