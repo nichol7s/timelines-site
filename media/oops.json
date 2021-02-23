@@ -76,11 +76,29 @@
       "start_date": {
         "year": 2020,
         "month": 3,
-        "day": 22
+        "day": 27
       },
       "text": {
         "headline": "WHO expert: COVID-19 is not Airborne",
         "text": "Maria Van Kerkhove (@mvankerkhove on Twitter), Infectious Disease Epidemiologist and COVID-19 Technical Lead for the World Health Org's Health Emergencies Programme:  \"COVID-19 is not Airborne\". See <a href='https://twitter.com/mvankerkhove/status/1241830233101275137'>pertinent tweet</a> too."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "https://user-images.githubusercontent.com/82182/108806693-510aae80-759a-11eb-8762-eb1434910218.png",
+        "url": "https://twitter.com/WHO/status/1243972193169616898",
+        "caption": "screen cap of tweet",
+        "link": "",
+          "credit": ""
+      },
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 28
+      },
+      "text": {
+        "headline": "WHO: (Incorrect) \"FACT: #COVID19 is NOT airborne\" (Tweet)",
+        "text": "A tweet incorrectly saying COVID19 is not airborne and prpmoting distance and fomites only was pushed out on Twitter and promoted by WHO staff following that."
       }
     },
     {
