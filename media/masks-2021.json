@@ -446,6 +446,25 @@
 	        "headline": "Czech Republic: FFP2 Respirators To be Mandatory in Public Transport",
 	        "text": "\"On Monday, the Ministry of Health will order the wearing of FFP2 respirators, nano-filtered face masks or two surgical facemasks in public transport and other public places, said Minister of Health Jan Blatný (ANO) after the government meeting.\". Czechia was an ealy masking country too - see <a href='https://its-airborne.org/early-masking-countries#event-czech-republic-face-masks-now-mandatory'>other timeline</a>"
 	      }
-	    }	
+	    },
+	    {
+	      "media": {
+	        "thumbnail": "",
+	        "url": "https://user-images.githubusercontent.com/82182/109050166-017ace80-76d1-11eb-9609-cab15e96a46f.png",
+	        "caption": "",
+	        "link": "https://www.aft.org/press-release/nurses-unions-allies-urge-cdc-acknowledge-covid-19-aerosol-transmission-help",
+	        "credit": ""
+	      },
+	      "start_date": {
+	        "year": "2021",
+	        "month": 2,
+	        "day": 23
+	      },
+	      "text": {
+	        "headline": "USA: Nurses, Unions, Allies Urge CDC to Acknowledge Covid-19 Aerosol Transmission to Help Bring Virus Under Control",
+	        "text": "Multiple trades unions grouped together for this press release calling for recognition of airborne transmission and \"improved PPE\""
+	      }
+	    }
+
   ]
 }
