@@ -889,6 +889,24 @@
         "headline": "Study: The effect of respiratory activity, ventilatory therapy and facemasks on total aerosol emissions",
         "text": "\"Conclusions: Talking, exertional breathing and coughing generate substantially more aerosols than the respiratory therapies HFNO and NIPPV which can reduce total emissions. The risk of aerosol exposure is underappreciated and warrants widespread targeted interventions.\" - via <a href='https://twitter.com/linseymarr/status/1361729569800216576'>@linseymarr</a>"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/70/wr/social-media/mm7009e2_ExerciseFacilityChicago_IMAGE_24Feb21_1200x675-medium.jpg",
+        "caption": "81 attendees",
+        "link": "https://www.cdc.gov/mmwr/volumes/70/wr/mm7009e2.htm?s_cid=mm7009e2_e",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 2,
+        "day": 23
+      },
+      "text": {
+        "headline": "Chicago: Outbreak Among Attendees of an Exercise Facility",
+        "text": "... Aerosolized transmission of SARS-CoV-2 could have been a contributing factor in this outbreak. Although the facility’s ventilation system was not assessed, inadequate air circulation might have exacerbated transmission in the building, which was not originally designed for exercise classes ..."
+      }
     }
   ]
 }
