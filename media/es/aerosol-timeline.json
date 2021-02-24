@@ -2,7 +2,8 @@
   "title": {
     "media": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/800px-SARS-CoV-2_without_background.png",
-      "caption": "Esta ilustración, creada en el US Centers for Disease Control and Prevention (CDC)",
+      "caption": "Esta ilustración, creada en el Centro de Control y Prevención de Enfermedades de USA.
+ (CDC)",
       "credit": "CDC/ Alissa Eckert, MS; Dan Higgins, MAM"
     },
     "text": {
@@ -15,7 +16,7 @@
       "media": {
         "thumbnail": "/media/twiceAsFar.png",
         "url": "https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/03/11/2367f83c-61fc-11ea-8e9f-2d196083a37c_972x_161511.jpg",
-        "caption": "El rojo es el paciente índice. Purple subió al autobús 30 minutos después de que se fuera el paciente índice.",
+        "caption": "El rojo es el paciente índice. El morado subió al autobús 30 minutos después de que se fuera el paciente índice.",
         "link": "https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay",
         "credit": ""
       },
@@ -152,7 +153,7 @@
       },
       "text": {
         "headline": "Brote: personas en el coro de Skagit practican infectados a distancia",
-        "text": "Después de una práctica de coro de 2,5 horas a la que asistieron 61 personas, incluido un paciente índice sintomático, se produjeron 32 casos secundarios confirmados y 20 probables de COVID-19 (tasa de ataque = 53,3% a 86,7%); tres pacientes fueron hospitalizados y dos fallecieron. La transmisión probablemente fue facilitada por la proximidad (dentro de los 6 pies para algunos) durante la práctica y aumentada por el acto de cantar. Reportado en: <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm'>CDC Journal May 15, 2020</a> así como un <a href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>estudio más amplio que estuvo disponible mucho más tarde en septiembre</a>. Ver también un <a href=\"https://twitter.com/jljcolorado/status/1335754175066611713\">resumen de una diapositiva (@jljcolorado)</a>"
+        "text": "Después de una práctica de coro de 2,5 horas a la que asistieron 61 personas, incluido un paciente índice sintomático, se produjeron 32 casos secundarios confirmados y 20 probables de COVID-19 (tasa de ataque = 53,3% a 86,7%); tres pacientes fueron hospitalizados y dos fallecieron. La transmisión probablemente fue facilitada por la proximidad (dentro de los 2 metros para algunos) durante la práctica y aumentada por el acto de cantar. Reportado en: <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm'>CDC Journal May 15, 2020</a> así como un <a href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>estudio más amplio que estuvo disponible mucho más tarde en septiembre</a>. Ver también un <a href=\"https://twitter.com/jljcolorado/status/1335754175066611713\">resumen de una diapositiva (@jljcolorado)</a>"
       }
     },
     {
@@ -365,7 +366,7 @@
       },
       "text": {
         "headline": "Aerotransportado en edificio de apartamentos a través del sistema de drenaje",
-        "text": "Estudio: Evidencia de #Airborne # SARSCoV2 viajando 12 pisos de un edificio apto a través del sistema de drenaje: más de 200 residentes en un ala de un rascacielos fueron evaluados, revelando 9 infecciones. Esas familias vivían en 3 pisos alineados verticalmente conectados por tuberías de drenaje en los baños. See <a href='https://twitter.com/AliNouriPhD/status/1342232561205047301'>@AliNouriPhD thread</>"
+        "text": "Estudio: Evidencia de #Airborne #SARSCoV2 viajando 12 pisos de un edificio apto a través del sistema de drenaje: más de 200 residentes en un ala de un rascacielos fueron evaluados, revelando 9 infecciones. Esas familias vivían en 3 pisos alineados verticalmente conectados por tuberías de drenaje en los baños. See <a href='https://twitter.com/AliNouriPhD/status/1342232561205047301'>@AliNouriPhD thread</>"
       }
     },
     {
@@ -401,14 +402,14 @@
       },
       "text": {
         "headline": "El aire de la habitación de los pacientes con COVID-19 tenía los aerosoles cargados de virus",
-        "text": "El SARS-CoV-2 viable (infeccioso) estaba presente en aerosoles dentro de la habitación del hospital de pacientes con COVID-19. <br> <br> Se detectó virus en el aire en ausencia de procedimientos sanitarios que generen aerosoles. <br> <br> El cepa de virus detectada en los aerosoles emparejada con la cepa de virus aislada de un paciente con COVID-19 agudo."
+        "text": "El SARS-CoV-2 viable (infeccioso) estaba presente en aerosoles dentro de la habitación del hospital de pacientes con COVID-19. <br> <br> Se detectó virus en el aire en ausencia de procedimientos sanitarios que generen aerosoles. <br> <br> La cepa de virus detectada en los aerosoles emparejada con la cepa de virus aislada de un paciente con COVID-19 agudo."
       }
     },
     {
       "media": {
         "thumbnail": "/media/cdc_retract.jpg",
         "url": "https://storage.googleapis.com/afs-prod/media/d478dedd87ee43fea2784a7a3ef02c09/800.jpeg",
-        "caption": "El director de los Centros para el Control y la Prevención de Enfermedades, el Dr. Robert Redfield, se vuelve a poner la máscara después de hablar en una audiencia del subcomité de asignaciones del Senado",
+        "caption": "El director de los Centros para el Control y la Prevención de Enfermedades, el Dr. Robert Redfield, se vuelve a poner la mascarilla después de hablar en una audiencia del subcomité de asignaciones del Senado",
         "link": "https://apnews.com/article/virus-outbreak-archive-public-health-cfb43dd5a28dd449cd1100a067cfd112",
         "credit": "AP Photo/Andrew Harnik"
       },
@@ -498,7 +499,7 @@
       "media": {
         "thumbnail": "",
         "url": "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2df5e824-68d5-4b01-b10a-780a273ff63b_721x660.png",
-        "caption": "Después de solo 5 minutos sentado cerca del esparcidor, un comensal se infectó a 21 pies de distancia",
+        "caption": "Después de solo 5 minutos sentado cerca del esparcidor, un comensal se infectó a 6,4 metros de distancia",
         "link": "https://jkms.org/DOIx.php?id=10.3346/jkms.2020.35.e415",
         "credit": ""
       },
@@ -509,7 +510,7 @@
       },
       "text": {
         "headline": "Brote: infectado en el flujo de aire directo en un restaurante coreano",
-        "text": "Conclusión del estudio: La transmisión por gotitas puede ocurrir a una distancia superior a 2 m si hay un flujo de aire directo de una persona infectada. Por lo tanto, se requieren pautas actualizadas que involucren prevención, rastreo de contactos y cuarentena para COVID-19 para el control de esta enfermedad altamente contagiosa. Una publicación que enlaza con otra publicación sobre este evento: <a href=\"https://twitter.com/jmcrookston/status/1334132864078721026\">post 1 (@jmcrookston)</a>."
+        "text": "Conclusión del estudio: La transmisión por gotitas puede ocurrir a una distancia superior a 2 metros si hay un flujo de aire directo de una persona infectada. Por lo tanto, se requieren pautas actualizadas que involucren prevención, rastreo de contactos y cuarentena para COVID-19 para el control de esta enfermedad altamente contagiosa. Una publicación que enlaza con otra publicación sobre este evento: <a href=\"https://twitter.com/jmcrookston/status/1334132864078721026\">post 1 (@jmcrookston)</a>."
       }
     },
     {
@@ -527,7 +528,7 @@
       },
       "text": {
         "headline": "Análisis de las rutas de transmisión dominantes del SARS-CoV-2",
-        "text": "Extracto del estudio: En un espacio interior típico, con aire acondicionado pero en reposo, para una carga viral promedio, las gotas de tos con un diámetro inicial entre 10 µm y 50 µm tienen la mayor probabilidad de infección. Sin embargo, en el momento en que se inhalan, los diámetros se reducen a aproximadamente 1/6 de sus diámetros iniciales."
+        "text": "Extracto del estudio: En un espacio interior típico, con aire acondicionado pero en reposo, para una carga viral promedia, las gotas de tos con un diámetro inicial entre 10 µm y 50 µm tienen la mayor probabilidad de infección. Sin embargo, en el momento en que se inhalan, los diámetros se reducen a aproximadamente 1/6 de sus diámetros iniciales."
       }
     },
     {
@@ -563,7 +564,7 @@
       },
       "text": {
         "headline": "Transmisión aérea a través de conductos de aire de apartamentos",
-        "text": "Posible transmisión #Airborne # SARSCoV2 a través de conductos de aire (agosto): después de una serie de infecciones, se realizaron pruebas a los 437 residentes de un edificio apto. 10 infecciones descubiertas, todas viviendo en diferentes pisos pero a lo largo de dos líneas verticales con aberturas a través de sus baños. Ver también <a href='https://twitter.com/AliNouriPhD/status/1341193351014572032'>Hilo de Twitter por (@AliNouriPhD)"
+        "text": "Posible transmisión #Airborne #SARSCoV2 a través de conductos de aire (agosto): después de una serie de infecciones, se realizaron pruebas a los 437 residentes de un edificio apto. 10 infecciones descubiertas, todas viviendo en diferentes pisos pero a lo largo de dos líneas verticales con aberturas a través de sus baños. Ver también <a href='https://twitter.com/AliNouriPhD/status/1341193351014572032'>Hilo de Twitter por (@AliNouriPhD)"
       }
     },
     {
@@ -581,7 +582,7 @@
       },
       "text": {
         "headline": "La dinámica de fluidos de la infección transmitida por el aire por COVID-19 sugiere datos urgentes para un diseño científico de distanciamiento social",
-        "text": "Nuestros resultados muestran que una sola regla [como 6 pies] para el distanciamiento social puede no ser adecuada para proteger a las personas en diferentes entornos. <a href='https://twitter.com/EricTopol/status/1344297867578548225'>Hilo de Twitter por (@EricTopol)"
+        "text": "Nuestros resultados muestran que una sola regla [como 2 metros] para el distanciamiento social puede no ser adecuada para proteger a las personas en diferentes entornos. <a href='https://twitter.com/EricTopol/status/1344297867578548225'>Hilo de Twitter por (@EricTopol)"
       }
     }
   ]
