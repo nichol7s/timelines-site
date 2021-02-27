@@ -85,10 +85,10 @@
     },
     {
       "media": {
-        "thumbnail": "https://www.brusselstimes.com/wp-content/uploads/2020/03/masquesliege.jpg",
-        "url": "https://www.brusselstimes.com/news/belgium-all-news/102302/belgium-destroyed-and-did-not-replace-millions-of-mouth-masks/",
+        "thumbnail": "",
+        "url": "https://www.brusselstimes.com/wp-content/uploads/2020/03/masquesliege.jpg",
         "caption": "Masks arriving in liege",
-        "link": "",
+        "link": "https://www.brusselstimes.com/news/belgium-all-news/102302/belgium-destroyed-and-did-not-replace-millions-of-mouth-masks/",
           "credit": "Brussels Times"
       },
       "start_date": {
