@@ -907,6 +907,24 @@
         "headline": "Chicago: Outbreak Among Attendees of an Exercise Facility",
         "text": "\"... Aerosolized transmission of SARS-CoV-2 could have been a contributing factor in this outbreak. Although the facility’s ventilation system was not assessed, inadequate air circulation might have exacerbated transmission in the building, which was not originally designed for exercise classes ...\""
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/card_img/1365465498562027525/dUzBat2r?format=jpg&name=small",
+        "caption": "Airflow simulation",
+        "link": "https://www.nytimes.com/interactive/2021/02/26/science/reopen-schools-safety-ventilation.html",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 2,
+        "day": 26
+      },
+      "text": {
+        "headline": "New York Times: Why Opening Windows Is a Key to Reopening Schools",
+        "text": "\"The C.D.C. is urging communities to reopen schools as quickly as possible, but parents and teachers have raised questions about the quality of ventilation available in public school classrooms to protect against the coronavirus.\n\nWe worked with a leading engineering firm and experts specializing in buildings systems to better understand the simple steps schools can take to reduce exposure in the classroom.\""
+      }
     }
   ]
 }
