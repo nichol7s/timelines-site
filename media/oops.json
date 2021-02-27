@@ -80,7 +80,7 @@
       },
       "text": {
         "headline": "WHO expert Tweet: COVID-19 is not Airborne",
-        "text": "Maria Van Kerkhove (@mvankerkhove on Twitter), Infectious Disease Epidemiologist and COVID-19 Technical Lead for the World Health Org's Health Emergencies Programme:  \"COVID-19 is not Airborne\". See also <a href='https://twitter.com/GHS/status/1243624077782220800'>related tweet</a> too."
+        "text": "Maria Van Kerkhove (@mvankerkhove on Twitter), Infectious Disease Epidemiologist and COVID-19 Technical Lead for the World Health Org's Health Emergencies Programme:  \"COVID-19 is not Airborne\". See also <a href='https://twitter.com/GHS/status/1243624077782220800'>related tweet</a>."
       }
     },
     {
@@ -117,6 +117,24 @@
       "text": {
         "headline": "UK: Up to 1st lockdown, UK quarantines only 273 of 18.1m air passengers",
         "text": "The UK government insisted that the scientific advice showed that placing restrictions at the border would not have had a significant impact on the spread of the virus in the UK. Their first lockdown was the 16 March, 2020. See also <a href='https://www.theguardian.com/world/2020/jun/11/british-clampdown-on-non-essential-travel-came-a-week-too-late'>No 'patient zero' as Covid-19 came into UK at least 1,300 times</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://i.guim.co.uk/img/media/b547dddb1944047e5816a6a081fac07d98ae85b7/100_325_4370_2621/master/4370.jpg?width=620&quality=85&auto=format&fit=max&s=860a5d9971743ffae1cb0ef2edb49617",
+        "caption": "",
+        "link": "https://twitter.com/BenBonnema/status/1365422715436478470",
+          "credit": ""
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 2,
+        "day": 26
+      },
+      "text": {
+        "headline": "USA: Beloved supermarket Trader Joe's fires employee for asking for better staff protection",
+        "text": "Store responds in detail to an employees letter pleading for better #COVIDisAirborne protections and policies, nixing their chance of claiming a generic \"staff cuts\" excuse later."
       }
     }
   ]
