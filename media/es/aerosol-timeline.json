@@ -194,6 +194,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/107284789-2ecf4780-6a56-11eb-8cca-521a2545f1c5.png",
+        "caption": "TODO Light scattering observation of airborne speech droplet nuclei, ",
+        "link": "https://www.pnas.org/content/117/22/11875",
+        "credit": "Stadnytskyi et al, 2020"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6,
+        "day": 2
+      },
+      "text": {
+        "headline": "The airborne lifetime of small speech droplets",
+        "text": "We estimate that 1 min of loud speaking generates at least 1,000 virion-containing droplet nuclei that remain airborne for more than 8 min. These therefore could be inhaled by others and, according to independent action hypothesis, trigger a new SARS-CoV-2 infection."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "/media/cloud.mp4",
         "caption": "Man sneezing",
         "link": "https://www.reddit.com/r/CovIdiots/comments/h79eov/how_there_is_any_debate_will_always_be_a_wonder/",
@@ -318,6 +336,23 @@
     },
     {
       "media": {
+        "url": "https://user-images.githubusercontent.com/82182/108630493-ea5e8700-7419-11eb-99f5-8883c7b96268.png",
+        "caption": "",
+        "link": "https://www.medrxiv.org/content/10.1101/2020.08.17.20176842v1.full.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 8,
+        "day": 18
+      },
+      "text": {
+        "headline": "TODO: Study: Respirators and surgical masks reducing risks for Health Care Workers",
+        "text": "Finish Study released showing no staff wearing an N95 at minimum were infected but that those that used surgical masks or less had a 63% chance of being infected at work"
+      }
+    },
+    {
+      "media": {
         "url": "https://i.insider.com/5f43d80c42f43f001ddfe9a0?width=1000&format=jpeg&auto=webp",
         "caption": "Generic pic of a Starbucks",
         "link": "http://webcache.googleusercontent.com/search?q=cache:jgZQOBFDBg0J:www.cdc.go.kr/board/board.es%3Fmid%3Da30402000000%255C%26bid%3D0030%26act%3Dview%26list_no%3D368221%26tag%3D%26nPage%3D1+&cd=1&hl=en&ct=clnk&gl=uk",
@@ -407,6 +442,25 @@
     },
     {
       "media": {
+        "thumbnail": "",
+        "url": "https://cdn.statcdn.com/Infographic/images/normal/21095.jpeg",
+        "caption": "statista.com: South Korea within reach of 'Zero COVID' at the end Apr 2020",
+        "link": "https://news.v.daum.net/v/20200916030023673",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 9,
+        "day": 16,
+        "hour": 12
+      },
+      "text": {
+        "headline": "Alone voice out of 27... 'I wore a KF94 mask'",
+        "text": "TODO: Infection rate is a whopping 97% for an hour-long meeting - everyone without a mask was infected, and one person with a mask was not affected. Many people started the meeting in masks, but all bar one took them of as it progressed [Korean]"
+      }
+    },
+    {
+      "media": {
         "thumbnail": "/media/cdc_retract.jpg",
         "url": "https://storage.googleapis.com/afs-prod/media/d478dedd87ee43fea2784a7a3ef02c09/800.jpeg",
         "caption": "El director de los Centros para el Control y la Prevención de Enfermedades, el Dr. Robert Redfield, se vuelve a poner la mascarilla después de hablar en una audiencia del subcomité de asignaciones del Senado",
@@ -444,6 +498,78 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6940e2_FamilyGatheringCOVID19_IMAGE_05Oct20_Social_1200x675-medium.jpg",
+        "caption": "",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 9
+      },
+      "text": {
+        "headline": "13 year old kid spreads it to 11 more in family",
+        "text": "Index case was 13 y.o. Spread to 11 more. [ed: kids transmit]. Twelve of the 14 who stayed INSIDE at the house (sleeping there) caught it. Six who came to the house, but remained distant outdoors did NOT. [ed: one more for indoor = bad, outdoor = good]. Via <a href='https://twitter.com/jmcrookston/status/1313281284249182208'>@jmcrookston</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/101791159-1e086100-3afb-11eb-8cb1-c787c2c41b16.png",
+        "caption": "After four hours without safety measures",
+        "link": "https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html",
+        "credit": "El Pais artwork"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 10
+      },
+      "text": {
+        "headline": "how the coronavirus is spread through the air",
+        "text": "TODO: Article: The risk of contagion is highest in indoor spaces but can be reduced by applying all available measures to combat infection via aerosols. Here is an overview of the likelihood of infection in three everyday scenarios, based on the safety measures used and the length of exposure."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.youtube.com/watch?v=veaaX2hJ7aw&feature=emb_logo",
+        "caption": "",
+        "link": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 15
+      },
+      "text": {
+        "headline": "Infectious Drops and Aerosols: A MIAEH seminar by Dr. Don Milton",
+        "text": "TODO: Dr. Don Milton, professor of applied environmental health at the University of Maryland, gave a seminar about infectious aerosols and their role in the spread of viruses, including SARS-CoV-2. He is Principal Investigator of the UMD StopCOVID study which is examining how much airborne virus an a person infected with Covid-19 exhales"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.youtube.com/watch?v=3GndKYJ4uBI",
+        "caption": "Researchers test mask using coronavirus [Nippon TV]",
+        "link": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 22
+      },
+      "text": {
+        "headline": "Researchers in Japan test the effectiveness of masks using the actual coronavirus for the first time",
+        "text": "TODO: Nippon TV's one minute segment on the a airborne/aerosols test for actual SARS-CoV-2"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101375306-1fd9e680-38a7-11eb-94c9-5a6d0529ddb5.png",
         "caption": "Fotograma de la conversación de JAMA Network",
         "link": "https://edhub.ama-assn.org/jn-learning/video-player/18554257",
@@ -457,6 +583,42 @@
       "text": {
         "headline": "El nuevo director de los CDC de EE. UU. Reconoce la naturaleza en aerosol del COVID-19",
         "text": "“... aerosoles, creo, fue otra sorpresa. Pensamos que sabíamos cómo funcionan generalmente los virus respiratorios. Pensamos que iba a ser una gota, y resulta, ya sabes, mucho aerosol \". - Rochelle Walensky"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://cdn.the-scientist.com/assets/articleNo/68094/iImg/40161/uploads/new%20transmission%20set-up.jpg",
+        "caption": "Infected donor ferret below with a healthy indirect recipient ferret above",
+        "link": "https://www.the-scientist.com/news-opinion/ferret-study-reinforces-role-of-aerosols-in-sars-cov-2-spread-68094",
+        "credit": "The-scientist.com article pic"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 28
+      },
+      "text": {
+        "headline": "Study shows aerosol spread between ferrets",
+        "text": "Article: Elaborate apparatus shows the virus spreads via aerosolized particles between ferrets more than a meter apart. Linsey Marr: “If I were someone who thought that large droplets were the way [that SARS-CoV-2 was transmitted] and if I were skeptical about aerosols, this study might make me rethink my assumptions,”"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6943a4_HighSchoolSummerCampCOVID19_IMAGE_30Oct20_1200x675-medium.jpg",
+        "caption": "",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6943a4.htm",
+        "credit": "CGC.GOV"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 30
+      },
+      "text": {
+        "headline": "Outbreak at an Overnight Summer School Retreat",
+        "text": "TODO: July 2–August 11, 2020, an outbreak of coronavirus disease 2019 (COVID-19) occurred at a boys’ overnight summer school retreat in Wisconsin. There was a 76% infection rate.<br><br>See <a href='https://twitter.com/jmcrookston/status/1356940611870425088'>76% attack rate sure doesn't look like your grandpa's flu now does it? thread by @jmcrookston<a/>."
       }
     },
     {
@@ -516,6 +678,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://mmbiz.qpic.cn/mmbiz_jpg/OoyyicmZojqEOlZrb5wvc7rhnRCuOd8PVagkrrQuz6PANSbB1zic19O7W1ZydBIsOwGLAML6G5nccde4w3kWVMLA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1",
+        "caption": "Cold storage units, workers, their trucks, and elevators",
+        "link": "https://translate.google.com/translate?sl=auto&tl=en&u=https://mp.weixin.qq.com/s/idDDTMQVSKTVyLUBwciy3A",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 11,
+        "day": 24
+      },
+      "text": {
+        "headline": "Tianjin China: Injection in elevator holding an aerosol cloud",
+        "text": "TODO: The infected person coughed in an elevator, and the neighbor entered without a mask two minutes later and became infected! Other incidents too. [Unconfirmed - waiting on formal study]"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101584992-c5d83e80-39d6-11eb-99c9-2737f87b3915.png",
         "caption": "Curvas de pozos modificadas teniendo en cuenta la aerodinámica, termodinámica y desecación de las gotas.",
         "link": "https://aip.scitation.org/doi/full/10.1063/5.0034032",
@@ -529,6 +709,24 @@
       "text": {
         "headline": "Análisis de las rutas de transmisión dominantes del SARS-CoV-2",
         "text": "Extracto del estudio: En un espacio interior típico, con aire acondicionado pero en reposo, para una carga viral promedia, las gotas de tos con un diámetro inicial entre 10 µm y 50 µm tienen la mayor probabilidad de infección. Sin embargo, en el momento en que se inhalan, los diámetros se reducen a aproximadamente 1/6 de sus diámetros iniciales."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/107883280-f613f000-6ee5-11eb-9e21-64b1a78e3778.png",
+        "caption": "simulation, not military grade camera",
+        "link": "https://www.washingtonpost.com/investigations/2020/12/11/coronavirus-airborne-video-infrared-spread/?arc404=true",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 11
+      },
+      "text": {
+        "headline": "Article:  Military-grade camera shows risks of airborne spread",
+        "text": "TODO: The Washington Post used an infrared camera made by the company FLIR Systems that is capable of detecting exhaled breath. Numerous experts — epidemiologists, virologists and engineers — supported the notion of using exhalation as a conservative proxy to show potential transmission risk in various settings."
       }
     },
     {
@@ -552,6 +750,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.abc.net.au/cm/rimage/12895112-3x2-xlarge.jpg?v=2",
+        "caption": "Peppers Waymouth Hotel (Australia)- one of many quarantine hotels",
+        "link": "https://www.abc.net.au/news/2020-12-15/ventilation-system-may-have-caused-hotel-quarantine-transmission/12984280",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 15
+      },
+      "text": {
+        "headline": "TODO: Cases that ‘leak’ out of quarantine hotels are most likely due to failure to take #airborne precautions in buildings & transportation",
+        "text": "\"During those times it is possible for droplets and aerosol to come out of that room, and if the ventilation in the passageway is not optimal then it is possible for those droplets to concentrate\". ABC article via <a href='https://twitter.com/Orla_Hegarty/status/1352306551118245896'>@Orla_Hegarty</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/05d942d9-3ffa-4e9f-a6af-e016d1bc029b/gr1.jpg",
         "caption": "Estructura del edificio de apartamentos donde se produjeron los brotes de infección en dos líneas verticales",
         "link": "https://www.ijidonline.com/article/S1201-9712(20)32558-3/fulltext",
@@ -565,6 +781,42 @@
       "text": {
         "headline": "Transmisión aérea a través de conductos de aire de apartamentos",
         "text": "Posible transmisión #Airborne #SARSCoV2 a través de conductos de aire (agosto): después de una serie de infecciones, se realizaron pruebas a los 437 residentes de un edificio apto. 10 infecciones descubiertas, todas viviendo en diferentes pisos pero a lo largo de dos líneas verticales con aberturas a través de sus baños. Ver también <a href='https://twitter.com/AliNouriPhD/status/1341193351014572032'>Hilo de Twitter por (@AliNouriPhD)"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://static.ffx.io/images/$zoom_0.303%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/c7517a648c513a1073e789607bc3e75ebf7e3e6b",
+        "caption": "Location of outbreak - restuarant in Melbourne",
+        "link": "https://www.theage.com.au/national/victoria/airflow-and-seating-likely-factors-in-thai-restaurant-cluster-20210109-p56sup.html",
+        "credit": "Penny Stephens (TheAge.com.au)"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 21
+      },
+      "text": {
+        "headline": "Article: Indoor dining super-spread  ",
+        "text": "TODO: Eleven of the 37 patrons who dined at the Smile Buffalo Thai restaurant on the night of December 21 tested positive to the virus, after visiting between 7pm & 9.30pm Via <a href='https://twitter.com/Orla_Hegarty/status/1347879426957172737'>@Orla_Hegarty tweet"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/103912600-65d0d700-50ff-11eb-8dbb-265482472740.png",
+        "caption": "",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7771204/pdf/11783_2021_Article_1386.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 25
+      },
+      "text": {
+        "headline": "Aerosol spread in Chinese department store",
+        "text": "TODO: Aerosol transmission, an indispensable route of COVID-19\nspread: case study of a department-store cluster (back in Jan 2020). See <a href='https://twitter.com/AliNouriPhD/status/1346219061051596807'>tweet by @AliNouriPhD</a>"
       }
     },
     {
@@ -584,6 +836,97 @@
         "headline": "La dinámica de fluidos de la infección transmitida por el aire por COVID-19 sugiere datos urgentes para un diseño científico de distanciamiento social",
         "text": "Nuestros resultados muestran que una sola regla [como 2 metros] para el distanciamiento social puede no ser adecuada para proteger a las personas en diferentes entornos. <a href='https://twitter.com/EricTopol/status/1344297867578548225'>Hilo de Twitter por (@EricTopol)"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/105900579-27e71480-6014-11eb-9e1b-2efb683fe281.png",
+        "caption": "",
+        "link": "https://www.liebertpub.com/doi/10.1089/jamp.2020.1616",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 1,
+        "day": 28
+      },
+      "text": {
+        "headline": "Breathing Is Enough: For the Spread of Influenza Virus and SARS-CoV-2 by Breathing Only",
+        "text": "TODO: Conclusion after literature search: [Flu and SARS-CoV-2] aerosol particles are difficult to filter out of the air; because of their physical properties, new strategies must be developed to protect people from these virus aerosols."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/107674048-72ac9180-6c8e-11eb-9ff0-e264b5e7a62b.png",
+        "caption": "",
+        "link": "https://www.medrxiv.org/content/10.1101/2021.02.05.21251235v1.full.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 2,
+        "day": 10
+      },
+      "text": {
+        "headline": "TODO: New Orleans super-spreader event was via a single introduction (it's airborne)",
+        "text": "\"Remember how New Orleans got hit badly, early? They trace the ~50,000 cases likely to a *single* introduction that fueled the Mardi Gras superspreading event. Overdispersion: helpful if taken  seriously, catastrophe if ignored\" - <a href='https://twitter.com/zeynep/status/1359322724989042692'>@Zeynep</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/108107690-7a51a900-7087-11eb-90bb-02bf5e09f1de.png",
+        "caption": "'sampling chamber' test equipment",
+        "link": "https://www.medrxiv.org/content/10.1101/2021.02.07.21251309v2.full.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 2,
+        "day": 10
+      },
+      "text": {
+        "headline": "TODO: Study: The effect of respiratory activity, ventilatory therapy and facemasks on total aerosol emissions",
+        "text": "\"Conclusions: Talking, exertional breathing and coughing generate substantially more aerosols than the respiratory therapies HFNO and NIPPV which can reduce total emissions. The risk of aerosol exposure is underappreciated and warrants widespread targeted interventions.\" - via <a href='https://twitter.com/linseymarr/status/1361729569800216576'>@linseymarr</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/70/wr/social-media/mm7009e2_ExerciseFacilityChicago_IMAGE_24Feb21_1200x675-medium.jpg",
+        "caption": "81 attendees",
+        "link": "https://www.cdc.gov/mmwr/volumes/70/wr/mm7009e2.htm?s_cid=mm7009e2_e",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 2,
+        "day": 23
+      },
+      "text": {
+        "headline": "Chicago: Outbreak Among Attendees of an Exercise Facility",
+        "text": "\"TODO: ... Aerosolized transmission of SARS-CoV-2 could have been a contributing factor in this outbreak. Although the facility’s ventilation system was not assessed, inadequate air circulation might have exacerbated transmission in the building, which was not originally designed for exercise classes ...\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/card_img/1365465498562027525/dUzBat2r?format=jpg&name=small",
+        "caption": "Airflow simulation",
+        "link": "https://www.nytimes.com/interactive/2021/02/26/science/reopen-schools-safety-ventilation.html",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 2,
+        "day": 26
+      },
+      "text": {
+        "headline": "TODO: New York Times: Why Opening Windows Is a Key to Reopening Schools",
+        "text": "\"The C.D.C. is urging communities to reopen schools as quickly as possible, but parents and teachers have raised questions about the quality of ventilation available in public school classrooms to protect against the coronavirus.\n\nWe worked with a leading engineering firm and experts specializing in buildings systems to better understand the simple steps schools can take to reduce exposure in the classroom.\""
+      }
     }
+
   ]
 }
