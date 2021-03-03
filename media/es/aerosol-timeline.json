@@ -529,7 +529,7 @@
       },
       "text": {
         "headline": "cómo se propaga el coronavirus por el aire",
-        "text": "TODO: Article: The risk of contagion is highest in indoor spaces but can be reduced by applying all available measures to combat infection via aerosols. Here is an overview of the likelihood of infection in three everyday scenarios, based on the safety measures used and the length of exposure."
+        "text": "TODO: Artículo: El riesgo de contagio es mayor en los espacios interiores, pero se puede reducir aplicando todas las medidas disponibles para combatir la infección a través de aerosoles. A continuación, se ofrece una descripción general de la probabilidad de infección en tres escenarios cotidianos, según las medidas de seguridad utilizadas y la duración de la exposición."
       }
     },
     {
@@ -546,15 +546,15 @@
         "day": 15
       },
       "text": {
-        "headline": "Infectious Drops and Aerosols: A MIAEH seminar by Dr. Don Milton",
-        "text": "TODO: Dr. Don Milton, professor of applied environmental health at the University of Maryland, gave a seminar about infectious aerosols and their role in the spread of viruses, including SARS-CoV-2. He is Principal Investigator of the UMD StopCOVID study which is examining how much airborne virus an a person infected with Covid-19 exhales"
+        "headline": "Gotas y aerosoles infecciosos: un seminario de MIAEH por el Dr. Don Milton",
+        "text": "TODO: El Dr. Don Milton, profesor de salud ambiental aplicada en la Universidad de Maryland, dio un seminario sobre aerosoles infecciosos y su papel en la propagación de virus, incluido el SARS-CoV-2. Es el investigador principal del estudio UMD StopCOVID, que examina la cantidad de virus en el aire que exhala una persona infectada con Covid-19."
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://www.youtube.com/watch?v=3GndKYJ4uBI",
-        "caption": "Researchers test mask using coronavirus [Nippon TV]",
+        "caption": "Los investigadores prueban la máscara con coronavirus [Nippon TV]",
         "link": "",
         "credit": ""
       },
@@ -564,8 +564,8 @@
         "day": 22
       },
       "text": {
-        "headline": "Researchers in Japan test the effectiveness of masks using the actual coronavirus for the first time",
-        "text": "TODO: Nippon TV's one minute segment on the a airborne/aerosols test for actual SARS-CoV-2"
+        "headline": "Investigadores en Japón prueban la efectividad de las máscaras usando el coronavirus real por primera vez",
+        "text": "TODO: segmento de un minuto de Nippon TV sobre la prueba aerotransportada / aerosoles para el SARS-CoV-2 real"
       }
     },
     {
@@ -618,8 +618,8 @@
         "day": 30
       },
       "text": {
-        "headline": "Outbreak at an Overnight Summer School Retreat",
-        "text": "TODO: July 2–August 11, 2020, an outbreak of coronavirus disease 2019 (COVID-19) occurred at a boys’ overnight summer school retreat in Wisconsin. There was a 76% infection rate.<br><br>See <a href='https://twitter.com/jmcrookston/status/1356940611870425088'>76% attack rate sure doesn't look like your grandpa's flu now does it? thread by @jmcrookston<a/>."
+        "headline": "Brote en un retiro de la escuela de verano durante la noche",
+        "text": "TODO: del 2 de julio al 11 de agosto de 2020, se produjo un brote de la enfermedad por coronavirus 2019 (COVID-19) en un retiro nocturno de la escuela de verano para niños en Wisconsin. Hubo una tasa de infección del 76%. <br> <br> Ver<a href='https://twitter.com/jmcrookston/status/1356940611870425088'>La tasa de ataque del 76% seguro que no se parece a la gripe de tu abuelo, ¿verdad? hilo por @jmcrookston<a/>."
       }
     },
     {
@@ -690,8 +690,8 @@
         "day": 24
       },
       "text": {
-        "headline": "Tianjin China: Injection in elevator holding an aerosol cloud",
-        "text": "TODO: The infected person coughed in an elevator, and the neighbor entered without a mask two minutes later and became infected! Other incidents too. [Unconfirmed - waiting on formal study]"
+        "headline": "Tianjin China: Inyección en un ascensor que sostiene una nube de aerosol",
+        "text": "TODO: ¡La persona infectada tosió en un ascensor y el vecino entró sin máscara dos minutos después y se infectó! También otros incidentes. [Sin confirmar - esperando estudio formal]"
       }
     },
     {
@@ -700,7 +700,7 @@
         "url": "https://user-images.githubusercontent.com/82182/101584992-c5d83e80-39d6-11eb-99c9-2737f87b3915.png",
         "caption": "Curvas de pozos modificadas teniendo en cuenta la aerodinámica, termodinámica y desecación de las gotas.",
         "link": "https://aip.scitation.org/doi/full/10.1063/5.0034032",
-        "credit": "Diagram from Chaudhuri, Basu &amp; Saha's study"
+        "credit": "Diagrama de Chaudhuri, Basu & amp; El estudio de Saha"
       },
       "start_date": {
         "year": "2020",
@@ -716,7 +716,7 @@
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/107883280-f613f000-6ee5-11eb-9e21-64b1a78e3778.png",
-        "caption": "simulation, not military grade camera",
+        "caption": "simulación, no cámara de grado militar",
         "link": "https://www.washingtonpost.com/investigations/2020/12/11/coronavirus-airborne-video-infrared-spread/?arc404=true",
         "credit": ""
       },
@@ -726,8 +726,8 @@
         "day": 11
       },
       "text": {
-        "headline": "Article:  Military-grade camera shows risks of airborne spread",
-        "text": "TODO: The Washington Post used an infrared camera made by the company FLIR Systems that is capable of detecting exhaled breath. Numerous experts — epidemiologists, virologists and engineers — supported the notion of using exhalation as a conservative proxy to show potential transmission risk in various settings."
+        "headline": "Artículo: La cámara de grado militar muestra los riesgos de propagación aérea",
+        "text": "TODO: The Washington Post utilizó una cámara infrarroja fabricada por la empresa FLIR Systems que es capaz de detectar el aliento exhalado. Numerosos expertos (epidemiólogos, virólogos e ingenieros) apoyaron la idea de utilizar la exhalación como un sustituto conservador para mostrar el riesgo potencial de transmisión en diversos entornos."
       }
     },
     {
@@ -762,8 +762,8 @@
         "day": 15
       },
       "text": {
-        "headline": "TODO: Cases that ‘leak’ out of quarantine hotels are most likely due to failure to take #airborne precautions in buildings & transportation",
-        "text": "\"During those times it is possible for droplets and aerosol to come out of that room, and if the ventilation in the passageway is not optimal then it is possible for those droplets to concentrate\". ABC article via <a href='https://twitter.com/Orla_Hegarty/status/1352306551118245896'>@Orla_Hegarty</a>"
+        "headline": "TODO: Los casos que se \"filtran\" fuera de los hoteles en cuarentena probablemente se deben a que no se tomaron las precauciones #aerotransportadas en los edificios y el transporte",
+        "text": "\"Durante esos momentos, es posible que las gotas y el aerosol salgan de esa habitación, y si la ventilación en el pasillo no es óptima, entonces es posible que esas gotas se concentren.\". Artículo de ABC a través de <a href='https://twitter.com/Orla_Hegarty/status/1352306551118245896'>@Orla_Hegarty</a>"
       }
     },
     {
@@ -798,8 +798,8 @@
         "day": 21
       },
       "text": {
-        "headline": "Article: Indoor dining super-spread  ",
-        "text": "TODO: Eleven of the 37 patrons who dined at the Smile Buffalo Thai restaurant on the night of December 21 tested positive to the virus, after visiting between 7pm & 9.30pm Via <a href='https://twitter.com/Orla_Hegarty/status/1347879426957172737'>@Orla_Hegarty tweet"
+        "headline": "Artículo: Super-extendido comedor interior",
+        "text": "TODO: Once de los 37 clientes que cenaron en el restaurante tailandés Smile Buffalo la noche del 21 de diciembre dieron positivo al virus, después de visitarlo entre las 7:00 p. M. Y las 9:30 p. M. <a href='https://twitter.com/Orla_Hegarty/status/1347879426957172737'>@Orla_Hegarty tweet"
       }
     },
     {
@@ -816,8 +816,8 @@
         "day": 25
       },
       "text": {
-        "headline": "Aerosol spread in Chinese department store",
-        "text": "TODO: Aerosol transmission, an indispensable route of COVID-19\nspread: case study of a department-store cluster (back in Jan 2020). See <a href='https://twitter.com/AliNouriPhD/status/1346219061051596807'>tweet by @AliNouriPhD</a>"
+        "headline": "Propagación de aerosol en grandes almacenes chinos",
+        "text": "TODO: Transmisión de aerosoles, ruta indispensable del COVID-19\npropagación: estudio de caso de un grupo de tiendas departamentales (en enero de 2020). Ver <a href='https://twitter.com/AliNouriPhD/status/1346219061051596807'>tweet by @AliNouriPhD</a>"
       }
     },
     {
@@ -852,8 +852,8 @@
         "day": 28
       },
       "text": {
-        "headline": "Breathing Is Enough: For the Spread of Influenza Virus and SARS-CoV-2 by Breathing Only",
-        "text": "TODO: Conclusion after literature search: [Flu and SARS-CoV-2] aerosol particles are difficult to filter out of the air; because of their physical properties, new strategies must be developed to protect people from these virus aerosols."
+        "headline": "Respirar es suficiente: para la propagación del virus de la influenza y el SARS-CoV-2 solo con la respiración",
+        "text": "TODO: Conclusión después de la búsqueda de literatura: Las partículas de aerosol [Gripe y SARS-CoV-2] son difíciles de filtrar del aire; Debido a sus propiedades físicas, se deben desarrollar nuevas estrategias para proteger a las personas de estos aerosoles de virus."
       }
     },
     {
@@ -870,8 +870,8 @@
         "day": 10
       },
       "text": {
-        "headline": "TODO: New Orleans super-spreader event was via a single introduction (it's airborne)",
-        "text": "\"Remember how New Orleans got hit badly, early? They trace the ~50,000 cases likely to a *single* introduction that fueled the Mardi Gras superspreading event. Overdispersion: helpful if taken  seriously, catastrophe if ignored\" - <a href='https://twitter.com/zeynep/status/1359322724989042692'>@Zeynep</a>"
+        "headline": "TODO: El evento de súper esparcidor de Nueva Orleans se realizó a través de una sola introducción (está en el aire)",
+        "text": "\"¿Recuerdas cómo Nueva Orleans sufrió un duro golpe, temprano? Rastrean los ~ 50,000 casos que probablemente se remontan a una * única * introducción que impulsó el evento de superexploración de Mardi Gras. Dispersión excesiva: útil si se toma en serio, catástrofe si se ignora\" - <a href='https://twitter.com/zeynep/status/1359322724989042692'>@Zeynep</a>"
       }
     },
     {
@@ -888,8 +888,8 @@
         "day": 10
       },
       "text": {
-        "headline": "TODO: Study: The effect of respiratory activity, ventilatory therapy and facemasks on total aerosol emissions",
-        "text": "\"Conclusions: Talking, exertional breathing and coughing generate substantially more aerosols than the respiratory therapies HFNO and NIPPV which can reduce total emissions. The risk of aerosol exposure is underappreciated and warrants widespread targeted interventions.\" - via <a href='https://twitter.com/linseymarr/status/1361729569800216576'>@linseymarr</a>"
+        "headline": "TODO: Estudio: El efecto de la actividad respiratoria, la terapia ventilatoria y las mascarillas sobre las emisiones totales de aerosoles",
+        "text": "\"Conclusiones: Hablar, respirar con esfuerzo y toser generan sustancialmente más aerosoles que las terapias respiratorias HFNO y NIPPV que pueden reducir las emisiones totales. El riesgo de exposición a aerosoles se subestima y justifica intervenciones específicas generalizadas.\" - via <a href='https://twitter.com/linseymarr/status/1361729569800216576'>@linseymarr</a>"
       }
     },
     {
@@ -906,8 +906,8 @@
         "day": 23
       },
       "text": {
-        "headline": "Chicago: Outbreak Among Attendees of an Exercise Facility",
-        "text": "\"TODO: ... Aerosolized transmission of SARS-CoV-2 could have been a contributing factor in this outbreak. Although the facility’s ventilation system was not assessed, inadequate air circulation might have exacerbated transmission in the building, which was not originally designed for exercise classes ...\""
+        "headline": "Chicago: brote entre las asistentes de una instalación de ejercicio",
+        "text": "\"TODO: ... La transmisión en aerosol del SARS-CoV-2 podría haber sido un factor que contribuyó a este brote. Aunque no se evaluó el sistema de ventilación de la instalación, la circulación de aire inadecuada podría haber exacerbado la transmisión en el edificio, que originalmente no fue diseñado para clases de ejercicios ...\""
       }
     },
     {
@@ -924,8 +924,8 @@
         "day": 26
       },
       "text": {
-        "headline": "TODO: New York Times: Why Opening Windows Is a Key to Reopening Schools",
-        "text": "\"The C.D.C. is urging communities to reopen schools as quickly as possible, but parents and teachers have raised questions about the quality of ventilation available in public school classrooms to protect against the coronavirus.\n\nWe worked with a leading engineering firm and experts specializing in buildings systems to better understand the simple steps schools can take to reduce exposure in the classroom.\""
+        "headline": "TODO: New York Times: Por qué abrir ventanas es clave para reabrir escuelas",
+        "text": "\"El C.D.C. está instando a las comunidades a reabrir las escuelas lo más rápido posible, pero los padres y maestros han planteado preguntas sobre la calidad de la ventilación disponible en las aulas de las escuelas públicas para protegerse contra el coronavirus.\n\nTrabajamos con una firma de ingeniería líder y expertos que se especializan en sistemas de edificios para comprender mejor los pasos simples que pueden tomar las escuelas para reducir la exposición en el aula.\""
       }
     }
 
