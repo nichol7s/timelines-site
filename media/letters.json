@@ -1,0 +1,33 @@
+{
+  "title": {
+    "media": {
+      "url": "",
+      "caption": "",
+      "credit": ""
+    },
+    "text": {
+      "headline": "letter to officials",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://lh3.googleusercontent.com/u/0/d/1unTI2tnW2WyoxPMv-OiaNnIzt-EKn8wz=w200-h190-p-k-nu-iv3",
+        "caption": "",
+        "link": "https://drive.google.com/drive/folders/16gIPk7UXTu6onIXggM96D5iql07U0wMY",
+          "credit": ""
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 2,
+        "day": 19
+      },
+      "text": {
+        "headline": "Canada Air Transmission - follow up Letter",
+        "text": "The science is clear: Protective measures must fully account for aerosol transmission of the virus, as we said in January."
+      }
+    }
+  ]
+}
