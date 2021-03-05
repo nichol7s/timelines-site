@@ -118,6 +118,24 @@
         "headline": "Canada Air Transmission - follow up Letter",
         "text": "The science is clear: Protective measures must fully account for aerosol transmission of the virus, as we said in January."
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/110096204-99458000-7d95-11eb-8ee1-02aa9566e5a8.png",
+        "caption": "",
+        "link": "/media/letters/2021_03_01_US has Manufacturing Capacity to Provide High-Filtration Masks to Every American.pdf",
+          "credit": ""
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 3,
+        "day": 1
+      },
+      "text": {
+        "headline": "The United States has the Manufacturing Capacity to Provide High-Filtration Masks to Every American\n",
+        "text": "[..] \"We want to assure you that America’s mask manufacturers have ample capacity to meet the entire needs of our nation during emergencies such as this pandemic. As good partners of the administration, our capacity can also serve as the foundation for future emergency response.\""
+      }
     }
   ]
 }
