@@ -32,6 +32,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/110212594-fe7f9b00-7e93-11eb-8a2f-4686f7cc54de.png",
+        "caption": "",
+        "link": "https://masks4canada.org/resources/open-letters/covid-19-aerosol-transmission-jan-2021/",
+          "credit": ""
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 1,
+        "day": 4
+      },
+      "text": {
+        "headline": "Canada: \"Nurses Association to Doug Ford\"",
+        "text": "\"Nurses and health-care professionals expect urgent and decisive action — that you and the government\nimmediately update your directives and guidance to mandate precautions for airborne transmission, including\nthe use of N95 respirators for all nurses and health-care professionals who come into contact with any\nsuspected or positive COVID-19 patients, residents or clients.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/110036434-e7766700-7d34-11eb-8061-6ae28951e3b8.png",
         "caption": "",
         "link": "/media/letters/2021_01_25_Canada_Ontario_Nurses_Assoc_Aerosol_Letter.pdf",
@@ -43,8 +61,8 @@
         "day": 25
       },
       "text": {
-        "headline": "Ontario: \"Nurses Association to Doug Ford\"",
-        "text": "\"Nurses and health-care professionals expect urgent and decisive action — that you and the government\nimmediately update your directives and guidance to mandate precautions for airborne transmission, including\nthe use of N95 respirators for all nurses and health-care professionals who come into contact with any\nsuspected or positive COVID-19 patients, residents or clients.\""
+        "headline": "Canada Air Transmission - first Letter",
+        "text": "\"We urge you to update the provincial COVID-19 guidelines, workplace regulations and public communication to reflect the science - COVID019 spreads through inhaled aerosols\". See also <a href='#event-canada-air-transmission-follow-up-letter'>follow up letter</a>"
       }
     },
     {
