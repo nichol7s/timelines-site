@@ -85,10 +85,10 @@
     },
     {
       "media": {
-        "thumbnail": "https://pbs.twimg.com/card_img/1368228739474223109/2lhc4K1f?format=jpg&name=small",
-        "url": "https://www.bbc.co.uk/iplayer/episode/p086spnp/focus-coronavirus-do-face-masks-work",
-        "caption": "",
-        "link": "",
+        "thumbnail": "",
+        "url": "",
+        "caption": "https://pbs.twimg.com/card_img/1368228739474223109/2lhc4K1f?format=jpg&name=small",
+        "link": "https://www.bbc.co.uk/iplayer/episode/p086spnp/focus-coronavirus-do-face-masks-work",
           "credit": "BBC news - video segment"
       },
       "start_date": {
@@ -158,19 +158,19 @@
     {
       "media": {
         "thumbnail": "",
-        "url": "https://youtu.be/pv5JLA7z4FU?t=2057",
+        "url": "https://user-images.githubusercontent.com/82182/110258727-fe6ac280-7f9b-11eb-8671-334578064ae8.png",
         "caption": "",
-        "link": "",
+        "link": "https://web.archive.org/web/20200331060605/https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/communicable-disease-control/covid-19/about-the-disease/",
           "credit": ""
       },
       "start_date": {
         "year": 2020,
         "month": 3,
-        "day": 30
+        "day": 31
       },
       "text": {
-        "headline": "Dr Theresa Tam on masks only being for sick people",
-        "text": "Canada's chief public health officer (Dr. Theresa Tam) incorrectly claims that masks are only useful for people sick sick with COVID-19"
+        "headline": "Swedish Folkhalsomynd:  \"face masks are not needed in in the community\"",
+        "text": "Swedish Folkhalsomynd: \"Do face masks protect against transmission? [...] However, face masks are not needed in in the community\""
       }
     },
     {
