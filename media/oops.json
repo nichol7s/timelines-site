@@ -67,6 +67,24 @@
     },
     {
       "media": {
+        "thumbnail": "https://pbs.twimg.com/card_img/1368228739474223109/2lhc4K1f?format=jpg&name=small",
+        "url": "https://www.bbc.co.uk/iplayer/episode/p086spnp/focus-coronavirus-do-face-masks-work",
+        "caption": "",
+        "link": "",
+          "credit": "BBC news - video segment"
+      },
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 16
+      },
+      "text": {
+        "headline": "BBC TV: Dr Shunmay Yeung (LSHTM) says masks don't work",
+        "text": "Dr Shunmay Yeung from London School of Hygiene and Tropical Medicine (LSHTM) in BBC TV interview says (incorrectly ) that masks don't work because \"it isn't floating about in the air\""
+      }
+    },
+    {
+      "media": {
         "thumbnail": "https://pbs.twimg.com/media/Et925ZzXMAUymux?format=jpg&name=large",
         "url": "https://twitter.com/mvankerkhove/status/1241830233101275137",
         "caption": "screen cap of tweet",
@@ -116,7 +134,25 @@
       },
       "text": {
         "headline": "WHO Tweet:  \"FACT: #COVID19 is NOT airborne\"",
-        "text": "A tweet incorrectly saying COVID19 is not airborne and prpmoting distance and fomites only was pushed out on Twitter and promoted by WHO staff following that."
+        "text": "A tweet incorrectly saying COVID19 is not airborne and prmoting distance and fomites only was pushed out on Twitter and promoted by WHO staff following that."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://youtu.be/pv5JLA7z4FU?t=2057",
+        "caption": "",
+        "link": "",
+          "credit": ""
+      },
+      "start_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 30
+      },
+      "text": {
+        "headline": "Dr Theresa Tam on masks only being for sick people",
+        "text": "Canada's chief public health officer (Dr. Theresa Tam) incorrectly claims that masks are only useful for people sick sick with COVID-19"
       }
     },
     {
