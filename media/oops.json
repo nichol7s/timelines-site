@@ -43,8 +43,26 @@
         "day": 6
       },
       "text": {
-        "headline": "IATA medical adviser : \"Forget Masks\"",
+        "headline": "IATA medical adviser: \"Forget Masks\"",
         "text": "International Air Transport Association has a physician as a medical advisor, David Powell. He gave a video interview for Bloomberg and suggested that masks did a \"better job of spreading bugs than preventing them\". By May 5th, Powell would change to <a href='https://www.iata.org/contentassets/fe92ab7e0d864d3ab5c8e4fd632293e0/physical-distancing-onboard-covid-19.pdf'>promote mask use on board planes</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://e3.365dm.com/20/02/768x432/b52840c87f06325908c258f799e20b5e7c07a3fc126391a76cbeacc6aa49fa1b_4916840.jpg",
+        "caption": "",
+        "link": "https://news.sky.com/video/coronavirus-how-effective-are-surgical-face-masks-11931175",
+        "credit": ""
+      },
+      "start_date": {
+        "year": 2020,
+        "month": 2,
+        "day": 10
+      },
+      "text": {
+        "headline": "Dr Nathalie MacDermott: \"no evidence surgical masks can protect the general public\"",
+        "text": "Dr Nathalie MacDermott, a clinical lecturer at King's College London, told Sky News there is \"not any good evidence\" to suggest surgical masks can protect the general public from the virus but there are other methods"
       }
     },
     {
@@ -80,7 +98,7 @@
       },
       "text": {
         "headline": "BBC TV: Dr Shunmay Yeung (LSHTM) says masks don't work",
-        "text": "Dr Shunmay Yeung from London School of Hygiene and Tropical Medicine (LSHTM) in BBC TV interview says (incorrectly ) that masks don't work because \"it isn't floating about in the air\""
+        "text": "Dr Shunmay Yeung from London School of Hygiene and Tropical Medicine (LSHTM) in BBC TV interview says (incorrectly ) that masks don't work because \"It's not protecting me because it's not there [in the air].\""
       }
     },
     {
