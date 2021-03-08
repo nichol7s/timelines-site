@@ -13,29 +13,27 @@ This site, its-airborne.org, has five interactive timelines to make our case for
 
 ![](https://user-images.githubusercontent.com/82182/110314794-3c013700-8000-11eb-841a-518e2b97f4b6.png)
 
-## Pitch
+## You should use these technologies for your own cause.
 
-**You should work with that CDIL-made template**
+**You should work with that CDIL-made template above**
 
 * Use the template to make your mini site
 * Pick a domain name for it. 
 * Host it on Github (or similar). 
-* Learn Markdown (Jekyll uses that) and JSON (for the events in the widget)
-* Push "events" into your timline as fast as you like
+* Learn Markdown (Jekyll uses that) and JSON (for the events in the timeline widget)
+* Push "events" into your timeline as fast as you like
 * Encourage contributors via GitHub's "Pull Requests" workflow
 * Also encourage contributors via GitHub's "issues" features (not as smooth)
 
 Science: History-retaining merkle trees (such as Git) with static site generation (like Jekyll) and nice interactive widgets (like TimelineJS3) are a wave of the future - **the revolution will be merkleized**
 
-## If you hate the idea of Jekyll & Git
+### If you hate the idea of Jekyll & Git
 
 * You can also deploy the timelines using TimelineJS3 by using GoogleDocs to hold the timeline. See [timeline.knightlab.com/#make](https://timeline.knightlab.com/#make)
 * There's a [Wordpress plugin](GoogleDoc) for the same TimelineJS3 + GoogleDocs way of working.
 
-## Related Sites
+## Timelines Sites related to ours
 
-Link to **vaccine development timeline** here: a TODO for some other team
+Link to **vaccine development timeline** (2020 - 2021) here: a TODO for another team
 
-Link to **EU / Astra Zeneca dispute** timeline here: a TODO for some other team
-
-
+Link to **EU / Astra Zeneca dispute** (Q1 2021) timeline here: a TODO for another team
