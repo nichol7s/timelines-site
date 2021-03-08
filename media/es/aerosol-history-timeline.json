@@ -14,6 +14,22 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/105977210-0116f580-6089-11eb-9096-e53211eece71.png",
+        "caption": "",
+        "link": "https://archive.org/stream/lucretiusonnatur00lucriala/lucretiusonnatur00lucriala_djvu.txt",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "-95"
+      },
+      "text": {
+        "headline": "\"Infection of the air\" - De rerum natura, book VI - Lucretius",
+        "text": "TODO: Via <a href='https://twitter.com/mdc_martinus/status/1304931927032561664'>Maarten De Cock (@mdc_martinus)</a>. [Other translations bookmarkable sought]"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://pbs.twimg.com/media/Ee1FHuIXoAMqRfq?format=png&name=small",
         "caption": "Pringle - Observaciones sobre las enfermedades del ejército. (1753).",
         "link": "https://archive.org/details/b30502962",
@@ -59,6 +75,22 @@
       "text": {
         "headline": "El aire fresco nuevamente se refiere como importante",
         "text": "Fodere, en su treatise Lecons sur les epidemies, noted that fresh air in hospitals was important. Part of the text in this picture reads 'Make hospitals well isolated, well aired, with many air currents produced by ventilators and don't fill it with a large number of ill patients ...' <a href=\"https://twitter.com/jmcrookston/status/1299482590206930944\">post here (@jmcrookston)</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EiwqEcJXYAEpX4a?format=jpg&name=large",
+        "caption": "",
+        "link": "https://royalsocietypublishing.org/doi/pdf/10.1098/rspl.1874.0027",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1874"
+      },
+      "text": {
+        "headline": "CO2 “traffic lights” guiding ventilation recommendations",
+        "text": "TODO: Chaumont FD: \"On the theory of ventilation: an attempt to establish a positive basis for the calculation of the amount of fresh air required for an inhabited air-space\". Via <a href='https://twitter.com/mdc_martinus/status/1354110813607501829'>@mdc_martinus</a>"
       }
     },
     {
@@ -112,6 +144,23 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/ErqJF4MXUAIAbF9?format=png&name=small",
+        "caption": "clip from study",
+        "link": "https://www.sciencedirect.com/sdfe/pdf/download/eid/1-s2.0-S0140673600945458/first-page-pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1938",
+        "month": 5
+      },
+      "text": {
+        "headline": "Strep is airborne",
+        "text": "TODO: Study finds that Streptococcal 'Strep' infections can happen in enclosed spaces. This disease is caused by a bacteria not a viruses. That is important because they are bigger in size, and convention wisdom said they could stay afloat in the air. See <a href='https://twitter.com/jmcrookston/status/1349543268137263104'> thread by @jmcrookston</a>."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101093907-74354b80-35b3-11eb-8cf8-048386de5215.png",
         "caption": "Account title",
         "link": "https://www.atsjournals.org/doi/full/10.1164/ajrccm.163.1.hh11-00",
@@ -139,6 +188,40 @@
       "text": {
         "headline": "Infección transmitida por el aire: la gripe también",
         "text": "Riley estudió la naturaleza transmitida por el aire de las enfermedades respiratorias a mediados del siglo XX y publicó muchas veces.<a href='https://hub.jhu.edu/2020/07/22/richard-riley-airborne-virus/'>Vea también un artículo de la era COVID19 sobre Riley</a>. "
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/107675435-0337a180-6c90-11eb-8912-77a1a2e710b5.png",
+        "caption": "",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2595130/pdf/yjbm00155-0028.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1974",
+        "month": 9
+      },
+      "text": {
+        "headline": "MEDICAL REVIEWS: \"Coronaviruses\"",
+        "text": "TODO: ... It is therefore probable that human coronaviruses can be spread by aerosol as well as by large droplet. Aerosol transmission has actually been documented in poultry by the agent of avian infectious bronchitis."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/104123936-d9fcbc00-5345-11eb-9598-9ebf039f736c.png",
+        "caption": "Lots are airborne, study says",
+        "link": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC1805417&blobtype=pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1981",
+        "month": 12
+      },
+      "text": {
+        "headline": "Study: Viruses And Indoor Air Pollution",
+        "text": "TODO: \"Microbiologic and epidemiologic data have shown that a number of viruses may contaminate the air of rooms and be capable of initiating disease in those who inhale them. However, with the exception of lymphocytic choriomeningitis virus, all are viruses transmitted from person to person.\" See <a href='https://twitter.com/jmcrookston/status/1314220831032193024'>@jmcrookston tweet</a>."
       }
     },
     {
@@ -214,6 +297,23 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/104086297-8bb8c180-524e-11eb-80f6-2689602333b6.png",
+        "caption": "Computer model of aitflow from one apartment block to another",
+        "link": "https://www.nejm.org/doi/full/10.1056/nejmoa032867",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2003",
+        "month": 3
+      },
+      "text": {
+        "headline": "Study: 187 airborne cases of SARS at 'Amoy Gardens' 2003",
+        "text": "TODO: \"According to our computational fluid-dynamics modeling, the buoyant [vurus laden] plume (blue) rose from the air shaft between two housing units in building E (yellow) and was carried by a northeasterly wind toward the middle-level floors in buildings C and D\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://science.sciencemag.org/content/sci/339/6125/1272/F2.large.jpg?width=800&height=600&carousel=1",
         "caption": "Un hombre que pasó una noche en el hotel Metropole de Hong Kong (izquierda) transmitió el SARS a otros huéspedes del noveno piso",
         "link": "https://science.sciencemag.org/content/339/6125/1272",
@@ -227,6 +327,24 @@
       "text": {
         "headline": "Los huéspedes del noveno piso del Metropole Hotel contraen el SARS. Index puede haber vomitado en el pasillo",
         "text": "[Estudio] 21 infectados por un huésped que vomitó en un pasillo. Extracto: ... En ese momento, no estaba claro si el agente causante estaba siendo transmitido por partículas en el aire, ya que el sarampión y la tuberculosis se propagaron. ..."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107804/bin/51-10-1176-fig003.jpg",
+        "caption": "Measured airflow rates at different ward locations",
+        "link": "https://www.who.int/water_sanitation_health/emerging/legionella.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2007",
+        "month": 11,
+        "day": 15
+      },
+      "text": {
+        "headline": "WHO report: Legionnaires Disease can be transmitted by aerosol too",
+        "text": "TODO: Conclusions: Our findings suggest a possible role of aerosol transmission of influenza in an acute ward setting. Source and engineering controls, such as avoiding aerosol generation and improving ventilation design, may warrant consideration to prevent nosocomial outbreaks."
       }
     },
     {
@@ -250,6 +368,93 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://journals.plos.org/plospathogens/article/figure/image?size=inline&id=info:doi/10.1371/journal.ppat.1003205.g002",
+        "caption": "Exhaled breath collection system.",
+        "link": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1003205",
+        "credit": "Credit: Dr. Donald K. Milton et al"
+      },
+      "start_date": {
+        "year": "2013",
+        "month": 3,
+        "day": 7
+      },
+      "text": {
+        "headline": "Study: Influenza Virus Aerosols in Human Exhaled Breath",
+        "text": "TODO: Results: We detected influenza virus RNA in the coarse fraction (particles greater than 5 µm) collected from 11% (4 of 37 volunteers) while wearing surgical masks and from 43% (16 of 37) while not wearing a mask."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/107283262-0e05f280-6a54-11eb-890d-5f70b1220d2a.png",
+        "caption": "Modified Andersen Sampler used to collect viral RNA\nin expelled particles produced on breathing and coughing",
+        "link": "https://www.researchgate.net/publication/255986671_Respiratory_Virus_RNA_Is_Detectable_in_Airborne_and_Droplet_Particles",
+        "credit": "Gralton et al, 2013"
+      },
+      "start_date": {
+        "year": "2013",
+        "month": 8
+      },
+      "text": {
+        "headline": "Respiratory Virus RNA Is Detectable in Airborne and Droplet Particles",
+        "text": "TODO: By using viral RNA as a marker of virus presence, findings in this study show many symptomatic individuals produce both small and large particles on both breathing and coughing, and that hRV and parainfluenza viruses may be present in both small and large particles. Given that airborne-sized and droplet-sized particles contain viral RNA, the use of droplet precautions exclusively may be insufficient to protect healthcare workers from exposure to virus in airborne-sized particles"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://sph.umd.edu/sites/default/files//styles/300-wide/public/news/images/Balt_Sun_G-II.jpg?itok=8CkcfiUl",
+        "caption": "Dr Milton, Gesundheit II machine, and test subject",
+        "link": "https://www.cbc.ca/radio/quirks/flu-breath-sick-people-can-spread-the-flu-virus-just-by-breathing-1.4502558",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2018",
+        "month": 1
+      },
+      "text": {
+        "headline": "Article: Flu breath: sick people can spread the flu virus just by breathing",
+        "text": "TODO: CDC Canada: A person infected with the flu who's not even coughing still emits fine aerosolized particles in their breath by simply sitting there, breathing and talking. Dr Don Milton: \"We were seeing lots of virus — maybe a thousand particles in some cases in a half an hour.\". See also <a href='https://sph.umd.edu/news-item/flu-may-be-spread-just-breathing-new-study-shows-coughing-and-sneezing-not-required'>umd.edu article</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/104116944-0c41f580-5315-11eb-8b93-8808280e540c.png",
+        "caption": "Removal of upper 2/3 of windows from frames mitigated TB infection",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217216/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2018",
+        "month": 7
+      },
+      "text": {
+        "headline": "Study: Improving ventilation resulted in a 97% drop in cases in a TB outbreak at a university in Taiwan",
+        "text": "TODO: \"Maintaining adequate indoor ventilation could be a highly effective strategy for controlling TB outbreaks\". Study had stats for the university covering 8 or so years. See <a href='https://twitter.com/Orla_Hegarty/status/1347937626196750336'>@Orla_Hegarty tweets</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-019-38808-z/MediaObjects/41598_2019_38808_Fig1_HTML.png?as=webp",
+        "caption": "raw data in which a participant (F4) said 'ɑ' for 5 seconds, followed by 15 seconds of nose breathing",
+        "link": "https://www.nature.com/articles/s41598-019-38808-z",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2019",
+        "month": 2,
+        "day": 19
+      },
+      "text": {
+        "headline": "Study: Aerosol emission and superemission during human speech increase with voice loudness",
+        "text": "TODO: \"The existence of speech superemitters motivates consideration of a new hypothesis: that speech superemitters contribute to “superspreading” of infectious diseases transmitted by emitted airborne particles.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101265672-331e7200-3740-11eb-95bd-61809d2a526b.png",
         "caption": "Estudio de flujo de aire de MERS en un hospital de Corea del Sur",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6458380/",
@@ -258,11 +463,29 @@
       "start_date": {
         "year": "2019",
         "month": 3,
-        "day": 153
+        "day": 15
       },
       "text": {
         "headline": "Hospital de Corea del Sur (MERS)",
         "text": "Análisis del flujo de aire del hospital Pyeongtaek St Mary's durante la hospitalización del primer paciente con síndrome respiratorio de Oriente Medio en Corea"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://s.hdnux.com/photos/01/01/51/01/17207369/7/ratio3x2_1200.jpg",
+        "caption": "Texas Center for Infectious Disease",
+        "link": "https://www.mysanantonio.com/news/local/article/San-Antonio-man-can-t-leave-a-TB-hospital-for-13758246.php",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2019",
+        "month": 4,
+        "day": 11
+      },
+      "text": {
+        "headline": "San Antonio man can't leave a TB hospital for up to a year",
+        "text": "TODO: TB can be deadly and spreads through the air by sneezing and coughing. Treating active TB can require at least six to nine months of daily antibiotics"
       }
     }
   ]
