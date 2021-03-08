@@ -5,15 +5,15 @@ layout: page
 permalink: /technologies
 ---
 
-A few years back, Northwestern University (Knight Lab) made a Timeline 'widget': [timeline.knightlab.com](https://timeline.knightlab.com/) (TimelineJS3). That's open source on GitHub. Key contributors: Joe Germuska, Zach Wise, Heather Billings, Jennifer Y Wilson, and Scott Bradley.
+A few years back, Northwestern University (Knight Lab) made an **interactive** timeline 'widget': [timeline.knightlab.com](https://timeline.knightlab.com/) (TimelineJS3). That's open source on GitHub. Key contributors: Joe Germuska, Zach Wise, Heather Billings, Jennifer Y Wilson, and Scott Bradley.
 
-More recently, University of Idaho's the Center for Digital Inquiry and Learning (CDIL) use that technology in a "static site generator" way of working via [Jekyll](https://jekyllrb.com/), and a timeline template for that: [github.com/thecdil/timelinejs-template](https://github.com/thecdil/timelinejs-template). See fantastic **interactive** preview site: [thecdil.github.io/timelinejs-template](https://thecdil.github.io/timelinejs-template/). Key contributor: Evan Williamson
+More recently, University of Idaho's the Center for Digital Inquiry and Learning (CDIL) use that technology in a "static site generator" way of working via [Jekyll](https://jekyllrb.com/), and a timeline template for that: [github.com/thecdil/timelinejs-template](https://github.com/thecdil/timelinejs-template) with a few timeline entries (video, sound, text, pics). See their fantastic preview site: [thecdil.github.io/timelinejs-template](https://thecdil.github.io/timelinejs-template/). Key contributor: Evan Williamson
 
 This site, its-airborne.org, has five interactive timelines to make our case for world recognition of this fact for COVID-19 and the rollout of airborne precautions after that. See them in the top☝️nav☝️of☝️THIS☝️page️. Here's one as a pic with some explanation in red;
 
 ![](https://user-images.githubusercontent.com/82182/110314794-3c013700-8000-11eb-841a-518e2b97f4b6.png)
 
-## You should use these technologies for your own cause.
+## You should use these technologies for your own cause
 
 **You should work with that CDIL-made template above**
 
