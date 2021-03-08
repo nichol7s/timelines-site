@@ -36,4 +36,4 @@ Science: History-retaining merkle trees (such as Git) with static site generatio
 
 Link to **vaccine development timeline** (2020 - 2021) here: a TODO for another team
 
-Link to **EU / Astra Zeneca dispute** (Q1 2021) timeline here: a TODO for another team
+Link to **EU / AstraZeneca dispute** (Q1 2021) timeline here: a TODO for another team
