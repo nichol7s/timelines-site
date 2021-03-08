@@ -80,7 +80,9 @@
         }
 
         setTimeout(function () {
-            $("h1").html($("h1").text().replace("Better Masks", "<a href=\"https://twitter.com/search?q=%23BetterMasks\">#BetterMasks</a>"));
+            $("h1").each(function (idx) {
+                $(this).html($(this).text().replace("Better Masks", "<a href=\"https://twitter.com/search?q=%23BetterMasks\">#BetterMasks</a>"));
+            });
             document.getElementById('timeline-embed')
                 .querySelectorAll('a')
                 .forEach(function (elem) {
