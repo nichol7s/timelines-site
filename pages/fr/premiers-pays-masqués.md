@@ -1,6 +1,6 @@
 ---
 title: Certains pays ont masqué leurs citoyens au début de la pandémie
-timeline-json: early-masking-countries.json
+timeline-json: fr/early-masking-countries.json
 permalink: /fr/premiers-pays-masqués
 timeline-options: 
   hash_bookmark: true
