@@ -1,6 +1,6 @@
 ---
 title: Algunos países pusieron a sus ciudadanos enmascarados al comienzo de la pandemia
-timeline-json: /es/early-masking-countries.json
+timeline-json: es/early-masking-countries.json
 permalink: /es/primeros-países-de-enmascaramiento
 timeline-options: 
   hash_bookmark: true

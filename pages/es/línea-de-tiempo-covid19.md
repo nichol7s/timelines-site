@@ -1,6 +1,6 @@
 ---
 title: Cronología del aerosol COVID-19
-timeline-json: /es/aerosol-timeline.json
+timeline-json: es/aerosol-timeline.json
 permalink: /es/línea-de-tiempo-covid19
 timeline-options: 
   hash_bookmark: true
