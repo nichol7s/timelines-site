@@ -1,6 +1,6 @@
 ---
 title: Una cronología histórica de las enfermedades infecciosas y los aerosoles
-timeline-json: aerosol-history-timeline.json
+timeline-json: /es/aerosol-history-timeline.json
 permalink: /es/cronología-histórica
 timeline-options: 
   hash_bookmark: true
