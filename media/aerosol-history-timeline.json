@@ -128,6 +128,22 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://d33wubrfki0l68.cloudfront.net/d83c86839baad943e2019d73d1979ac7f7dd4250/f536f/images/vol-16-issue-2/plague/portrait.png",
+        "caption": "Dr Wu Lien-Teh aged 41",
+        "link": "https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/plague",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1910"
+      },
+      "text": {
+        "headline": "Dr Wu Lien-Teh rolled out gauze masks for a typeof bubonic plague in Manchuria",
+        "text": "\"Suddenly, everyone wanted the simple cotton and gauze mask that Wu had used and recommended. Volunteers were soon producing them by the thousands.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Droplet_falling-evaporation_curves_for_different_humidities.png/1280px-Droplet_falling-evaporation_curves_for_different_humidities.png",
         "caption": "Wells curves for different relative humidity",
         "link": "https://en.wikipedia.org/wiki/Wells_curve",
