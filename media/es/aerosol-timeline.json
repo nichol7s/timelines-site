@@ -6,7 +6,7 @@
       "credit": "CDC/ Alissa Eckert, MS; Dan Higgins, MAM"
     },
     "text": {
-      "headline": "Hecho: El mecanismo principal de la infección por COVID-19 es el aerosol.",
+      "headline": "Hecho: El mecanismo principal de la infección por COVID-19 son los aerosoles.",
       "text": "Consulte el mega documento de Preguntas frecuentes (FAQ): <a href='https://tinyurl.com/FAQ-aerosols'>https://tinyurl.com/FAQ-aerosols</a>"
     }
   },
@@ -25,8 +25,8 @@
         "day": 20
       },
       "text": {
-        "headline": "Foco: autobús de Hunan. COVID-19 puede viajar 'el doble de lejos' (4,5 m) y permanecer 30 minutos",
-        "text": "Artículo de periódico: El coronavirus puede viajar el doble de la \"distancia segura\" oficial y permanecer en el aire durante 30 minutos, según un estudio chino. Varios pasajeros se infectaron durante el viaje en autobús de cuatro horas. Uno se infectó DESPUÉS de que el paciente índice se bajó. Hay CCTV en todos los autobuses interurbanos chinos, por lo que sabían que el paciente índice nunca se levantaba de su asiento. <a href='https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay'>Artículo en SCMP, informado a mediados de enero</a>. <a target='_blank' href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>Estudio reeditado en septiembre tras una retractación inicial</a>.<br><br><a href='https://twitter.com/jmcrookston/status/1308907690987528198'>Publicación de Twitter e informe original(@jmcrookston)</a>"
+        "headline": "Foco: autobús de Wuhan. COVID-19 puede viajar 'el doble de lejos' (4,5 m) y permanecer 30 minutos",
+        "text": "Artículo de periódico: El coronavirus puede viajar el doble de la \"distancia segura\" oficial y permanecer en el aire durante 30 minutos, según un estudio de China. Varios pasajeros se infectaron durante el viaje en autobús de cuatro horas. Uno se infectó DESPUÉS de que el paciente índice se bajó. Hay CCTV en todos los autobuses interurbanos chinos, por lo que sabían que el paciente índice nunca se levantaba de su asiento. <a href='https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay'>Artículo en SCMP, informado a mediados de enero</a>. <a target='_blank' href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>Estudio reeditado en septiembre tras una retractación inicial</a>.<br><br><a href='https://twitter.com/jmcrookston/status/1308907690987528198'>Publicación de Twitter e informe original(@jmcrookston)</a>"
       }
     },
     {
@@ -43,8 +43,8 @@
         "day": 20
       },
       "text": {
-        "headline": "Brote: propagación indirecta en un centro comercial chino",
-        "text": "Estudio: propagación indirecta en un centro comercial chino. Postuló fomite en ascensor o, lo adivinó, aerosol. <a href='https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article'>Artículo en la Revista EID, publicado a mediados de marzo</a>. Ver <a href='https://twitter.com/jmcrookston/status/1252290275512377350'>publicación única (@jmcrookston)</a>."
+        "headline": "Brote: propagación indirecta en un centro comercial en China",
+        "text": "Estudio: propagación indirecta en un centro comercial en China. Postuló fomite en ascensor o, lo adivinó, aerosol. <a href='https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article'>Artículo en la Revista EID, publicado a mediados de marzo</a>. Ver <a href='https://twitter.com/jmcrookston/status/1252290275512377350'>publicación única (@jmcrookston)</a>."
       }
     },
     {
@@ -62,7 +62,7 @@
       },
       "text": {
         "headline": "Brote en restaurante de Guangzhou, circulado por aire acondicionado",
-        "text": "Todos los infectados en un restaurante chino estaban sentados en el camino del aire acondicionado. <br> <br> Reportado en el CDC Journal en abril como <a href='https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article'>Brote de COVID-19 asociado con aire acondicionado en restaurante, Guangzhou, China, 2020</a>. <a href='https://wwwnc.cdc.gov/eid/images/20-0764-F1.jpg'>Imagen de ese artículo</a>"
+        "text": "Todos los infectados en un restaurante de China estaban sentados en el camino del aire acondicionado. <br> <br> Reportado en el CDC Journal en abril como <a href='https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article'>Brote de COVID-19 asociado con aire acondicionado en restaurante, Guangzhou, China, 2020</a>. <a href='https://wwwnc.cdc.gov/eid/images/20-0764-F1.jpg'>Imagen de ese artículo</a>"
       }
     },
     {
