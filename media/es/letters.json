@@ -50,6 +50,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/111039778-baf2d700-8427-11eb-98b0-92ed72c067a8.png",
+        "caption": "",
+        "link": "/media/letters/2021_01_19_Spain_Una-estrategia-integral-2_FINAL.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 1,
+        "day": 19
+      },
+      "text": {
+        "headline": "PLACEHOLDER FOR 2021_01_19_Spain_Una-estrategia-integral-2_FINAL.pdf",
+        "text": "TODO text"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/110036434-e7766700-7d34-11eb-8061-6ae28951e3b8.png",
         "caption": "",
         "link": "/media/letters/2021_01_25_Canada_Ontario_Nurses_Assoc_Aerosol_Letter.pdf",
