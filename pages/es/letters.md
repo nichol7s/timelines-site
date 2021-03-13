@@ -1,8 +1,8 @@
 ---
-title: Letters for better ventilation and PPE
+title: Letras para una mejor ventilación y EPI
 nav: Letters (timeline)
 nav_order: 8
-timeline-json: letters.json
+timeline-json: es/letters.json
 timeline-options: 
   hash_bookmark: true
 ---
