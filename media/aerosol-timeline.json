@@ -175,6 +175,24 @@
     },
     {
       "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/111067825-ddcfca80-84bd-11eb-924f-fde97afcd46f.png",
+        "caption": "",
+        "link": "https://www.wired.com/story/to-beat-covid-19-you-have-to-know-how-a-virus-moves/",
+        "credit": "Wired.com"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 5,
+        "day": 28
+      },
+      "text": {
+        "headline": "To Beat Covid-19, You Have to Know How A Virus Moves",
+        "text": "Wired Article: \"As public spaces reopen, scientists are racing to understand the mysterious and turbulent way the disease spreads through air—from person to person, and place to place.\""
+      }
+    },
+    {
+      "media": {
         "thumbnail": "/media/reality.png",
         "url": "https://ars.els-cdn.com/content/image/1-s2.0-S016041202031254X-gr1.jpg",
         "caption": "Droplets hitting the group, aerosols going and going",
