@@ -435,6 +435,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/111084844-5b222c00-850c-11eb-9723-34906a79f20f.png",
+        "caption": "",
+        "link": "https://www.fauske.com/blog/analyzing-a-simplified-airborne-infection-model-with-fate-nuclear-safety-software",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2014",
+        "month": 10,
+        "day": 29
+      },
+      "text": {
+        "headline": "Simplified Airborne Infection Model with FATE Nuclear Safety Software",
+        "text": "The nuclear field has used risk modelling software to model infectious diseases in waiting rooms. Excerpt: \"This model is more appropriate for modeling diseases which spread through inhalation such as whooping cough (pertussis), measles (rubeola), tuberculosis, or influenza.\". See <a href='https://twitter.com/jmcrookston/status/1371193772608999425'>@jmcrookston tweet</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://sph.umd.edu/sites/default/files//styles/300-wide/public/news/images/Balt_Sun_G-II.jpg?itok=8CkcfiUl",
         "caption": "Dr Milton, Gesundheit II machine, and test subject",
         "link": "https://www.cbc.ca/radio/quirks/flu-breath-sick-people-can-spread-the-flu-virus-just-by-breathing-1.4502558",
