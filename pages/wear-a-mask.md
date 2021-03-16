@@ -36,6 +36,8 @@ The all-important filtration boost - indicated in chart form:
 
 See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.engr.wisc.edu/mask-fitter/) and many other choices [google.com/search?q=mask+fitters](https://www.google.com/search?q=mask+fitters).
 
+Aaron Collins [talks about fitters on his youtube channel](https://www.youtube.com/watch?v=1-zRjrwsMWY) (March 15, 2021).
+
 ## Double masking (better masks)
 
 * Feb, 2021: [Maximizing Fit for Cloth and Surgical-style Masks to Improve Filtration](https://www.cdc.gov/mmwr/volumes/70/wr/mm7007e1.htm?s_cid=mm7007e1_w) - Brooks et al (CDC)
