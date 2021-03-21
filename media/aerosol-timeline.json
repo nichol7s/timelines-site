@@ -104,6 +104,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/111904439-f7818c80-8a3e-11eb-99a3-abed6aebfdfa.png",
+        "caption": "Letter to citizens after expert meeting",
+        "link": "https://www.mhlw.go.jp/content/10900000/000608425.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 9
+      },
+      "text": {
+        "headline": "Japan: Japan enacts Airborne precuations",
+        "text": "\"The locations where mass infections were confirmed so far are places where the\nfollowing three conditions were met simultaneously: (1) closed space with poor\nventilation, (2) crowded with many people and (3) conversations and vocalization in close\nproximity (within arm's reach of one another). It is believed that more people were\ninfected in such places. Therefore, we ask that you predict locations and settings where\nthese three conditions could occur simultaneously and avoid them\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217084/bin/nihpp-2020.04.13.20063784-f0001.jpg",
         "caption": "Graph shows the spray factor for three emergent coronaviruses",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217084/",
