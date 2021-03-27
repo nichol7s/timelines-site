@@ -262,6 +262,24 @@
         "headline": "USA: Association of the Nonwoven Fabrics Industry (INDA) - we have capacity too",
         "text": "Excerpt - INDA is supports the recommendations contained in the February 15 letter sent by America’s Physicians and Scientists to the Administration titled “Re: Immediate Action is Needed to Address SARS‐CoV‐2 Inhalation Exposure.” - and outlines their willingness to be the supply chain for PPE"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "",
+        "caption": "",
+        "link": "https://ospe.on.ca/featured/ontario-engineers-urge-government-to-address-air-quality-issues-before-students-return-to-school/",
+          "credit": "Ontario Society of Professional Engineers"
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 2,
+        "day": 5
+      },
+      "text": {
+        "headline": "Ontario Engineers Urge Government to Address Air Quality Issues Before Students Return to School",
+        "text": "Excerpt - As students prepare to return to classrooms across the province, the Ontario Society of Professional Engineers (OSPE) is calling on the provincial government to immediately address the airborne transmission of COVID-19. It is widely understood by health experts that aerosol transmission of the virus is possible, particularly in indoor settings where people gather for long periods of time. OSPE believes the need for proper ventilation to stop the spread of infected aerosol particles is not being properly addressed."
+      }
     }
   ]
 }
