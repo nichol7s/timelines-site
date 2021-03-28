@@ -27,9 +27,15 @@
             "  </a>\n" +
             "</li>\n";
 
-        const spNav = "<li class=\"nav-item\">\n" +
+        const esNav = "<li class=\"nav-item\">\n" +
             "  <a class=\"nav-link\" href=\"/es/\">\n" +
             "    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png'>\n" +
+            "  </a>\n" +
+            "</li>\n";
+
+        const seNav = "<li class=\"nav-item\">\n" +
+            "  <a class=\"nav-link\" href=\"/se/\">\n" +
+            "    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png'>\n" +
             "  </a>\n" +
             "</li>\n";
 
@@ -48,8 +54,9 @@
                     "<li class=\"nav-item\">\n" +
                     "  <a class=\"nav-link\" href=\"/fr/premiers-pays-masqués.html\">Pays de masquage précoce</a>\n" +
                     "</li>\n" +
-                    spNav +
+                    esNav +
                     ukNav +
+                    seNav +
                     "</ul>");
             })
         } else if (window.location.href.indexOf("/es/") > -1) {
@@ -72,13 +79,32 @@
                     "</li>\n" +
                     frNav +
                     ukNav +
+                    seNav +
+                    "</ul>");
+            })
+        } else if (window.location.href.indexOf("/se/") > -1) {
+            $("#navbarContent").each(function (idx) {
+                $(this).html("<ul class=\"navbar-nav mr-auto\">\n" +
+                    "<li class=\"nav-item\">\n" +
+                    "  <a class=\"nav-link\" href=\"/se/\">Casa</a>\n" +
+                    "</li>\n" +
+                    "<li class=\"nav-item\">\n" +
+                    "  <a class=\"nav-link\" href=\"/se/covid-19-tidslinje-för-aerosol.html\">COVID-19 aerosoltidslinje</a>\n" +
+                    "</li>\n" +
+                    "<li class=\"nav-item\">\n" +
+                    "  <a class=\"nav-link\" href=\"/se/aerosolhistoria.html\">En historisk tidslinje av infektionssjukdomar och aerosoler</a>\n" +
+                    "</li>\n" +
+                    frNav +
+                    ukNav +
+                    esNav +
                     "</ul>");
             })
         } else {
             $("#navbarContent ul").each(function (idx) {
                 $(this).append(
                     frNav +
-                    spNav);
+                    esNav +
+                    seNav);
             })
         }
 

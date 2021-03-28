@@ -1,7 +1,7 @@
 ---
-title: Cronología del aerosol COVID-19
-timeline-json: es/aerosol-timeline.json
-permalink: /es/línea-de-tiempo-covid19
+title: COVID-19 aerosoltidslinje
+timeline-json: se/aerosol-timeline.json
+permalink: /se/covid-19-tidslinje-för-aerosol
 timeline-options: 
   hash_bookmark: true
 ---
