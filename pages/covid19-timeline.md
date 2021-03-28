@@ -1,8 +1,8 @@
 ---
-title: COVID-19 Aerosol timeline
+title: COVID-19 tidslinje för aerosol
 nav: COVID-19 timeline
 nav_order: 2
-timeline-json: aerosol-timeline.json
+timeline-json: /se/aerosol-timeline.json
 timeline-options: 
   hash_bookmark: true
 ---
