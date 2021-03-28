@@ -1,6 +1,6 @@
 ---
 title: COVID-19 överförs i aerosoler - det är luftburet!
-nav: Home
+permalink: /se/
 layout: page
 ---
 
