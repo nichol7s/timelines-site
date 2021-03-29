@@ -997,6 +997,24 @@
         "headline": "Transmission of Severe Acute Respiratory Syndrome Coronavirus 2 during Border Quarantine and Air Travel, New Zealand",
         "text": "\"By combining genomic sequence analysis and epidemiologic investigations, we identified a multibranched chain of transmission of this virus, including on international and domestic flights, as well as a probable case of aerosol transmission without direct person-to-person contact.\""
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/74545833/112776582-14edc200-900e-11eb-96d5-6bccbea82ef9.jpg",
+        "caption": "Room illustration. Index cases 1–9 are drawn according to their location in the room",
+        "link": "https://academic.oup.com/ofid/article/8/3/ofab036/6121257",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 1,
+        "day": 27
+      },
+      "text": {
+        "headline": "SARS-CoV-2 Infection Among Health Care Workers Despite the Use of Surgical Masks and Physical Distancing—the Role of Airborne Transmission",
+        "text": "\"We report for the first time SARS-CoV-2 nosocomial infections despite using surgical masks and physical distancing. This report may provide possible evidence for airborne transmission of SARS-CoV-2.\""
+      }
     }
   ]
 }
