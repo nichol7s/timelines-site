@@ -10,7 +10,7 @@ Under årens lopp har arten av luftburna eller aerosolinfektioner diskuterats f�
 
 cuidadoConElAireCompartido
 
-För denna tidslinjes skull, **spray** = **i luft** = **droppkärnor **. Det här är partiklar som är mindre än 100 μm i diameter och därför avdunstar i allmänhet innan Graivty kastar dem till marken. Som små partiklar flyter de i minuter eller till och med timmar och kan färdas ett visst avstånd under denna tid. Ordet aerosol betyder helt enkelt en partikel upphängd i luften.
+För denna tidslinjes skull, **spray** = **i luft** = **droppkärnor**. Det här är partiklar som är mindre än 100 μm i diameter och därför avdunstar i allmänhet innan Graivty kastar dem till marken. Som små partiklar flyter de i minuter eller till och med timmar och kan färdas ett visst avstånd under denna tid. Ordet aerosol betyder helt enkelt en partikel upphängd i luften.
 
 Å andra sidan dras ** droppar **, de partiklar med diametrar större än 100 μm, i allmänhet av gravitationen till marken, vilket sägs förekomma inom två meter, vanligtvis innan de kan avdunsta och flyta.
 
