@@ -2,8 +2,9 @@
 
 Change these files: 
 
-1. https://github.com/timelinez/aerosolized-covid-19/blob/main/media/aerosol-timeline.json (directly pertinent to COVID-19)
-2. https://github.com/timelinez/aerosolized-covid-19/blob/main/media/aerosol-history-timeline.json (history over the decades of science and events that support an aerosol hypothesis for infection of various diseases - mostly "beakthrough" -centric)
+1. https://github.com/its-airborne/timelines-site/blob/main/media/aerosol-timeline.json (directly pertinent to COVID-19)
+2. https://github.com/its-airborne/timelines-site/blob/main/media/aerosol-history-timeline.json (history over the decades of science and events that support an aerosol hypothesis for infection of various diseases - mostly "beakthrough" -centric)
+
 
 # See the timelines
 
