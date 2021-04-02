@@ -8,7 +8,7 @@ Change these files:
 
 # See the timelines
 
-1. https://timelinez.github.io/aerosolized-covid-19/
+1. https://its-airborne.org/historical-timeline
 2. https://timelinez.github.io/aerosolized-covid-19/history
 
 # Technology used
