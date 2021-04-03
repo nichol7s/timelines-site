@@ -61,6 +61,14 @@ Aiming at Zero-COVID was the cost effective move. More countries will choose to 
 
 Here's some more [Financial Time graphics](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938) we pasted into a paint page and simplified with "flood fill" to make west vs east again:
 
+This is what happened when "it is NOT airborne" guided the game plan: A disproportionally bad western world response. Extra info for world population (with rounding errors). It is not clear where Australia and New Zealand are:
+
 ![](https://pbs.twimg.com/media/ExELxZTW8AAZv_z?format=jpg)
 
+[Our tweet for the above](https://twitter.com/Its_Airborne/status/1373893394922151938)
+
+Same information, but normalized to 100%:
+
 ![](https://pbs.twimg.com/media/Ew1PRv7WQAIPM_J?format=jpg)
+
+[Our tweet for the above](https://twitter.com/Its_Airborne/status/1372841995694174210)
