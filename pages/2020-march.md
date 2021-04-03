@@ -5,7 +5,7 @@ layout: page
 permalink: 2020/March
 ---
 
-We made a "Reality Tree" for the start of the pandemic for Western responses. For the sake of clarification, we have rolled Latin America into "the west". The classic eastern group of countries are omitted as are African countries. It is also backdated 12+
+We made a "Reality Tree" for the start of the pandemic for Western responses. For the sake of clarification, we have rolled Latin America into "the west". The classic eastern group of countries are omitted. As are African countries. It is also backdated 12+
 months to March 2020. It concerns the western responses to the pandemic as of that time. These countries were mostly aiming to "flatten the curve". It is far from final - the more people inputting in these things, the better.
 
 The resulting diagram is best viewed on a laptop or desktop. Click/tap to zoom in:
@@ -30,7 +30,7 @@ Ordinarily a team would use a CRT to identify one or more root causes of a probl
 
 ## Thoughts this diagram
 
-Is what we have done for the pandemic useful? Probably not. Some academics, medical folks, and industry/biz people should get in a (zoom) room and start over. They should be careful to not have people in the room who made it worse for that prior period and who have not yet done their decent mea culpa.
+Is what we have done for the pandemic useful? Probably not. Some academics, medical folks, and industry/biz people should get in a (zoom) room and start over. They should be careful to not have people in the room who made it worse for that prior period and who have not yet done their decent *mea culpa*.
 
 What we could work out is the west made a mistake on masks at the start. Even medical science: [Google search: 'David Powell forget masks february 2020'](https://www.google.com/search?ei=zfEkYOT9KLqM1fAPoZ6qsAg&q=david+powell+forget+masks+february+2020) and [Google search: 'Dr Shunmay Yeung masks don't work bbc march 2020'](https://www.google.com/search?ei=VfIkYP3QFrPRxgObiYDIBA&q=Dr+Shunmay+Yeung+masks+don%27t+work+bbc+march+2020) (David Powell would later flip to pro-masks). 
 
@@ -44,7 +44,6 @@ Vietnam and Taiwan were what the west should have been taking know-how from. Sna
 
 <style>img { max-width: 100%; }</style>
 
-
 ![](https://paulhammant.com/images/eu_us_vietnam_taiwan.png)
 
 Not just those two countries, but they are stand out. New Zealand aced it from the outset (Zero-COVID strategy), but killed international air travel as they implemented quarantine hotels. Australia gets a prize too for getting from exponential growth to Zero-COVID mid-year through hard work (while some arguments raged between national and state governments). Attempts to compare your-badly-performing-country to Sweden was the work of trolls a that's a false dichotomy; compare to Taiwan (and others) instead. Even China got to per capita ZeroCOVID by the summer of 2020, and didn't lose it.
@@ -57,3 +56,11 @@ Recapping; Using CRT techniques, and resetting the clock back to March 2020, the
 * **Flatten the curve as little as possible**: As #3, but don't say much about grades of masks, maybe don't communicate the airborne nature of transmission, don't check on self-quarantining travelers, choose late moments to implement lockdown, open up again perhaps too early, pretend some settings don't carry transmission risk, accept higher-still resulting death count (immoral in our opinion) and savaged economy.
 
 Aiming at Zero-COVID was the cost effective move. More countries will choose to go to that status (with transition costs). As well as east/west and developing/developed bifurcated worlds, we could well also have COVID/zero-COVID worlds. That would come with quarantines between them and QR-code or blockchain (Hedera) verifiable vaccine records for travellers already inside the zero-COVID world. Some countries would transition in 2021, some in 2022. Some perhaps never. Some may elect to leave Zero-COVID world to join COVID world - if they think the reduced deaths/Long-COVID after vaccines is worth it versus not quarantining incoming travelers with no proof of vaccination. Quick and good treatments that keep everyone aloive and well might persuade countries to go that way.
+
+### Need more convincing that the west did it wrong?
+
+Here's some more [Financial Time graphics](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938) we pasted into a paint page and simplified with "flood fill" to make west vs east again:
+
+![](https://pbs.twimg.com/media/ExELxZTW8AAZv_z?format=jpg)
+
+![](https://pbs.twimg.com/media/Ew1PRv7WQAIPM_J?format=jpg)
