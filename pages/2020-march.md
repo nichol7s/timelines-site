@@ -7,15 +7,17 @@ permalink: 2020/March
 
 ## Background for CRTs
 
-So from the "Theory of Constraints", there's an industry tool called [Current Reality Tree](https://en.wikipedia.org/wiki/Current_reality_tree_(theory_of_constraints)) (CRT). Eliyahu Goldratt devised this "focusing procedure".  In software development, you could be troubled as a team with a lack of throughput for the "machine" that you would wish to otherwise be Continuous Delivery (CD). Nine times out of ten, you have a gordian knot that is your "Continuous Integration" (CI) not actually continuous or particularly integrated. I've made a [Software Development Current Reality Trees Starter Pack](https://paulhammant.com/2021/02/19/software-development-current-reality-tree-starter-pack/) as a follow-up CRT if you're interested in that. Chris Hohmann goes into the creation of a CRT from scratch for a biz problem in [this 17 min video](https://www.youtube.com/watch?v=myQF_HcQ7z4).
+So from the "Theory of Constraints", there's an industry tool called [Current Reality Tree](https://en.wikipedia.org/wiki/Current_reality_tree_(theory_of_constraints)) (CRT). [Eliyahu Goldratt](https://en.wikipedia.org/wiki/Eliyahu_M._Goldratt) (Israeli business management guru) devised this "focusing procedure". Eli co-authored on of the all-time the best-selling business books "The Goal" in 1984.
+
+If you're interested in the science of this, Chris Hohmann goes into the creation of a CRT from scratch for a biz problem in [this 17 min video](https://www.youtube.com/watch?v=myQF_HcQ7z4).
 
 ## CRT for the start of the pandemic for Western responses
 
-Here is a CRT I made solo for the pandemic (backdated 11 months). It is on western responses to the pandemic as of that time, and only for the countries that were aiming for "flatten the curve". It is far from final - making such things solo is not recommended.
+Here is a CRT we made solo for the pandemic (backdated 11 months). It is on western responses to the pandemic as of that time, and only for the countries that were aiming for "flatten the curve". It is far from final - making such things solo is not recommended.
 
 The resulting diagram is best viewed on a laptop or desktop. Click/tap to zoom in:
 
-<iframe style="width:100%;height:100%;" src="/Western Responses March 2020.html"></iframe>
+<iframe style="width:100%" src="/Western Responses March 2020.html"></iframe>
 
 ### Links in the picture
 
