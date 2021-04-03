@@ -42,8 +42,8 @@ Hospitality and face-to-face business could have saved itself, too, with masks a
 
 Vietnam and Taiwan were what the west should have been taking know-how from. Snapshot from [Financial Times graph tool](https://ig.ft.com/coronavirus-chart/?areas=eur&areas=usa&areas=vnm&areas=twn&areasRegional=usny&areasRegional=usca&areasRegional=usfl&areasRegional=ustx&cumulative=0&logScale=1&per100K=1&startDate=2020-01-01&values=cases)
 
-![](https://paulhammant.com/images/eu_us_vietnam_taiwan.png)
 {: style="max-width: 100%"}
+![](https://paulhammant.com/images/eu_us_vietnam_taiwan.png)
 
 Not just those two countries, but they are stand out. New Zealand aced it from the outset (Zero-COVID strategy), but killed international air travel as they implemented quarantine hotels. Australia gets a prize too for getting from exponential growth to Zero-COVID mid-year through hard work (while some arguments raged between national and state governments). Attempts to compare your-badly-performing-country to Sweden was the work of trolls a that's a false dichotomy; compare to Taiwan (and others) instead. Even China got to per capita ZeroCOVID by the summer of 2020, and didn't lose it.
 
