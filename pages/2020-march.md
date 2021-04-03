@@ -13,7 +13,8 @@ If you're interested in the science of this, Chris Hohmann goes into the creatio
 
 ## CRT for the start of the pandemic for Western responses
 
-Here is a CRT we made solo for the pandemic (backdated 11 months). It is on western responses to the pandemic as of that time, and only for the countries that were aiming for "flatten the curve". It is far from final - making such things solo is not recommended.
+Here is a CRT we made solo for the pandemic (backdated 12+
+months). It is on western responses to the pandemic as of that time, and only for the countries that were aiming for "flatten the curve". It is far from final - making such things solo is not recommended.
 
 The resulting diagram is best viewed on a laptop or desktop. Click/tap to zoom in:
 
