@@ -5,16 +5,10 @@ layout: page
 permalink: 2020/March
 ---
 
-## Background for CRTs
+## Reality Tree for the start of the pandemic for Western responses
 
-So from the "Theory of Constraints", there's an industry tool called [Current Reality Tree](https://en.wikipedia.org/wiki/Current_reality_tree_(theory_of_constraints)) (CRT). [Eliyahu Goldratt](https://en.wikipedia.org/wiki/Eliyahu_M._Goldratt) (Israeli business management guru) devised this "focusing procedure". Eli co-authored on of the all-time the best-selling business books "The Goal" in 1984.
-
-If you're interested in the science of this, Chris Hohmann goes into the creation of a CRT from scratch for a biz problem in [this 17 min video](https://www.youtube.com/watch?v=myQF_HcQ7z4).
-
-## CRT for the start of the pandemic for Western responses
-
-Here is a CRT we made solo for the pandemic (backdated 12+
-months). It is on western responses to the pandemic as of that time, and only for the countries that were aiming for "flatten the curve". It is far from final - making such things solo is not recommended.
+Here is a Reality Tree we made for the pandemic (backdated 12+
+months). It concerns western responses to the pandemic as of that time, and only for the countries that were aiming for "flatten the curve". It is far from final - the more people inputting in these theings, the better.
 
 The resulting diagram is best viewed on a laptop or desktop. Click/tap to zoom in:
 
@@ -28,7 +22,7 @@ The resulting diagram is best viewed on a laptop or desktop. Click/tap to zoom i
 * [its-airborne.org/2](https://its-airborne.org/2) - Many other diseases are airborne - timeline on this site
 * [https://www.salon.com/2011/02/28/biases](https://www.salon.com/2011/02/28/biases) - Media generally biasing towards national policy/strategy
 
-## Pandemic CRT thoughts
+## Pandemic March 2020 Reality Tree thoughts
 
 Is what I've done for the pandemic useful? Probably not. Some academics, medical folks, and industry/biz people should get in a (zoom) room and start over. They should be careful to not have people in the room who made it worse for that prior period and who have not yet done their decent mea culpa.
 
@@ -57,3 +51,9 @@ Recapping; Using CRT techniques, and resetting the clock back to March 2020, the
 * **Flatten the curve as little as possible**: As #3, but don't say much about grades of masks, maybe don't communicate the airborne nature of transmission, don't check on self-quarantining travelers, choose late moments to implement lockdown, open up again perhaps too early, pretend some settings don't carry transmission risk, accept higher-still resulting death count (immoral in my opinion) and savaged economy.
 
 Aiming at Zero-COVID was the cost effective move. More countries will choose to go to that status (with transition costs). As well as east/west and developing/developed bifurcated worlds, we could well also have COVID/zero-COVID worlds. That would come with quarantines between them and QR-code or blockchain (Hedera) verifiable vaccine records for travellers already inside the zero-COVID world. Some countries would transition in 2021, some in 2022. Some perhaps never. Some may elect to leave Zero-COVID world to join COVID world - if they think the reduced deaths/Long-COVID after vaccines is worth it versus not quarantining incoming travelers with no proof of vaccination. Quick and good treatments that keep everyone aloive and well might persuade countries to go that way.
+
+## Background for Reality Trees
+
+So from the "Theory of Constraints", there's an industry tool called [Current Reality Tree](https://en.wikipedia.org/wiki/Current_reality_tree_(theory_of_constraints)) (CRT). [Eliyahu Goldratt](https://en.wikipedia.org/wiki/Eliyahu_M._Goldratt) (Israeli business management guru) devised this "focusing procedure". Eli co-authored on of the all-time the best-selling business books "The Goal" in 1984.
+
+If you're interested in the science of this, Chris Hohmann goes into the creation of a CRT from scratch for a biz problem in [this 17 min video](https://www.youtube.com/watch?v=myQF_HcQ7z4).
