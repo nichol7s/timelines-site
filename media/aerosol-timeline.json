@@ -911,19 +911,19 @@
     {
       "media": {
         "thumbnail": "",
-        "url": "https://user-images.githubusercontent.com/82182/108107690-7a51a900-7087-11eb-90bb-02bf5e09f1de.png",
+        "url": "https://associationofanaesthetists-publications.onlinelibrary.wiley.com/cms/asset/b9646c26-58be-4b4a-86c3-cabd12ad97ba/anae15475-fig-0001-m.jpg",
         "caption": "'sampling chamber' test equipment",
-        "link": "https://www.medrxiv.org/content/10.1101/2021.02.07.21251309v2.full.pdf",
+        "link": "https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.15475",
         "credit": ""
       },
       "start_date": {
         "year": "2021",
-        "month": 2,
-        "day": 10
+        "month": 3,
+        "day": 30
       },
       "text": {
-        "headline": "Study: The effect of respiratory activity, ventilatory therapy and facemasks on total aerosol emissions",
-        "text": "\"Conclusions: Talking, exertional breathing and coughing generate substantially more aerosols than the respiratory therapies HFNO and NIPPV which can reduce total emissions. The risk of aerosol exposure is underappreciated and warrants widespread targeted interventions.\" - via <a href='https://twitter.com/linseymarr/status/1361729569800216576'>@linseymarr</a>"
+        "headline": "Study: The effect of respiratory activity, non-invasive respiratory support and facemasks on aerosol generation and its relevance to COVID-19",
+        "text": "\"Conclusions: Talking, exertional breathing and coughing generate substantially more aerosols than the respiratory therapies HFNO and NIPPV which can reduce total emissions. The risk of aerosol exposure is underappreciated and warrants widespread targeted interventions.\""
       }
     },
     {
@@ -1068,6 +1068,42 @@
       "text": {
         "headline": "Quantitative Microbial Risk Assessment for Airborne Transmission of SARS-CoV-2 via Breathing, Speaking, Singing, Coughing, and Sneezing",
         "text": "\"Evidence for indoor airborne transmission of SARS-CoV-2 is accumulating. We assessed of the risk of illness due to airborne SARS-CoV-2 particles from breathing, speaking, singing, coughing, and sneezing in indoor environments.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://media.nature.com/lw800/magazine-assets/d41586-021-00810-9/d41586-021-00810-9_19005386.gif",
+        "caption": "Tiny soap bubbles accumulate in a room, in an experiment meant to explore how open windows and different levels of air filtration affect concentrations of virus particles.",
+        "link": "https://www.nature.com/articles/d41586-021-00810-9",
+        "credit": "Delft University of Technology"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 3,
+        "day": 30
+      },
+      "text": {
+        "headline": "Why indoor spaces are still prime COVID hotspots",
+        "text": "\"One of the problems is that governments and businesses are still spending millions of dollars on surface disinfection, says Jimenez, despite evidence that it is rare for SARS-CoV-2 to pass from one person to another through contaminated surfaces. By contrast, few countries have invested in measures to improve indoor air quality.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/74545833/113490529-a6d74e00-9498-11eb-99fd-89c2891c5bf6.png",
+        "caption": "Illustration of near- and far-field aerosol transmission in relation to the respiratory particle size distribution (PSD) and preventive measures: M= mask, D = distance, F = filtration, and V = ventilation.",
+        "link": "https://arxiv.org/abs/2103.01188v2",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 3,
+        "day": 29
+      },
+      "text": {
+        "headline": "Respiratory aerosols and droplets in the transmission of infectious diseases",
+        "text": "\"This article provides a critical review and synthesis of scientific knowledge on the number concentrations, size distributions, composition, mixing state, and related properties of respiratory particles emitted upon breathing, speaking, singing, coughing, and sneezing.\""
       }
     }
   ]
