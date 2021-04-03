@@ -18,7 +18,7 @@ months). It is on western responses to the pandemic as of that time, and only fo
 
 The resulting diagram is best viewed on a laptop or desktop. Click/tap to zoom in:
 
-<iframe style="position: absolute; width: 100%; height: 100%; border: none" src="/Western Responses March 2020.html"></iframe>
+<iframe style="width: 100%; height: 100%; border: none" src="/Western Responses March 2020.html"></iframe>
 
 ### Links in the picture
 
