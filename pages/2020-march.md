@@ -28,9 +28,9 @@ If you're interested in the science of this, Chris Hohmann goes into the creatio
 
 Ordinarily a team would use a CRT to identify one or more root causes of a problem. As a group, they would identify something to try to improve a situation. After experimenting with something for a while, the team would try to determine whether the experiment improved the situation, or made it worse or had no effect. From their they'd work out what to do next.
 
-## Thoughts about the above diagram
+## Thoughts this diagram
 
-Is what I've done for the pandemic useful? Probably not. Some academics, medical folks, and industry/biz people should get in a (zoom) room and start over. They should be careful to not have people in the room who made it worse for that prior period and who have not yet done their decent mea culpa.
+Is what we have done for the pandemic useful? Probably not. Some academics, medical folks, and industry/biz people should get in a (zoom) room and start over. They should be careful to not have people in the room who made it worse for that prior period and who have not yet done their decent mea culpa.
 
 What we could work out is the west made a mistake on masks at the start. Even medical science: [Google search: 'David Powell forget masks february 2020'](https://www.google.com/search?ei=zfEkYOT9KLqM1fAPoZ6qsAg&q=david+powell+forget+masks+february+2020) and [Google search: 'Dr Shunmay Yeung masks don't work bbc march 2020'](https://www.google.com/search?ei=VfIkYP3QFrPRxgObiYDIBA&q=Dr+Shunmay+Yeung+masks+don%27t+work+bbc+march+2020) (David Powell would later flip to pro-masks). 
 
