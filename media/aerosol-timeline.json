@@ -229,6 +229,23 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0360132321001955-ga1.jpg",
+        "caption": "",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0360132321001955?via%3Dihub#appsec4",
+        "credit": "Authors: Yuguo Li et al"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6
+      },
+      "text": {
+        "headline": "Study: Probable airborne transmission of SARS-CoV-2 in a poorly ventilated restaurant",
+        "text": "The same super-spreader event previously in the same timeline <a href='https://its-airborne.org/covid19-timeline.html#event-outbreak-guangzhou-restaurant-circulated-by-air-conditioning'>but as a pre-print</a>."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/107284789-2ecf4780-6a56-11eb-8cca-521a2545f1c5.png",
         "caption": "Light scattering observation of airborne speech droplet nuclei, ",
         "link": "https://www.pnas.org/content/117/22/11875",
