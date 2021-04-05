@@ -1122,6 +1122,24 @@
         "headline": "Respiratory aerosols and droplets in the transmission of infectious diseases",
         "text": "\"This article provides a critical review and synthesis of scientific knowledge on the number concentrations, size distributions, composition, mixing state, and related properties of respiratory particles emitted upon breathing, speaking, singing, coughing, and sneezing.\""
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/74545833/113585061-b4f0b000-95f9-11eb-9d95-f50de4fa299b.png",
+        "caption": "ASHRAE Epidemic Task Force Releases Updated Airborne Transmission Guidance",
+        "link": "https://www.ashrae.org/about/news/2021/ashrae-epidemic-task-force-releases-updated-airborne-transmission-guidance",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 4,
+        "day": 5
+      },
+      "text": {
+        "headline": "ASHRAE Epidemic Task Force Releases Updated Airborne Transmission Guidance",
+        "text": "\"Airborne transmission of SARS-CoV-2 is significant and should be controlled. Changes to building operations, including the operation of heating, ventilating, and air-conditioning systems, can reduce airborne exposures.\""
+      }
     }
   ]
 }
