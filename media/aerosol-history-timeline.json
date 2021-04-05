@@ -486,6 +486,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.pnas.org/content/pnas/115/5/1081/F2.large.jpg?width=800&height=600&carousel=1",
+        "caption": "",
+        "link": "https://www.pnas.org/content/115/5/1081",
+        "credit": "Authors: Jing Yan, Grantham, Pantelic, Bueno de Mesquita, Albert, Liu, Ehrman, Milton, and EMIT Consortium"
+      },
+      "start_date": {
+        "year": "2018",
+        "month": 1,
+        "day": 30
+      },
+      "text": {
+        "headline": "Study: Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a college community",
+        "text": "\"We provide overwhelming evidence that humans generate infectious aerosols and quantitative data to improve mathematical models of transmission and public health interventions\" Via <a href='https://twitter.com/jljcolorado/status/1244252661530017794'>@jljcolorado</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/104116944-0c41f580-5315-11eb-8b93-8808280e540c.png",
         "caption": "Removal of upper 2/3 of windows from frames mitigated TB infection",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217216/",
