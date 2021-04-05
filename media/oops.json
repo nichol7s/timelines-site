@@ -13,6 +13,24 @@
   "events": [
     {
       "media": {
+        "thumbnail": "https://twitter.com/MandyJonesMS/status/1379027220707037191/photo/1",
+        "url": "",
+        "caption": "",
+        "link": "",
+          "credit": "WHO Tweet"
+      },
+      "start_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 14
+      },
+      "text": {
+        "headline": "WHO Claim: No clear evidence of human to human",
+        "text": "\"No clear evidence of human to human \" - clipped from <a href='https://twitter.com/WHO/status/1217043229427761152'>WHO tweet</a>."
+      }
+    },
+    {
+      "media": {
         "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png",
         "url": "https://user-images.githubusercontent.com/82182/106038475-e61ba400-60cf-11eb-9782-7904369c54b5.png",
         "caption": "",
