@@ -1158,6 +1158,24 @@
         "headline": "Epidemiologic Evidence for Airborne Transmission of SARS-CoV-2 during Church Singing, Australia, 2020",
         "text": "\"An outbreak of severe acute respiratory syndrome coronavirus 2 infection occurred among church attendees after an infectious chorister sang at multiple services. We detected 12 secondary case-patients. Video recordings of the services showed that case-patients were seated in the same section, >15 m from the primary case-patient, without close physical contact, suggesting airborne transmission.\""
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41579-021-00535-6/MediaObjects/41579_2021_535_Fig1_HTML.png",
+        "caption": "Major modes of transmission of respiratory viruses during short-range and long-range transmission.",
+        "link": "https://www.nature.com/articles/s41579-021-00535-6",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 3,
+        "day": 22
+      },
+      "text": {
+        "headline": "Transmissibility and transmission of respiratory viruses",
+        "text": "\"Respiratory viruses can be transmitted via four major modes of transmission: direct (physical) contact, indirect contact (fomite), (large) droplets and (fine) aerosols. We know little about the relative contribution of each mode to the transmission of a particular virus in different settings, and how its variation affects transmissibility and transmission dynamics. Discussion on the particle size threshold between droplets and aerosols and the importance of aerosol transmission for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and influenza virus is ongoing.\""
+      }
     }
   ]
 }
