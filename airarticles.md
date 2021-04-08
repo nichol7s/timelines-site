@@ -3,9 +3,9 @@ title: Articles about droplet or airborne spread
 description: Articles about droplet or airborne spread
 ---
 
-1.1.1.	Airborne spread database
+# 1.1.1.	Airborne spread database
 
-1.1.1.1.	1800
+## 1.1.1.1.	1800
 
 1.1.1.1.1.	1856 - about healthy air
 J Public Health Sanit Rev
@@ -16,26 +16,42 @@ PMID: 30378905 PMCID: PMC6004175
 Free PMC article
 
 1.1.1.1.2.	1897 Flugge, C. (1897). Z. Hyg. 25, 179
+
 1.1.1.1.3.	1899 Flugge, C. (1899). Z. Hyg. 30, 107
 
-1.1.1.2.	1900
+## 1.1.1.2.	1900
 
 1.1.1.2.1.	1901 Hutchison, R. F. (1901). Z. Hyg. 36, 223.
-1.1.1.2.2.	1904 Gordon, M. H. (1904). Rep. Med. Offr Loc. Govt Bd, 1902–1903, 32, 421. London.
-1.1.1.2.3.	x 1910 Winslow, C. E. A. & Robinson, E. A. (1910). J. Infect. Dis. 7, 17 
-1.1.1.2.4.	1916 Chaussé, P. & Magne, H. (1916). Arch. Méd. exp. 27, 213.
-1.1.1.2.5.	1922 Strausz, W. (1922). Z. Hyg. 96, 27. - cant find
-1.1.1.2.6.	1925 Lange, B. & Keschischian, K. K. (1925). Z. Hyg. 104, 256.
-1.1.1.2.7.	1926 Strausz, W. (1926). Z. Hyg. 105, 416.Google Scholar 
-1.1.1.2.8.	1928 Sauter, J. (1928). ForschArb. IngWes. no. 312 (quoted from Castleman, 1931).Google Scholar
-1.1.1.2.9.	1931 Castleman, R. A. (1931). Bur. Stand. J. Res. 6, 369.
-1.1.1.2.10.	1933 Wells, W. F. (1933). Amer. J. Publ. Hlth. 23, 58.Google Scholar
-1.1.1.2.11.	x1934 Wells
-1.1.1.2.12.	1934 Wells On Droplet
+
+3.1.1.2.2.	1904 Gordon, M. H. (1904). Rep. Med. Offr Loc. Govt Bd, 1902–1903, 32, 421. London.
+
+4.1.1.2.3.	x 1910 Winslow, C. E. A. & Robinson, E. A. (1910). J. Infect. Dis. 7, 17 
+
+5.1.1.2.4.	1916 Chaussé, P. & Magne, H. (1916). Arch. Méd. exp. 27, 213.
+
+6.1.1.2.5.	1922 Strausz, W. (1922). Z. Hyg. 96, 27. - cant find
+
+7.1.1.2.6.	1925 Lange, B. & Keschischian, K. K. (1925). Z. Hyg. 104, 256.
+
+8.1.1.2.7.	1926 Strausz, W. (1926). Z. Hyg. 105, 416.Google Scholar 
+
+9.1.1.2.8.	1928 Sauter, J. (1928). ForschArb. IngWes. no. 312 (quoted from Castleman, 1931).Google Scholar
+
+10.1.1.2.9.	1931 Castleman, R. A. (1931). Bur. Stand. J. Res. 6, 369.
+
+11.1.1.2.10.	1933 Wells, W. F. (1933). Amer. J. Publ. Hlth. 23, 58.Google Scholar
+
+12.1.1.2.11.	x1934 Wells
+
+13.1.1.2.12.	1934 Wells On Droplet
 oxfordjournals.aje.a118097
+
 1.1.1.2.13.	1934 Wells, W. F. (1934). Amer. J. Hyg. 20, 611.Google Scholar
+
 1.1.1.2.14.	1934 Wells, W. F. & Stone, W. R. (1934). Amer. J. Hyg. 20, 619.Google Scholar
+
 1.1.1.2.15.	1935 Wells, W. F. (1935). J. Industr. Hyg. 17, 253.Google Scholar
+
 1.1.1.2.16.	x1936 Wells and Wells - p1699
 jama.1936.02770470016004
 
@@ -48,12 +64,19 @@ jama.1936.02770480037010
 - ferret study with U shaped pipe
 
 1.1.1.2.20.	1941 Bourdillon, R. B., Lidwell, O. M. & Thomas, J. C. (1941). J. Hyg., Camb., 41, 197.
+
 1.1.1.2.21.	1941 Buchbinder, L. & Phelps, E. B. (1941). J. Bact. 42, 345.
+
 1.1.1.2.22.	1941 Jennison, M. W. (1941). Sci. Mon. 52.24
+
 1.1.1.2.23.	1941 Phelps, E. B. & Buchbinder, L. (1941). J. Bact. 42, 321.
+
 1.1.1.2.24.	1942 Bourdillon, R. B., Lidwell, O. M. & Lovelock, J. E. (1942). Brit. Med. J. 1, 42.
+
 1.1.1.2.25.	1942 Hatch, T. F. (1942). Aerobiology. Washington, D.C.: Amer. Ass. Adv. Sci.
+
 1.1.1.2.26.	1942 Jennison, M. W. (1942). Aerobiology. Washington, D.C.: Amer. Ass. Adv. Sci.
+
 1.1.1.2.27.	1944 Hamburger, M. (1944). J. Infect. Dis. 75, 71
 
 1.1.1.2.28.	1945 Duguid, J. P. (1945). Edinb. Med. J., 52, 385.Google Scholar
@@ -121,7 +144,6 @@ PMCID: PMC2234964
 PMID: 20475802
 
 
-
 1.1.1.3.4.	x The survival of bacteria in dust II. The effect of atmospheric humidity on the survival of bacteria in dust
 O. M. Lidwell and E. J. Lowbury
 J Hyg (Lond). 1950 Mar; 48(1): 21–27.
@@ -132,7 +154,6 @@ PMID: 20475797
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2234961/
 - bacteria survived better at low humidity
 - high humidity outweighed cold
-
 
 
 1.1.1.3.5.	x The survival of bacteria in dust III. The effect of light on the survival of bacteria in dust
@@ -194,12 +215,6 @@ R. E. O. Williams, O. M. Lidwell, and Ann Hirch
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2217879/
 x
 - good. kids breath it out 
-
-
-
-
-
-
 
 
 
@@ -311,6 +326,7 @@ J Hyg (Lond). 1975 Dec; 75(3): 445–474.
 doi: 10.1017/s0022172400024505
 PMCID: PMC2130366
 PMID: 1059710
+
 
 
 1.1.1.3.16.	x The control by ventilation of airborne bacterial transfer between hospital patients, and its assessment by means of a particle tracer
@@ -484,7 +500,8 @@ influence the type of organisms that may be carried as well as strategies for co
 
 
 
-1.1.1.6.	2000
+## 1.1.1.6.	2000
+
 1.1.1.6.1.	2000 Survival of mycobacteria in aerosols
 - Did not survive
 
@@ -493,8 +510,6 @@ influence the type of organisms that may be carried as well as strategies for co
 - posted
 
 Flu comments in pic 2.
-
-
 
 REFERENCES
 
@@ -569,7 +584,6 @@ in health care settings after influenza is introduced by visitors, staff, or pat
   Cited by 595 Related articles All 16 versions
 
 1.1.1.6.6.	2003 Common cold
-
 
 The transmission of viruses that cause upper respiratory
 infections can occur by any of the three major
@@ -1145,14 +1159,16 @@ Humans that have respiratory symptoms typically "spray" (a directional high-spee
 
 
 1.1.1.8.	
-1.1.1.9.	x 2018-02 Vejerano and Marr - Physico-chemical characteristics of evaporating respiratory fluid droplets
+
+3.1.1.9.	x 2018-02 Vejerano and Marr - Physico-chemical characteristics of evaporating respiratory fluid droplets
 Eric P. Vejerano and Linsey C. Marr
 Published:28 February 2018
 https://doi.org/10.1098/rsif.2017.0939
 doi:10.1098/rsif.2017.0939
 
 
-1.1.1.10.	--- 2020 ---
+## 1.1.1.10.	--- 2020 ---
+
 1.1.1.11.	x 2020 Seminara et al - Biological fluid
 https://link.springer.com/article/10.1007/s12210-020-00938-2
 
@@ -1182,6 +1198,7 @@ Leung et al. Nature Med 2020
 
 
 1.1.1.13.	2020
+
 1.1.1.14.	x 2020-03 Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient
 - air contamination
 - surface contamination
@@ -1421,9 +1438,6 @@ ventilation systems, distant from patient areas, indicate that virus can be tran
 and that droplet transmission alone cannot reasonably explain this, especially considering the
 relatively low air change rates in these wards. Airborne transmission of SARS-CoV-2 must be taken
 into consideration for preventive measures.
-
-
-
 
 1.1.1.47.	x 2020-04 Morawska and Cao. Airborne transmission of SARS-CoV-2: The world should face the reality
 https://pubmed.ncbi.nlm.nih.gov/32294574/
