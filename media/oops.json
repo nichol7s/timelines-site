@@ -226,6 +226,24 @@
         "headline": "USA: Beloved supermarket Trader Joe's fires employee for asking for better staff protection",
         "text": "Store responds in detail to an employee, Ben Bonnema's, letter pleading for better #COVIDisAirborne protections and policies, nixing their chance of claiming a generic \"staff cuts\" excuse later: <a href='https://twitter.com/BenBonnema/status/1365422715436478470'>See Twitter thread</a>. Corporate in a statement a day later: \"We have never, and would never, terminate a Crew Member's employment for raising safety concerns,\" adding \"store leadership terminated this Crew Member's employment because of the disrespect he showed toward our customers.\" March 4th: TJ's rehires Ben."
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/114095610-87378f80-98b5-11eb-970f-f971e15bf9b0.png",
+        "caption": "",
+        "link": " https://aricjournal.biomedcentral.com/articles/10.1186/s13756-020-00779-6",
+          "credit": ""
+      },
+      "start_date": {
+        "year": 2020,
+        "month": 8,
+        "day": 20
+      },
+      "text": {
+        "headline": "Dr John Conley et al - Medical workers are fine in surgical masks and don't need respirators (paraphrase)",
+        "text": "\"Our view is that the weight of the scientific evidence to date indicates that particulate respirators offer no advantage over medical masks [classic surgical style masks] as a component of PPE for the prevention of respiratory viral infections [for heath care workers]\" ... yet now we know that tens of thousands have been infected in hospital settings"
+      }
     }
   ]
 }
