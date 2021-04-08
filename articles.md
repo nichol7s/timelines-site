@@ -12,8 +12,9 @@ Free PMC article
 
 1.1.1.1.2.	1897 Flugge, C. (1897). Z. Hyg. 25, 179
 1.1.1.1.3.	1899 Flugge, C. (1899). Z. Hyg. 30, 107
-- made thread?
+
 1.1.1.2.	1900
+
 1.1.1.2.1.	1901 Hutchison, R. F. (1901). Z. Hyg. 36, 223.
 1.1.1.2.2.	1904 Gordon, M. H. (1904). Rep. Med. Offr Loc. Govt Bd, 1902–1903, 32, 421. London.
 1.1.1.2.3.	x 1910 Winslow, C. E. A. & Robinson, E. A. (1910). J. Infect. Dis. 7, 17 
@@ -539,9 +540,6 @@ of rhinovirus colds. J Infect Dis 1987;156:442–8.
 22. Moser MR, Bender TR, Margolis HS, Noble GR, Kendal AP,Ritter DG. An outbreak of influenza ab
 
 
-
-
-
 1.1.1.6.3.	2003 Mycobacterium tuberculosis in the extracellular compartment: an underestimated adversary
 J Grosset - Antimicrobial agents and chemotherapy, 2003 - Am Soc Microbiol
 The development of lesions in pulmonary tuberculosis, the most common form of
@@ -550,13 +548,11 @@ and the host. This is a standard for all infectious diseases. Tuberculosis, howe
   Cited by 253 Related articles All 10 versions
 
 
-
 1.1.1.6.4.	2000 Milton DK, Glencross PM, Walters MD - Indoor air, 2000 - Wiley Online Library 
 - Abstract We analyzed 1994 sick leave for 3,720 hourly employees of a large Massachusetts
 manufacturer, in 40 buildings with 115 independently ventilated work areas. Corporate
 records identified building characteristics and IEQ complaints. We rated ventilation as …
   Cited by 353 Related articles All 8 versions
-
 
 
 
@@ -773,7 +769,6 @@ of non-sedimenting droplets, or by deposition of sedimenting droplets in the upp
 respiratory tract. Whichever of these is the predominant route for infection with influenza …
   Cited by 44 Related articles All 6 versions
 [PDF] oup.com
-Search on Sci-Hub
 
 
 
