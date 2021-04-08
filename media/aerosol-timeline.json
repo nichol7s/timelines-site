@@ -1122,6 +1122,96 @@
         "headline": "Respiratory aerosols and droplets in the transmission of infectious diseases",
         "text": "\"This article provides a critical review and synthesis of scientific knowledge on the number concentrations, size distributions, composition, mixing state, and related properties of respiratory particles emitted upon breathing, speaking, singing, coughing, and sneezing.\""
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/74545833/113585061-b4f0b000-95f9-11eb-9d95-f50de4fa299b.png",
+        "caption": "ASHRAE Epidemic Task Force Releases Updated Airborne Transmission Guidance",
+        "link": "https://www.ashrae.org/about/news/2021/ashrae-epidemic-task-force-releases-updated-airborne-transmission-guidance",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 4,
+        "day": 5
+      },
+      "text": {
+        "headline": "ASHRAE Epidemic Task Force Releases Updated Airborne Transmission Guidance",
+        "text": "\"Airborne transmission of SARS-CoV-2 is significant and should be controlled. Changes to building operations, including the operation of heating, ventilating, and air-conditioning systems, can reduce airborne exposures.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://wwwnc.cdc.gov/eid/images/21-0465-F2.jpg",
+        "caption": "Schematic diagram of church layout showing seating locations of primary and secondary case-patients during an outbreak of infection with severe acute respiratory syndrome coronavirus",
+        "link": "https://wwwnc.cdc.gov/eid/article/27/6/21-0465_article",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 4,
+        "day": 5
+      },
+      "text": {
+        "headline": "Epidemiologic Evidence for Airborne Transmission of SARS-CoV-2 during Church Singing, Australia, 2020",
+        "text": "\"An outbreak of severe acute respiratory syndrome coronavirus 2 infection occurred among church attendees after an infectious chorister sang at multiple services. We detected 12 secondary case-patients. Video recordings of the services showed that case-patients were seated in the same section, >15 m from the primary case-patient, without close physical contact, suggesting airborne transmission.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41579-021-00535-6/MediaObjects/41579_2021_535_Fig1_HTML.png",
+        "caption": "Major modes of transmission of respiratory viruses during short-range and long-range transmission.",
+        "link": "https://www.nature.com/articles/s41579-021-00535-6",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 3,
+        "day": 22
+      },
+      "text": {
+        "headline": "Transmissibility and transmission of respiratory viruses",
+        "text": "\"Respiratory viruses can be transmitted via four major modes of transmission: direct (physical) contact, indirect contact (fomite), (large) droplets and (fine) aerosols. We know little about the relative contribution of each mode to the transmission of a particular virus in different settings, and how its variation affects transmissibility and transmission dynamics. Discussion on the particle size threshold between droplets and aerosols and the importance of aerosol transmission for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and influenza virus is ongoing.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://ncceh.ca/sites/default/files/styles/print_friendly_320px_/public/gettyimages-1262108071-170667a.jpg",
+        "caption": "Multi-Unit Residential Building (MURB)",
+        "link": "https://ncceh.ca/documents/evidence-review/contextualizing-risks-indirect-covid-19-transmission-multi-unit",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 3,
+        "day": 24
+      },
+      "text": {
+        "headline": "Contextualizing the risks of indirect COVID-19 transmission in multi-unit residential buildings",
+        "text": "\"This document is intended to help public health practitioners: 1) improve their understanding of how building systems may (or may not) contribute to transmission of SARS-CoV-2; 2) learn about the environmental or other analyses to complement a thorough epidemiological investigation if indirect transmission is suspected; and 3) communicate effectively about the relative risks of indirect transmission in a MURB setting. See also <a href='https://twitter.com/DavidElfstrom/status/1379814589395795975'> post (@DavidElfstrom)</a>\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/estlcu/0/estlcu.ahead-of-print/acs.estlett.1c00183/20210405/images/medium/ez1c00183_0003.gif",
+        "caption": "Mutiple low-cost CO2 sensors",
+        "link": "https://pubs.acs.org/doi/10.1021/acs.estlett.1c00183",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 4,
+        "day": 5
+      },
+      "text": {
+        "headline": "Exhaled CO2 as a COVID-19 Infection Risk Proxy for Different Indoor Environments and Activities",
+        "text": "\"Indoor CO2 measurements by low-cost sensors hold promise for mass monitoring of indoor aerosol transmission risk for COVID-19 and other respiratory diseases. We derive analytical expressions of CO2-based risk proxies and apply them to various typical indoor environments.. See also <a href='https://twitter.com/jljcolorado/status/1379940559763214339?s=21'> post (@jljcolorado)</a>\""
+      }
     }
   ]
 }
