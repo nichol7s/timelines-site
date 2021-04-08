@@ -5,11 +5,15 @@ description: Articles about droplet or airborne spread
 
 # Articles about transmission of viruses in the air
 
-[Send any additions to @jonathanmc or @paul-hammant or just make a github account, fork this, and do a merge request back into this file]
+[Send any additions to @jonathanmc or @paul-hammant, or fork this and make a merge request]
 
-## 1.1.1.1.	1800
+## 1700
 
-1.1.1.1.1.	1856 - about healthy air
+Pringle 1750
+
+## 1800
+
+1.1.1.1.1.	1856 - 
 J Public Health Sanit Rev
 . 1856 Oct;2(7):193-218.
 Air and Ventilation
@@ -21,38 +25,38 @@ Free PMC article
 
 1.1.1.1.3.	1899 Flugge, C. (1899). Z. Hyg. 30, 107
 
-## 1.1.1.2.	1900
+## 1900
 
 1.1.1.2.1.	1901 Hutchison, R. F. (1901). Z. Hyg. 36, 223.
 
 3.1.1.2.2.	1904 Gordon, M. H. (1904). Rep. Med. Offr Loc. Govt Bd, 1902–1903, 32, 421. London.
 
-4.1.1.2.3.	x 1910 Winslow, C. E. A. & Robinson, E. A. (1910). J. Infect. Dis. 7, 17 
+4.1.1.2.3.	1910 Winslow, C. E. A. & Robinson, E. A. (1910). J. Infect. Dis. 7, 17 
 
 5.1.1.2.4.	1916 Chaussé, P. & Magne, H. (1916). Arch. Méd. exp. 27, 213.
 
-6.1.1.2.5.	1922 Strausz, W. (1922). Z. Hyg. 96, 27. - cant find
+6.1.1.2.5.	1922 Strausz, W. (1922). Z. Hyg. 96, 27.
 
 7.1.1.2.6.	1925 Lange, B. & Keschischian, K. K. (1925). Z. Hyg. 104, 256.
 
-8.1.1.2.7.	1926 Strausz, W. (1926). Z. Hyg. 105, 416.Google Scholar 
+8.1.1.2.7.	1926 Strausz, W. (1926). Z. Hyg. 105, 416. 
 
-9.1.1.2.8.	1928 Sauter, J. (1928). ForschArb. IngWes. no. 312 (quoted from Castleman, 1931).Google Scholar
+9.1.1.2.8.	1928 Sauter, J. (1928). ForschArb. IngWes. no. 312 (quoted from Castleman, 1931).
 
 10.1.1.2.9.	1931 Castleman, R. A. (1931). Bur. Stand. J. Res. 6, 369.
 
-11.1.1.2.10.	1933 Wells, W. F. (1933). Amer. J. Publ. Hlth. 23, 58.Google Scholar
+11.1.1.2.10.	1933 Wells, W. F. (1933). Amer. J. Publ. Hlth. 23, 58.
 
-12.1.1.2.11.	x1934 Wells
+12.1.1.2.11.	1934 Wells
 
 13.1.1.2.12.	1934 Wells On Droplet
 oxfordjournals.aje.a118097
 
-1.1.1.2.13.	1934 Wells, W. F. (1934). Amer. J. Hyg. 20, 611.Google Scholar
+1.1.1.2.13.	1934 Wells, W. F. (1934). Amer. J. Hyg. 20, 611.
 
-1.1.1.2.14.	1934 Wells, W. F. & Stone, W. R. (1934). Amer. J. Hyg. 20, 619.Google Scholar
+1.1.1.2.14.	1934 Wells, W. F. & Stone, W. R. (1934). Amer. J. Hyg. 20, 619.
 
-1.1.1.2.15.	1935 Wells, W. F. (1935). J. Industr. Hyg. 17, 253.Google Scholar
+1.1.1.2.15.	1935 Wells, W. F. (1935). J. Industr. Hyg. 17, 253.
 
 1.1.1.2.16.	x1936 Wells and Wells - p1699
 jama.1936.02770470016004
@@ -81,9 +85,9 @@ jama.1936.02770480037010
 
 1.1.1.2.27.	1944 Hamburger, M. (1944). J. Infect. Dis. 75, 71
 
-1.1.1.2.28.	1945 Duguid, J. P. (1945). Edinb. Med. J., 52, 385.Google Scholar
+1.1.1.2.28.	1945 Duguid, J. P. (1945). Edinb. Med. J., 52, 385.
 
-1.1.1.2.29.	1945 Mitman, M. (1945). Brit. Med. J. 1, 71.CrossRef | Google Scholar
+1.1.1.2.29.	1945 Mitman, M. (1945). Brit. Med. J. 1, 71.
 
 1.1.1.2.30.	x 1946 Deguid - The size and the duration of air-carriage of respiratory droplets and droplet-nuclei
 J Hyg (Lond). 1946 Sep; 44(6): 471–479.
@@ -116,7 +120,7 @@ http://www.tb-ipcp.co.za/downloads/training/files/buildingDesign_2012/References
 
 
 
-1.1.1.3.	Lidwell articles
+## Lidwell articles from the 1940s-1960s
 
 1.1.1.3.1.	x J Hyg (Lond). 1943 Sep; 43(3): 196–200.
 doi: 10.1017/s002217240001281x
@@ -216,7 +220,7 @@ The bacterial flora of the air of occupied rooms
 R. E. O. Williams, O. M. Lidwell, and Ann Hirch
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2217879/
 x
-- good. kids breath it out 
+- good. kids breathe it out 
 
 
 
@@ -475,7 +479,7 @@ To understand the fate and transfer of aerosolized nanodispersions, it is import
 
 1.1.1.5.4.	1996 Millar. Kudos for valuable article American Industrial Hygiene Association Journal; Akron Vol. 57,  (Jun 1996): 583. describes the pushback against airborne TB from CDC in the 1990s.
 
-Back in 90s, CDC asked NIOSH to do study of whether respirator better for TB. They did, concluded that respirator needed. CDC then discounted the study.
+NOTE: Back in 90s, CDC asked NIOSH to do study of whether respirator better for TB. They did, concluded that respirator needed. CDC then discounted the study.
 
 https://search.proquest.com/docview/236324466?pq-origsite=gscholar&fromopenview=true
 
@@ -493,72 +497,47 @@ RAOS PAPINENI, FS ROSENTHAL - Journal of Aerosol Medicine, 1997 - liebertpub.com
 
 PAPINENI, R. S., & ROSENTHAL, F. S. (1997). The Size Distribution of Droplets in the Exhaled Breath of Healthy Human Subjects. Journal of Aerosol Medicine, 10(2), 105–116. doi:10.1089/jam.1997.10.105 
 
-Droplets carried in exhaled breath may carry microorganisms capable of transmitting
-disease over both short and long distances. The size distribution of such droplets will
-influence the type of organisms that may be carried as well as strategies for controlling …
+Droplets carried in exhaled breath may carry microorganisms capable of transmitting disease over both short and long distances. The size distribution of such droplets will influence the type of organisms that may be carried as well as strategies for controlling …
   Cited by 411 Related articles All 7 versions
 
  
 
 
 
-## 1.1.1.6.	2000
+## 2000
 
 1.1.1.6.1.	2000 Survival of mycobacteria in aerosols
 - Did not survive
 
 1.1.1.6.2.	2000 Goldmann 
 - Summary of a bunch of studies trying to figure out whether viruses transmit by touch or through the air. Comments on RSV (touch?), rhinovirus (including the studies I just posted) (mixed?), and influenza (air?).
-- posted
+
 
 Flu comments in pic 2.
 
 REFERENCES
-
 1. Wells WF. Airborne contagion and air hygiene. Boston: Harvard University Press, 1955.
-
 2. Hall CB, Douglas RG. Modes of transmission of respiratory syncytial virus. J Pediatr 1981;99:100–3.
-
 3. Hall CB, Douglas RG Jr, Geiman JM. Respiratory syncytial virus infections in infants: quantitation and duration of shedding. J Pediatr 1976;89:11–15.
-
 4. Hall CB, Douglas RG Jr, Geiman JM. Possible transmission by fomites of respiratory syncytial virus. J Infect Dis 1978; 88:203–5.
-
 5. Hall CB. Nosocomial viral respiratory infections: perennial weeds on pediatric wards. Am J Med 1981;70:670–6.
-
 6. Leclair JM, Freeman J, Sullivan BF, Crowley CM, Goldmann DA. Prevention of nosocomial respiratory virus infections through compliance with glove and gown isolation precautions. N Engl J Med 1987;317:329–34.
-
 7. Platt J, Bucknall RA. The disinfection of respiratory syncytial virus by isopropanol and a chlorhexidine-detergent handwash. J Hosp Infect 1985;6:89–94.
-
 8. Madge P, Paton JY, McColl JH, Mackie PLK. Prospective controlled study of four infection control procedures to prevent nosocomial infection with respiratory syncytial virus.
 Lancet 1992;340:1079–83.
-
 9. Snydman DR, Greer C, Meissner HC, McIntosh K. Prevention of nosocomial transmission of respiratory syncytial virus in a newborn nursery. Infect Control Hosp Epidemiol 1988;9:105–8.
-
 10. Tyrell DAJ. Common colds and related diseases. Baltimore: Williams & Wilkins, 1965.
-
 11. D’Alession DJ, Peterson JA, Dick CR, et al. Transmission of experimental rhinovirus colds in volunteer married couples. J Infect Dis 1976;133:28–36.
-
 12. Hendley JO, Wenzel RP, Gwaltney JM Jr. Transmission of rhinovirus colds by self-inoculation. N Engl J Med 1973;288: 1361–4.
-
 13. Gwaltney JM Jr, Hendley JO. Transmission of experimental rhinovirus infection by contaminated surfaces. Am J Epidemiol 1982;116:828–33.
-
 14. Hendley JO, Wenzel RP, Gwaltney JM Jr. Transmission of rhinovirus colds by self-inoculation. N Engl J Med 1973;288: 1361–4.
-
 15. Hendley JO, Gwaltney JM Jr. Mechanisms of transmission of rhinovirus infections. Epidemiol Rev 1988;10:242–58.
-
 16. Gwaltney JM Jr, Moskalski PB, Hendley JO. Hand-to-hand transmission of rhinovirus colds. Ann Intern Med 1978;88: 463–7.
-
 17. Jennings LC, Dick EC. Transmission and control of rhinovirus colds. Eur J Epidemiol 1987;3:327–35.
-
-18. Dick EC, Jennings LC, Mink KA, et al. Aerosol transmission
-of rhinovirus colds. J Infect Dis 1987;156:442–8.
-
+18. Dick EC, Jennings LC, Mink KA, et al. Aerosol transmission of rhinovirus colds. J Infect Dis 1987;156:442–8.
 19. Andrewes CH, Glover RE. Spread of infection from the respiratory tract of the ferret: I. Transmission of influenza A virus. Br J Exp Pathol 1941;22:91–7.
-
 20. Schulman JL, Kilbourne ED. Airborne transmission of influenza virus infection in mice. Nature 1962;195:1129–30.
-
 21. McLean RL. General discussion. Am Rev Respir Dis 1961;83:36–8.
-
 22. Moser MR, Bender TR, Margolis HS, Noble GR, Kendal AP,Ritter DG. An outbreak of influenza ab
 
 
@@ -981,7 +960,8 @@ First published: 13 February 2009 https://doi.org/10.1111/j.1539-6924.2008.01161
 
 
 
-1.1.1.7.	2010
+## 2010
+
 1.1.1.7.1.	x2011 - Wang
 
 1.1.1.7.2.	2011 - Redrew
@@ -1169,7 +1149,7 @@ https://doi.org/10.1098/rsif.2017.0939
 doi:10.1098/rsif.2017.0939
 
 
-## 1.1.1.10.	--- 2020 ---
+## 2020
 
 1.1.1.11.	x 2020 Seminara et al - Biological fluid
 https://link.springer.com/article/10.1007/s12210-020-00938-2
@@ -1198,8 +1178,6 @@ Leung et al. Nature Med 2020
 
 • The detection of RNA in air samples based on PCR-based assays is not indicative of viable virus that could be transmissible (Wölfel R, Nature 2020)
 
-
-1.1.1.13.	2020
 
 1.1.1.14.	x 2020-03 Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient
 - air contamination
@@ -1241,8 +1219,7 @@ Recent literature investigating human expired aerosol indicates that a significa
 March 26, 2020
 Turbulent Gas Clouds and Respiratory Pathogen Emissions
 Potential Implications for Reducing Transmission of COVID-19
-Lydia Bourouiba, PhD1
-
+Lydia Bourouiba, PhD
 https://jamanetwork.com/journals/jama/fullarticle/2763852
 
 
@@ -1556,15 +1533,11 @@ https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30323-4/fullt
 Valentyn Stadnytskyi,  View ORCID ProfileChristina E. Bax,  View ORCID ProfileAdriaan Bax, and Philip Anfinrud
 https://www.pnas.org/content/117/22/11875
 
-1.1.1.66.	x 2021 use of portable air cleaners
-https://www.medrxiv.org/content/10.1101/2021.03.29.21254590v1
-
-Use of portable air cleaners to reduce aerosol transmission on a hospital COVID-19 ward
+1.1.1.66.	x 2021 Use of portable air cleaners to reduce aerosol transmission on a hospital COVID-19 ward
 Kirsty Lee Buising, Robyn Schofield, Louis Irving, Melita Keywood, Ashley Stevens, Nick Keogh, Grant Skidmore, Imogen Wadlow, Kevin Kevin, Behzad Rismanchi, Amanda Wheeler, Ruhi Humphries, Marion Kainer, Forbes McGain, Jason Monty,  View ORCID ProfileCaroline Marshall
 doi: https://doi.org/10.1101/2021.03.29.21254590
-This article is a preprint and has not been certified by peer review [what does this mean?]. It reports new medical research that has yet to be evaluated and so should not be used to guide clinical practice.
-AbstractInfo/HistoryMetrics Preview PDF
+https://www.medrxiv.org/content/10.1101/2021.03.29.21254590v1
+
 Abstract
 Objective To study the airflow, transmission and clearance of aerosols in the clinical spaces of a hospital ward that had been used to care for patients with COVID-19, and to examine the impact of portable air cleaners on aerosol clearance. Design Observational study Setting A single ward of a tertiary public hospital in Melbourne Australia Intervention Glycerine-based aerosol was used as a surrogate for respiratory aerosols. The transmission of aerosols from a single patient room into corridors and a nurses station in the ward was measured. The rate of clearance of aerosols was measured over time from the patient room, nurses station and ward corridors with and without air cleaners (also called portable HEPA filters). Results Aerosols rapidly travelled from the single patient room into other parts of the ward. Air cleaners were effective in increasing the clearance of aerosols from the air in clinical spaces and reducing their spread to other areas. Conclusion Air cleaners may be useful in clinical spaces to help reduce the risk of healthcare acquired acquisition of respiratory viruses that are transmitted via aerosols.
 
-1.1.1.67.	
