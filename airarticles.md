@@ -574,8 +574,10 @@ documented.36
 35 Gwaltney JM Jr, Moskalski PB, Hendley JO. Hand-to-hand transmission of rhinovirus colds. Ann Intern Med 1978; 88: 463–67
 36 Dick EC, Jennings LC, Mink KA, Wartgow CD, Inhorn SL. Aerosol transmission of rhinovirus colds. J Infect Dis 1987; 156: 442–48.
 
-1.1.1.6.7.	2004 - SARS
-I. T. Yu, Y. Li, T. W. Wong, W. Tam, A. T. Chan, J. H. Lee, D. Y. Leung, and T. Ho, Evidence of airborne transmission of the severe acute respiratory syndrome virus, N. Engl. J. Med. 350, 1731-1739 (2004).
+
+1.1.1.6.22.	2004 - Yu, I.T., Li, Y., Wong, T.W., Tam, W., Chan, A.T., Lee, J.H., Leung, D.Y. and Ho, T., 2004, Evidence of airborne transmission of the severe acute respiratory syndrome virus. 
+N Engl J Med.,350:1731-1739.
+
 
 1.1.1.6.8.	x 2005 - Nicas M, Nazaroff WW, Hubbard A (2005) Towards understanding the risk of secondary airborne infection: emission of respirable pathogens. Journal of Occupational and Environmental Hygiene 2: 143–154.
 
@@ -631,20 +633,21 @@ the tuberculosis epidemic. However, children contribute a significant proportion
 
 
 
-1.1.1.6.14.	2007 - Xie - How far droplets can move in indoor environments--revisiting the Wells evaporation-falling curve.
+1.1.1.6.14.	2007 - Xie and Seto - How far droplets can move in indoor environments--revisiting the Wells evaporation-falling curve.
 X Xie, Y Li, AT Chwang, PL Ho, WH Seto 
 Indoor air, 2007 - europepmc.org
 https://pubmed.ncbi.nlm.nih.gov/17542834/
-
 Seto: Department of Microbiology, Queen Mary Hospital, Hong Kong, China
 
+- mis-quotes Wells (1934) as saying droplets fall to ground 2m away
 
+"In his now classical study of airborne transmission, Wells (1934) studied the evaporation of falling droplets using a simple calculation method and obtained a classical curve that revealed the relationship between droplet size, evaporation, and falling rate [see Figure 1, reproduced from Wells (1934)]. From this curve, Wells was able to first identify the difference between disease transmission via large droplets and by airborne routes. This curve is referred to as the Wells evaporation–falling curve of droplets in this article. Wells found that under normal air conditions, droplets smaller than 100 μm in diameter would totally dry out before falling to the ground 2 m away, i.e., the average human height. This finding allowed the establishment of the theory of droplets and droplet nuclei transmission depending on the size of the infected droplet. According to Wells (1934), droplet infection is transmitted by droplets larger than 100 μm in diameter, which rapidly settle out of the air by gravity, with the infective range being within a short distance of the source. Airborne infection applies to dried‐out infectious droplet nuclei derived directly from droplets less than 100 μm, which remain suspended in the air for a long time and could be carried over long distances by the air current. The Wells evaporation–falling curve of droplets is very important in understanding airborne transmission and transmission by large droplets. Wells’ study also demonstrated that ‘droplets’ could transform into ‘droplet nuclei’ by evaporation. The concepts of large droplet transmission and airborne transmission have been extended and investigated over the last 70 years (Fennelly et al., 2004; O'Grady and Riley, 1963; Riley, 1974; Riley and O'Grady, 1961; Riley et al., 1962; Wells, 1955; Yassi and Bryce, 2004). However, the Wells evaporation–falling curve of droplets has probably been overlooked in the literature."
 
-UNLABELLED: A large number of infectious diseases are believed to be transmitted
-between people via large droplets and by airborne routes. An understanding of evaporation
+UNLABELLED: A large number of infectious diseases are believed to be transmitted between people via large droplets and by airborne routes. An understanding of evaporation
 and dispersion of droplets and droplet nuclei is not only significant for developing effective …
   Cited by 291 Related articles All 8 versions 
-[HTML] sciencedirect.com
+
+
 
 
 other
@@ -787,8 +790,6 @@ airborne viruses, we optimized molecular biology methods to quantify influenza v
 
 
 
-
-
 Viruses and indoor air pollution.
 RB Couch - Bulletin of the New York Academy of Medicine, 1981 - ncbi.nlm.nih.gov
 T he natural occurrence of air pollution by microorganisms andof human disease from
@@ -817,8 +818,6 @@ In November 1990, a screening was conducted to determine the point prevalence of
 tuberculosis infection in a volunteer sample of homeless men (n= 161) living in a congregate
 shelter in New York City. Of those for whom we have results (n= 134), 79% were positive for …
   Cited by 31 Related articles All 16 versions
-[HTML] google.com
-
 
 
 
@@ -830,16 +829,12 @@ policies. They should be helpful in making a decision about the precautionary me
   Cited by 27 Related articles
 
 
-
-
 An evaluation of portable high-efficiency particulate air filtration for expedient patient isolation in epidemic and emergency response
 K Mead, DL Johnson - Annals of emergency medicine, 2004 - Elsevier
 Extraordinary incidents resulting in airborne infectious disease outbreaks could produce
 patient isolation requirements that exceed most hospitals' capacity. This article investigates
 expedient methods to establish airborne infection isolation areas using a commercially …
   Cited by 27 Related articles All 8 versions
-
-
 
 
 
@@ -897,16 +892,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19773292/
 1.1.1.6.20.	2009 - Tang
 
 
-1.1.1.6.21.	2010 - Tuberculosis contact investigation in low prevalence countries: a European consensus
-CGM Erkens, M Kamphorst, I Abubakar, GH Bothamley… - 2010 - Eur Respiratory Soc
-Contact investigation to identify individuals with tuberculosis and latent infection with
-Mycobacterium tuberculosis is an important component of tuberculosis control in low
-tuberculosis incidence countries. This document provides evidence-based and best-practice …
-  Cited by 273 Related articles All 18 versions
-
-
-1.1.1.6.22.	2004 - Yu, I.T., Li, Y., Wong, T.W., Tam, W., Chan, A.T., Lee, J.H., Leung, D.Y. and Ho, T., 2004, Evidence of airborne transmission of the severe acute respiratory syndrome virus. 
-N Engl J Med.,350:1731-1739.
 
 
 1.1.1.6.23.	2009 - Johnson GR  and Morawska L. 2009. “The Mechanism of Breath Aerosol Formation.” Journal of Aerosol Medicine and Pulmonary Drug Delivery 22 (3): 229–237. doi:10.1089/jamp.2008.0720.
@@ -927,6 +912,14 @@ https://doi.org/10.1111/j.1539-6924.2008.01161.xCitations: 24
 
 
 ## 2010
+
+1.1.1.6.21.	2010 - Tuberculosis contact investigation in low prevalence countries: a European consensus
+CGM Erkens, M Kamphorst, I Abubakar, GH Bothamley… - 2010 - Eur Respiratory Soc
+Contact investigation to identify individuals with tuberculosis and latent infection with
+Mycobacterium tuberculosis is an important component of tuberculosis control in low
+tuberculosis incidence countries. This document provides evidence-based and best-practice …
+  Cited by 273 Related articles All 18 versions
+
 
 1.1.1.7.1.	x2011 - Wang
 
