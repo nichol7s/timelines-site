@@ -575,11 +575,14 @@ documented.36
 36 Dick EC, Jennings LC, Mink KA, Wartgow CD, Inhorn SL. Aerosol transmission of rhinovirus colds. J Infect Dis 1987; 156: 442–48.
 
 
-1.1.1.6.22.	2004 - Yu, I.T., Li, Y., Wong, T.W., Tam, W., Chan, A.T., Lee, J.H., Leung, D.Y. and Ho, T., 2004, Evidence of airborne transmission of the severe acute respiratory syndrome virus. 
+2004 - Yu, I.T., Li, Y., Wong, T.W., Tam, W., Chan, A.T., Lee, J.H., Leung, D.Y. and Ho, T., 2004, Evidence of airborne transmission of the severe acute respiratory syndrome virus. 
 N Engl J Med.,350:1731-1739.
 
 
-1.1.1.6.8.	x 2005 - Nicas M, Nazaroff WW, Hubbard A (2005) Towards understanding the risk of secondary airborne infection: emission of respirable pathogens. Journal of Occupational and Environmental Hygiene 2: 143–154.
+2004 Yassi, A. and Bryce, E. (2004) Protecting the Faces of Health Care Workers: Knowledge Gaps and Research Priorities for Effective Protection Against Occupationally‐Acquired Respiratory Infectious Diseases, Project report from the Occupational Health and Safety Agency for Healthcare in BC, Ontario, Canada, The Change Foundation. Available at: http://www.changefoundation.ca/tcf/tcfbul.nsf/dea2e13875b9d7cb052565e4007faaa0/787d44cc13a1825c85256ea900452a6f/file/protecting20the20face20of20health20care20workers20april202004.pdf (last accessed February 1, 2006).
+
+
+2005 - Nicas M, Nazaroff WW, Hubbard A (2005) Towards understanding the risk of secondary airborne infection: emission of respirable pathogens. Journal of Occupational and Environmental Hygiene 2: 143–154.
 
 1.1.1.6.9.	x2006 - Tang et al Factors involved in the aerosol transmission of infection and control of ventilation in healthcare premises
 - viable SARS in air
