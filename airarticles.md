@@ -5,6 +5,8 @@ description: Articles about droplet or airborne spread
 
 # Articles about transmission of viruses in the air
 
+[Send any additions to @jmcrookston or @paul or just make a github and slap them into this file]
+
 ## 1.1.1.1.	1800
 
 1.1.1.1.1.	1856 - about healthy air
