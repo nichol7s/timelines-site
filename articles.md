@@ -664,7 +664,7 @@ between people via large droplets and by airborne routes. An understanding of ev
 and dispersion of droplets and droplet nuclei is not only significant for developing effective …
   Cited by 291 Related articles All 8 versions 
 [HTML] sciencedirect.com
-Search on Sci-Hub
+
 
 other
 
@@ -678,14 +678,14 @@ fungal spores, pollen, and other bioparticles are essential for the reproduction
 
 [PDF] aphapublications.org
 Full View
-Search on Sci-Hub
+
 Improving the health of workers in indoor environments: priority research needs for a national occupational research agenda
 MJ Mendell, WJ Fisk, K Kreiss… - … journal of public …, 2002 - ajph.aphapublications.org
 Indoor nonindustrial work environments were designated a priority research area through
 the nationwide stakeholder process that created the National Occupational Research
 Agenda. A multidisciplinary research team used member consensus and quantitative …
   Cited by 235 Related articles All 19 versions
-Search on Sci-Hub
+
 
 
 Ultraviolet susceptibility of BCG and virulent tubercle bacilli
@@ -694,7 +694,7 @@ To test the effectiveness of irradiating the upper air of a room with ultraviole
 the concentration of airborne tubercle bacilli, the susceptibility to the germicidal effects of
 ultraviolet light, Z, was determined for various mycobacteria. Virulent tubercle bacilli and …
   Cited by 225 Related articles All 10 versions
-Search on Sci-Hub
+
 
 
 Building-associated risk of febrile acute respiratory diseases in Army trainees
@@ -704,7 +704,7 @@ respiratory illnesses are well documented. We hypothesized that energy conservat
 measures that tighten buildings also increase risks of respiratory infection among building …
   Cited by 209 Related articles All 6 versions
 [PDF] academia.edu
-Search on Sci-Hub
+
 
 
 Incorporating polymerase chain reaction-based identification, population characterization, and quantification of microorganisms into aerosol science: a review
@@ -714,7 +714,7 @@ described. This is not consistent with the current understanding of atmospheric 
 the microbiological characterization of aquatic and terrestrial environments. This knowledge …
   Cited by 194 Related articles All 8 versions
 [PDF] medind.nic.in
-Search on Sci-Hub
+
 
 
 The transmission of tuberculosis in confined spaces: an analytical review of alternative epidemiological models
@@ -723,7 +723,7 @@ Tuberculosis (TB) is a disease that is closely associated with poverty, with tra
 occurring in situations where infected persons are in close contact with others in confined
 spaces. While it is well recognised that overcrowding increases the risk of transmission, this …
   Cited by 192 Related articles All 11 versions
-Search on Sci-Hub
+
 
 
 [BOOK] Tuberculosis: a comprehensive international approach
@@ -733,7 +733,7 @@ from historical, theoretical, and clinical perspectives, including the most curr
 Containing 35 revised, rewritten, rearranged, and new chapters by nationally and …
   Cited by 155 Related articles All 3 versions 
 [PDF] nih.gov
-Search on Sci-Hub
+
 
 
 
@@ -743,9 +743,6 @@ We evaluated the efficacy of recommended tuberculosis (TB) infection control mea
 using a deterministic mathematical model for airborne contagion. We examined the
 percentage of purified protein derivative conversions under various exposure conditions …
   Cited by 111 Related articles All 15 versions
-Search on Sci-Hub
-
-
 
 
 [CITATION] The influence of form of day care on occurrence of acute respiratory tract infections among young children
@@ -771,8 +768,6 @@ respiratory tract. Whichever of these is the predominant route for infection wit
 [PDF] oup.com
 
 
-
-
 A train passenger with pulmonary tuberculosis: evidence of limited transmission during travel
 M Moore, SE Valway, W Ihle… - Clinical infectious …, 1999 - academic.oup.com
 In January 1996, smear-and culture-positive tuberculosis (TB) was diagnosed for a 22-year-
@@ -780,7 +775,7 @@ old black man after he had traveled on two US passenger trains (29.1 hours) and 
 hours) over 2 days. To determine if transmission had occurred, passengers and crew were …
   Cited by 40 Related articles All 12 versions
 [PDF] researchgate.net
-Search on Sci-Hub
+
 
 
 
@@ -790,7 +785,7 @@ The level of airborne microbial load of hospital indoors is unknown in Sagar Cit
 Pradesh, India. Microbial monitoring of such environments is important for the quality of
 human life. A study of the quality and quantity of airborne microflora in two major hospitals …
   Cited by 41 Related articles
-Search on Sci-Hub
+
 
 
 
@@ -801,7 +796,7 @@ into a risk assessment framework. A key element of applying this approach is the
 understanding of the relationship between dose and response for particular pathogens. This …
   Cited by 40 Related articles All 5 versions
 [HTML] nih.gov
-Search on Sci-Hub
+
 
 
 
@@ -812,7 +807,7 @@ concentration and the presence of a wide range of inhibitors. As a first step in
 airborne viruses, we optimized molecular biology methods to quantify influenza viruses and …
   Cited by 36 Related articles All 6 versions
 [PDF] nih.gov
-Search on Sci-Hub
+
 
 
 
@@ -824,7 +819,7 @@ inhaling these organisms is established. Micro-biologic and epidemiologic data d
 airborne transmissionof a large number of bacteria and fungi, including psittacosis, Q fever …
   Cited by 36 Related articles All 4 versions
 [PDF] academia.edu
-Search on Sci-Hub
+
 
 
 
@@ -835,7 +830,7 @@ droplets from human coughs or sneezes. It is the first time different chemical c
 have been included in order to estimate the transport of sputum or similar biological …
   Cited by 36 Related articles All 7 versions
 [PDF] aphapublications.org
-Search on Sci-Hub
+
 
 
 
@@ -846,7 +841,7 @@ tuberculosis infection in a volunteer sample of homeless men (n= 161) living in 
 shelter in New York City. Of those for whom we have results (n= 134), 79% were positive for …
   Cited by 31 Related articles All 16 versions
 [HTML] google.com
-Search on Sci-Hub
+
 
 
 
@@ -856,7 +851,7 @@ These guidelines deal with the prevention of transmission of tubercle bacilli in
 They have been prepared for persons who determine and implement infection control
 policies. They should be helpful in making a decision about the precautionary measures …
   Cited by 27 Related articles
-Search on Sci-Hub
+
 
 
 
@@ -900,8 +895,6 @@ Roy and Milton have proposed a new classification for aerosol transmission when 
 • Opportunistic. Under special circumstances, agents that naturally cause disease through other routes may be transmitted through small-particle aerosols.149
 
 This conceptual framework can explain rare occurrences of airborne transmission of agents that are transmitted most frequently by other routes (eg, smallpox, SARS, influenza, noroviruses). Concerns about unknown or possible routes of transmission of agents associated with severe disease and no known treatment often result in the adoption of overextreme prevention strategies, and recommended precautions may change as the epidemiology of an emerging infection becomes more well defined and controversial issues are resolved.
-
-
 
 
 1.1.1.6.17.	2008 - Seasonal influenza in the United States, France, and Australia: transmission and prospects for control
@@ -982,11 +975,6 @@ https://www.journalofinfection.com/article/S0163-4453(10)00347-6/abstract
 
 REVIEW| VOLUME 62, ISSUE 1, P1-13, JANUARY 01, 2011
 PDF [322 KB]
-Figures
-Save
-Share
-Reprints
-Request
 The role of particle size in aerosolised pathogen transmission: A review
 Jan Gralton
 Euan Tovey
@@ -1045,7 +1033,7 @@ In both processes, the nanoparticles dispersed in the lining fluid are included 
 
 
 1.1.1.7.8.	2015 - W.H. Seto - Airborne transmission and precautions: facts and myths 
-- very anti airborne/mask
+- anti-airborne/mask
 J Hosp Infect. 2015 Apr; 89(4): 225–228. Published online 2014 Dec 13.
 doi: 10.1016/j.jhin.2014.11.005
 PMCID: PMC7132528
@@ -1056,16 +1044,14 @@ https://www.sciencedirect.com/science/article/abs/pii/S0195670114003703
 Julian W. Tang, Peter Wilson, Nandini Shetty, Catherine J. Noakes
 Curr Treat Options Infect Dis. 2015; 7(3): 176–201. Published online 2015 Jul 23. doi: 10.1007/s40506-015-0057-1
 PMCID: PMC7100085
-ArticlePubReaderPDF–1.8MCitation
-Select item 7260576
-17.
+
 
 
 1.1.1.7.10.	2016 - Review of Coronas
 Determining which route is most important is challenging, but it seems that direct contact, indirect contact, droplet and airborne transmission do occur with both SARS-CoV and influenza viruses on occasion.8,68  Few data are available evaluating transmission routes for coronaviruses, but the relative importance of the various routes for influenza virus has been evaluated through mathematical models, animal models, and intervention studies.9,93,94
 
 1.1.1.7.10.1.	footnote 8: Brankston et al. 2007. Transmission of influenza A in human beings 
-- CRAZY REVIEW ARTICLE
+- not reliable
 https://www.sciencedirect.com/science/article/abs/pii/S1473309907700294
 
 Despite 70 years of research since the influenza virus A was discovered,5  there continues to be vocal debate about the modes of influenza transmission, specifically whether influenza is transmitted via the airborne route, via the droplet or contact route, or a combination of these routes. Establishing how influenza is transmitted under different circumstances, and whether transmission requires close contact, is of great importance because the results will have a major influence on the choice of infection control measures in health-care settings.
@@ -1092,45 +1078,12 @@ that influenza could be transmitted between mice physically isolated by a double
 With a more complicated environmental design, Andrewes and Glover18 studied the transmission of an influenza A strain between ferrets. They showed that transmission occurred between source and exposed animals despite being housed in separate open-wiremeshed cages with the exposed animals placed 1 m higher and 1·6 m away from the source animals. They further showed that transmission occurred between source and exposed animals when they were separated by approximately 2·5 m long S-shaped and U-shaped closed ducts, with the direction of airflow from source towards exposed animals.18
 
 
-
-p6
-Only one experimental study supported airborne transmission; however; it was done in ferrets rather than human beings. Andrewes and Glover18 showed that ferrets could become infected with inﬂuenza despite being separated by 2·5 m of ducting, including corners that would require infectious particles to follow the air currents. However, airﬂow was unilaterally directed through the ducts and the direction of airﬂow was from source towards the exposed animal. Although it is diﬃcult to envision how transmission could have resulted through modes of transmission other than the air, care must be taken not to directly extrapolate animal-to-animal transmission models to human beings. Clearly, artiﬁcially aerosolised virus can infect human beings; however, we are unable to come to any conclusion about the plausibility and frequency of airborne transmission in the natural disease state from these studies, beyond stating that these studies do not rule it out. The
-wow convoluted
-
-My faves:
-"They're ferrets, not humans." 
-"The fan blew from source to recipient."
-"It's difficult to envision they didn't catch it thru air, but we must not extrapolate from ferret to human"
-"We know ppl can catch flu when aerosolized, but this study doesn't tell us how often."
-
-
-footnote 20
-Schulman JL, Kilbourne ED. Airborne transmission of influenza virus infection in mice. Nature 1962; 195: 1129–30.
-
-21 Schulman JL, Kilbourne ED. Experimental transmission of influenza virus infection in mice. II. Some factors affecting the incidence of transmitted infection. J Exp Med 1963; 118: 267–75.
-
-22 Schulman JL, Kilbourne ED. Experimental transmission of influenza virus infection in mice. I. The period of transmissibility. J Exp Med 1963; 118: 257–66.
-
-23 Schulman JL. Experimental transmission of influenza virus infection in mice. IV. Relationship of transmissibility of different strains of virus and recovery of airborne virus in the environment of infector mice. J Exp Med 1967; 125: 479–88
-
-footnote 18 Andrewes CH, Glover RE. Spread of infection from the respiratory tract of the ferret: I. Transmission of influenza A virus. Br J Exp Pathol 1941; 22: 91–97
-
-got elsewhere
-
-1.1.1.7.10.2.	footnote 68
-1.1.1.7.10.3.	footnote 9
-1.1.1.7.10.4.	footnote 93
-1.1.1.7.10.5.	footnote 94
-1.1.1.7.10.6.	x
-
 1.1.1.7.11.	2016 - Mathilde Richard and Ron A.M. Fouchier - Influenza A virus transmission via respiratory aerosols or droplets as it relates to pandemic potential - good
 FEMS Microbiol Rev. 2016 Jan 1; 40(1): 68–85.
 Published online 2015 Sep 17. doi: 10.1093/femsre/fuv039
 PMCID: PMC5006288
 PMID: 26385895
-
 - good summary of ferret and guinea pig comments
-
 
 
 
