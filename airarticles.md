@@ -3,7 +3,7 @@ title: Articles about droplet or airborne spread
 description: Articles about droplet or airborne spread
 ---
 
-# 1.1.1.	Airborne spread database
+# Articles about transmission of viruses in the air
 
 ## 1.1.1.1.	1800
 
