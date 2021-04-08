@@ -1176,6 +1176,24 @@
         "headline": "Transmissibility and transmission of respiratory viruses",
         "text": "\"Respiratory viruses can be transmitted via four major modes of transmission: direct (physical) contact, indirect contact (fomite), (large) droplets and (fine) aerosols. We know little about the relative contribution of each mode to the transmission of a particular virus in different settings, and how its variation affects transmissibility and transmission dynamics. Discussion on the particle size threshold between droplets and aerosols and the importance of aerosol transmission for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and influenza virus is ongoing.\""
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://ncceh.ca/sites/default/files/styles/print_friendly_320px_/public/gettyimages-1262108071-170667a.jpg",
+        "caption": "Multi-Unit Residential Building (MURB)",
+        "link": "https://ncceh.ca/documents/evidence-review/contextualizing-risks-indirect-covid-19-transmission-multi-unit",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 3,
+        "day": 24
+      },
+      "text": {
+        "headline": "Contextualizing the risks of indirect COVID-19 transmission in multi-unit residential buildings",
+        "text": "\"This document is intended to help public health practitioners: 1) improve their understanding of how building systems may (or may not) contribute to transmission of SARS-CoV-2; 2) learn about the environmental or other analyses to complement a thorough epidemiological investigation if indirect transmission is suspected; and 3) communicate effectively about the relative risks of indirect transmission in a MURB setting. See also <a href='https://twitter.com/DavidElfstrom/status/1379814589395795975'> post (@DavidElfstrom)</a>\""
+      }
     }
   ]
 }
