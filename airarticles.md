@@ -5,13 +5,17 @@ description: Articles about droplet or airborne spread
 
 # Articles about transmission of viruses in the air
 
-[Send any additions to @jonathanmc or @paul-hammant or just make a github account, fork this, and do a merge request back into this file]
+[Send any additions to @jonathanmc or @paul-hammant, or fork this and make a merge request]
 
-## 1.1.1.1.	1800
+## 1700
 
-1.1.1.1.1.	1856 - about healthy air
+Pringle 1750
+
+## 1800
+
+1.1.1.1.1.	1856 - 
 J Public Health Sanit Rev
-. 1856 Oct;2(7):193-218.
+1856 Oct;2(7):193-218.
 Air and Ventilation
 No authors listed
 PMID: 30378905 PMCID: PMC6004175
@@ -21,38 +25,38 @@ Free PMC article
 
 1.1.1.1.3.	1899 Flugge, C. (1899). Z. Hyg. 30, 107
 
-## 1.1.1.2.	1900
+## 1900
 
 1.1.1.2.1.	1901 Hutchison, R. F. (1901). Z. Hyg. 36, 223.
 
 3.1.1.2.2.	1904 Gordon, M. H. (1904). Rep. Med. Offr Loc. Govt Bd, 1902–1903, 32, 421. London.
 
-4.1.1.2.3.	x 1910 Winslow, C. E. A. & Robinson, E. A. (1910). J. Infect. Dis. 7, 17 
+4.1.1.2.3.	1910 Winslow, C. E. A. & Robinson, E. A. (1910). J. Infect. Dis. 7, 17 
 
 5.1.1.2.4.	1916 Chaussé, P. & Magne, H. (1916). Arch. Méd. exp. 27, 213.
 
-6.1.1.2.5.	1922 Strausz, W. (1922). Z. Hyg. 96, 27. - cant find
+6.1.1.2.5.	1922 Strausz, W. (1922). Z. Hyg. 96, 27.
 
 7.1.1.2.6.	1925 Lange, B. & Keschischian, K. K. (1925). Z. Hyg. 104, 256.
 
-8.1.1.2.7.	1926 Strausz, W. (1926). Z. Hyg. 105, 416.Google Scholar 
+8.1.1.2.7.	1926 Strausz, W. (1926). Z. Hyg. 105, 416. 
 
-9.1.1.2.8.	1928 Sauter, J. (1928). ForschArb. IngWes. no. 312 (quoted from Castleman, 1931).Google Scholar
+9.1.1.2.8.	1928 Sauter, J. (1928). ForschArb. IngWes. no. 312 (quoted from Castleman, 1931).
 
 10.1.1.2.9.	1931 Castleman, R. A. (1931). Bur. Stand. J. Res. 6, 369.
 
-11.1.1.2.10.	1933 Wells, W. F. (1933). Amer. J. Publ. Hlth. 23, 58.Google Scholar
+11.1.1.2.10.	1933 Wells, W. F. (1933). Amer. J. Publ. Hlth. 23, 58.
 
-12.1.1.2.11.	x1934 Wells
+12.1.1.2.11.	1934 Wells
 
 13.1.1.2.12.	1934 Wells On Droplet
 oxfordjournals.aje.a118097
 
-1.1.1.2.13.	1934 Wells, W. F. (1934). Amer. J. Hyg. 20, 611.Google Scholar
+1.1.1.2.13.	1934 Wells, W. F. (1934). Amer. J. Hyg. 20, 611.
 
-1.1.1.2.14.	1934 Wells, W. F. & Stone, W. R. (1934). Amer. J. Hyg. 20, 619.Google Scholar
+1.1.1.2.14.	1934 Wells, W. F. & Stone, W. R. (1934). Amer. J. Hyg. 20, 619.
 
-1.1.1.2.15.	1935 Wells, W. F. (1935). J. Industr. Hyg. 17, 253.Google Scholar
+1.1.1.2.15.	1935 Wells, W. F. (1935). J. Industr. Hyg. 17, 253.
 
 1.1.1.2.16.	x1936 Wells and Wells - p1699
 jama.1936.02770470016004
@@ -81,9 +85,9 @@ jama.1936.02770480037010
 
 1.1.1.2.27.	1944 Hamburger, M. (1944). J. Infect. Dis. 75, 71
 
-1.1.1.2.28.	1945 Duguid, J. P. (1945). Edinb. Med. J., 52, 385.Google Scholar
+1.1.1.2.28.	1945 Duguid, J. P. (1945). Edinb. Med. J., 52, 385.
 
-1.1.1.2.29.	1945 Mitman, M. (1945). Brit. Med. J. 1, 71.CrossRef | Google Scholar
+1.1.1.2.29.	1945 Mitman, M. (1945). Brit. Med. J. 1, 71.
 
 1.1.1.2.30.	x 1946 Deguid - The size and the duration of air-carriage of respiratory droplets and droplet-nuclei
 J Hyg (Lond). 1946 Sep; 44(6): 471–479.
@@ -116,7 +120,7 @@ http://www.tb-ipcp.co.za/downloads/training/files/buildingDesign_2012/References
 
 
 
-1.1.1.3.	Lidwell articles
+## Lidwell articles from the 1940s-1960s
 
 1.1.1.3.1.	x J Hyg (Lond). 1943 Sep; 43(3): 196–200.
 doi: 10.1017/s002217240001281x
@@ -216,7 +220,7 @@ The bacterial flora of the air of occupied rooms
 R. E. O. Williams, O. M. Lidwell, and Ann Hirch
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2217879/
 x
-- good. kids breath it out 
+- good. kids breathe it out 
 
 
 
@@ -296,9 +300,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1899010/
 x
 
 
-
-
-
 1.1.1.3.13.	x Nasal acquisition of Staphylococcus aureus in a subdivided and mechanically ventilated ward: endemic prevalence of a single staphylococcal strain
 O. M. Lidwell, Sheila Polakoff, J. Davies, J. H. Hewitt, R. A. Shooter, K. A. Walker, H. Gaya, and G. W. Taylor
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2130821/
@@ -306,7 +307,6 @@ x J Hyg (Lond). 1970 Sep; 68(3): 417–433.
 doi: 10.1017/s0022172400042327
 PMCID: PMC2130821
 PMID: 5272345
-
 
 
 1.1.1.3.14.	x Airborne infection in a fully air-conditioned hospital. II. Transport of gaseous and airborne particulate material along ventilated passageways.
@@ -319,7 +319,6 @@ PMID: 1056971
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2130243/
 
 
-
 1.1.1.3.15.	x Airborne infection in a fully air-conditioned hospital. IV. Airborne dispersal of Staphylococcus aureus and its nasal acquisition by patients.
 O. M. Lidwell, B. Brock, R. A. Shooter, E. M. Cooke, and G. E. Thomas
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2130366/
@@ -328,7 +327,6 @@ J Hyg (Lond). 1975 Dec; 75(3): 445–474.
 doi: 10.1017/s0022172400024505
 PMCID: PMC2130366
 PMID: 1059710
-
 
 
 1.1.1.3.16.	x The control by ventilation of airborne bacterial transfer between hospital patients, and its assessment by means of a particle tracer
@@ -362,7 +360,6 @@ PMCID: PMC2130238
 PMID: 1056969
 
 
-
 1.1.1.3.19.	x Airborne infection in a fully air-conditioned hospital. II. Transfer of airborne particles between rooms resulting from the movement of air from one room to another.
 N. Foord and O. M. Lidwell
 x
@@ -391,6 +388,7 @@ Isolating patients in hospital to control infection part II--Who should be isola
 K D Bagshawe, R Blowers, and O M Lidwell
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1607458/
 x
+
 
 1.1.1.3.21.	x The dimensions of skin fragments dispersed into the air during activity.
 C. A. Mackintosh, O. M. Lidwell, A. G. Towers, and R. R. Marples
@@ -425,10 +423,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2249236/
 
 
 
+## 1970s
 
-
-
-1.1.1.4.	1970s
 McKissick, G. E., R. A. Griesemer and R. L. Farrell (1970a), Aerosol transmissi()[l of Rauscher murlne leukemia virus. J. Natl. Cancer Inst. 45:625-636. .,, 
 
 McKissick, G. E., L. G. Wolf, R. L. Farrell, R; _A. ·Griesemer am A. Hellman (1970b). Aerosol transmission of oncogenic viruses. In:. Proc. Third International~ on Aerobiology.. ·I. H. Silver (Ed.), Academic Press, New~ N':Y., p. _233.
@@ -443,19 +439,19 @@ Mitchell, C. A. and L. _F. Guerin (1972) •. Influenza A of human, swine equine
 
 Mitchell, C. A., L. F,Guerin and J.Robillard (1968}. Decay of influenza A viruses of human~ avian origin •. Can_. J. Comp. Med. 32:544-546
 
+
 1.1.1.4.1.	1974 Riley - Airborne infection
 https://www.sciencedirect.com/science/article/abs/pii/0002934374901405
+
 
 1.1.1.4.2.	197x Riley - Indoor airborne infection
 https://www.sciencedirect.com/science/article/pii/0160412082900435
 
+
 1.1.1.5.	1980s
-
-
-
 Ijaz, M. K., s. A. Sattar,. c. M. Johnson-Lussenrurg and v. s. Spri.ngthorpe (1984). Airborne survival of rotaviruses and coronaviruses: implicatioos for disease transmission. In: Virus Diseases of Veterina:¥. I$rtarlce in South-F.ast Asia ancf""""Ene Western Pacific. A. ~ De --Porta "CF".d.), Academic Press,Sydney, Aust. 
-
 Ijaz, M. K., S. A. Sattar, C. M. Johnson-Lussenl:org and V. S. Springthorpe (1985) • Comparison of the airborne survival of calf t rotavirus & poliovirus type 1 (Sabin) aerosolizedas a mixture. Appl. Environ. Microbiol. 49:289-293
+
 
 1.1.1.5.1.	x1985 - Ajaz - thesis 
 - aerosolized HCoV lasts 3 days at 50% RH
@@ -468,97 +464,67 @@ infection identified at a 522-bed community hospital during an 11-year period. F
   Cited by 271 Related articles All 9 versions
 
 
-
-
 1.1.1.5.3.	1993 Willeke, K., and P. A. Baron, eds. 1993. Aerosol Measurement: Principles, Techniques, and Applications. New York: Van Nostrand Reinhold.
 To understand the fate and transfer of aerosolized nanodispersions, it is important to look at the different aerosol sizes and their physical behavior (Willeke and Baron 1993): large "sprayed" droplets, larger than about 10 to 20 mm emitted during sneezing and coughing will sediment rapidly, while smaller aerosols can remain airborne much longer.
 
+
 1.1.1.5.4.	1996 Millar. Kudos for valuable article American Industrial Hygiene Association Journal; Akron Vol. 57,  (Jun 1996): 583. describes the pushback against airborne TB from CDC in the 1990s.
 
-Back in 90s, CDC asked NIOSH to do study of whether respirator better for TB. They did, concluded that respirator needed. CDC then discounted the study.
+NOTE: Back in 90s, CDC asked NIOSH to do study of whether respirator better for TB. They did, concluded that respirator needed. CDC then discounted the study.
 
 https://search.proquest.com/docview/236324466?pq-origsite=gscholar&fromopenview=true
 
 1. Nicas, Mark: Refining a risk model for occupational tuberculosis transmission. Am. Ind. Hyg. Assoc. J. 57:16-22 (1996).
-
-2. Occupational Safety and Health Act of 1970 (Pub. L. 91-596), Section 20(a)(3). 3. "NIOSH Recommended Guidelines for Personal Respiratory Protection of Workers in Health-Care Facilities Potentially Exposed to Tuberculosis." Atlanta, GA: U.S. Department of Health and Human Services, Public Health Service, Centers for Disease Control and Prevention, National Institute for Occupational Safety and Health, September 14, 1992.
-
+2. Occupational Safety and Health Act of 1970 (Pub. L. 91-596), Section 20(a)(3). 
+3. "NIOSH Recommended Guidelines for Personal Respiratory Protection of Workers in Health-Care Facilities Potentially Exposed to Tuberculosis." Atlanta, GA: U.S. Department of Health and Human Services, Public Health Service, Centers for Disease Control and Prevention, National Institute for Occupational Safety and Health, September 14, 1992.
 4. Centers for Disease Control and Prevention (CDC): "Guidelines for Preventing Transmission of Mycobacterium tuberculosis in Health Care Facilities, 1994." MMWR 1994. 43(No. RR-13):97-104.
-
 5. Millar, J.D.: Quantitative risk assessment: a tool to be used responsibly. J. Pub. Health Policy 13:5-13 (1992).
 
 
 1.1.1.5.5.	x 1997 Papineni - The size distribution of droplets in the exhaled breath of healthy human subjects
-RAOS PAPINENI, FS ROSENTHAL - Journal of Aerosol Medicine, 1997 - liebertpub.com
-
 PAPINENI, R. S., & ROSENTHAL, F. S. (1997). The Size Distribution of Droplets in the Exhaled Breath of Healthy Human Subjects. Journal of Aerosol Medicine, 10(2), 105–116. doi:10.1089/jam.1997.10.105 
 
-Droplets carried in exhaled breath may carry microorganisms capable of transmitting
-disease over both short and long distances. The size distribution of such droplets will
-influence the type of organisms that may be carried as well as strategies for controlling …
+Droplets carried in exhaled breath may carry microorganisms capable of transmitting disease over both short and long distances. The size distribution of such droplets will influence the type of organisms that may be carried as well as strategies for controlling …
   Cited by 411 Related articles All 7 versions
 
  
 
 
 
-## 1.1.1.6.	2000
+## 2000
 
 1.1.1.6.1.	2000 Survival of mycobacteria in aerosols
 - Did not survive
 
 1.1.1.6.2.	2000 Goldmann 
 - Summary of a bunch of studies trying to figure out whether viruses transmit by touch or through the air. Comments on RSV (touch?), rhinovirus (including the studies I just posted) (mixed?), and influenza (air?).
-- posted
+
 
 Flu comments in pic 2.
 
 REFERENCES
-
 1. Wells WF. Airborne contagion and air hygiene. Boston: Harvard University Press, 1955.
-
 2. Hall CB, Douglas RG. Modes of transmission of respiratory syncytial virus. J Pediatr 1981;99:100–3.
-
 3. Hall CB, Douglas RG Jr, Geiman JM. Respiratory syncytial virus infections in infants: quantitation and duration of shedding. J Pediatr 1976;89:11–15.
-
 4. Hall CB, Douglas RG Jr, Geiman JM. Possible transmission by fomites of respiratory syncytial virus. J Infect Dis 1978; 88:203–5.
-
 5. Hall CB. Nosocomial viral respiratory infections: perennial weeds on pediatric wards. Am J Med 1981;70:670–6.
-
 6. Leclair JM, Freeman J, Sullivan BF, Crowley CM, Goldmann DA. Prevention of nosocomial respiratory virus infections through compliance with glove and gown isolation precautions. N Engl J Med 1987;317:329–34.
-
 7. Platt J, Bucknall RA. The disinfection of respiratory syncytial virus by isopropanol and a chlorhexidine-detergent handwash. J Hosp Infect 1985;6:89–94.
-
 8. Madge P, Paton JY, McColl JH, Mackie PLK. Prospective controlled study of four infection control procedures to prevent nosocomial infection with respiratory syncytial virus.
 Lancet 1992;340:1079–83.
-
 9. Snydman DR, Greer C, Meissner HC, McIntosh K. Prevention of nosocomial transmission of respiratory syncytial virus in a newborn nursery. Infect Control Hosp Epidemiol 1988;9:105–8.
-
 10. Tyrell DAJ. Common colds and related diseases. Baltimore: Williams & Wilkins, 1965.
-
 11. D’Alession DJ, Peterson JA, Dick CR, et al. Transmission of experimental rhinovirus colds in volunteer married couples. J Infect Dis 1976;133:28–36.
-
 12. Hendley JO, Wenzel RP, Gwaltney JM Jr. Transmission of rhinovirus colds by self-inoculation. N Engl J Med 1973;288: 1361–4.
-
 13. Gwaltney JM Jr, Hendley JO. Transmission of experimental rhinovirus infection by contaminated surfaces. Am J Epidemiol 1982;116:828–33.
-
 14. Hendley JO, Wenzel RP, Gwaltney JM Jr. Transmission of rhinovirus colds by self-inoculation. N Engl J Med 1973;288: 1361–4.
-
 15. Hendley JO, Gwaltney JM Jr. Mechanisms of transmission of rhinovirus infections. Epidemiol Rev 1988;10:242–58.
-
 16. Gwaltney JM Jr, Moskalski PB, Hendley JO. Hand-to-hand transmission of rhinovirus colds. Ann Intern Med 1978;88: 463–7.
-
 17. Jennings LC, Dick EC. Transmission and control of rhinovirus colds. Eur J Epidemiol 1987;3:327–35.
-
-18. Dick EC, Jennings LC, Mink KA, et al. Aerosol transmission
-of rhinovirus colds. J Infect Dis 1987;156:442–8.
-
+18. Dick EC, Jennings LC, Mink KA, et al. Aerosol transmission of rhinovirus colds. J Infect Dis 1987;156:442–8.
 19. Andrewes CH, Glover RE. Spread of infection from the respiratory tract of the ferret: I. Transmission of influenza A virus. Br J Exp Pathol 1941;22:91–7.
-
 20. Schulman JL, Kilbourne ED. Airborne transmission of influenza virus infection in mice. Nature 1962;195:1129–30.
-
 21. McLean RL. General discussion. Am Rev Respir Dis 1961;83:36–8.
-
 22. Moser MR, Bender TR, Margolis HS, Noble GR, Kendal AP,Ritter DG. An outbreak of influenza ab
 
 
@@ -577,13 +543,13 @@ records identified building characteristics and IEQ complaints. We rated ventila
   Cited by 353 Related articles All 8 versions
 
 
-
 1.1.1.6.5.	2003 Transmission of influenza: implications for control in health care settings
 RA Weinstein, CB Bridges… - Clinical infectious …, 2003 - academic.oup.com
 Annual influenza epidemics in the United States result in an average of> 36,000 deaths and
 114,000 hospitalizations. Influenza can spread rapidly to patients and health care personnel
 in health care settings after influenza is introduced by visitors, staff, or patients. Influenza …
   Cited by 595 Related articles All 16 versions
+
 
 1.1.1.6.6.	2003 Common cold
 
@@ -605,19 +571,18 @@ transmission for rhinoviruses.35 However, aerosol
 transmission of rhinoviruses has also been clearly
 documented.36
 
+35 Gwaltney JM Jr, Moskalski PB, Hendley JO. Hand-to-hand transmission of rhinovirus colds. Ann Intern Med 1978; 88: 463–67
+36 Dick EC, Jennings LC, Mink KA, Wartgow CD, Inhorn SL. Aerosol transmission of rhinovirus colds. J Infect Dis 1987; 156: 442–48.
 
-35
-Gwaltney JM Jr, Moskalski PB, Hendley JO. Hand-to-hand
-transmission of rhinovirus colds. Ann Intern Med 1978; 88: 463–67
 
-36
-Dick EC, Jennings LC, Mink KA, Wartgow CD, Inhorn SL. Aerosol
-transmission of rhinovirus colds. J Infect Dis 1987; 156: 442–48.
+2004 - Yu, I.T., Li, Y., Wong, T.W., Tam, W., Chan, A.T., Lee, J.H., Leung, D.Y. and Ho, T., 2004, Evidence of airborne transmission of the severe acute respiratory syndrome virus. 
+N Engl J Med.,350:1731-1739.
 
-1.1.1.6.7.	2004 - SARS
-I. T. Yu, Y. Li, T. W. Wong, W. Tam, A. T. Chan, J. H. Lee, D. Y. Leung, and T. Ho, Evidence of airborne transmission of the severe acute respiratory syndrome virus, N. Engl. J. Med. 350, 1731-1739 (2004).
 
-1.1.1.6.8.	x 2005 - Nicas M, Nazaroff WW, Hubbard A (2005) Towards understanding the risk of secondary airborne infection: emission of respirable pathogens. Journal of Occupational and Environmental Hygiene 2: 143–154.
+2004 Yassi, A. and Bryce, E. (2004) Protecting the Faces of Health Care Workers: Knowledge Gaps and Research Priorities for Effective Protection Against Occupationally‐Acquired Respiratory Infectious Diseases, Project report from the Occupational Health and Safety Agency for Healthcare in BC, Ontario, Canada, The Change Foundation. Available at: http://www.changefoundation.ca/tcf/tcfbul.nsf/dea2e13875b9d7cb052565e4007faaa0/787d44cc13a1825c85256ea900452a6f/file/protecting20the20face20of20health20care20workers20april202004.pdf (last accessed February 1, 2006).
+
+
+2005 - Nicas M, Nazaroff WW, Hubbard A (2005) Towards understanding the risk of secondary airborne infection: emission of respirable pathogens. Journal of Occupational and Environmental Hygiene 2: 143–154.
 
 1.1.1.6.9.	x2006 - Tang et al Factors involved in the aerosol transmission of infection and control of ventilation in healthcare premises
 - viable SARS in air
@@ -671,20 +636,21 @@ the tuberculosis epidemic. However, children contribute a significant proportion
 
 
 
-1.1.1.6.14.	2007 - Xie - How far droplets can move in indoor environments--revisiting the Wells evaporation-falling curve.
+1.1.1.6.14.	2007 - Xie and Seto - How far droplets can move in indoor environments--revisiting the Wells evaporation-falling curve.
 X Xie, Y Li, AT Chwang, PL Ho, WH Seto 
 Indoor air, 2007 - europepmc.org
 https://pubmed.ncbi.nlm.nih.gov/17542834/
-
 Seto: Department of Microbiology, Queen Mary Hospital, Hong Kong, China
 
+- mis-quotes Wells (1934) as saying droplets fall to ground 2m away
 
+"In his now classical study of airborne transmission, Wells (1934) studied the evaporation of falling droplets using a simple calculation method and obtained a classical curve that revealed the relationship between droplet size, evaporation, and falling rate [see Figure 1, reproduced from Wells (1934)]. From this curve, Wells was able to first identify the difference between disease transmission via large droplets and by airborne routes. This curve is referred to as the Wells evaporation–falling curve of droplets in this article. Wells found that under normal air conditions, droplets smaller than 100 μm in diameter would totally dry out before falling to the ground 2 m away, i.e., the average human height. This finding allowed the establishment of the theory of droplets and droplet nuclei transmission depending on the size of the infected droplet. According to Wells (1934), droplet infection is transmitted by droplets larger than 100 μm in diameter, which rapidly settle out of the air by gravity, with the infective range being within a short distance of the source. Airborne infection applies to dried‐out infectious droplet nuclei derived directly from droplets less than 100 μm, which remain suspended in the air for a long time and could be carried over long distances by the air current. The Wells evaporation–falling curve of droplets is very important in understanding airborne transmission and transmission by large droplets. Wells’ study also demonstrated that ‘droplets’ could transform into ‘droplet nuclei’ by evaporation. The concepts of large droplet transmission and airborne transmission have been extended and investigated over the last 70 years (Fennelly et al., 2004; O'Grady and Riley, 1963; Riley, 1974; Riley and O'Grady, 1961; Riley et al., 1962; Wells, 1955; Yassi and Bryce, 2004). However, the Wells evaporation–falling curve of droplets has probably been overlooked in the literature."
 
-UNLABELLED: A large number of infectious diseases are believed to be transmitted
-between people via large droplets and by airborne routes. An understanding of evaporation
+UNLABELLED: A large number of infectious diseases are believed to be transmitted between people via large droplets and by airborne routes. An understanding of evaporation
 and dispersion of droplets and droplet nuclei is not only significant for developing effective …
   Cited by 291 Related articles All 8 versions 
-[HTML] sciencedirect.com
+
+
 
 
 other
@@ -773,10 +739,6 @@ CHILD NURSERY DAY CARE CENTER BACTERIOSIS VIRAL DISEASE RESPIRATORY
 SYSTEM EPIDEMIOLOGY RESPIRATORY DISEASE INFECTION ENT DISEASE HUMAN …
   Cited by 102 Related articles All 2 versions
 
-GOT MOST OF ABOVE
-
-
-
 
 
 
@@ -831,8 +793,6 @@ airborne viruses, we optimized molecular biology methods to quantify influenza v
 
 
 
-
-
 Viruses and indoor air pollution.
 RB Couch - Bulletin of the New York Academy of Medicine, 1981 - ncbi.nlm.nih.gov
 T he natural occurrence of air pollution by microorganisms andof human disease from
@@ -861,8 +821,6 @@ In November 1990, a screening was conducted to determine the point prevalence of
 tuberculosis infection in a volunteer sample of homeless men (n= 161) living in a congregate
 shelter in New York City. Of those for whom we have results (n= 134), 79% were positive for …
   Cited by 31 Related articles All 16 versions
-[HTML] google.com
-
 
 
 
@@ -874,21 +832,12 @@ policies. They should be helpful in making a decision about the precautionary me
   Cited by 27 Related articles
 
 
-
-
 An evaluation of portable high-efficiency particulate air filtration for expedient patient isolation in epidemic and emergency response
 K Mead, DL Johnson - Annals of emergency medicine, 2004 - Elsevier
 Extraordinary incidents resulting in airborne infectious disease outbreaks could produce
 patient isolation requirements that exceed most hospitals' capacity. This article investigates
 expedient methods to establish airborne infection isolation areas using a commercially …
   Cited by 27 Related articles All 8 versions
-
-
-
-HAVE MOST OF ABOVE
-
-
-
 
 
 
@@ -935,19 +884,37 @@ Richard A. Hobday, PhDcorresponding author and John W. Cason, PhD
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4504358/
 
+
 1.1.1.6.19.	2009 - Tellier. Aerosol transmission of influenza A virus: a review of new studies. Review J R Soc Interface
 . 2009 Dec 6;6 Suppl 6(Suppl 6):S783-90. doi: 10.1098/rsif.2009.0302.focus. Epub 2009 Sep 22.
 Raymond Tellier 1
 PMID: 19773292 PMCID: PMC2843947  DOI: 10.1098/rsif.2009.0302.focus 
-
 https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19773292/
-
 
 
 1.1.1.6.20.	2009 - Tang
 
 
 
+
+1.1.1.6.23.	2009 - Johnson GR  and Morawska L. 2009. “The Mechanism of Breath Aerosol Formation.” Journal of Aerosol Medicine and Pulmonary Drug Delivery 22 (3): 229–237. doi:10.1089/jamp.2008.0720.
+https://pubmed.ncbi.nlm.nih.gov/19415984/
+
+
+1.1.1.6.24.	2009. Noakes and Sleigh - Mathematical models for assessing the role of airflow on the risk of airborne infection in hospital wards
+Catherine J. Noakes, P. Andrew Sleigh
+J R Soc Interface. 2009 Dec 6; 6(Suppl 6): S791–S800. Published online 2009 Oct 7. doi: 10.1098/rsif.2009.0305.focus
+PMCID: PMC2843948
+
+
+1.1.1.6.25.	x2009 - Jones. Characterizing the Risk of Infection from Mycobacterium tuberculosis in Commercial Passenger Aircraft Using Quantitative Microbial Risk Assessment
+Rachael M. Jones  Yoshifumi Masago  Timothy Bartrand  Charles N. Haas  Mark Nicas  Joan B. Rose
+First published: 13 February 2009 
+https://doi.org/10.1111/j.1539-6924.2008.01161.xCitations: 24
+
+
+
+## 2010
 
 1.1.1.6.21.	2010 - Tuberculosis contact investigation in low prevalence countries: a European consensus
 CGM Erkens, M Kamphorst, I Abubakar, GH Bothamley… - 2010 - Eur Respiratory Soc
@@ -957,31 +924,6 @@ tuberculosis incidence countries. This document provides evidence-based and best
   Cited by 273 Related articles All 18 versions
 
 
-
-1.1.1.6.22.	2004 - Yu, I.T., Li, Y., Wong, T.W., Tam, W., Chan, A.T., Lee, J.H., Leung, D.Y. and Ho, T., 2004, Evidence of airborne transmission of the severe acute respiratory syndrome virus. N Engl J Med.,350:1731-1739.
-
-
-
-1.1.1.6.23.	2009 - Johnson GR  and Morawska L. 2009. “The Mechanism of Breath Aerosol Formation.” Journal of Aerosol Medicine and Pulmonary Drug Delivery 22 (3): 229–237. doi:10.1089/jamp.2008.0720.
-https://pubmed.ncbi.nlm.nih.gov/19415984/
-
-
-
-1.1.1.6.24.	2009. Noakes and Sleigh - Mathematical models for assessing the role of airflow on the risk of airborne infection in hospital wards
-Catherine J. Noakes, P. Andrew Sleigh
-J R Soc Interface. 2009 Dec 6; 6(Suppl 6): S791–S800. Published online 2009 Oct 7. doi: 10.1098/rsif.2009.0305.focus
-PMCID: PMC2843948
-ArticlePubReaderPDF–401KCitation
-
-
-
-1.1.1.6.25.	x2009 - Jones. Characterizing the Risk of Infection from Mycobacterium tuberculosis in Commercial Passenger Aircraft Using Quantitative Microbial Risk Assessment
-Rachael M. Jones  Yoshifumi Masago  Timothy Bartrand  Charles N. Haas  Mark Nicas  Joan B. Rose
-First published: 13 February 2009 https://doi.org/10.1111/j.1539-6924.2008.01161.xCitations: 24
-
-
-
-1.1.1.7.	2010
 1.1.1.7.1.	x2011 - Wang
 
 1.1.1.7.2.	2011 - Redrew
@@ -1015,6 +957,27 @@ To infect a human, these vesicles must reach the target cells to unload the cont
 
 
 
+
+
+1.1.1.7.7.	2014 - Sauvain, J.-J., M. S. S. Hohl, P. Wild, J. A. Pralong, and M. Riediker. 2014. “Exhaled Breath Condensate as a Matrix for Combustion-Based Nanoparticle Exposure and Health Effect Evaluation.” Journal of Aerosol Medicine and Pulmonary Drug Delivery 27 (6): 449–458. doi:10.1089/jamp.2013.1101.
+Humans that have respiratory symptoms typically "spray" (a directional high-speed release process) large droplets of "nanodispersions" (the liquid present in the nose and upper airways) also known as sneezing and coughing. In addition, humans always, whether sick or not, release a cloud of much smaller aerosols during breathing, speaking, talking, singing, chanting loudly or coughing (in increasing order) (Johnson and Morawska 2009; Asadi et al. 2019), which corresponds to a fogging process. This "personal cloud" consist of micro-droplets of lung lining liquid that becomes airborne when the terminal bronchioles re-open during inhalation (Johnson and Morawska 2009). 
+In both processes, the nanoparticles dispersed in the lining fluid are included in the droplets, which is known from studies of nanoparticle exposed individuals (Sauvain et al. 2014). The nanoparticle source strength (how much is released per time unit) corresponds to the cumulative volume of liquid that got airborne.
+
+
+1.1.1.7.8.	2015 - W.H. Seto - Airborne transmission and precautions: facts and myths 
+- anti-airborne/mask
+J Hosp Infect. 2015 Apr; 89(4): 225–228. Published online 2014 Dec 13.
+doi: 10.1016/j.jhin.2014.11.005
+PMCID: PMC7132528
+https://www.sciencedirect.com/science/article/abs/pii/S0195670114003703
+
+
+1.1.1.7.9.	2015 - Aerosol-Transmitted Infections—a New Consideration for Public Health and Infection Control Teams
+Julian W. Tang, Peter Wilson, Nandini Shetty, Catherine J. Noakes
+Curr Treat Options Infect Dis. 2015; 7(3): 176–201. Published online 2015 Jul 23. doi: 10.1007/s40506-015-0057-1
+PMCID: PMC7100085
+
+
 1.1.1.7.6.	2016 - Sattar - Indoor air as a vehicle for human pathogens: Introduction, objectives, and expectation of outcome
 Syed A.SattarMSc, Dip Bact, MS, PhD
 
@@ -1043,28 +1006,6 @@ As shown in Figure 3, particles >10 µm in diameter entering the air may rapid
 A human adult at rest breathes in an average of 11,000 L of air per day.12 In any given setting, one may choose not to drink the water or eat the food that is available but generally has little choice in breathing the same air as everyone else. This makes air an environmental equalizer—conferring on it the unique potential to parse out evenly whatever it may contain. Further, infectious agents entering indoor air mix rapidly with no perceptible color or smell.
 
 Although the potential of air to spread respiratory pathogens is well recognized, its ability to transmit enteric pathogens is not as well appreciated. Airborne particles containing enteric pathogens may be retained in the tonsillar region and swallowed for relocation to the gastrointestinal tract with subsequent replication there.13 Ijaz et al14 have provided a comprehensive list of human pathogens known or suspected to spread via indoor air.
-
-
-
-
-
-1.1.1.7.7.	2014 - Sauvain, J.-J., M. S. S. Hohl, P. Wild, J. A. Pralong, and M. Riediker. 2014. “Exhaled Breath Condensate as a Matrix for Combustion-Based Nanoparticle Exposure and Health Effect Evaluation.” Journal of Aerosol Medicine and Pulmonary Drug Delivery 27 (6): 449–458. doi:10.1089/jamp.2013.1101.
-Humans that have respiratory symptoms typically "spray" (a directional high-speed release process) large droplets of "nanodispersions" (the liquid present in the nose and upper airways) also known as sneezing and coughing. In addition, humans always, whether sick or not, release a cloud of much smaller aerosols during breathing, speaking, talking, singing, chanting loudly or coughing (in increasing order) (Johnson and Morawska 2009; Asadi et al. 2019), which corresponds to a fogging process. This "personal cloud" consist of micro-droplets of lung lining liquid that becomes airborne when the terminal bronchioles re-open during inhalation (Johnson and Morawska 2009). 
-In both processes, the nanoparticles dispersed in the lining fluid are included in the droplets, which is known from studies of nanoparticle exposed individuals (Sauvain et al. 2014). The nanoparticle source strength (how much is released per time unit) corresponds to the cumulative volume of liquid that got airborne.
-
-
-1.1.1.7.8.	2015 - W.H. Seto - Airborne transmission and precautions: facts and myths 
-- anti-airborne/mask
-J Hosp Infect. 2015 Apr; 89(4): 225–228. Published online 2014 Dec 13.
-doi: 10.1016/j.jhin.2014.11.005
-PMCID: PMC7132528
-https://www.sciencedirect.com/science/article/abs/pii/S0195670114003703
-
-
-1.1.1.7.9.	2015 - Aerosol-Transmitted Infections—a New Consideration for Public Health and Infection Control Teams
-Julian W. Tang, Peter Wilson, Nandini Shetty, Catherine J. Noakes
-Curr Treat Options Infect Dis. 2015; 7(3): 176–201. Published online 2015 Jul 23. doi: 10.1007/s40506-015-0057-1
-PMCID: PMC7100085
 
 
 
@@ -1129,15 +1070,22 @@ Drivers impacting on pathogen expulsion by the donor
 The high viral load in the upper respiratory tract combined with a strong cough reflex drives efficient host-to-host human transmission of MeV [42].
 
 
-1.1.1.7.14.	2018 - Vejerano, E. P., and L. C. Marr. 2018. “Physico-Chemical Characteristics of Evaporating Respiratory Fluid Droplets.” Journal of the Royal Society Interface 15 (139): 20170939.
+2018 - Vejerano, E. P., and L. C. Marr. 2018. “Physico-Chemical Characteristics of Evaporating Respiratory Fluid Droplets.” Journal of the Royal Society Interface 15 (139): 20170939.
 
 
-1.1.1.7.15.	x 2018 - Sung - Airflow as a possible transmission route of middle east respiratory syndrome at an initial outbreak hospital in Korea... MERS
+2018 - Sung - Airflow as a possible transmission route of middle east respiratory syndrome at an initial outbreak hospital in Korea... MERS
 by Minki Sung 1OrcID,Seongmin Jo 1,Sang-Eun Lee 2,Moran Ki 3OrcID,Bo Youl Choi 4 andJinKwan Hong 5,*OrcID
-
 https://www.mdpi.com/1660-4601/15/12/2757
 
-1.1.1.7.16.	2019 - Tellier et al. - Recognition of aerosol transmission of infectious agents: a commentary
+
+2018-02 Vejerano and Marr - Physico-chemical characteristics of evaporating respiratory fluid droplets
+Eric P. Vejerano and Linsey C. Marr
+Published:28 February 2018
+https://doi.org/10.1098/rsif.2017.0939
+doi:10.1098/rsif.2017.0939
+
+
+2019 - Tellier et al. - Recognition of aerosol transmission of infectious agents: a commentary
 Raymond Tellier1, Yuguo Li2, Benjamin J. Cowling3 and Julian W. Tang4,5*
 
 https://bmcinfectdis.biomedcentral.com/track/pdf/10.1186/s12879-019-3707-y
@@ -1154,27 +1102,23 @@ Furthermore, infected, symptomatic patients tend to develop severe LRT infection
 Both of these aspects indicate that this is an airborne agent that has to penetrate directly into the LRT to preferentially replicate there before causing disease.
 For MERS-CoV specifically, a recent study demonstrated the absence of expression of dipeptidyl peptidase 4 (DPP4), the identified receptor used by the virus, in the cells of the human URT. The search for an alternate receptor was negative [53]. Thus, the human URT would seem little or non-permissive for MERS-CoV replication, indicating that successful infection can only result from the penetration into the LRT via direct inhalation of appropriately sized ‘droplet nuclei’-like’ particles. This makes any MERS-CoV transmission leading to MERS disease conditional on the presence of virus-containing droplets small enough to be inhaled into the LRT where the virus can replicate.
 
-1.1.1.7.17.	2019 - Asadi, S., A. S. Wexler, C. D. Cappa, S. Barreda, N. M. Bouvier, and W. D. Ristenpart. 2019. “Aerosol Emission and Superemission during Human Speech Increase with Voice
+
+2019 - Asadi, S., A. S. Wexler, C. D. Cappa, S. Barreda, N. M. Bouvier, and W. D. Ristenpart. 2019. “Aerosol Emission and Superemission during Human Speech Increase with Voice
 Loudness.” Scientific Reports 9 (1): 2348. doi:10.1038/s41598-019-38808-z.
 Humans that have respiratory symptoms typically "spray" (a directional high-speed release process) large droplets of "nanodispersions" (the liquid present in the nose and upper airways) also known as sneezing and coughing. In addition, humans always, whether sick or not, release a cloud of much smaller aerosols during breathing, speaking, talking, singing, chanting loudly or coughing (in increasing order) (Johnson and Morawska 2009; Asadi et al. 2019), which corresponds to a fogging process. This "personal cloud" consist of micro-droplets of lung lining liquid that becomes airborne when the terminal bronchioles re-open during inhalation (Johnson and Morawska 2009). 
 
 
 
-1.1.1.8.	
-
-3.1.1.9.	x 2018-02 Vejerano and Marr - Physico-chemical characteristics of evaporating respiratory fluid droplets
-Eric P. Vejerano and Linsey C. Marr
-Published:28 February 2018
-https://doi.org/10.1098/rsif.2017.0939
-doi:10.1098/rsif.2017.0939
 
 
-## 1.1.1.10.	--- 2020 ---
+## 2020
 
-1.1.1.11.	x 2020 Seminara et al - Biological fluid
+
+#### 2020 Seminara et al - Biological fluid
 https://link.springer.com/article/10.1007/s12210-020-00938-2
 
-1.1.1.12.	2020 WHO SUMMARY - detection of SARS2 RNA in air (from WHO IPC course module 2)
+
+#### 2020 WHO SUMMARY - detection of SARS2 RNA in air (from WHO IPC course module 2)
 
 Detection of COVID-19 RNA in air samples
 
@@ -1199,16 +1143,14 @@ Leung et al. Nature Med 2020
 • The detection of RNA in air samples based on PCR-based assays is not indicative of viable virus that could be transmissible (Wölfel R, Nature 2020)
 
 
-1.1.1.13.	2020
-
-1.1.1.14.	x 2020-03 Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient
+#### 2020-03 Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient
 - air contamination
 - surface contamination
 Sean Wei Xiang Ong, MBBS1; Yian Kim Tan, PhD2; Po Ying Chia, MBBS1; et al
 https://jamanetwork.com/journals/jama/fullarticle/2762692
 
 
-1.1.1.15.	x 2020-03 Dietz. 2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission
+#### 2020-03 Dietz. 2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission
 mSystems. 2020 Mar-Apr; 5(2): e00245-20.
 Published online 2020 Apr 7. doi: 10.1128/mSystems.00245-20
 PMCID: PMC7141890
@@ -1237,16 +1179,15 @@ https://www.medrxiv.org/content/10.1101/2020.03.23.20039446v2
 Recent literature investigating human expired aerosol indicates that a significant fraction of human expired aerosol is less than 10 μm in diameter across all types of activity (e.g. breathing, talking, and coughing; 18) and that upper respiratory illness increases production of aerosol particles (less than 10 μm; 19). Taken together these results suggest that virus expelled from infected individuals, including from those who are only mildly ill, may be transported by aerosol processes in their local 40 environment, potentially even in the absence of cough or aerosol generating procedures. Further, a recent study of SARS-CoV-2 in aerosol and deposited on surfaces, indicates infectious aerosol may persist for several hours and on surfaces for as long as 2 days (20).
 
 
-1.1.1.17.	x2020-03 Bourouiba. Turbulent Gas Clouds and Respiratory Pathogen Emissions.  JAMA article
+#### 2020-03 Bourouiba. Turbulent Gas Clouds and Respiratory Pathogen Emissions.  JAMA article
 March 26, 2020
 Turbulent Gas Clouds and Respiratory Pathogen Emissions
 Potential Implications for Reducing Transmission of COVID-19
-Lydia Bourouiba, PhD1
-
+Lydia Bourouiba, PhD
 https://jamanetwork.com/journals/jama/fullarticle/2763852
 
 
-1.1.1.18.	x2020-04 Dong-Guo et al - Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020 (CDC Journal Volume 26, Number 7—July 2020
+#### 2020-04 Dong-Guo et al - Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020 (CDC Journal Volume 26, Number 7—July 2020
 - found RNA in air. May spread airborne up to 4m.
 Zhen-Dong Guo1, Zhong-Yi Wang1, Shou-Feng Zhang1, Xiao Li, Lin Li, Chao Li, Yan Cui, Rui-Bin Fu, Yun-Zhu Dong, Xiang-Yang Chi, Meng-Yao Zhang, Kun Liu, Cheng Cao, Bin Liu, Ke Zhang, Yu-Wei Gao, Bing Lu, and Wei Chen
 
@@ -1319,11 +1260,10 @@ doi: https://doi.org/10.1101/2020.06.20.137687
 dose response of influenza?
 https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008704
 
- 
-
 
 1.1.1.28.	2020-09 Summary of aerosol literature
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293495/
+
 
 1.1.1.29.	2020 Gorbalenya et al. 2020. “The Species Severe Acute Respiratory Syndrome-related Coronavirus: Classifying 2019-nCoV and Naming it SARSCoV-2.” Nature Microbiology 5 (4): 536–544. doi:10.1038/ s41564-020-0695-z.
 The coronavirus disease 2019 (COVID-19), which emerged in Hubei Province, China is caused by the severe acute respiratory syndrome virus (SARS-CoV2) (Gorbalenya et al. 2020).
@@ -1332,7 +1272,9 @@ The coronavirus disease 2019 (COVID-19), which emerged in Hubei Province, China 
 1.1.1.30.	2020 Chen et al. 2020. Containing COVID-19 among 627,386 Persons in Contact with the Diamond Princess Cruise Ship Passengers Who Disembarked in Taiwan: Big Data Analytics. Journal of Medical Internet Research 22 (5): e19540. doi:10.2196/19540.
 - no major spreading after disembarkation of 3000 infecteds
 
+
 1.1.1.31.	2020 - Chu et al. 2020. “Physical Distancing, Face Masks, and Eye Protection to Prevent Person-to-Person Transmission of SARS-CoV-2 and COVID-19: A Systematic Review and Meta-Analysis.” The Lancet. doi:10.1016/S0140-6736(20)31142-9.
+
 
 1.1.1.32.	x 2020 - Hamner et al. 2020. “High SARS-CoV-2 Attack Rate following Exposure at a Choir Practice – Skagit County, Washington, March 2020.” Morbidity and Mortality Weekly Report 69 (19): 606–610. doi:10.15585/mmwr.mm6919e6. 
 - superspreading event at choir practice
@@ -1366,35 +1308,10 @@ Once a microdroplet has become airborne, it will disperse in the air. How many o
 [note, Vejerano did not say it would passivate the virus]
 
 
-
-1.1.1.39.	2020-06 - Jayaweera et al. Transmission of COVID-19 virus by droplets and aerosols: A critical review on the unresolved dichotomy.
-Jayaweera M, Perera H, Gunawardana B, Manatunge J.
-Environ Res. 2020 Jun 13;188:109819. doi: 10.1016/j.envres.2020.109819. Online ahead of print.
-PMID: 32569870 Free PMC article. Review.
-The practice of social distancing and wearing masks has been popular worldwide in combating the contraction of COVID-19. Undeniably, although such practices help control the COVID-19 pandemic to a greater extent, the complete control of virus-laden dro …
-
-
-1.1.1.40.	x 2020-11 Lednicky - Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients
-- viable SARS-CoV-2 in air
-https://www.sciencedirect.com/science/article/pii/S1201971220307396
-https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext
-
-- live virus sampled out of air (viable virus / live virus)
-- sequenced to sick person
-
-
-Highlights
-•
-Viable (infectious) SARS-CoV-2 was present in aerosols within the hospital room of COVID-19 patients.
-•
-Airborne virus was detected in the absence of healthcare aerosol-generating procedures.
-•
-The virus strain detected in the aerosols matched with the virus strain isolated from a patient with acute COVID-19.
-
-
 1.1.1.41.	x 2020-03 The coronavirus pandemic and aerosols: Does COVID-19 transmit via expiratory particles?
 - aerosol science
 Sima Asadi,Nicole Bouvier,Anthony S. Wexler &William D. Ristenpart
+
 
 1.1.1.42.	x 2020-03 What aerosol physics tells us about airborne pathogen transmission
 - aerosol science
@@ -1402,16 +1319,19 @@ Yannis DrossinosORCID Icon &Nikolaos I. Stilianakis
 Pages 639-643 | Received 31 Mar 2020, Accepted 31 Mar 2020, Published online: 13 Apr 2020
 https://www.tandfonline.com/doi/full/10.1080/02786826.2020.1751055
 
+
 1.1.1.43.	x SARS-CoV-2 infection among healthcare workers despite the use of surgical masks and physical distancing - the role of airborne transmission 
 - airborne
 Lotem Goldberg, Yoel Levinsky, Nufar marcus, Vered Hoffer, Michal Gafner, Shai Hadas, Sraya Kraus, Meirav Mor, Oded Scheuerman
 Open Forum Infectious Diseases, ofab036, 
 https://doi.org/10.1093/ofid/ofab036
 
+
 1.1.1.44.	x 2020 Reducing aerosol transmission of SARS‐CoV‐2 in hospital elevators
 Cees van Rijn  G. Aernout Somsen  Leonard Hofstra  Ghassan Dahhan  Reinout A. Bem  Stefan Kooij  Daniel Bonn
 First published: 23 September 2020 https://doi.org/10.1111/ina.12744
 https://onlinelibrary.wiley.com/doi/10.1111/ina.12744
+
 
 1.1.1.45.	x 2020 Asadi - Aerosol emission and superemission during human speech increase with voice loudness
 - superspreaders
@@ -1444,11 +1364,13 @@ into consideration for preventive measures.
 1.1.1.47.	x 2020-04 Morawska and Cao. Airborne transmission of SARS-CoV-2: The world should face the reality
 https://pubmed.ncbi.nlm.nih.gov/32294574/
 
+
 1.1.1.48.	x 2020-05 COVID-19 vulnerability: the potential impact of genetic susceptibility and airborne transmission
 Krystal J Godri Pollitt 1, Jordan Peccia 2, Albert I Ko 3, Naftali Kaminski 4, Charles S Dela Cruz 4, Daniel W Nebert 5, Juergen K V Reichardt 6, David C Thompson 7, Vasilis Vasiliou 8
 Review Hum Genomics
 . 2020 May 12;14(1):17. 
 doi: 10.1186/s40246-020-00267-3
+
 
 1.1.1.49.	x 2020-06 - Morawska and Milton.
 https://pubmed.ncbi.nlm.nih.gov/32628269/
@@ -1459,7 +1381,15 @@ https://pubmed.ncbi.nlm.nih.gov/32780799/
 3. Further response is 
 https://pubmed.ncbi.nlm.nih.gov/32780091/
 
-1.1.1.50.	x 2020-07 Ferrets
+
+#### 2020-06 - Jayaweera et al. Transmission of COVID-19 virus by droplets and aerosols: A critical review on the unresolved dichotomy.
+Jayaweera M, Perera H, Gunawardana B, Manatunge J.
+Environ Res. 2020 Jun 13;188:109819. doi: 10.1016/j.envres.2020.109819. Online ahead of print.
+PMID: 32569870 Free PMC article. Review.
+The practice of social distancing and wearing masks has been popular worldwide in combating the contraction of COVID-19. Undeniably, although such practices help control the COVID-19 pandemic to a greater extent, the complete control of virus-laden dro …
+
+
+#### 2020-07 Ferrets
 SARS-CoV-2 is transmitted via contact and via the air between ferrets
 Mathilde Richard, Adinda Kok, Dennis de Meulder, Theo M. Bestebroer, Mart M. Lamers, Nisreen M. A. Okba, Martje Fentener van Vlissingen, Barry Rockx, Bart L. Haagmans, Marion P. G. Koopmans, Ron A. M. Fouchier & Sander Herfst
 
@@ -1469,8 +1399,7 @@ https://www.nature.com/articles/s41467-020-17367-2
 
 
  
-
-1.1.1.51.	x 2020-08 Yao - On airborne transmission and control of SARS-CoV-2
+#### 2020-08 Yao - On airborne transmission and control of SARS-CoV-2
 On airborne transmission and control of SARS-Cov-2
 Maosheng Yao 1, Lu Zhang 2, Jianxin Ma 3, Lian Zhou 4
 Sci Total Environ
@@ -1478,7 +1407,8 @@ Sci Total Environ
 doi: 10.1016/j.scitotenv.2020.139178
 . Epub 2020 May 4.
 
-1.1.1.52.	x 2020-08 Lewis - Mounting evidence suggests COVID is airborne but health advice has not caught up (Nature article)
+
+#### 2020-08 Lewis - Mounting evidence suggests COVID is airborne but health advice has not caught up (Nature article)
 https://pubmed.ncbi.nlm.nih.gov/32647382/
 
 1.1.1.53.	x 2020 Possible Aerosol Transmission of COVID-19 Associated with an Outbreak in an Apartment in Seoul, South Korea, 2020 - through air vents only infecting the columns connected by vents
@@ -1490,7 +1420,8 @@ Open AccessPublished:December 16, 2020DOI:https://doi.org/10.1016/j.ijid.2020.12
 
 https://www.ijidonline.com/article/S1201-9712(20)32558-3/fulltext
 
-1.1.1.54.	x 2020-10 online, 2021-02 in J Zhou et al - Breath-, air- and surface-borne SARS-CoV-2 in hospitals
+
+#### 2020-10 online, 2021-02 in J Zhou et al - Breath-, air- and surface-borne SARS-CoV-2 in hospitals
 Lian Zhou,a,1 Maosheng Yao,b,1,∗ Xiang Zhang,c Bicheng Hu,d Xinyue Li,b Haoxuan Chen,b Lu Zhang,b Yun Liu,c Meng Du,e Bochao Sun,f Yunyu Jiang,g Kai Zhou,h Jie Hong,a Na Yu,i Zhen Ding,a Yan Xu,a Min Hu,b Lidia Morawska,j Sergey A. Grinshpun,k Pratim Biswas,l Richard C. Flagan,m Baoli Zhu,a,n,∗∗ Wenqing Liu,o,∗∗∗ and Yuanhang Zhangb,∗∗∗∗
 J Aerosol Sci. 2021 Feb; 152: 105693.
 Published online 2020 Oct 15. doi: 10.1016/j.jaerosci.2020.105693
@@ -1498,34 +1429,45 @@ PMCID: PMC7557302
 PMID: 33078030
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7557302/
 
+1.1.1.40.	x 2020-11 Lednicky - Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients
+- viable SARS-CoV-2 in air
+https://www.sciencedirect.com/science/article/pii/S1201971220307396
+https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext
+
+- live virus sampled out of air (viable virus / live virus)
+- sequenced to sick person
+
+
+Highlights
+•
+Viable (infectious) SARS-CoV-2 was present in aerosols within the hospital room of COVID-19 patients.
+•
+Airborne virus was detected in the absence of healthcare aerosol-generating procedures.
+•
+The virus strain detected in the aerosols matched with the virus strain isolated from a patient with acute COVID-19.
+
+
 1.1.1.55.	x 2020 Das et al - Transmission of airborne virus through sneezed and coughed droplets
 https://aip.scitation.org/doi/10.1063/5.0022859?af=R&feed=most-recent&
 
 ABSTRACT
 The spread of COVID19 through droplets ejected by infected individuals during sneezing and coughing has been considered a matter of key concern. Therefore, a quantitative understanding of the propagation of droplets containing the virus assumes immense importance. Here, we investigate the evolution of droplets in space and time under varying external conditions of temperature, humidity, and wind flow by using laws of statistical and fluid mechanics. The effects of drag, diffusion, and gravity on droplets of different sizes and ejection velocities have been considered during their motion in air. In still air, we found that bigger droplets traverse a larger distance, but smaller droplets remain suspended in air for a longer time. Therefore, in still air, the horizontal distance that a healthy individual should maintain from an infected one is based on the bigger droplets, but the time interval to be maintained is based on the smaller droplets. We show that in places with wind flow, the lighter droplets travel a larger distance and remain suspended in air for a longer time. Therefore, we conclude that both temporal and geometric distance that a healthy individual should maintain from an infected one is based on the smaller droplets under flowing air, which makes the use of a mask mandatory to prevent the virus. Maintenance of only stationary separation between healthy and infected individuals is not substantiated. The quantitative results obtained here will be useful to devise strategies for preventing the spread of other types of droplets containing microorganisms
 
-1.1.1.56.	x 2021 superspreading
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7685932/
-might be a garbage article
-
-1.1.1.57.	x2021-02 Role of Super-spreader PHENOMENON IN A COVID-19 CLUSTER AMONG HEALTHCARE WORKERS IN A PRIMARY CARE HOSPITAL
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874959/
-
 
 1.1.1.58.	
 
 1.1.1.59.	x SARS-CoV and SARS-CoV-2 are transmitted through the air between ferrets over more than one meter distance
-Jasmin S Kutter, Dennis de Meulder, Theo M Bestebroer, Pascal Lexmond, Ard Mulders, Ron AM Fouchier,  View ORCID ProfileSander Herfst
-
+Jasmin S Kutter, Dennis de Meulder, Theo M Bestebroer, Pascal Lexmond, Ard Mulders, Ron AM Fouchier, Sander Herfst
 doi: https://doi.org/10.1101/2020.10.19.345363
-
 https://www.biorxiv.org/content/10.1101/2020.10.19.345363v1
+
 
 1.1.1.60.	airborne or droplet
 https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiaa189/5820886
 
 Abstract
 Cases of coronavirus disease 2019 (COVID-19) have been reported in more than 200 countries. Thousands of health workers have been infected, and outbreaks have occurred in hospitals, aged care facilities, and prisons. The World Health Organization (WHO) has issued guidelines for contact and droplet precautions for healthcare workers caring for suspected COVID-19 patients, whereas the US Centers for Disease Control and Prevention (CDC) has initially recommended airborne precautions. The 1- to 2-meter (≈3–6 feet) rule of spatial separation is central to droplet precautions and assumes that large droplets do not travel further than 2 meters (≈6 feet). We aimed to review the evidence for horizontal distance traveled by droplets and the guidelines issued by the WHO, CDC, and European Centre for Disease Prevention and Control on respiratory protection for COVID-19. We found that the evidence base for current guidelines is sparse, and the available data do not support the 1- to 2-meter (≈3–6 feet) rule of spatial separation. Of 10 studies on horizontal droplet distance, 8 showed droplets travel more than 2 meters (≈6 feet), in some cases up to 8 meters (≈26 feet). Several studies of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) support aerosol transmission, and 1 study documented virus at a distance of 4 meters (≈13 feet) from the patient. Moreover, evidence suggests that infections cannot neatly be separated into the dichotomy of droplet versus airborne transmission routes. Available studies also show that SARS-CoV-2 can be detected in the air, and remain viable 3 hours after aerosolization. The weight of combined evidence supports airborne precautions for the occupational health and safety of health workers treating patients with COVID-19.
+
 
 1.1.1.61.	x 2020-0x Evidence of short-range aerosol transmission of severe acute respiratory syndrome coronavirus-2 and call for universal airborne precautions
 
@@ -1540,6 +1482,7 @@ Liu Y, Ning Z, Chen Y, et al. Aerodynamic characteristics and RNA concentration 
 Experiments showed artificially aerosolized SARS2 remained in air for 3h
 van Doremalen N, Bushmaker T, Morris DH, et al. Aerosol and surface stability of SARS-CoV-2 as compared with SARS-CoV-1. N Engl J Med. 2020;382:1564–1567
 
+
 1.1.1.62.	x 2020-12 Port - Syrian hamster
 - aerosol worse than fomite
 https://www.biorxiv.org/content/10.1101/2020.12.28.424565v1
@@ -1553,18 +1496,26 @@ https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30323-4/fullt
 
 1.1.1.65.	x The airborne lifetime of small speech droplets and their potential importance in SARS-CoV-2 transmission
 - aerosol
-Valentyn Stadnytskyi,  View ORCID ProfileChristina E. Bax,  View ORCID ProfileAdriaan Bax, and Philip Anfinrud
+Valentyn Stadnytskyi
+Christina E. Bax
+Adriaan Bax
+Philip Anfinrud
 https://www.pnas.org/content/117/22/11875
 
-1.1.1.66.	x 2021 use of portable air cleaners
-https://www.medrxiv.org/content/10.1101/2021.03.29.21254590v1
+## 2021
 
-Use of portable air cleaners to reduce aerosol transmission on a hospital COVID-19 ward
+1.1.1.56.	x 2021 superspreading
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7685932/
+might be a garbage article
+
+1.1.1.57.	x2021-02 Role of Super-spreader PHENOMENON IN A COVID-19 CLUSTER AMONG HEALTHCARE WORKERS IN A PRIMARY CARE HOSPITAL
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874959/
+
+1.1.1.66.	x 2021 Use of portable air cleaners to reduce aerosol transmission on a hospital COVID-19 ward
 Kirsty Lee Buising, Robyn Schofield, Louis Irving, Melita Keywood, Ashley Stevens, Nick Keogh, Grant Skidmore, Imogen Wadlow, Kevin Kevin, Behzad Rismanchi, Amanda Wheeler, Ruhi Humphries, Marion Kainer, Forbes McGain, Jason Monty,  View ORCID ProfileCaroline Marshall
 doi: https://doi.org/10.1101/2021.03.29.21254590
-This article is a preprint and has not been certified by peer review [what does this mean?]. It reports new medical research that has yet to be evaluated and so should not be used to guide clinical practice.
-AbstractInfo/HistoryMetrics Preview PDF
+https://www.medrxiv.org/content/10.1101/2021.03.29.21254590v1
+
 Abstract
 Objective To study the airflow, transmission and clearance of aerosols in the clinical spaces of a hospital ward that had been used to care for patients with COVID-19, and to examine the impact of portable air cleaners on aerosol clearance. Design Observational study Setting A single ward of a tertiary public hospital in Melbourne Australia Intervention Glycerine-based aerosol was used as a surrogate for respiratory aerosols. The transmission of aerosols from a single patient room into corridors and a nurses station in the ward was measured. The rate of clearance of aerosols was measured over time from the patient room, nurses station and ward corridors with and without air cleaners (also called portable HEPA filters). Results Aerosols rapidly travelled from the single patient room into other parts of the ward. Air cleaners were effective in increasing the clearance of aerosols from the air in clinical spaces and reducing their spread to other areas. Conclusion Air cleaners may be useful in clinical spaces to help reduce the risk of healthcare acquired acquisition of respiratory viruses that are transmitted via aerosols.
 
-1.1.1.67.	
