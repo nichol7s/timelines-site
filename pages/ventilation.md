@@ -5,7 +5,9 @@ layout: page
 permalink: /ventilation
 ---
 
-Ventilation is a prevention strategy alondside [quarantine](/quarantine), test and trace, masks, and distance
+See also the [Ventilation Successes timeline](/ventilation-successes).
+
+Ventilation is a prevention strategy alongside [quarantine](/quarantine), test and trace, masks, and distance
 
 # Synopsis
 

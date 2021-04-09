@@ -1,0 +1,33 @@
+{
+  "title": {
+    "media": {
+      "url": "",
+      "caption": "",
+      "credit": ""
+    },
+    "text": {
+      "headline": "Ventilation Successes",
+      "text": "The times in the COVID-19 pandemic when applied ventilation lessons paid off and allowed for some normality. A timeline - swipe right to click the '>' button to begin"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/114159333-97835500-991d-11eb-96ae-59e94af5e30f.png",
+        "caption": "",
+        "link": "https://www.insider.com/how-gym-prevented-outbreak-after-coach-got-covid-19-2020-11",
+          "credit": ""
+      },
+      "start_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 14
+      },
+      "text": {
+        "headline": "US Gym With infected trainer: No outbreak",
+        "text": "\"A gym trainer exposed 50 athletes to COVID-19, but no one got sick — because one member is a ventilation expert who redesigned the room's layout\" - from insider.com aricle. See also <a href='https://twitter.com/linseymarr/status/1314261624044294146'>@linseymarr tweet</a>."
+      }
+    }
+  ]
+}

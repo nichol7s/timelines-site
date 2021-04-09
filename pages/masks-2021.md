@@ -1,6 +1,6 @@
 ---
 title: Better Masks in 2021
-nav: "Better Masks in 2021 (timeline)"
+nav: "Better Masks in 2021 ⟿"
 nav_order: 5
 timeline-json: masks-2021.json
 timeline-options: 

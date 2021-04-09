@@ -1,6 +1,6 @@
 ---
 title: Oops ...
-nav: Oops (timeline)
+nav: Oops ⟿
 nav_order: 7
 timeline-json: oops.json
 timeline-options: 

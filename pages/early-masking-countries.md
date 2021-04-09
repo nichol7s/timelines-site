@@ -1,6 +1,6 @@
 ---
 title: Some countries got their citizens into masks at the start of the pandemic
-nav: "Countries Early Into Masks in 2020 (timeline)"
+nav: "Countries Early Into Masks in 2020 ⟿"
 nav_order: 4
 timeline-json: early-masking-countries.json
 timeline-options: 
