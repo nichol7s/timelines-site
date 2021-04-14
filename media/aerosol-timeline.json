@@ -1212,6 +1212,42 @@
         "headline": "Exhaled CO2 as a COVID-19 Infection Risk Proxy for Different Indoor Environments and Activities",
         "text": "\"Indoor CO2 measurements by low-cost sensors hold promise for mass monitoring of indoor aerosol transmission risk for COVID-19 and other respiratory diseases. We derive analytical expressions of CO2-based risk proxies and apply them to various typical indoor environments.. See also <a href='https://twitter.com/jljcolorado/status/1379940559763214339?s=21'> post (@jljcolorado)</a>\""
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/74545833/114724247-5b7b3600-9d09-11eb-991a-705e8b74a66a.png",
+        "caption": "At home: Using ventilation and filtration to reduce the risk of aerosol transmission of COVID-19",
+        "link": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/guidance-documents/guide-home-ventilation-covid-19-pandemic.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 4,
+        "day": 12
+      },
+      "text": {
+        "headline": "At home: Using ventilation and filtration to reduce the risk of aerosol transmission of COVID-19",
+        "text": "\"Improving indoor air quality is particularly important at this time because Canadians are spending more of their time at home and indoors. The recommendations below will help to improve the overall air quality in the home, as well as help reduce the risk of aerosol transmission of COVID-19 by reducing the number of viruses suspended in the air. This is particularly important when people from outside your immediate household are present.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/74545833/114724574-b2810b00-9d09-11eb-9e46-fc2b5c554bfa.png",
+        "caption": "Using Ventilation and filtration to reduce aerosol transmission of COVID-19 in long-term care homes",
+        "link": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/guidance-documents/guide-ltch-ventilation-covid-19-pandemic.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 4,
+        "day": 12
+      },
+      "text": {
+        "headline": "Using Ventilation and filtration to reduce aerosol transmission of COVID-19 in long-term care homes",
+        "text": "\"In Canada and worldwide, COVID-19 has disproportionately affected residents and staff in long-term care homes (LTCH). Interim guidance on infection prevention and control (IPC) for COVID-19 within LTCHs has been developed to protect LTCH staff and residents. The following guidance on ventilation aims to potentially reduce the risk of COVID-19 transmission within LTCHs and, should be used jointly with the LTCH IPC guidance, not as a replacement.\""
+      }
     }
   ]
 }
