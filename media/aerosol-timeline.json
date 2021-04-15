@@ -1284,6 +1284,24 @@
         "headline": "Study: Nosocomial outbreak of COVID-19 by possible airborne transmission leading to a superspreading event",
         "text": "\"Conclusion: This nosocomial point source superspreading due to possible airborne transmission demonstrated the need for stringent SARS-CoV-2 screening at admission to healthcare facilities and better architectural design of the ventilation system to prevent such outbreaks. Portable high-efficiency particulate filters were installed in each cubicle to improve ventilation before resumption of clinical service.\""
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/74545833/114892397-be88cd80-9dda-11eb-9555-3ffe8775ca2c.png",
+        "caption": "",
+        "link": "https://www.bmj.com/content/373/bmj.n913",
+        "credit": "Tang, Marr, Li, Dancer"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 4,
+        "day": 14
+      },
+      "text": {
+        "headline": "Covid-19 has redefined airborne transmission",
+        "text": "\"The confusion has emanated from traditional terminology introduced during the last century. This created poorly defined divisions between \"droplet\", \"airborne\", and \"droplet nuclei\" transmission, leading to misunderstandings over the physical behaviour of these particles. Essentially, if you can inhale particles—regardless of their size or name—you are breathing in aerosols.\""
+      }
     }
   ]
 }
