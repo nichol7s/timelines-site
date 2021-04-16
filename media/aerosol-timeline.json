@@ -1302,6 +1302,24 @@
         "headline": "Covid-19 has redefined airborne transmission",
         "text": "\"The confusion has emanated from traditional terminology introduced during the last century. This created poorly defined divisions between \"droplet\", \"airborne\", and \"droplet nuclei\" transmission, leading to misunderstandings over the physical behaviour of these particles. Essentially, if you can inhale particles—regardless of their size or name—you are breathing in aerosols.\""
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/74545833/114960081-54047b80-9e34-11eb-9741-93292acaf69f.png",
+        "caption": "",
+        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00869-2/fulltext",
+        "credit": "Greenhalgh, Jimenez, Prather, Tufekci, Fisman, Schooley"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 4,
+        "day": 15
+      },
+      "text": {
+        "headline": "Ten scientific reasons in support of airborne transmission of SARS-CoV-2",
+        "text": "\"Decades of painstaking research, which did not include capturing live pathogens in the air, showed that diseases once considered to be spread by droplets are airborne. Ten streams of evidence collectively support the hypothesis that SARS-CoV-2 is transmitted primarily by the airborne route.\""
+      }
     }
   ]
 }
