@@ -8,7 +8,7 @@ permalink: 2020/March
 We made a "Reality Tree" for the start of the pandemic for Western responses. For the sake of clarification, we have rolled Latin America into "the west". The classic eastern group of countries are omitted. As are African countries. It is also backdated 12+
 months to March 2020. It concerns the western responses to the pandemic as of that time. These countries were mostly aiming to "flatten the curve". It is far from final - the more people inputting in these things, the better.
 
-The resulting diagram is best viewed on a laptop or desktop. Click/tap to zoom in:
+The resulting diagram is big and **best viewed on a laptop or desktop**. Click/tap to zoom in:
 
 <iframe style="width: 80vw; height: 80vh; border: none" src="/Western Responses March 2020.html"></iframe>
 
@@ -28,7 +28,7 @@ If you're interested in the science of this, Chris Hohmann goes into the creatio
 
 Ordinarily a team would use a CRT to identify one or more root causes of a problem. As a group, they would identify something to try to improve a situation. After experimenting with something for a while, the team would try to determine whether the experiment improved the situation, or made it worse or had no effect. From their they'd work out what to do next.
 
-## Thoughts this diagram
+## Thoughts about this diagram
 
 Is what we have done for the pandemic useful? Probably not. Some academics, medical folks, and industry/biz people should get in a (zoom) room and start over. They should be careful to not have people in the room who made it worse for that prior period and who have not yet done their decent *mea culpa*.
 
