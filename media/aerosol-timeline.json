@@ -354,6 +354,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/115106219-6a592700-9f5b-11eb-9e71-b7239cd8f09c.png",
+        "caption": "",
+        "link": "https://academic.oup.com/cid/article/72/4/604/5877944",
+        "credit": "Hu, Lin, Wang, Xu, Tatem, Meng, Zhang, Liu, Wang, Wu, Xie and Lai"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 7,
+        "day": 29
+      },
+      "text": {
+        "headline": "Transmission Among Jan + Feb 2020 Train Passengers in China",
+        "text": "Study was a statistical analysis of many journeys: \"When a passenger leaves a window or middle seat, the other passengers in the row need to let them pass, potentially increasing close face-to-face contact. Viruses attached on aerosols and droplets are also more likely to spread at close range. Third, the backrests that separate rows might be a good barrier to slow the spread of virus-laden aerosols\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0160412020319942-ga1_lrg.jpg",
         "caption": "Aerosol transmission of SARS-CoV-2? Evidence, prevention and control",
         "link": "https://www.sciencedirect.com/science/article/pii/S0160412020319942",
