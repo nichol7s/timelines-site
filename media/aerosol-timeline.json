@@ -318,6 +318,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.medrxiv.org/content/medrxiv/early/2020/07/05/2020.07.02.20144832/F2.large.jpg",
+        "caption": "Box-whisker chart of total aerosol droplet volumes that are expelled in various scenarios",
+        "link": "https://www.medrxiv.org/content/10.1101/2020.07.02.20144832v1.full-text",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 7,
+        "day": 5
+      },
+      "text": {
+        "headline": "Exposure assessment for airborne transmission of SARS-CoV-2 via breathing, speaking, coughing and sneezing",
+        "text": "Exposure to SARS-CoV-2 via aerosols generated during breathing, speaking, coughing and sneezing in an unventilated indoor environment is possible. This study forms a basis to estimate probabilities of exposure to SARS-Cov-2 by airborne transmission in indoor spaces."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/102695187-a4205800-421d-11eb-9d7c-60243676e463.png",
         "caption": "Clip from Japanese video on computer modelling of aerosol nature of Covid-19",
         "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/",
@@ -779,6 +797,24 @@
       "text": {
         "headline": "Tianjin China: Injection in elevator holding an aerosol cloud",
         "text": "The infected person coughed in an elevator, and the neighbor entered without a mask two minutes later and became infected! Other incidents too. [Unconfirmed - waiting on formal study]"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.medrxiv.org/content/medrxiv/early/2020/12/02/2020.10.13.20212233/F4.large.jpg",
+        "caption": "Heterogeneity and kinetics of SARS-CoV-2 rVL",
+        "link": "https://www.medrxiv.org/content/10.1101/2020.10.13.20212233v3.full-text",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 2
+      },
+      "text": {
+        "headline": "Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols",
+        "text": "For some emerging infectious diseases, including COVID-19, few cases cause most secondary infections. We analyze the distribution and kinetics of SARS-CoV-2 rVL, including across age and symptomatology subgroups."
       }
     },
     {
