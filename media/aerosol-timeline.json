@@ -1144,6 +1144,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.medrxiv.org/content/medrxiv/early/2021/03/26/2021.03.26.21254416/F2.medium.gif",
+        "caption": "",
+        "link": "https://www.medrxiv.org/content/10.1101/2021.03.26.21254416v1.full-text",
+        "credit": "Dietz, Constant, Fretz, Horve, Olsen-Martinez, Stenson, Wilkes, Martindale, Messer, and Van Den Wymelenberg"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 3,
+        "day": 26
+      },
+      "text": {
+        "headline": "Study: More virus in air samples than found in surface swabs",
+        "text": "\"The AerosolSense active air sampler was found to detect SARS-CoV-2 in 53.8% of all samples collected compared to 12.1% detection by passive air sampling and 14.8% detection by surface swabs\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/74545833/113490529-a6d74e00-9498-11eb-99fd-89c2891c5bf6.png",
         "caption": "Illustration of near- and far-field aerosol transmission in relation to the respiratory particle size distribution (PSD) and preventive measures: M= mask, D = distance, F = filtration, and V = ventilation.",
         "link": "https://arxiv.org/abs/2103.01188v2",
