@@ -272,7 +272,9 @@ Of the nine case-control studies cited in Goddard's quotation of Jefferson, seve
 
 Anti Masker groups motivated by politics, hatred of your group/country, bad science, their own bad breath and more, link to things that can (they claim) prove their case.
 
-Study 'MacIntyre et al, 2015', figures quite a lot as an anti-masker truth. Goddard's Journal went into this study above. Meanwhile, Raina C MacIntyre disgusted by the mis-representation of the anti-masker crowd, published more this year to further indicate her science that **masks work and we should wear them**:
+### Raina MacIntyre
+
+Study 'MacIntyre et al, 2015', figures quite a lot as an anti-masker "truth". Goddard's Journal went into this study above. Meanwhile, Raina C MacIntyre disgusted with mis-representation by the anti-masker crowd, published more in the last twelve months to further indicate her science that **masks work and we should wear them**:
 
 * September 29, 2020; Prof Raina MacIntyre in BMJ Opinion: [Cloth masks should be washed appropriately everyday](https://blogs.bmj.com/bmj/2020/09/29/raina-macintyre-cloth-masks-should-be-washed-appropriately-everyday/).
 * December 20, 2020; Prof Raina MacIntyre in the Sydney Morning Herald: ["Mandating masks across greater Sydney will make a difference"](https://www.smh.com.au/national/yule-be-sorry-why-sydney-is-facing-a-super-spreading-disaster-20201220-p56p0r.html)
