@@ -1428,6 +1428,24 @@
         "headline": "Indoor Air Changes and Potential Implications for SARS-CoV-2 Transmission",
         "text": "\"Buildings have been associated with spread of infectious diseases, such as outbreaks of measles, influenza, and Legionella. With SARS-CoV-2, the majority of outbreaks involving 3 or more people have been linked with time spent indoors, and evidence confirms that far-field airborne transmission (defined as within-room but beyond 6 feet) of SARS-CoV-2 is occurring.\""
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.pnas.org/content/pnas/118/17/e2018995118/F1.medium.gif",
+        "caption": "",
+        "link": "https://www.pnas.org/content/118/17/e2018995118",
+        "credit": "Bazant and Bush"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 4,
+        "day": 27
+      },
+      "text": {
+        "headline": "Study: A guideline to limit indoor airborne transmission of COVID-19",
+        "text": "\"In such well-mixed spaces, one is no safer from airborne pathogens at 60 ft than 6 ft.\""
+      }
     }
   ]
 }
