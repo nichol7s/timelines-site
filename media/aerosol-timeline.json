@@ -1432,6 +1432,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/E0TkruxVUAEJvrm?format=jpg&name=large",
+        "caption": "",
+        "link": "https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab347/6248519",
+        "credit": "Jones, Chan, Zabarsky, Cadnum, Navas, Redmond, Kovach, Linger, Rutala, Zimmerman, and Donskey"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 4,
+        "day": 16
+      },
+      "text": {
+        "headline": "Study: Transmission of SARS-CoV-2 on a Patient Transport Van",
+        "text": "\"We report 2 episodes of potential SARS-CoV-2 transmission from infected van drivers to passengers despite masking and physical distancing. Whole genome sequencing confirmed relatedness of driver and passenger SARS-CoV-2. With the heater operating, fluorescent microspheres were transported by airflow >3 meters from the front to the back of the van.\". See also <a hre='https://twitter.com/DrZoeHyde/status/1388486032266391560'>@DrZoeHyde tweet</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://www.pnas.org/content/pnas/118/17/e2018995118/F1.medium.gif",
         "caption": "",
         "link": "https://www.pnas.org/content/118/17/e2018995118",
