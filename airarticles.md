@@ -3,6 +3,37 @@ title: Articles about droplet or airborne spread
 description: Articles about droplet or airborne spread
 ---
 
+# mask articles
+
+https://twitter.com/mjb302/status/1391415097252270088
+
+https://pubmed.ncbi.nlm.nih.gov/18455048/
+
+A randomized clinical trial of three options for N95 respirators and medical masks in health workers
+https://pubmed.ncbi.nlm.nih.gov/23413265/
+
+Do N95 respirators provide 95% protection level against airborne viruses, and how adequate are surgical masks?
+https://pubmed.ncbi.nlm.nih.gov/16490606/
+
+Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext
+
+Current guidelines for respiratory protection of Australian health care workers against COVID-19 are not adequate and national reporting of health worker infections is required
+https://www.mja.com.au/journal/2020/current-guidelines-respiratory-protection-australian-health-care-workers-against-covid
+
+Effectiveness of surgical masks against influenza bioaerosols
+https://pubmed.ncbi.nlm.nih.gov/23498357/
+
+Aerosol penetration through surgical masks
+https://pubmed.ncbi.nlm.nih.gov/1524265/
+
+RR619 Evaluating the protection afforded by surgical masks against influenza bioaerosols
+https://www.hse.gov.uk/research/rrhtm/rr619.htm
+
+2014 A quantitative assessment of the total inward leakage of NaCl aerosol representing submicron-size bioaerosol through N95 filtering facepiece respirators and surgical masks
+https://pubmed.ncbi.nlm.nih.gov/24275016/
+
+
 # Articles about transmission of viruses in the air
 
 [Send any additions to @jonathanmc or @paul-hammant, or fork this and make a merge request]
