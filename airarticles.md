@@ -5,6 +5,11 @@ description: Articles about droplet or airborne spread
 
 # mask articles
 
+## Jeremy Howard's thread
+https://twitter.com/jeremyphoward/status/1348771993949151232
+
+## another thread, 9 refs, refs follow
+
 https://twitter.com/mjb302/status/1391415097252270088
 
 https://pubmed.ncbi.nlm.nih.gov/18455048/
@@ -32,6 +37,7 @@ https://www.hse.gov.uk/research/rrhtm/rr619.htm
 
 2014 A quantitative assessment of the total inward leakage of NaCl aerosol representing submicron-size bioaerosol through N95 filtering facepiece respirators and surgical masks
 https://pubmed.ncbi.nlm.nih.gov/24275016/
+
 
 
 # Articles about transmission of viruses in the air
