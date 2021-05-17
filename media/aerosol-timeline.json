@@ -1090,6 +1090,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/phf/2021/phf.2021.33.issue-2/5.0040755/20210318/images/large/5.0040755.figures.online.f7.jpeg",
+        "caption": "Initial air patterns created from the exhaled air at t = 35s",
+        "link": "https://aip.scitation.org/doi/10.1063/5.0040755",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 2,
+        "day": 24
+      },
+      "text": {
+        "headline": "Estimating COVID-19 exposure in a classroom setting: A comparison between mathematical and numerical models",
+        "text": "\"The COVID-19 pandemic has driven numerous studies of airborne-driven transmission risk primarily through two methods: Wells–Riley and computational fluid dynamics (CFD) models. This effort provides a detailed comparison of the two methods for a classroom scenario with masked habitants and various ventilation conditions.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/74545833/114729159-ba42ae80-9d0d-11eb-808b-ebf8f9b3c27c.png",
         "caption": "Airflow simulation",
         "link": "https://www.nytimes.com/interactive/2021/02/26/science/reopen-schools-safety-ventilation.html",
