@@ -607,6 +607,24 @@
         "headline": "Study: Staphylococcus aureus can be airborne",
         "text": "57 references to airborne in the study"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2214109X21001418-gr1.jpg",
+        "caption": "",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2214109X21001418",
+        "credit": "Cohen et al, June 2021"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 06,
+        "day": 25
+      },
+      "text": {
+        "headline": "Study: Flu infects without sneezes/coughs too",
+        "text": "44% of lab-confirmed, flu infections in the study were in people who reported no symptoms"
+      }
     }
   ]
 }
