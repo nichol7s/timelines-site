@@ -6,9 +6,11 @@ layout: page
 permalink: /wear-a-mask
 ---
 
-If you're in a country that has not eliminated COVID-19, wear a mask.
+If you're in a country that has not eliminated COVID-19, wear a mask when mixing with other in enclosed spaces.
 
-Any cloth face covering is better than nothing. But you should seek to get the **best mask that you can as soon as you can without depleting the stocks that emergency workers use**. Your cloth face covering:
+Any cloth face covering is better than nothing. But, you should seek to get the **best mask that you can as soon as you can without depleting the stocks that emergency workers use**. 
+
+Your cloth face covering:
 
 * needs nose wire which should kept shaped to your nose while in use.
 * should be multi-layer - three or more ideally
@@ -18,7 +20,7 @@ Any cloth face covering is better than nothing. But you should seek to get the *
 
 If you're wearing a surgical-style mask that you bought from the supermarket or a corner store, consider a fitter (see below). The stretchy spandex (lycra) ones that are single layer are **really low self-protection**. 
 
-If you can't wear a mask or cloth face covering stay at home and get food delivered. 
+If you can't wear a mask or cloth face covering stay at home and get your food/groceries delivered. 
 
 If you can afford it, get KF94 masks (that are not cloth or washable) for use when mixing with other in public. Citizen Scientist, Aaron Collins, [reviews masks for filtration effectiveness](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg) and talks about KF94 masks quite a bit.  Leave the N95 and FFP2 masks/respirators for respective medical and emergency workers.
 
@@ -53,6 +55,7 @@ Aaron Collins [talks about fitters on his youtube channel](https://www.youtube.c
   properties, particle size, particle electrical charge,
   face velocity, and leaks](https://www.mpic.de/4745772/update-alltagsmasken-in-weiteren-tests) - Drewnick et al.
 * May, 2020: University of Chicago and Argonne National Labs (USA): [Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7185834/) - Konda et al.
+* May, 2021: Cheng, Ma2, Witt, Rapp, Wild, Andreae, Pöschl, and Su: [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/early/2021/05/19/science.abg6296)
 
 ## Articles & More Information
 
@@ -271,10 +274,15 @@ Of the nine case-control studies cited in Goddard's quotation of Jefferson, seve
 ## Anti-Masker activities
 
 Anti Masker groups motivated by politics, hatred of your group/country, bad science, their own bad breath and more, link to things that can (they claim) prove their case.
+Their bogus talking points:
+
+* "just search for it, I don't have to give you links to studies"
+* "masks starve your oxygen" (they don't)
+* "Country X or state Y doesn't have masks and they're better than your country". Ask them what they think about Taiwan or South Korea who've performed amont the best (with masks), and they get all racist or suggest it is faked. 
 
 ### Raina MacIntyre
 
-Study 'MacIntyre et al, 2015', figures quite a lot as an anti-masker "truth". Goddard's Journal went into this study above. Meanwhile, Raina C MacIntyre disgusted with mis-representation by the anti-masker crowd, published more in the last twelve months to further indicate her science that **masks work and we should wear them**:
+Study 'MacIntyre et al, 2015', figures quite a lot as an anti-masker "truth". Goddard's Journal went into this study above. Meanwhile, Raina C MacIntyre is disgusted with mis-representation by the anti-masker crowd. She has published more in the last twelve months to further indicate her science that **masks work and we should wear them**:
 
 * September 29, 2020; Prof Raina MacIntyre in BMJ Opinion: [Cloth masks should be washed appropriately everyday](https://blogs.bmj.com/bmj/2020/09/29/raina-macintyre-cloth-masks-should-be-washed-appropriately-everyday/).
 * December 20, 2020; Prof Raina MacIntyre in the Sydney Morning Herald: ["Mandating masks across greater Sydney will make a difference"](https://www.smh.com.au/national/yule-be-sorry-why-sydney-is-facing-a-super-spreading-disaster-20201220-p56p0r.html)
