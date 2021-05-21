@@ -5,7 +5,7 @@ nav_order: 1
 layout: page
 ---
 
-This site exists as a resource to outline that there has been scientific evidence for some time to support COVID-19 infection being driven by airborne/aerosol transmission. This is not new science, it is old science. The next pandemic should assume the same rather than waste months with policies that did not halt infections. 
+This site exists as a resource to outline that there has been scientific evidence for some time to support COVID-19 infection being driven by airborne/aerosol transmission. This is not new science, it is old science and various national and international organizations made mistakes by not sating so. The next pandemic should assume the same rather than waste months with policies that did not halt infections. 
 
 To learn more, follow these experts who study aerosol and are activey pushing the **COVID is airborne** agenda: **Prof Jose-Luis Jimenez**, **Prof Kimberly Prather** and **Prof Linsey Marr** who have been educating the world on the aerosol transmission nature of COVID-19. Their Twitter accounts - [@jljcolorado](https://twitter.com/jljcolorado), [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr) - which you should follow.
 
