@@ -158,6 +158,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://associationofanaesthetists-publications.onlinelibrary.wiley.com/cms/asset/1d916740-5690-4a05-bbce-beed80d96123/anae15093-fig-0001-m.png",
+        "caption": "Key determinants of healthcare worker aerosol transmission in spontaneously breathing patient. RTLF, respiratory tract lining fluid; HCW, healthcare worker; PPE, personal protective equipment",
+        "link": "https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/full/10.1111/anae.15093",
+        "credit": "Study: N. M. Wilson, A. Norton, F. P. Young, and D. W. Collins"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 4,
+        "day": 20
+      },
+      "text": {
+        "headline": "Study: Airborne transmission of severe acute respiratory syndrome coronavirus-2 to healthcare workers: a narrative review",
+        "text": "\"Three mechanisms have been described for the production [aerosols]: laryngeal activity such as talking and coughing; high velocity gas flow; and cyclical opening and closure of terminal airways.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://www.youtube.com/watch?v=2VIleZ2R0qE",
         "caption": "Schlieren Imaging with high speed sensitivity camera recording (10,000 frames/second, courtesy of Bell Labs)",
         "link": "",
