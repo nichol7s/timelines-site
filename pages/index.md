@@ -5,6 +5,13 @@ nav_order: 1
 layout: page
 ---
 
+**Status:**
+
+* May 2001: USA's CDC has acknowledged that airborne/aerosol is the predominant transmission mechanism.
+* WHO: still mumbling about this.
+* Some governments that had previously followed the WHO's fomites/droplets dogma, have updated ventilation guidelines. None are very clear in following the USA's CDC and their recent acknowledgement of "it's airborne"
+* Hospitals, orgs/groups: - as governements above.
+
 This site exists as a resource to outline that there has been scientific evidence for some time to support COVID-19 infection being driven by airborne/aerosol transmission. This is not new science, it is old science and various national and international organizations made mistakes by not sating so. The next pandemic should assume the same rather than waste months with policies that did not halt infections. 
 
 To learn more, follow these experts who study aerosol and are activey pushing the **COVID is airborne** agenda: **Prof Jose-Luis Jimenez**, **Prof Kimberly Prather** and **Prof Linsey Marr** who have been educating the world on the aerosol transmission nature of COVID-19. Their Twitter accounts - [@jljcolorado](https://twitter.com/jljcolorado), [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr) - which you should follow.
@@ -35,7 +42,7 @@ The fact that many other diseases are airborne/aerosolized (or can be in additio
 
 Some countries in the west and many in the east mandates masks from very early moments. Those countres arelisted on this timeline. Others are omitted.
 
-### 4. In 2021, countries are setting new mandates for higher-spec masks
+### 4. At the start of 2021, countries are setting new mandates for higher-spec masks
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/105087417-56a04080-5a92-11eb-84d8-ae660b642070.png)](/masks-2021)
