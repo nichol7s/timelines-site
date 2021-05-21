@@ -611,6 +611,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/119129737-388e2100-ba2f-11eb-840e-8cedde62f616.png",
+        "caption": "Tweet pic",
+        "link": "https://twitter.com/WHO/status/1144848451966066688",
+        "credit": "@WHO"
+      },
+      "start_date": {
+        "year": "2019",
+        "month": 6,
+        "day": 29
+      },
+      "text": {
+        "headline": "Flu: WHO's Dr Tedros says its airborne and warns of more airborne diseases to come",
+        "text": "\"Investing in preparedness saves lives, and it saves money. It's only a question of when, not whether, the world suffers the next pandemic of influenza or another airborne virus - which is more difficult than #Ebola. We are not ready. We must invest now\"-\n@DrTedros"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/114778424-bb56f880-9d6c-11eb-8137-db1c5948e247.png",
         "caption": "",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6900272/#:~:text=aureus%20strains%2C%20including%20MRSA%20(methicillin,empirically%20confirmed%20in%20environmental%20studies.",
