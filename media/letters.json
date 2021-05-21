@@ -14,6 +14,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/119089556-3eb9d880-ba02-11eb-9324-3dcd2547496b.png",
+        "caption": "",
+        "link": "https://www.nationalnursesunited.org/sites/default/files/nnu/graphics/documents/LetterWHO1-30-20FINAL2.pdf",
+          "credit": ""
+      },
+      "start_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 30
+      },
+      "text": {
+        "headline": "Global Nurses Union to Dr Tedros - calling for airborne precautions",
+        "text": "\"WHO should call for airborne precautions to be implemented when\nhealthcare workers are caring for patients with possible or known 2019-\nnCoV infections.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/110036053-58694f00-7d34-11eb-9458-a6196739a494.png",
         "caption": "",
         "link": "/media/letters/2020_11_24_Canada_Ventilation not ventilators_Letter.pdf",
