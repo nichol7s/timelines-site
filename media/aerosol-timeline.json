@@ -492,7 +492,25 @@
         "headline": "Study: Respirators and surgical masks reducing risks for Health Care Workers",
         "text": "Finish Study released showing no staff wearing an N95 at minimum were infected but that those that used surgical masks or less had a 63% chance of being infected at work"
       }
-    },	
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/119111198-beec3800-ba1a-11eb-942f-834e0a2ef559.png",
+        "caption": "",
+        "link": "https://www.bmj.com/content/370/bmj.m3206",
+        "credit": "Nick Wilson, BMJ"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 4,
+        "day": 20
+      },
+      "text": {
+        "headline": "BMJ Editorial: Airborne transmission of covid-19",
+        "text": "\"Guidelines and governments must acknowledge the [Airborne] evidence and take steps to protect the public\""
+      }
+    },
     {
       "media": {
         "url": "https://i.insider.com/5f43d80c42f43f001ddfe9a0?width=1000&format=jpeg&auto=webp",
