@@ -1504,6 +1504,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://iiif.elifesciences.org/lax:65774%2Felife-65774-fig2-v2.tif/full/617,/0/default.webp",
+        "caption": "",
+        "link": "https://elifesciences.org/articles/65774",
+        "credit": "Chen, Bobrovitz, Premji, Koopmans, Fisman, and Gu"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 4,
+        "day": 16
+      },
+      "text": {
+        "headline": "Study:Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols",
+        "text": "\"[...] Highly infectious individuals shed tens to thousands of SARS-CoV-2 virions/min via droplets and aerosols while breathing, talking and singing\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://pbs.twimg.com/media/E0TkruxVUAEJvrm?format=jpg&name=large",
         "caption": "",
         "link": "https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab347/6248519",
