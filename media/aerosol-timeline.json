@@ -1572,6 +1572,24 @@
         "headline": "Study: Mask Use and Ventilation Improvements to Reduce COVID-19 Incidence in Elementary Schools",
         "text": "\"COVID-19 incidence was 37% lower in schools that required teachers and staff members to use masks and 39% lower in schools that improved ventilation. Ventilation strategies associated with lower school incidence included dilution methods alone (35% lower incidence) or in combination with filtration methods (48% lower incidence).\""
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/1f6835ea-2f3c-4248-908b-14645234a311/gr1.jpg",
+        "caption": "",
+        "link": "https://www.journalofinfection.com/article/S0163-4453(21)00273-5/fulltext",
+        "credit": "Zhang, Chen, Jia, Xie, Li, and Kang"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 5,
+        "day": 29
+      },
+      "text": {
+        "headline": "Study: Guangzhou restaurant again - definitely airborne",
+        "text": "Guangzhou restaurant study. Scientists scrutinised CCTV footage from the restaurant & definitively ruled out close contact droplet & fomite transmission. See <a href='https://twitter.com/DrZoeHyde/status/1401553847412150274'>Dr Zoë Hyde tweet</a>."
+      }
     }
   ]
 }
