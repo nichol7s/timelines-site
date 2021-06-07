@@ -434,6 +434,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20160921000156093-0261:S0950268809002076:S0950268809002076_fig3g.gif?pub-status=live",
+        "caption": "Survival of F. tularensis in aerosols in open air",
+        "link": "https://www.cambridge.org/core/journals/epidemiology-and-infection/article/effect-of-openair-factors-on-the-virulence-and-viability-of-airborne-francisella-tularensis",
+        "credit": "A. M. HOOD"
+      },
+      "start_date": {
+        "year": "2009",
+        "month": 2,
+        "day": 10
+      },
+      "text": {
+        "headline": "Study: The effect of open-air factors on the virulence and viability of airborne Francisella tularensis",
+        "text": "\"Unidentified open-air factors (OAFs) found to be adverse to the survival of microorganisms suspended on microthreads were investigated for their effect on realistic aerosols of Francisella tularensis in an open-air environment\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107804/bin/51-10-1176-fig003.jpg",
         "caption": "Measured airflow rates at different ward locations",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107804/",
