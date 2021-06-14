@@ -211,6 +211,24 @@
     },
     {
       "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/E33fjMZVoAQAEP1?format=jpg&name=large",
+        "caption": "",
+        "link": "",
+          "credit": ""
+      },
+      "start_date": {
+        "year": 2020,
+        "month": 4,
+        "day": 16
+      },
+      "text": {
+        "headline": "Alberta's CMOH:  \"it is not airborne\"",
+        "text": "Dr. Deena Hinshaw maintained this position until [TBD]"
+      }
+    },
+    {
+      "media": {
         "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/32px-Flag_of_the_United_Kingdom.svg.png",
         "url": "https://i.guim.co.uk/img/media/b547dddb1944047e5816a6a081fac07d98ae85b7/100_325_4370_2621/master/4370.jpg?width=620&quality=85&auto=format&fit=max&s=860a5d9971743ffae1cb0ef2edb49617",
         "caption": "",
