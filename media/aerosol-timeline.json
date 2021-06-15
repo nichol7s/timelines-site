@@ -1590,6 +1590,24 @@
         "headline": "Study: Guangzhou restaurant again - definitely airborne",
         "text": "Guangzhou restaurant study. Scientists scrutinised CCTV footage from the restaurant & definitively ruled out close contact droplet & fomite transmission. See <a href='https://twitter.com/DrZoeHyde/status/1401553847412150274'>Dr Zoë Hyde tweet</a>."
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/E34AMS0X0AIBMAF?format=png&name=900x900",
+        "caption": "",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/ina.12866",
+        "credit": "Vernez, Schwarz, Sauvain, Petignat, & Suarez"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 6,
+        "day": 11
+      },
+      "text": {
+        "headline": "Study: Probable aerosol transmission of SARS-CoV-2 in a poorly ventilated courtroom",
+        "text": "\"We can add a courtroom to the list of venues with well-characterized outbreaks demonstrating airborne transmission. People were distanced and unmasked, broken ventilation system, 3 hours\". Via a @linseymarr <a href='https://twitter.com/linseymarr/status/1404560515448422405'>tweet</a>"
+      }
     }
   ]
 }
