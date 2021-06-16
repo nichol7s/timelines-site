@@ -7,7 +7,7 @@ layout: page
 
 **Status:**
 
-* May 2001: USA's CDC has acknowledged that airborne/aerosol is the predominant transmission mechanism.
+* May 2021: USA's CDC has acknowledged that airborne/aerosol is the predominant transmission mechanism.
 * WHO: still mumbling about this.
 * Some governments that had previously followed the WHO's fomites/droplets dogma, have updated ventilation guidelines. None are very clear in following the USA's CDC and their recent acknowledgement of "it's airborne"
 * Hospitals, orgs/groups: - as governements above.
@@ -65,6 +65,10 @@ With the B.1.1.7 strain of the virus, it is more important than ever to get the 
 </div>
 
 ## More Reading
+
+#### 10 SCIENTIFIC Reasons to Support AIRBORNE Transmission of SARS-CoV-2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gD1kEezz7fQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Aerosols: Frequently Asked Questions
 
