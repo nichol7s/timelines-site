@@ -1608,6 +1608,24 @@
         "headline": "Study: Probable aerosol transmission of SARS-CoV-2 in a poorly ventilated courtroom",
         "text": "\"We can add a courtroom to the list of venues with well-characterized outbreaks demonstrating airborne transmission. People were distanced and unmasked, broken ventilation system, 3 hours\". Via a @linseymarr <a href='https://twitter.com/linseymarr/status/1404560515448422405'>tweet</a>"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/122983961-6bac3300-d394-11eb-841e-9f20d9b3c3fb.png",
+        "caption": "",
+        "link": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 6,
+        "day": 21
+      },
+      "text": {
+        "headline": "Article: Airborne transmission on camera in Australia",
+        "text": "Infected person breaths out, someone else gets infected breathing in as they walk past. See <a href='https://twitter.com/DrEricDing/status/1407061226149064706'>DrEricDing thread</a>"
+      }
     }
   ]
 }
