@@ -19,7 +19,7 @@ Pertinent events and articles supporting the aerosol nature of infection for COV
 $(document).ready(function () {
     $.noConflict();
 
-       $.getJSON("../media/aerosol-timeline.json.json", function(tl) {
+       $.getJSON("../media/aerosol-timeline.json", function(tl) {
             for(i=0;i < tl.events.length;i++){
                     var html='';
                     var dt = tl.events[i].start_date.year; 
