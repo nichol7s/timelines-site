@@ -1,5 +1,5 @@
 ---
-title: A historical timeline of infectious disease and aerosols
+title: A historical timeline of infectious disease transmitted in aerosols
 nav: History of Aerosol Diseases ⟿ 
 nav_order: 3
 timeline-json: aerosol-history-timeline.json
