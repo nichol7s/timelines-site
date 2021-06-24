@@ -1,5 +1,5 @@
 ---
-title: A historical list of infectious disease transmitted in aerosols
+title:  COVID-19 Aerosol list
 nav_order: -1
 layout: page
 ---
