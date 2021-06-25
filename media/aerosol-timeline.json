@@ -1306,6 +1306,23 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/123421657-0aaf7580-d5b5-11eb-9e17-b84b5f9f7c96.png",
+        "caption": "",
+        "link": "https://www.coronavirus.vic.gov.au/sites/default/files/2021-06/Attachment%201_Full%20Report%20%281%29.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 4
+      },
+      "text": {
+        "headline": "Report: Airborne transmission factor in Australians catching Covid-19 in hospital",
+        "text": "Ventilation assessments need to be done in all sensitive settings to ensure #SafeIndoorAir. Pleased to see this Victorian report on patients who caught COVID-19 in hospital acknowledging the role of airborne transmission. Sadly, 85 (30.7%) died. Via <a href='https://twitter.com/venessb/status/1408357498612969475'>@venessb tweet</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/74545833/114728354-050ff680-9d0d-11eb-9fff-e0be17da42de.jpg",
         "caption": "Mean risk of illness from SARS-CoV-2 for different scenarios, in which one infected person was expelling virus for 20 min or 2 h, without or with ventilation",
         "link": "https://ehp.niehs.nih.gov/doi/10.1289/EHP7886",
@@ -1644,6 +1661,5 @@
         "headline": "Article: Airborne transmission on camera in Australia",
         "text": "Infected person breaths out, someone else gets infected breathing in as they walk past. See <a href='https://twitter.com/DrEricDing/status/1407061226149064706'>DrEricDing thread</a>"
       }
-    }
-  ]
+    }  ]
 }
