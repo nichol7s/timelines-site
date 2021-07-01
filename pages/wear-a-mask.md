@@ -6,45 +6,23 @@ layout: page
 permalink: /wear-a-mask
 ---
 
-If you're in a country that has not eliminated COVID-19, wear a mask when mixing with other in enclosed spaces.
+If you are in a country that has not yet eliminated COVID-19, wear a mask when mixing with other in enclosed spaces, whether vaccinated or not. Thin masks like the stretchy spandex (lycra) ones offer (say) 10% protection to you and perhaps better than 10% protection to others (if you are infected). If you can afford N95, FFP2, KF94 masks then consider having those instead of cloth masks as that is the best protection you can get.
 
-Any cloth face covering is better than nothing. But, you should seek to get the **best mask that you can as soon as you can without depleting the stocks that emergency workers use**. 
+Your washable & breathable mask should feature spunbond polypropeline (SBPP) and be a **good fit** with nose wire. The more of the spunbond polypropeline the better - six or more layers of the thin SBPP (38 gsm or layer) or four+ layers of the thicker SBPP (68gsm).  Here's the filtration you should expect (using data from a [study commissioned by MakerMask.org](https://makermask.org/fabric-mask-material-testing-results)
 
-Your cloth face covering:
+![](https://1.bp.blogspot.com/-raM1DvmPyOQ/YMOuuvCV78I/AAAAAAAACRE/rBaKKQX0S7gnZiD3kkXpgT2vIasrb_VFwCLcBGAsYHQ/w622-h482/smarrt-fab.png)
 
-* needs nose wire which should kept shaped to your nose while in use.
-* should be multi-layer - three or more ideally
-* should not have gaps at your cheeks, sides, or throat
-  * should perhaps have a "fitter" added (see below)
-* may concentrate virons on the outside - wash your hands after touching a dirty mask and wash/dry the mask after use.
-
-If you're wearing a surgical-style mask that you bought from the supermarket or a corner store, consider a fitter (see below). The stretchy spandex (lycra) ones that are single layer are **really low self-protection**. 
+If you're wearing a surgical-style mask that you bought from the supermarket or a corner store, [consider a fitter](/fitters).
 
 If you can't wear a mask or cloth face covering stay at home and get your food/groceries delivered. 
 
 If you can afford it, get KF94 masks (that are not cloth or washable) for use when mixing with other in public. Citizen Scientist, Aaron Collins, [reviews masks for filtration effectiveness](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg) and talks about KF94 masks quite a bit.  Leave the N95 and FFP2 masks/respirators for respective medical and emergency workers.
 
-## "Fitters" to be placed on top of your surgical-style mask (better masks)
+### High thread count cotton
 
-[This University of Wisconsin study](https://www.medrxiv.org/content/10.1101/2020.12.31.20249101v1.full.pdf) (Rothamer et al 2020) is key: You must add a "fitter" to your **lower quality mask** to protect yourself.
+Some studies in 2020 picked this as a material to use in mask making. Superficially, this material offers high protection, bit it comes with a high price - the fabric pulls onto your nostrils and lips as you breathe in. That's because breathability is lower for high TPI cotton than other fabrics. Spunbond polypropeline is far better, but requires multiple layers to get the filtration up.
 
-Pics of the four masks they tested:
-
-![](https://user-images.githubusercontent.com/82182/105577025-d36f3b00-5d6e-11eb-8e83-530b27fa6758.png)
-
-The all-important filtration boost - indicated in chart form:
-
-![](https://user-images.githubusercontent.com/82182/105577092-5b554500-5d6f-11eb-97fd-037eba011a96.png)
-
-See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.engr.wisc.edu/mask-fitter/) and many other choices [google.com/search?q=mask+fitters](https://www.google.com/search?q=mask+fitters).
-
-Aaron Collins [talks about fitters on his youtube channel](https://www.youtube.com/watch?v=1-zRjrwsMWY) (March 15, 2021).
-
-## Double masking (better masks)
-
-* Feb, 2021: [Maximizing Fit for Cloth and Surgical-style Masks to Improve Filtration](https://www.cdc.gov/mmwr/volumes/70/wr/mm7007e1.htm?s_cid=mm7007e1_w) - Brooks et al (CDC)
-
-## Key studies & Test on filtration effectiveness of various materials/masks:
+## We've known since the start that masks would help slow or stop the pandemic:
 
 * Feb, 2021: [Effectiveness of Mask Wearing to Control Community Spread of SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2776536) - Brooks & Butler
 * Dec, 2020: University of Wisconsin "fitter" study (above)
@@ -65,7 +43,7 @@ Aaron Collins [talks about fitters on his youtube channel](https://www.youtube.c
 * January 28, 2021; CBC: [Why you might want to start wearing better masks — even outdoors](https://www.cbc.ca/news/health/masks-coronavirus-variants-canada-1.5890893)
 * January 27, 2021; Slate e-Zine: [Do You Really Need Two Masks Now?](https://slate.com/technology/2021/01/coronavirus-two-masks-when-how.html)
 * Masks **do not** create a false sense of security, See Twitter [thread](https://twitter.com/robshirkey/status/1272945481820356608) by Rob Shirkey
-* Active since March; [Masks4all.co](https://masks4all.co) portal has been pushing the "masks for all" message. And a [discussion forum on reddit for the same](https://www.reddit.com/r/Masks4All/)
+* Active since March 2020; [Masks4all.co](https://masks4all.co) portal has been pushing the "masks for all" message. And a [discussion forum on reddit for the same](https://www.reddit.com/r/Masks4All/)
 * Since March 2020; [damerousky.cz](https://damerousky.cz/en): Citizen made portal for making masks, started in the Czech Republic (Europe) and now an international multi-language effort
 * [DiyMasks.ie](https://diymasks.ie/) - more citizen made mask choices and links
 * October 15, 2020; Goddard's Journal video: [second review of mask studies](https://www.youtube.com/watch?v=9CGrBygEQY0) over the years and that they work
@@ -277,12 +255,12 @@ Anti Masker groups motivated by politics, hatred of your group/country, bad scie
 Their bogus talking points:
 
 * "just search for it, I don't have to give you links to studies"
-* "masks starve your oxygen" (they don't)
-* "Country X or state Y doesn't have masks and they're better than your country". Ask them what they think about Taiwan or South Korea who've performed amont the best (with masks), and they get all racist or suggest it is faked. 
+* "masks starve your oxygen" - *they do not*
+* "Country X or state Y doesn't have masks and they're better than your country". Ask them what they think about Taiwan or South Korea who've performed among the best (with masks), and they get all racist or suggest it is faked. 
 
-### Raina MacIntyre
+### Raina MacIntyre's work
 
-Study 'MacIntyre et al, 2015', figures quite a lot as an anti-masker "truth". Goddard's Journal went into this study above. Meanwhile, Raina C MacIntyre is disgusted with mis-representation by the anti-masker crowd. She has published more in the last twelve months to further indicate her science that **masks work and we should wear them**:
+Study 'MacIntyre et al, 2015', figures quite a lot as an anti-masker "truth". Goddard's Journal went into this study above. Meanwhile, Raina C MacIntyre is disgusted with mis-representation by the anti-masker crowd. She has published more in the last eighteen months to further indicate her science that **masks work and we should wear them**:
 
 * September 29, 2020; Prof Raina MacIntyre in BMJ Opinion: [Cloth masks should be washed appropriately everyday](https://blogs.bmj.com/bmj/2020/09/29/raina-macintyre-cloth-masks-should-be-washed-appropriately-everyday/).
 * December 20, 2020; Prof Raina MacIntyre in the Sydney Morning Herald: ["Mandating masks across greater Sydney will make a difference"](https://www.smh.com.au/national/yule-be-sorry-why-sydney-is-facing-a-super-spreading-disaster-20201220-p56p0r.html)
