@@ -39,6 +39,7 @@ Some studies in 2020 picked this as a material to use in mask making. Superficia
 
 ## Articles & More Information
 
+* June 29, 2021; BBC: [Covid: Masks upgrade cuts infection risk](https://www.bbc.co.uk/news/health-57636360)
 * June 5, 2021; Cheng et al: [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/372/6549/1439.full)
 * March 5, 2021; [The Virus Spread Where Restaurants Reopened or Mask Mandates Were Absent](https://www.nytimes.com/2021/03/05/health/coronavirus-restaurant-dining-masks.html)
 * January 29, 2021; New York Times & Colorado State Mask Study: [How to Choose the Best Cloth Face Mask for You](https://www.nytimes.com/wirecutter/reviews/best-cloth-face-masks/#how-we-picked-and-tested)
@@ -48,7 +49,8 @@ Some studies in 2020 picked this as a material to use in mask making. Superficia
 * January 27, 2021; Slate e-Zine: [Do You Really Need Two Masks Now?](https://slate.com/technology/2021/01/coronavirus-two-masks-when-how.html)
 * January 26, 2021; Jeremy Howard et al: [An evidence review of face masks against COVID-19](https://www.pnas.org/content/118/4/e2014564118)
 * December 2020; William G. Lindsley: [Efficacy of face masks, neck gaiters and face shields for reducing the expulsion of simulated cough-generated aerosols](https://www.tandfonline.com/doi/full/10.1080/02786826.2020.1862409)
-* August 26, 2020; Webmd article: [The Forgotten Science Behind Face Masks](https://www.webmd.com/lung/news/20200826/the-forgotten-science-behind-face-masks) 
+* August 26, 2020; Wei Lyu and George L. Wehby study: [The Forgotten Science Behind Face Masks](https://www.webmd.com/lung/news/20200826/the-forgotten-science-behind-face-masks) 
+* August, 2020; Webmd article: [Community Use Of Face Masks And COVID-19: Evidence From A Natural Experiment Of State Mandates In The US](https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2020.00818) 
 * Masks **do not** create a false sense of security, See Twitter [thread](https://twitter.com/robshirkey/status/1272945481820356608) by Rob Shirkey
 * Active since March 2020; [Masks4all.co](https://masks4all.co) portal has been pushing the "masks for all" message. And a [discussion forum on reddit for the same](https://www.reddit.com/r/Masks4All/)
 * Since March 2020; [damerousky.cz](https://damerousky.cz/en): Citizen made portal for making masks, started in the Czech Republic (Europe) and now an international multi-language effort
