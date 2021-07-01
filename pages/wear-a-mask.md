@@ -14,15 +14,15 @@ If you can't wear a mask or cloth face covering stay at home and get your food/g
 
 If you can afford it, get KF94 masks (that are not cloth or washable) for use when mixing with other in public. Citizen Scientist, Aaron Collins, [reviews masks for filtration effectiveness](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg) and talks about KF94 masks quite a bit.  Leave the N95 and FFP2 masks/respirators for respective medical and emergency workers.
 
-### Spunbond polypropeline masks
+### Spunbond Polypropylene masks
 
-Your washable & breathable mask should feature spunbond polypropeline (SBPP) and be a **good fit** with nose wire. The more of the spunbond polypropeline the better - six or more layers of the thin SBPP (38 gsm or layer) or four+ layers of the thicker SBPP (68gsm).  Here's the filtration you should expect (using data from a [study commissioned by MakerMask.org](https://makermask.org/fabric-mask-material-testing-results))
+Your washable & breathable mask should feature spunbond olypropylene (SBPP) and be a **good fit** with nose wire. The more of the spunbond polypropylene the better - six or more layers of the thin SBPP (38 gsm or layer) or four+ layers of the thicker SBPP (68gsm).  Here's the filtration you should expect (using data from a [study commissioned by MakerMask.org](https://makermask.org/fabric-mask-material-testing-results))
 
 ![](https://1.bp.blogspot.com/-raM1DvmPyOQ/YMOuuvCV78I/AAAAAAAACRE/rBaKKQX0S7gnZiD3kkXpgT2vIasrb_VFwCLcBGAsYHQ/w622-h482/smarrt-fab.png)
 
 ### High thread count cotton masks
 
-Some studies in 2020 picked this as a material to use in mask making. Superficially, this material offers high protection, bit it comes with a high price - the fabric pulls onto your nostrils and lips as you breathe in. That is because breathability is lower for high TPI cotton than other fabrics. Spunbond polypropeline is far better, but requires multiple layers to get the filtration up.
+Some studies in 2020 picked this as a material to use in mask making. Superficially, this material offers high protection, bit it comes with a high price - the fabric pulls onto your nostrils and lips as you breathe in. That is because breathability is lower for high TPI cotton than other fabrics. Spunbond polypropylene is far better, but requires multiple layers to get the filtration up.  In summary - **high TPI cotton is a massive mistake for mask construction**.
 
 ## We have known since the start that masks would help slow or stop the pandemic:
 
@@ -39,11 +39,16 @@ Some studies in 2020 picked this as a material to use in mask making. Superficia
 
 ## Articles & More Information
 
+* June 5, 2021; Cheng et al: [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/372/6549/1439.full)
+* March 5, 2021; [The Virus Spread Where Restaurants Reopened or Mask Mandates Were Absent](https://www.nytimes.com/2021/03/05/health/coronavirus-restaurant-dining-masks.html)
 * January 29, 2021; New York Times & Colorado State Mask Study: [How to Choose the Best Cloth Face Mask for You](https://www.nytimes.com/wirecutter/reviews/best-cloth-face-masks/#how-we-picked-and-tested)
 * January 28, 2021; Buzzfeed: [What Is Double-Masking? Here’s How It Can Keep You Safer From The Coronavirus](https://www.buzzfeednews.com/article/skbaer/double-masking-coronavirus-variants)
 * January 28, 2021; Salon e-Zine: [How high-filtration masks — like the KN95, N95 and KN94 — differ](https://www.salon.com/2021/01/27/covid-19-face-masks-how-filtration-masks--like-the-kn95-n95-and-kn94--differ/)
 * January 28, 2021; CBC: [Why you might want to start wearing better masks — even outdoors](https://www.cbc.ca/news/health/masks-coronavirus-variants-canada-1.5890893)
 * January 27, 2021; Slate e-Zine: [Do You Really Need Two Masks Now?](https://slate.com/technology/2021/01/coronavirus-two-masks-when-how.html)
+* January 26, 2021; Jeremy Howard et al: [An evidence review of face masks against COVID-19](https://www.pnas.org/content/118/4/e2014564118)
+* December 2020; William G. Lindsley: [Efficacy of face masks, neck gaiters and face shields for reducing the expulsion of simulated cough-generated aerosols](https://www.tandfonline.com/doi/full/10.1080/02786826.2020.1862409)
+* August 26, 2020; Webmd article: [The Forgotten Science Behind Face Masks](https://www.webmd.com/lung/news/20200826/the-forgotten-science-behind-face-masks) 
 * Masks **do not** create a false sense of security, See Twitter [thread](https://twitter.com/robshirkey/status/1272945481820356608) by Rob Shirkey
 * Active since March 2020; [Masks4all.co](https://masks4all.co) portal has been pushing the "masks for all" message. And a [discussion forum on reddit for the same](https://www.reddit.com/r/Masks4All/)
 * Since March 2020; [damerousky.cz](https://damerousky.cz/en): Citizen made portal for making masks, started in the Czech Republic (Europe) and now an international multi-language effort
