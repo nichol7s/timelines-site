@@ -8,21 +8,23 @@ permalink: /wear-a-mask
 
 If you are in a country that has not yet eliminated COVID-19, wear a mask when mixing with other in enclosed spaces, whether vaccinated or not. Thin masks like the stretchy spandex (lycra) ones offer (say) 10% protection to you and perhaps better than 10% protection to others (if you are infected). If you can afford N95, FFP2, KF94 masks then consider having those instead of cloth masks as that is the best protection you can get.
 
-Your washable & breathable mask should feature spunbond polypropeline (SBPP) and be a **good fit** with nose wire. The more of the spunbond polypropeline the better - six or more layers of the thin SBPP (38 gsm or layer) or four+ layers of the thicker SBPP (68gsm).  Here's the filtration you should expect (using data from a [study commissioned by MakerMask.org](https://makermask.org/fabric-mask-material-testing-results)
-
-![](https://1.bp.blogspot.com/-raM1DvmPyOQ/YMOuuvCV78I/AAAAAAAACRE/rBaKKQX0S7gnZiD3kkXpgT2vIasrb_VFwCLcBGAsYHQ/w622-h482/smarrt-fab.png)
-
 If you're wearing a surgical-style mask that you bought from the supermarket or a corner store, [consider a fitter](/fitters).
 
 If you can't wear a mask or cloth face covering stay at home and get your food/groceries delivered. 
 
 If you can afford it, get KF94 masks (that are not cloth or washable) for use when mixing with other in public. Citizen Scientist, Aaron Collins, [reviews masks for filtration effectiveness](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg) and talks about KF94 masks quite a bit.  Leave the N95 and FFP2 masks/respirators for respective medical and emergency workers.
 
-### High thread count cotton
+### Spunbond polypropeline masks
 
-Some studies in 2020 picked this as a material to use in mask making. Superficially, this material offers high protection, bit it comes with a high price - the fabric pulls onto your nostrils and lips as you breathe in. That's because breathability is lower for high TPI cotton than other fabrics. Spunbond polypropeline is far better, but requires multiple layers to get the filtration up.
+Your washable & breathable mask should feature spunbond polypropeline (SBPP) and be a **good fit** with nose wire. The more of the spunbond polypropeline the better - six or more layers of the thin SBPP (38 gsm or layer) or four+ layers of the thicker SBPP (68gsm).  Here's the filtration you should expect (using data from a [study commissioned by MakerMask.org](https://makermask.org/fabric-mask-material-testing-results))
 
-## We've known since the start that masks would help slow or stop the pandemic:
+![](https://1.bp.blogspot.com/-raM1DvmPyOQ/YMOuuvCV78I/AAAAAAAACRE/rBaKKQX0S7gnZiD3kkXpgT2vIasrb_VFwCLcBGAsYHQ/w622-h482/smarrt-fab.png)
+
+### High thread count cotton masks
+
+Some studies in 2020 picked this as a material to use in mask making. Superficially, this material offers high protection, bit it comes with a high price - the fabric pulls onto your nostrils and lips as you breathe in. That is because breathability is lower for high TPI cotton than other fabrics. Spunbond polypropeline is far better, but requires multiple layers to get the filtration up.
+
+## We have known since the start that masks would help slow or stop the pandemic:
 
 * Feb, 2021: [Effectiveness of Mask Wearing to Control Community Spread of SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2776536) - Brooks & Butler
 * Dec, 2020: University of Wisconsin "fitter" study (above)
