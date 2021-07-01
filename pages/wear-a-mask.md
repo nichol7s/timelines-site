@@ -27,7 +27,7 @@ Some studies in 2020 picked this as a material to use in mask making. Superficia
 ## We have known since the start that masks would help slow or stop the pandemic:
 
 * Feb, 2021: [Effectiveness of Mask Wearing to Control Community Spread of SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2776536) - Brooks & Butler
-* Dec, 2020: University of Wisconsin "fitter" study (above)
+* Dec, 2020: University of Wisconsin "fitter" study (see [fitters](/fitters))
 * Nov, 2020: Virginia Tech: [Cloth face coverings help protect both wearers and those nearby](https://vtnews.vt.edu/articles/2020/11/eng-marrmasks-1123.html) - Pan, Harb, Leng & Marr.
 * Q4 2020 onwards: Aaron Collins with the equipment needed at home [tests high-filtration masks he's acquired for filtration and leakage](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg)
 * Aug, 2020: Max-Planck Institute (Germany): [Aerosol filtration efficiency of household materials
@@ -52,99 +52,11 @@ Some studies in 2020 picked this as a material to use in mask making. Superficia
 * March 25, 2020; Goddard's Journal video: [first review of mask studies](https://www.youtube.com/watch?v=_JH04M04eQQ) over the years and that they work
 * Wikipedia Maintains a long page on mask use in the pandemic [here](https://en.wikipedia.org/wiki/Face_masks_during_the_COVID-19_pandemic)
 
-#### Goddard's October 2020 video links
+## Goddard’s Journal - listing the "masks work" studies
 
-Timings from start of video:
+Goddard’s Journal was among the very first to gather the studies that proved masks work. The author did work that many governments did not:
 
-<ul style="font-size: 80%">
-    <li><span>@</span><a href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=30s" >00:30</a>
-    <span> Wang et al (2020) </span>
-    <a 
-       href="https://gh.bmj.com/content/5/5/e002794"
-       rel="nofollow" target="_blank" >https://gh.bmj.com/content/5/5/e002794</a></li>
-    <li><span>@</span>
-    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=102s" >01:42</a>
-    <span> Chan et al (2020) </span>
-    <a 
-       href="https://academic.oup.com/cid/article/71/16/2139/5848814"
-       rel="nofollow" target="_blank" >https://academic.oup.com/cid/article/71/16/2139/5848814</a></li>
-    <li><span>@</span>
-    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=328s" >05:28</a>
-    <span> Chu et al (2020) </span>
-    <a 
-       href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext"
-       rel="nofollow" target="_blank" >https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext</a></li>
-    <li><span>@</span>
-    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=607s" >10:07</a>
-    <span> Leung et al (2020) </span>
-    <a 
-       href="https://www.nature.com/articles/s41591-020-0843-2"
-       rel="nofollow" target="_blank" >https://www.nature.com/articles/s41591-020-0843-2</a></li>
-    <li><span>@</span>
-    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=723s" >12:03</a>
-    <span> NHK program on airborne transmission </span>
-    <a 
-       href="https://youtu.be/watch?v=vBvFkQizTT4"
-       >https://youtu.be/vBvFkQizTT4</a></li>
-    <li><span>@</span>
-    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=762s" >12:42</a>
-    <span> Anfinrud et al (2020) </span><a 
-       href="https://www.nejm.org/doi/full/10.1056/NEJMc2007800">https://www.nejm.org/doi/full/10.1056/NEJMc2007800</a></li>
-    <li><span>@</span>
-    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=842s" >14:02</a>
-    <span> Fears et al (2020) </span>
-    <a 
-       href="https://wwwnc.cdc.gov/eid/article/26/9/20-1806_article"
-       rel="nofollow" target="_blank" >https://wwwnc.cdc.gov/eid/article/26/9/20-1806_article</a></li>
-    <li><span>@</span>
-    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=873s" >14:33</a>
-    <span> Lednicky et al (2020) </span>
-    <a 
-       href="https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext"
-       rel="nofollow" target="_blank" >https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext</a></li>
-    <li><span>@</span>
-    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=895s" >14:55</a>
-    <span> Bourouiba (2020) </span>
-    <a 
-       href="https://jamanetwork.com/journals/jama/fullarticle/2763852"
-       rel="nofollow" target="_blank" >https://jamanetwork.com/journals/jama/fullarticle/2763852</a></li>
-    <li><span>@</span>
-    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=905s" >15:05</a>
-    <span> Verma et al (2020) </span>
-    <a 
-       href="https://aip.scitation.org/doi/10.1063/5.0016018"
-       rel="nofollow" target="_blank" >https://aip.scitation.org/doi/10.1063/5.0016018</a></li>
-    <li><span>@</span>
-    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1006s" >16:46</a>
-    <span> Fischer et al (2020) </span>
-    <a 
-       href="https://advances.sciencemag.org/content/6/36/eabd3083"
-       rel="nofollow" target="_blank" >https://advances.sciencemag.org/content/6/36/eabd3083</a></li>
-    <li><span>@</span>
-    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1154s" >19:14</a>
-    <span> N95 mask-valve leakage </span>
-    <a  href="https://youtu.be/watch?v=JEy1cF2pMdM"
-       >https://youtu.be/JEy1cF2pMdM</a> (video)</li>
-    <li><span>@</span>
-    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1233s" >20:33</a>
-    <span> Anti-mask misinformation </span>
-    <a  href="https://youtu.be/watch?v=hJpS_jajub0"
-       >https://youtu.be/hJpS_jajub0</a> (video)</li>
-    <li><span>@</span>
-    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1242s" >20:42</a>
-    <span> That misinformation debunked by Prof Jimenez </span>
-    <a 
-       href="https://twitter.com/NuritBaytch/status/1300064418458472453"
-       rel="nofollow" target="_blank" >https://twitter.com/NuritBaytch/status/1300064418458472453</a></li>
-    <li><span>@</span>
-    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1249s" >20:49</a>
-    <span> Swiss-cheese protection model </span>
-    <a 
-       href="https://my.clevelandclinic.org/-/scassets/files/org/employer-solutions/covid-19-returning-to-work-guide.ashx"
-       rel="nofollow" target="_blank" >https://my.clevelandclinic.org/-/scassets/files/org/employer-solutions/covid-19-returning-to-work-guide.ashx</a></li>
-</ul>
-
-#### Goddard's March 2020 video links
+### Goddard's first video - March 2020 
 
 Timings from start of video:
 
@@ -249,6 +161,98 @@ Of the nine case-control studies cited in Goddard's quotation of Jefferson, seve
     <a href="https://youtu.be/watch?v=_JH04M04eQQ&amp;t=1114s" >18:34</a>
     <span> DIY facemask </span>
     <a href="https://youtu.be/watch?v=Bs-E_R5WWsY" >https://youtu.be/Bs-E_R5WWsY</a> (video)</li>
+</ul>
+
+### Goddard's second video - October 2020
+
+This was a follow up to the first, as noted at the start of the video. Timings from start of video:
+
+<ul style="font-size: 80%">
+    <li><span>@</span><a href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=30s" >00:30</a>
+    <span> Wang et al (2020) </span>
+    <a 
+       href="https://gh.bmj.com/content/5/5/e002794"
+       rel="nofollow" target="_blank" >https://gh.bmj.com/content/5/5/e002794</a></li>
+    <li><span>@</span>
+    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=102s" >01:42</a>
+    <span> Chan et al (2020) </span>
+    <a 
+       href="https://academic.oup.com/cid/article/71/16/2139/5848814"
+       rel="nofollow" target="_blank" >https://academic.oup.com/cid/article/71/16/2139/5848814</a></li>
+    <li><span>@</span>
+    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=328s" >05:28</a>
+    <span> Chu et al (2020) </span>
+    <a 
+       href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext"
+       rel="nofollow" target="_blank" >https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext</a></li>
+    <li><span>@</span>
+    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=607s" >10:07</a>
+    <span> Leung et al (2020) </span>
+    <a 
+       href="https://www.nature.com/articles/s41591-020-0843-2"
+       rel="nofollow" target="_blank" >https://www.nature.com/articles/s41591-020-0843-2</a></li>
+    <li><span>@</span>
+    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=723s" >12:03</a>
+    <span> NHK program on airborne transmission </span>
+    <a 
+       href="https://youtu.be/watch?v=vBvFkQizTT4"
+       >https://youtu.be/vBvFkQizTT4</a></li>
+    <li><span>@</span>
+    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=762s" >12:42</a>
+    <span> Anfinrud et al (2020) </span><a 
+       href="https://www.nejm.org/doi/full/10.1056/NEJMc2007800">https://www.nejm.org/doi/full/10.1056/NEJMc2007800</a></li>
+    <li><span>@</span>
+    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=842s" >14:02</a>
+    <span> Fears et al (2020) </span>
+    <a 
+       href="https://wwwnc.cdc.gov/eid/article/26/9/20-1806_article"
+       rel="nofollow" target="_blank" >https://wwwnc.cdc.gov/eid/article/26/9/20-1806_article</a></li>
+    <li><span>@</span>
+    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=873s" >14:33</a>
+    <span> Lednicky et al (2020) </span>
+    <a 
+       href="https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext"
+       rel="nofollow" target="_blank" >https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext</a></li>
+    <li><span>@</span>
+    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=895s" >14:55</a>
+    <span> Bourouiba (2020) </span>
+    <a 
+       href="https://jamanetwork.com/journals/jama/fullarticle/2763852"
+       rel="nofollow" target="_blank" >https://jamanetwork.com/journals/jama/fullarticle/2763852</a></li>
+    <li><span>@</span>
+    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=905s" >15:05</a>
+    <span> Verma et al (2020) </span>
+    <a 
+       href="https://aip.scitation.org/doi/10.1063/5.0016018"
+       rel="nofollow" target="_blank" >https://aip.scitation.org/doi/10.1063/5.0016018</a></li>
+    <li><span>@</span>
+    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1006s" >16:46</a>
+    <span> Fischer et al (2020) </span>
+    <a 
+       href="https://advances.sciencemag.org/content/6/36/eabd3083"
+       rel="nofollow" target="_blank" >https://advances.sciencemag.org/content/6/36/eabd3083</a></li>
+    <li><span>@</span>
+    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1154s" >19:14</a>
+    <span> N95 mask-valve leakage </span>
+    <a  href="https://youtu.be/watch?v=JEy1cF2pMdM"
+       >https://youtu.be/JEy1cF2pMdM</a> (video)</li>
+    <li><span>@</span>
+    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1233s" >20:33</a>
+    <span> Anti-mask misinformation </span>
+    <a  href="https://youtu.be/watch?v=hJpS_jajub0"
+       >https://youtu.be/hJpS_jajub0</a> (video)</li>
+    <li><span>@</span>
+    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1242s" >20:42</a>
+    <span> That misinformation debunked by Prof Jimenez </span>
+    <a 
+       href="https://twitter.com/NuritBaytch/status/1300064418458472453"
+       rel="nofollow" target="_blank" >https://twitter.com/NuritBaytch/status/1300064418458472453</a></li>
+    <li><span>@</span>
+    <a  href="https://youtu.be/watch?v=9CGrBygEQY0&amp;t=1249s" >20:49</a>
+    <span> Swiss-cheese protection model </span>
+    <a 
+       href="https://my.clevelandclinic.org/-/scassets/files/org/employer-solutions/covid-19-returning-to-work-guide.ashx"
+       rel="nofollow" target="_blank" >https://my.clevelandclinic.org/-/scassets/files/org/employer-solutions/covid-19-returning-to-work-guide.ashx</a></li>
 </ul>
 
 ## Anti-Masker activities
