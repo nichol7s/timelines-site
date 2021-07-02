@@ -9,13 +9,9 @@ permalink: /fitters
 
 [This University of Wisconsin study](https://www.medrxiv.org/content/10.1101/2020.12.31.20249101v1.full.pdf) (Rothamer et al 2020) is key: You must add a "fitter" to your **lower quality mask** to protect yourself.
 
-Pics of the four masks they tested:
+Their takeaway:
 
-![](https://user-images.githubusercontent.com/82182/105577025-d36f3b00-5d6e-11eb-8e83-530b27fa6758.png)
-
-The all-important filtration boost - indicated in chart form:
-
-![](https://user-images.githubusercontent.com/82182/105577092-5b554500-5d6f-11eb-97fd-037eba011a96.png)
+![](/media/fitters_wisconsin.png)
 
 See [fixthemask.com](https://fixthemask.com/) and [Badger Seal](https://making.engr.wisc.edu/mask-fitter/) and many other choices [google.com/search?q=mask+fitters](https://www.google.com/search?q=mask+fitters).
 
