@@ -16,13 +16,15 @@ If you can afford it, get KF94 masks (that are not cloth or washable) for use wh
 
 ### Spunbond Polypropylene masks
 
-Your washable & breathable mask should feature spunbond olypropylene (SBPP) and be a **good fit** with nose wire. The more of the spunbond polypropylene the better - six or more layers of the thin SBPP (38 gsm or layer) or four+ layers of the thicker SBPP (68gsm).  Here's the filtration you should expect (using data from a [study commissioned by MakerMask.org](https://makermask.org/fabric-mask-material-testing-results))
+Your washable & breathable mask should feature spunbond polypropylene (SBPP) and be a **good fit** with nose wire. The more of the spunbond polypropylene the better - six or more layers of the thin SBPP (38 gsm or layer) or four+ layers of the thicker SBPP (68gsm).  Here's the filtration you should expect (using data from a [study commissioned by MakerMask.org](https://makermask.org/fabric-mask-material-testing-results))
 
 ![](https://1.bp.blogspot.com/-raM1DvmPyOQ/YMOuuvCV78I/AAAAAAAACRE/rBaKKQX0S7gnZiD3kkXpgT2vIasrb_VFwCLcBGAsYHQ/w622-h482/smarrt-fab.png)
 
+Here is a [quick to sew pattern](https://cv-masks.github.io/ragmask-max.html) that features as many layers of spunbond polypropylene as your sewing machine can work with.
+
 ### High thread count cotton masks
 
-Some studies in 2020 picked this as a material to use in mask making. Superficially, this material offers high protection, bit it comes with a high price - the fabric pulls onto your nostrils and lips as you breathe in. That is because breathability is lower for high TPI cotton than other fabrics. Spunbond polypropylene is far better, but requires multiple layers to get the filtration up.  In summary - **high TPI cotton is a massive mistake for mask construction**.
+Some studies in 2020 picked this as a material to use in mask making. Superficially, this material offers high protection, bit it comes with a high price - the fabric pulls onto your nostrils and lips as you breathe in. That is because breathability is more of a problem for high TPI cotton than for other fabrics. Spunbond polypropylene is far better, but requires multiple layers to get the filtration up.  In summary - **high TPI cotton is a massive mistake for mask construction**.
 
 ## We have known since the start that masks would help slow or stop the pandemic:
 

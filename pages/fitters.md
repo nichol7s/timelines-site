@@ -5,6 +5,8 @@ layout: page
 permalink: /fitters
 ---
 
+[Wear a Mask](/wear-a-mask) / Fitters
+
 ## "Fitters" to be placed on top of your surgical-style mask (better masks)
 
 [This University of Wisconsin study](https://www.medrxiv.org/content/10.1101/2020.12.31.20249101v1.full.pdf) (Rothamer et al 2020) is key: You must add a "fitter" to your **lower quality mask** to protect yourself.
