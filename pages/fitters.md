@@ -2,7 +2,7 @@
 title: Fitters - it's airborne!
 nav_order: -1
 layout: page
-permalink: /fitters
+permalink: /wear-a-mask/fitters
 ---
 
 [Wear a Mask](/wear-a-mask) / Fitters

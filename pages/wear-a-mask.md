@@ -8,7 +8,7 @@ permalink: /wear-a-mask
 
 If you are in a country that has not yet eliminated COVID-19, wear a mask when mixing with other in enclosed spaces, whether vaccinated or not. Thin masks like the stretchy spandex (lycra) ones offer (say) 10% protection to you and perhaps better than 10% protection to others (if you are infected). If you can afford N95, FFP2, KF94 masks then consider having those instead of cloth masks as that is the best protection you can get.
 
-If you're wearing a surgical-style mask that you bought from the supermarket or a corner store, [consider a fitter](/fitters).
+If you're wearing a surgical-style mask that you bought from the supermarket or a corner store, [consider a fitter](/wear-a-mask/fitters).
 
 If you can't wear a mask or cloth face covering stay at home and get your food/groceries delivered. 
 
