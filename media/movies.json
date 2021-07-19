@@ -1,0 +1,31 @@
+{
+  "title": {
+    "media": {
+      "url": "",
+      "caption": "",
+      "credit": ""
+    },
+    "text": {
+      "headline": "Airborne viruses in the movies",
+      "text": "Right or wrong, some movies featured airborne viruses"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.youtube.com/watch?v=8aouT6EMJh8",
+        "caption": "",
+        "link": "",
+          "credit": ""
+      },
+      "start_date": {
+        "year": 2007,
+      },
+      "text": {
+        "headline": "I am Legend: Smug Doctor weaponizes Measles to cure cancer",
+        "text": "Measles with mods to cure cancer plot-line. Nearly all of humanity dead inside of three years: \"It is airborne\" .. \"it may be\""
+      }
+    }
+  ]
+}
