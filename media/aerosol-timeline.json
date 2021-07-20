@@ -1679,6 +1679,24 @@
         "headline": "Study: Malfunctioning bathroom air-exhaust causes airborne spread",
         "text": "Conclusion: Transmission of SARS-CoV-2 in the hematologic ward occurred rapidly in the multi-patient room and shared bathroom settings. In addition, there was a case of possible airborne transmission due to unexpected airflow."
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/126384982-e6ad2cf4-28f6-4a87-b7dc-b449c80f4cf5.png",
+        "caption": "",
+        "link": "https://www.medrxiv.org/content/10.1101/2021.07.15.21260561v1",
+        "credit": ""
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 7,
+        "day": 19
+      },
+      "text": {
+        "headline": "Study: 85% of virus is in the tiny particles",
+        "text": "Study on Viral Load of SARS-CoV-2 in Respiratory Aerosols Emitted by COVID-19 Patients while Breathing, Talking, and Singing. <a href='https://twitter.com/jmcrookston/status/1417192398967427074'>Via @jmcrookston</a>"
+      }
     }
   ]
 }
