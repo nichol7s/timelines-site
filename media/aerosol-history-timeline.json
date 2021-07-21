@@ -592,6 +592,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-04409-z/MediaObjects/41467_2018_4409_Fig1_HTML.jpg?as=webp",
+        "caption": "",
+        "link": "https://www.nature.com/articles/s41467-018-04409-z",
+        "credit": "Michaud, Thompson, Kaul, Espinoza, Richter, Xu, Lee, Pham, Beall, Malfatti, Azam, Knight, Burkart, Dupont, Prather"
+      },
+      "start_date": {
+        "year": "2018",
+        "month": 5,
+        "day": 22
+      },
+      "text": {
+        "headline": "Study: Taxon-specific aerosolization of bacteria and viruses in an experimental ocean-atmosphere mesocosm",
+        "text": "Need words here, team"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/104116944-0c41f580-5315-11eb-8b93-8808280e540c.png",
         "caption": "Removal of upper 2/3 of windows from frames mitigated TB infection",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217216/",
