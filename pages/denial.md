@@ -2,7 +2,7 @@
 title: Denial
 nav_order: -1
 layout: page
-permalink: denail
+permalink: denial
 ---
 
 # Up to July 2020
