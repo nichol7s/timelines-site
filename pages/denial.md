@@ -5,14 +5,14 @@ layout: page
 permalink: denial
 ---
 
-# Up to July 2020
+## Up to July 2020
 
-TODO
+Hi
 
-# July 2020 thru December 2020
+## July 2020 thru December 2020
 
-TODO
+team
 
-# Jan 2021 to date
+## Jan 2021 to date
 
-TODO
+help me out here ...
