@@ -41,6 +41,7 @@ Some studies in 2020 picked this as a material to use in mask making. Superficia
 
 ## Articles & More Information
 
+* July 21, 2021; Scott et al: [The introduction of a mandatory mask policy was associated with significantly reduced COVID-19 cases in a major metropolitan city](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253510)
 * June 29, 2021; BBC: [Covid: Masks upgrade cuts infection risk](https://www.bbc.co.uk/news/health-57636360)
 * June 5, 2021; Cheng et al: [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/372/6549/1439.full)
 * March 5, 2021; [The Virus Spread Where Restaurants Reopened or Mask Mandates Were Absent](https://www.nytimes.com/2021/03/05/health/coronavirus-restaurant-dining-masks.html)

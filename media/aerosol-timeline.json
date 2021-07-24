@@ -621,6 +621,25 @@
     },
     {
       "media": {
+        "thumbnail": "",
+        "url": "https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/fd851e8b-3097-4114-9a53-910508cddff0/fx1.jpg",
+        "caption": "",
+        "link": "https://news.v.daum.net/v/20200916030023673",
+        "credit": "Lednicky, Lauzardo, Fan, Cherabuddi, Morris, and Wu"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 9,
+        "day": 16,
+        "hour": 12
+      },
+      "text": {
+        "headline": "Study: Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients",
+        "text": "Conclusion: Patients with respiratory manifestations of COVID-19 produce aerosols [that] may serve as a source of transmission of the virus."
+      }
+    },
+    {
+      "media": {
         "thumbnail": "/media/cdc_retract.jpg",
         "url": "https://storage.googleapis.com/afs-prod/media/d478dedd87ee43fea2784a7a3ef02c09/800.jpeg",
         "caption": "Centers for Disease Control and Prevention Director Dr. Robert Redfield puts his mask back on after speaking at a Senate Appropriations subcommittee hearing",
@@ -1685,8 +1704,8 @@
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/126384982-e6ad2cf4-28f6-4a87-b7dc-b449c80f4cf5.png",
         "caption": "",
-        "link": "https://www.medrxiv.org/content/10.1101/2021.07.15.21260561v1",
-        "credit": ""
+        "link": "https://www.medrxiv.org/content/10.1101/2021.07.15.21260561v2",
+        "credit": "Coleman, Tay, Tan, Ong, Son, Koh, Chin, Nasir, Mak, Chu, Milton, Chow, Tambyah, Chen, and Wai"
       },
       "start_date": {
         "year": 2021,
