@@ -41,6 +41,7 @@ Some studies in 2020 picked this as a material to use in mask making. Superficia
 
 ## Articles & More Information
 
+* July 22, 2021; [Study reveals mask rule turned Melbourne’s deadly second wave ‘overnight’](https://www.theaustralian.com.au/breaking-news/study-reveals-mask-rule-turned-melbournes-deadly-second-wave-overnight/news-story/937b48bc9a711ff3501435fb03c4ffcf)
 * July 21, 2021; Scott et al: [The introduction of a mandatory mask policy was associated with significantly reduced COVID-19 cases in a major metropolitan city](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253510)
 * June 29, 2021; BBC: [Covid: Masks upgrade cuts infection risk](https://www.bbc.co.uk/news/health-57636360)
 * June 5, 2021; Cheng et al: [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/372/6549/1439.full)
@@ -272,7 +273,7 @@ Their bogus talking points:
 
 * "just search for it, I don't have to give you links to studies"
 * "masks starve your oxygen" - *they do not*
-* "Country X or state Y doesn't have masks and they're better than your country". Ask them what they think about Taiwan or South Korea who've performed among the best (with masks), and they get all racist or suggest it is faked. 
+* "Country X or state Y doesn't have masks, and they're better than your country". Ask them what they think about Taiwan or South Korea who've performed among the best (with masks), and they get all racist or suggest it is faked. 
 
 ### Raina MacIntyre's work
 
