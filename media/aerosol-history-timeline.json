@@ -667,6 +667,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.youtube.com/watch?v=fJ1NN0HZWcQ",
+        "caption": "",
+        "link": "",
+        "credit": "TedMed 2018"
+      },
+      "start_date": {
+        "year": "2019",
+        "month": 7,
+        "day": 22
+      },
+      "text": {
+        "headline": "TedMed Talk: Lydia Bourouiba describes airborne transmission for generic epidemics",
+        "text": "Lydia, details the ridicule of Wells and the mistakes that medicine has been making for 70 years focussing on everything but aerosols"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/114778424-bb56f880-9d6c-11eb-8137-db1c5948e247.png",
         "caption": "",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6900272/#:~:text=aureus%20strains%2C%20including%20MRSA%20(methicillin,empirically%20confirmed%20in%20environmental%20studies.",
