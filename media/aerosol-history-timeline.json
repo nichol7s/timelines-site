@@ -436,6 +436,22 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/127815980-29ec264d-3ed7-4fb4-b6d9-f84e45b2118a.png",
+        "caption": "",
+        "link": "https://erj.ersjournals.com/content/38/Suppl_55/1722",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2011"
+      },
+      "text": {
+        "headline": "Study: respiratory syncytial virus (RSV) is airborne",
+        "text": "Conclusions: \"Infants with RSV bronchiolitis produce aerosols that contain infectious RSV in aerosols small enough to deposit in the lower airways. These findings may influence infection control strategies to prevent aerosol transmission of RSV in a hospital setting\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://journals.plos.org/plospathogens/article/figure/image?size=inline&id=info:doi/10.1371/journal.ppat.1003205.g002",
         "caption": "Exhaled breath collection system.",
         "link": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1003205",
