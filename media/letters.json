@@ -316,6 +316,24 @@
         "headline": "Mitigating airborne transmission of SARS-CoV-2",
         "text": "Short- and long-range aerosol inhalation, or airborne transmission, of SARS-CoV-2 has been recognized by international public health agencies. Canadian public health guidance and policies should be updated to address this mode of transmission."
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/74545833/128379596-4c386f9b-6350-43a5-995f-7d32dfb76215.jpg",
+        "caption": "",
+        "link": "https://ospe.on.ca/advocacy/engineers-call-on-government-to-address-the-airborne-transmission-of-covid-19-ahead-of-september-2021-return-to-the-classroom/",
+          "credit": "OSPE (Ontario Society of Professional Engineers)"
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 7,
+        "day": 26
+      },
+      "text": {
+        "headline": "Engineers call on government to address the airborne transmission of COVID-19 ahead of September 2021 return to the classroom",
+        "text": "OSPE is calling on the Ontario government to consult with engineers, scientists, HVAC specialists and other experts immediately to adequately address this issue before more outbreaks occur."
+      }
     }
   ]
 }
