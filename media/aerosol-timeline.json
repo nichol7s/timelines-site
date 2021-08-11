@@ -1716,6 +1716,24 @@
         "headline": "Study: 85% of virus is in the tiny particles",
         "text": "Study on Viral Load of SARS-CoV-2 in Respiratory Aerosols Emitted by COVID-19 Patients while Breathing, Talking, and Singing. <a href='https://twitter.com/jmcrookston/status/1417192398967427074'>Via @jmcrookston</a>"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/129077013-b0ec8143-c1b9-4f86-8631-c9e8b914fc35.png",
+        "caption": "",
+        "link": "https://www.biorxiv.org/content/10.1101/2021.08.10.455702v1",
+        "credit": "Hawks, Prussin, Kuchinsky, Pan, Marr, Duggal"
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 8,
+        "day": 10
+      },
+      "text": {
+        "headline": "Study: Infectious SARS-CoV-2 is emitted in aerosols",
+        "text": "SARS233 CoV-2 may be maintained in the air for hours and over larger distances that previously recognized"
+      }
     }
   ]
 }
