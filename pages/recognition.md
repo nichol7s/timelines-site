@@ -14,4 +14,4 @@ permalink: /recognition
 | United Kingdom | No | Policymakers are still pushing fomites, large droplets and hand washing |
 | United States | No | Policymakers are still pushing fomites, large droplets and hand washing |
 
-<script>$('td.status[value=No]').closest('tr').css('background-color', 'red');</script>
+<script>$('td[value=No]').closest('tr').css('background-color', 'red');</script>
