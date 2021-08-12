@@ -13,7 +13,7 @@ g { color: Green }
 
 ## Countries
 
-| China | Yes | China operates on the basis that SARS-2-COV is airborne |
+| China | <g>Yes</g> | China operates on the basis that SARS-2-COV is airborne |
 | Sweden | <r>No</r> | Policymakers are still pushing fomites, large droplets and hand washing | 
 | United Kingdom | <r>No</r> | Policymakers are still pushing fomites, large droplets and hand washing |
 | United States | <r>No</r> | Policymakers are still pushing fomites, large droplets and hand washing |
