@@ -5,13 +5,15 @@ layout: page
 permalink: /recognition
 ---
 
-<script src="/assets/lib/jquery-3.5.1.min.js" ></script>
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
 
 ## Countries
 
 | China | Yes | China operates on the basis that SARS-2-COV is airborne |
-| Sweden | No | Policymakers are still pushing fomites, large droplets and hand washing | 
-| United Kingdom | No | Policymakers are still pushing fomites, large droplets and hand washing |
-| United States | No | Policymakers are still pushing fomites, large droplets and hand washing |
-
-<script>$('td[value=No]').closest('tr').css('background-color', 'red');</script>
+| Sweden | <r>No</r> | Policymakers are still pushing fomites, large droplets and hand washing | 
+| United Kingdom | <r>No</r> | Policymakers are still pushing fomites, large droplets and hand washing |
+| United States | <r>No</r> | Policymakers are still pushing fomites, large droplets and hand washing |
