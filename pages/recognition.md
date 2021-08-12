@@ -5,6 +5,8 @@ layout: page
 permalink: /recognition
 ---
 
+<script src="/assets/lib/jquery-3.5.1.min.js" ></script>
+
 ## Countries
 
 | China | Yes | China operates on the basis that SARS-2-COV is airborne |
