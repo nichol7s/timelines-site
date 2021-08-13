@@ -18,7 +18,7 @@ The resulting diagram is big and **best viewed on a laptop or desktop**. Click/t
 * [tinyurl.com/8tv3gxlk](https://tinyurl.com/8tv3gxlk) - COVID-19 has 50-100 times the deaths of flu
 * [its-airborne.org/1](https://its-airborne.org/1) - Covid-19 is airborne - timeline on this site
 * [its-airborne.org/2](https://its-airborne.org/2) - Many other diseases are airborne - timeline on this site
-* [https://www.salon.com/2011/02/28/biases](https://www.salon.com/2011/02/28/biases) - Media generally biasing towards national policy/strategy
+* [https://www.salon.com/2011/02/28/biases](https://www.salon.com/2011/02/28/biases) - Media generally biasing towards national policy/strategy. There was a study of these biases using one particular wikileaks dump that compared France (LaMonde), UK (TheGuardian), USA (New York Times), and others towards the same biases conclusion.
 
 ## Background for Reality Trees
 
