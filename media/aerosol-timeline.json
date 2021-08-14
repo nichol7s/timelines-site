@@ -1734,6 +1734,24 @@
         "headline": "Study: Infectious SARS-CoV-2 is emitted in aerosols",
         "text": "SARS-CoV-2 may be maintained in the air for hours and over larger distances that previously recognized"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/129450361-e5a6d3bf-2f62-4ed1-8328-eb400df38171.png",
+        "caption": "",
+        "link": "https://www.medrxiv.org/content/10.1101/2021.08.13.21261989v1",
+        "credit": "Adenaiye, Lai, de Mesquita, Hong, Youssefi, German,Tai, Albert  Schanz  Weston  Hang, Fung, Chung, Coleman, Sapoval,   Treangen, Berry, Mullins, Frieman, Ma, Milton"
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 8,
+        "day": 13
+      },
+      "text": {
+        "headline": "Study: Infectious SARS-CoV-2 in Exhaled Aerosols and Efficacy of Masks During Early Mild Infection",
+        "text": ":Conclusion: \"SARS-CoV-2 is evolving toward more efficient airborne transmission and loose-fitting masks provide significant but only modest source control. Therefore, until vaccination rates are very high, continued layered controls and tight-fitting masks and respirators will be necessary\""
+      }
     }
   ]
 }
