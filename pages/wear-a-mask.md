@@ -28,40 +28,39 @@ Some studies in 2020 picked this as a material to use in mask making. Superficia
 
 ## We have known since the start that masks would help slow or stop the pandemic:
 
-* Feb, 2021: [Effectiveness of Mask Wearing to Control Community Spread of SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2776536) - Brooks & Butler
-* Dec, 2020: University of Wisconsin "fitter" study (see [fitters](/fitters))
-* Nov, 2020: Virginia Tech: [Cloth face coverings help protect both wearers and those nearby](https://vtnews.vt.edu/articles/2020/11/eng-marrmasks-1123.html) - Pan, Harb, Leng & Marr.
-* Q4 2020 onwards: Aaron Collins with the equipment needed at home [tests high-filtration masks he's acquired for filtration and leakage](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg)
-* Aug, 2020: Max-Planck Institute (Germany): [Aerosol filtration efficiency of household materials
-  for homemade face masks: Influence of material
-  properties, particle size, particle electrical charge,
-  face velocity, and leaks](https://www.mpic.de/4745772/update-alltagsmasken-in-weiteren-tests) - Drewnick et al.
-* May, 2020: University of Chicago and Argonne National Labs (USA): [Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7185834/) - Konda et al.
-* May, 2021: Cheng, Ma2, Witt, Rapp, Wild, Andreae, Pöschl, and Su: [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/early/2021/05/19/science.abg6296)
+From the fall of 2020 onwards, Aaron Collins with the equipment he had at his home [tests high-filtration masks he's acquired for filtration and leakage](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg). One of the stars of masks4All in the pandemic.
 
-## Articles & More Information
+Article in reverse chronological order:
 
 * July 22, 2021; [Study reveals mask rule turned Melbourne’s deadly second wave ‘overnight’](https://www.theaustralian.com.au/breaking-news/study-reveals-mask-rule-turned-melbournes-deadly-second-wave-overnight/news-story/937b48bc9a711ff3501435fb03c4ffcf) [Studu itself](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253510).
 * July 21, 2021; Scott et al: [The introduction of a mandatory mask policy was associated with significantly reduced COVID-19 cases in a major metropolitan city](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253510)
 * June 29, 2021; BBC: [Covid: Masks upgrade cuts infection risk](https://www.bbc.co.uk/news/health-57636360)
 * June 5, 2021; Cheng et al: [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/372/6549/1439.full)
+* May, 2021: Cheng, Ma2, Witt, Rapp, Wild, Andreae, Pöschl, and Su: [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/early/2021/05/19/science.abg6296)
 * March 5, 2021; [The Virus Spread Where Restaurants Reopened or Mask Mandates Were Absent](https://www.nytimes.com/2021/03/05/health/coronavirus-restaurant-dining-masks.html)
+* Feb, 2021: [Effectiveness of Mask Wearing to Control Community Spread of SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2776536) - Brooks & Butler
 * January 29, 2021; New York Times & Colorado State Mask Study: [How to Choose the Best Cloth Face Mask for You](https://www.nytimes.com/wirecutter/reviews/best-cloth-face-masks/#how-we-picked-and-tested)
 * January 28, 2021; Buzzfeed: [What Is Double-Masking? Here’s How It Can Keep You Safer From The Coronavirus](https://www.buzzfeednews.com/article/skbaer/double-masking-coronavirus-variants)
 * January 28, 2021; Salon e-Zine: [How high-filtration masks — like the KN95, N95 and KN94 — differ](https://www.salon.com/2021/01/27/covid-19-face-masks-how-filtration-masks--like-the-kn95-n95-and-kn94--differ/)
 * January 28, 2021; CBC: [Why you might want to start wearing better masks — even outdoors](https://www.cbc.ca/news/health/masks-coronavirus-variants-canada-1.5890893)
 * January 27, 2021; Slate e-Zine: [Do You Really Need Two Masks Now?](https://slate.com/technology/2021/01/coronavirus-two-masks-when-how.html)
 * January 26, 2021; Jeremy Howard et al: [An evidence review of face masks against COVID-19](https://www.pnas.org/content/118/4/e2014564118)
+* Dec, 2020: University of Wisconsin "fitter" study (see [fitters](/fitters))
 * December 2020; William G. Lindsley: [Efficacy of face masks, neck gaiters and face shields for reducing the expulsion of simulated cough-generated aerosols](https://www.tandfonline.com/doi/full/10.1080/02786826.2020.1862409)
+* Nov, 2020: Virginia Tech: [Cloth face coverings help protect both wearers and those nearby](https://vtnews.vt.edu/articles/2020/11/eng-marrmasks-1123.html) - Pan, Harb, Leng & Marr.
 * August 26, 2020; Wei Lyu and George L. Wehby study: [The Forgotten Science Behind Face Masks](https://www.webmd.com/lung/news/20200826/the-forgotten-science-behind-face-masks) 
 * August, 2020; Webmd article: [Community Use Of Face Masks And COVID-19: Evidence From A Natural Experiment Of State Mandates In The US](https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2020.00818) 
+* Aug, 2020: Max-Planck Institute (Germany): [Aerosol filtration efficiency of household materials
+  for homemade face masks: Influence of material properties, particle size, particle electrical charge, face velocity, and leaks](https://www.mpic.de/4745772/update-alltagsmasken-in-weiteren-tests) - Drewnick et al.
 * Masks **do not** create a false sense of security, See Twitter [thread](https://twitter.com/robshirkey/status/1272945481820356608) by Rob Shirkey
 * Active since March 2020; [Masks4all.co](https://masks4all.co) portal has been pushing the "masks for all" message. And a [discussion forum on reddit for the same](https://www.reddit.com/r/Masks4All/)
 * Since March 2020; [damerousky.cz](https://damerousky.cz/en): Citizen made portal for making masks, started in the Czech Republic (Europe) and now an international multi-language effort
 * [DiyMasks.ie](https://diymasks.ie/) - more citizen made mask choices and links
 * October 15, 2020; Goddard's Journal video: [second review of mask studies](https://www.youtube.com/watch?v=9CGrBygEQY0) over the years and that they work
+* May, 2020: University of Chicago and Argonne National Labs (USA): [Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7185834/) - Konda et al.
 * March 25, 2020; Goddard's Journal video: [first review of mask studies](https://www.youtube.com/watch?v=_JH04M04eQQ) over the years and that they work
-* Wikipedia Maintains a long page on mask use in the pandemic [here](https://en.wikipedia.org/wiki/Face_masks_during_the_COVID-19_pandemic)
+  
+Wikipedia Maintains a long page on mask use in the pandemic [here](https://en.wikipedia.org/wiki/Face_masks_during_the_COVID-19_pandemic)
 
 ## Goddard’s Journal - listing the "masks work" studies
 
