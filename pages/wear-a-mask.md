@@ -6,7 +6,7 @@ layout: page
 permalink: /wear-a-mask
 ---
 
-If you are in a country that has not yet eliminated COVID-19, wear a mask when mixing with other in enclosed spaces, whether vaccinated or not. Thin masks like the stretchy spandex (lycra) ones offer (say) 10% protection to you and perhaps better than 10% protection to others (if you are infected). If you can afford N95, FFP2, KF94 masks then consider having those instead of cloth masks as that is the best protection you can get.
+If you are in a country that has not yet eliminated COVID-19, wear a mask when mixing with other in enclosed spaces, whether vaccinated or not. Thin masks like the stretchy spandex (lycra) one's offer (say) 10% protection to the wearer and perhaps better than 10% protection to others (if you are infected). If you can afford N95, FFP2, KF94 masks then consider having those instead of cloth masks as that is the best protection you can get.
 
 If you're wearing a surgical-style mask that you bought from the supermarket or a corner store, [consider a fitter](/wear-a-mask/fitters).
 
@@ -14,13 +14,13 @@ If you can't wear a mask or cloth face covering stay at home and get your food/g
 
 If you can afford it, get KF94 masks (that are not cloth or washable) for use when mixing with other in public. Citizen Scientist, Aaron Collins, [reviews masks for filtration effectiveness](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg) and talks about KF94 masks quite a bit.  Leave the N95 and FFP2 masks/respirators for respective medical and emergency workers.
 
-### Spunbond Polypropylene masks
+### Cheap washable Spunbond Polypropylene masks
 
-Your washable & breathable mask should feature spunbond polypropylene (SBPP) and be a **good fit** with nose wire. The more of the spunbond polypropylene the better - six or more layers of the thin SBPP (38 gsm or layer) or four+ layers of the thicker SBPP (68gsm).  Here's the filtration you should expect (using data from a [study commissioned by MakerMask.org](https://makermask.org/fabric-mask-material-testing-results))
+Your washable & breathable mask should feature spunbond polypropylene (SBPP) and be a **good fit** with nose wire. The more of the spunbond polypropylene the better - four layers of 80 GSM SBPP will get you 87% on its own (no cotton).  Here's the filtration you should expect (using data from a [study data from a North American University](https://fu-cv.blogspot.com/2021/08/lab-tests-for-spunbond-polypropylene.html))
 
-![](https://1.bp.blogspot.com/-raM1DvmPyOQ/YMOuuvCV78I/AAAAAAAACRE/rBaKKQX0S7gnZiD3kkXpgT2vIasrb_VFwCLcBGAsYHQ/w622-h482/smarrt-fab.png)
+![](/media/sbpp_graph.png)
 
-Here is a [quick to sew pattern](https://cv-masks.github.io/ragmask-max.html) that features as many layers of spunbond polypropylene as your sewing machine can work with.
+Here are a [quick to sew patterns](https://fu-cv.blogspot.com) specifically for high-filtration washable SBPP masks
 
 ### High thread count cotton masks
 
