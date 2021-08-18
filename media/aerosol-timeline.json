@@ -1806,6 +1806,24 @@
         "headline": "Study: Infectious SARS-CoV-2 in Exhaled Aerosols and Efficacy of Masks During Early Mild Infection",
         "text": "Conclusion: \"SARS-CoV-2 is evolving toward more efficient airborne transmission and loose-fitting masks provide significant but only modest source control. Therefore, until vaccination rates are very high, continued layered controls and tight-fitting masks and respirators will be necessary\""
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/129846695-d8b8a1e8-c0ec-4fab-8153-a169ec23191a.png",
+        "caption": "",
+        "link": "https://www.nature.com/articles/s41467-021-25156-8.pdf",
+        "credit": "Port, Yinda, Owusu1, Holbrook, Fischer, Bushmaker, Avanzato, Schulz1, Martens, Doremalen, Clancy, Munster"
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 8,
+        "day": 17
+      },
+      "text": {
+        "headline": "Study: SARS-CoV-2 disease severity and transmission\nefficiency is increased for airborne compared to fomite exposure in Syrian hamsters",
+        "text": "Excerpts: \"Airborne transmission is more efficient than fomite transmission in the Syrian hamster\", \"Aerosol exposure\nled to a rapidly progressing respiratory disease...\", and \" ... more severe disease is associated with direct deposition of\nthe virus in the lower respiratory tract...\""
+      }
     }
   ]
 }
