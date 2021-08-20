@@ -193,6 +193,24 @@
     },
     {
       "media": {
+        "thumbnail": "",
+        "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0160412020320675-ga1.jpg",
+        "caption": "",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/32416374/",
+        "credit": "G.Buonannoa, L.Morawskab, L. Stabile"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 5,
+        "day": 11
+      },
+      "text": {
+        "headline": "Estimation of airborne viral emission: Quanta emission rate of SARS-CoV-2 for infection risk assessment",
+        "text": "\"... airborne transmission of SARS-CoV-2 by an asymptomatic subject within pharmacies, supermarkets, restaurants, banks, and post offices were simulated, and the reduction in the average number of infected people from one contagious person, R0, was estimated\""
+      }
+    },
+    {
+      "media": {
         "thumbnail": "/media/choir.png",
         "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6919e6_ChoirPracticeCOVID19_IMAGE_12May20_1200x675-medium.jpg",
         "caption": "Skagit Choir seatmap: infection distance",
