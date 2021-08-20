@@ -875,6 +875,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0160412020320675-ga1.jpg",
+        "caption": "",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0160412020320675?via%3Dihub",
+        "credit": "G.Buonannoa, L.Morawskab, L. Stabile"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 1
+      },
+      "text": {
+        "headline": "Quantitative assessment of the risk of airborne transmission of SARS-CoV-2 infection: Prospective and retrospective applications",
+        "text": "\"Airborne transmission represents the main route of contagion in [the cases studies]\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://www.medrxiv.org/content/medrxiv/early/2020/12/02/2020.10.13.20212233/F4.large.jpg",
         "caption": "Heterogeneity and kinetics of SARS-CoV-2 rVL",
         "link": "https://www.medrxiv.org/content/10.1101/2020.10.13.20212233v3.full-text",
