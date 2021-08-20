@@ -983,6 +983,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7834623/bin/gr1_lrg.jpg",
+        "caption": "Structure of the apartment building where the infection outbreaks occurred",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7834623/",
+        "credit": "Seo Eun Hwang, Je Hwan Chang, Bumjo Oh, and Jongho Heo"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 17
+      },
+      "text": {
+        "headline": "Study: Possible aerosol transmission of COVID-19 associated with an outbreak in an apartment",
+        "text": "Our study also implies that the rigid rules of safe distancing that stick to droplet and contact transmission based on an outdated dichotomous notion of respiratory droplet or aerosols should be reconsidered"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://static.ffx.io/images/$zoom_0.303%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/c7517a648c513a1073e789607bc3e75ebf7e3e6b",
         "caption": "Location of outbreak - restaurant in Melbourne",
         "link": "https://www.theage.com.au/national/victoria/airflow-and-seating-likely-factors-in-thai-restaurant-cluster-20210109-p56sup.html",
