@@ -32,6 +32,8 @@ From the fall of 2020 onwards, Aaron Collins with the equipment he had at his ho
 
 Article in reverse chronological order:
 
+* Aug 19, 2021; [Study supports widespread use of better masks to curb COVID-19 indoors](https://uwaterloo.ca/news/media/study-supports-widespread-use-better-masks-curb-covid-19)
+* Aug 6 2021; ["Wearing a mask is not a political statement"](https://www.newstatesman.com/spotlight/coronavirus/2021/08/wearing-mask-not-political-statement)
 * July 22, 2021; [Study reveals mask rule turned Melbourne’s deadly second wave ‘overnight’](https://www.theaustralian.com.au/breaking-news/study-reveals-mask-rule-turned-melbournes-deadly-second-wave-overnight/news-story/937b48bc9a711ff3501435fb03c4ffcf) [Studu itself](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253510).
 * July 21, 2021; Scott et al: [The introduction of a mandatory mask policy was associated with significantly reduced COVID-19 cases in a major metropolitan city](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253510)
 * June 29, 2021; BBC: [Covid: Masks upgrade cuts infection risk](https://www.bbc.co.uk/news/health-57636360)
