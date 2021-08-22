@@ -12,15 +12,17 @@ If you're wearing a surgical-style mask that you bought from the supermarket or 
 
 If you can't wear a mask or cloth face covering stay at home and get your food/groceries delivered. 
 
-If you can afford it, get KF94 masks (that are not cloth or washable) for use when mixing with other in public. Citizen Scientist, Aaron Collins, [reviews masks for filtration effectiveness](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg) and talks about KF94 masks quite a bit.  Leave the N95 and FFP2 masks/respirators for respective medical and emergency workers.
+### N95, FFP2, KF94, CN95
 
-### Cheap washable Spunbond Polypropylene masks
+If you can afford it, get N95/KF94 grade masks (that are not cloth or washable) for use when mixing with other in public. Citizen Scientist, Aaron Collins, [reviews masks for filtration effectiveness](https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg) and talks about KF94 masks quite a bit.  Leave the N95 and FFP2 masks/respirators for respective medical and emergency workers.
+
+### Can't afford N95 grade masks?
 
 Your washable & breathable mask should feature spunbond polypropylene (SBPP) and be a **good fit** with nose wire. The more of the spunbond polypropylene the better - four layers of 80 GSM SBPP will get you 87% on its own (no cotton).  Here's the filtration you should expect (using data from a [study data from a North American University](https://fu-cv.blogspot.com/2021/08/lab-tests-for-spunbond-polypropylene.html))
 
 ![](/media/sbpp_graph.png)
 
-Here are a [quick to sew patterns](https://fu-cv.blogspot.com) specifically for high-filtration washable SBPP masks
+Here are [quick to sew patterns](https://fu-cv.blogspot.com) specifically for high-filtration washable SBPP masks
 
 ### High thread count cotton masks
 
