@@ -1,6 +1,5 @@
 ---
 title: A historical list of infectious disease transmitted in aerosols
-nav_order: -1
 permalink: /th/historical-list
 layout: page
 ---

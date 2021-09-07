@@ -1,7 +1,6 @@
 ---
 title: A historical timeline of infectious disease transmitted in aerosols
-nav: History of Aerosol Diseases ⟿ 
-timeline-json: aerosol-history-timeline.json
+timeline-json: th/aerosol-history-timeline.json
 permalink: /th/historical-timeline
 
 timeline-options: 

@@ -1,6 +1,5 @@
 ---
 title: COVID-19 is transmitted in aerosols - it's airborne!
-nav: Home
 layout: page
 permalink: /th/
 ---

@@ -1,6 +1,5 @@
 ---
 title:  COVID-19 Aerosol list
-nav_order: -1
 permalink: /th/covid19-list
 layout: page
 ---

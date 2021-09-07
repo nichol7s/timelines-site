@@ -1,7 +1,6 @@
 ---
 title: COVID-19 Aerosol timeline
-nav: COVID-19 timeline ⟿
-timeline-json: aerosol-timeline.json
+timeline-json: th/aerosol-timeline.json
 permalink: /th/covid19-timeline
 timeline-options: 
   hash_bookmark: true

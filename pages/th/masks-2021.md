@@ -1,7 +1,6 @@
 ---
 title: Better Masks in 2021
-nav: "Better Masks in 2021 ⟿"
-timeline-json: masks-2021.json
+timeline-json: th/masks-2021.json
 permalink: /th/masks-2021
 
 timeline-options: 
