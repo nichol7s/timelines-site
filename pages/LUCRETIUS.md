@@ -1,7 +1,5 @@
 ---
 title: “Infection of the air” - De rerum natura, book VI - Lucretius
-nav: Lucretius 95 BC
-nav_order: -1
 layout: page
 permalink: /lucretius
 ---
