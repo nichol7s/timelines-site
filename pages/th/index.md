@@ -6,50 +6,50 @@ permalink: /th/
 
 **Status:**
 
-* May 2021: USA's CDC has acknowledged that airborne/aerosol is the predominant transmission mechanism.
-* WHO: still mumbling about this.
-* Some governments that had previously followed the WHO's fomites/droplets dogma, have updated ventilation guidelines. None are very clear in following the USA's CDC and their recent acknowledgement of "it's airborne"
-* Hospitals, orgs/groups: - as governments above.
+* พฤษภาคม 2564: CDC ของสหรัฐอเมริกายอมรับว่าอากาศ/ละอองลอยเป็นกลไกการส่งสัญญาณหลัก.
+* WHO: ยังคงพึมพำเกี่ยวกับเรื่องนี้
+* รัฐบาลบางแห่งที่เคยปฏิบัติตามหลัก fomites/droplets ของ WHO ได้ปรับปรุงแนวทางการช่วยหายใจ ไม่มีความชัดเจนในการติดตาม CDC ของสหรัฐอเมริกาและการยอมรับล่าสุดของพวกเขาเรื่อง "it's airborne"
+*โรงพยาบาล องค์กร/กลุ่ม: - ตามที่รัฐบาลข้างต้น
 
-This site exists as a resource to outline that there has been scientific evidence for some time to support COVID-19 infection being driven by airborne/aerosol transmission. This is not new science, it is old science and various national and international organizations made mistakes by not sating so. The next pandemic should assume the same rather than waste months with policies that did not halt infections. 
+ไซต์นี้มีไว้เพื่อเป็นแหล่งข้อมูลในการสรุปว่ามีหลักฐานทางวิทยาศาสตร์มาระยะหนึ่งแล้วเพื่อสนับสนุนการติดเชื้อ COVID-19 ที่ส่งผ่านทางอากาศ/ละอองลอย นี่ไม่ใช่วิทยาศาสตร์ใหม่ แต่เป็นวิทยาศาสตร์แบบเก่าและองค์กรระดับชาติและระดับนานาชาติหลายแห่งทำผิดพลาดโดยไม่ตั้งใจ การระบาดใหญ่ครั้งต่อไปควรเป็นแบบเดียวกันแทนที่จะเสียเวลาหลายเดือนกับนโยบายที่ไม่หยุดการติดเชื้อ
 
-To learn more, follow these experts who study aerosol and are activey pushing the **COVID is airborne** agenda: **Prof Jose-Luis Jimenez**, **Prof Kimberly Prather** and **Prof Linsey Marr** who have been educating the world on the aerosol transmission nature of COVID-19. Their Twitter accounts - [@jljcolorado](https://twitter.com/jljcolorado), [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr) - which you should follow.
+หากต้องการเรียนรู้เพิ่มเติม โปรดปฏิบัติตามผู้เชี่ยวชาญเหล่านี้ที่ศึกษาเรื่องละอองลอยและกำลังผลักดันวาระ **โควิดอยู่ในอากาศ**: **Prof Jose-Luis Jimenez**, **Prof Kimberly Prather** และ **Prof Linsey Marr** ซึ่ง ได้ให้ความรู้แก่โลกเกี่ยวกับลักษณะการแพร่กระจายของละอองลอยของ COVID-19 บัญชี Twitter ของพวกเขา - [@jljcolorado](https://twitter.com/jljcolorado), [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr) - ที่คุณควรปฏิบัติตาม
 
-## Four timelines are hosted on this microsite
+## ไมโครไซต์นี้โฮสต์ไทม์ไลน์สี่เส้น
 
-### 1. COVID-19 is Airborne (studies/events):
+### 1. COVID-19 แพร่ระบาดในอากาศ (การศึกษา/เหตุการณ์):
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/105086476-f361de80-5a90-11eb-8d3f-7dab334afa3d.png)](/th/covid19-timeline)
 {: refdef}
 
-Throughout the pandemic there have been studies, and events that prove the virus is airborne/aerosolized. Some countries set policy based on that fact from the start. This timeline spans the pandemic duration and calls out such 'events'.
+ตลอดช่วงการแพร่ระบาด มีการศึกษาและเหตุการณ์ที่พิสูจน์ว่าไวรัสส่งผ่านอากาศ/ละอองลอย บางประเทศกำหนดนโยบายตามข้อเท็จจริงนั้นตั้งแต่เริ่มต้น ไทม์ไลน์นี้ครอบคลุมระยะเวลาการแพร่ระบาดและเรียก "เหตุการณ์" ดังกล่าว
 
-### 2. Many other diseases are airborne too:
+### 2. โรคอื่นๆ ก็แพร่ระบาดในอากาศเช่นกัน:
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/105086571-18eee800-5a91-11eb-80d2-1244da2421c2.png)](/th/historical-timeline)
 {: refdef}
 
-The fact that many other diseases are airborne/aerosolized (or can be in addition to other transmission mechanisms) is important in that it frames how COVID-19 should have been handled from the start.
+ความจริงที่ว่าโรคอื่น ๆ จำนวนมากเกิดขึ้นในอากาศ/ละอองลอย (หรือสามารถเพิ่มเติมจากกลไกการแพร่เชื้ออื่นๆ ได้) เป็นสิ่งสำคัญในการกำหนดกรอบว่าควรจัดการกับ COVID-19 อย่างไรตั้งแต่เริ่มต้น
 
-### 3. Knowing it was airborne from the start, masks were a part of some countries early strategies:
+### 3. เมื่อรู้ว่ามันลอยอยู่บนอากาศตั้งแต่เริ่มต้น หน้ากากจึงเป็นส่วนหนึ่งของยุทธศาสตร์ยุคแรกๆ ของบางประเทศ :
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/105086641-358b2000-5a91-11eb-8fb2-9be3783ddfd4.png)](/th/early-masking-countries)
 {: refdef}
 
-Some countries in the west and many in the east mandates masks from very early moments. Those countres arelisted on this timeline. Others are omitted.
+บางประเทศทางตะวันตกและอีกหลายประเทศในตะวันออกมอบอำนาจให้สวมหน้ากากตั้งแต่ช่วงแรกๆ จำนวนดังกล่าวแสดงอยู่ในไทม์ไลน์นี้ อื่น ๆ จะถูกละเว้น
 
-### 4. At the start of 2021, countries are setting new mandates for higher-spec masks
+### 4. ในช่วงต้นปี 2564 ประเทศต่างๆ กำลังกำหนดอาณัติใหม่สำหรับมาสก์ที่มีสเปกสูงกว่า
 
 {:refdef: style="text-align: center;"}
 [![](https://user-images.githubusercontent.com/82182/105087417-56a04080-5a92-11eb-84d8-ae660b642070.png)](/th/masks-2021)
 {: refdef}
 
-With the B.1.1.7 strain of the virus, it is more important than ever to get the best mask you can. Those would be FFP2, N95, KF94, KN95 (etc) grades of masks/respirators.
+ด้วยไวรัสเดลต้า การมีหน้ากากที่ดีที่สุดจึงมีความสำคัญมากกว่าที่เคย สิ่งเหล่านี้จะเป็นเกรด FFP2, N95, KF94, KN95 (ฯลฯ) ของหน้ากาก/เครื่องช่วยหายใจ
 
-## Words from our scientist friends:
+## คำพูดจากเพื่อนนักวิทยาศาสตร์ของเรา:
 
 <div id="slideshow">
    <div>
@@ -63,41 +63,41 @@ With the B.1.1.7 strain of the virus, it is more important than ever to get the 
    </div>
 </div>
 
-## More Reading
+## อ่านเพิ่มเติม
 
-#### 10 SCIENTIFIC Reasons to Support AIRBORNE Transmission of SARS-CoV-2
+#### 10 เหตุผลทางวิทยาศาสตร์เพื่อสนับสนุนการแพร่เชื้อ SARS-CoV-2 . ของ AIRBORNE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gD1kEezz7fQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Aerosols: Frequently Asked Questions
+#### ละอองลอย: คำถามที่พบบ่อย
 
-Please read the Aerosols Frequently Asked Questions (FAQ) here: [tinyurl.com/FAQ-aerosols](https://tinyurl.com/FAQ-aerosols). This is actively maintained by a bunch of Profs and Drs.
+โปรดอ่านคำถามที่พบบ่อยเกี่ยวกับละอองลอย (FAQ) ที่นี่: [tinyurl.com/FAQ-aerosols](https://tinyurl.com/FAQ-aerosols). สิ่งนี้ได้รับการดูแลอย่างแข็งขันโดย Profs และ Drs.
 
-Sometimes social media blocks use of well know redirector technologies like TinyURL, so we have our own to the same document: [its-airborne.org/FAQ](https://its-airborne.org/FAQ) (4 chars shorter).
 
-#### Change.org campaign: "COVID is airborne"
+บางครั้งโซเชียลมีเดียบล็อกการใช้เทคโนโลยีตัวเปลี่ยนเส้นทางที่รู้จักกันดีเช่น TinyURL ดังนั้นเราจึงมีเอกสารของเราเองในฉบับเดียวกัน : [its-airborne.org/FAQ](https://its-airborne.org/FAQ) (4 ตัวอักษรสั้นลง ).
 
-[@COVIDisAirborne](https://twitter.com/covidisairborne) is running a change.org campaign to get recognition for this fact: [bit.ly/COVIDisAirborne](https://bit.ly/COVIDisAirborne):
+#### แคมเปญ Change.org: "โควิดอยู่ในอากาศ"
+
+[@COVIDisAirborne](https://twitter.com/covidisairborne) กำลังใช้แคมเปญ change.org เพื่อให้ได้รับการยอมรับจากข้อเท็จจริงนี้: [bit.ly/COVIDisAirborne](https://bit.ly/COVIDisAirborne):
 
 {:refdef: style="text-align: center;"}
 ![](https://user-images.githubusercontent.com/82182/102479775-3de9d880-4057-11eb-84ca-ba2b024c2127.png)
 {: refdef}
 
-#### Masks for All site
+#### มาสก์สำหรับทุกไซต์
 
-The [masks4all.co](https://masks4all.co/) site, and the Twitter tag #masks4All was pushed to prominence by eleven scientists, entrepreneurs and technicians at the end of March. Their goal: a general worldwide deloyment of cloth face coverings, and towards that defeating the false-hoods about them. [Jeremy Howard](https://twitter.com/jeremyphoward) is the most notable figurehead of this initiative - he's a Distinguished Research Scientist at the [University of San Francisco](https://twitter.com/usfca).
+The [masks4all.co](https://masks4all.co/) และแท็ก Twitter #masks4All ถูกผลักดันให้โดดเด่นโดยนักวิทยาศาสตร์ ผู้ประกอบการ และช่างเทคนิค 11 คนเมื่อปลายเดือนมีนาคม เป้าหมายของพวกเขา: การปลอมแปลงผ้าคลุมหน้าทั่วโลกโดยทั่วไปและมุ่งไปสู่การเอาชนะหมวกปลอมเกี่ยวกับพวกเขา. [Jeremy Howard](https://twitter.com/jeremyphoward) เป็นผู้ริเริ่มที่โดดเด่นที่สุดของโครงการนี้ - เขาเป็นนักวิทยาศาสตร์ด้านการวิจัยที่โดดเด่นที่ [University of San Francisco](https://twitter.com/usfca).
 
-#### M.A.D. Guidelines
-
-[CovidStraightTalk.org](https://covidstraighttalk.org/) ([@LastMileWorks. on Twitter](https://twitter.com/lastmileworks)) publishes information posters for employers and workers, including the great M.A.D. acronym:
+#### โกรธ. แนวปฏิบัติ
+[CovidStraightTalk.org](https://covidstraighttalk.org/) ([@LastMileWorks. on Twitter](https://twitter.com/lastmileworks)) เผยแพร่โปสเตอร์ข้อมูลสำหรับนายจ้างและคนงานรวมถึง M.A.D. อักษรย่อ:
 
 {:refdef: style="text-align: center;"}
 ![](https://user-images.githubusercontent.com/82182/102404351-82d22880-3fdf-11eb-9b1a-c5a105e89101.png) 
 <br><a href="https://twitter.com/intent/tweet?text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation.%20Masks!%20Air!%20Distance!%20https://pic.twitter.com/noIWVuuogr&name=small" target="_blank">☝️Tweet That Yourself</a>
 {: refdef}
 
-## Contributing
+## การบริจาค
 
-If you want to make a contribution, take a look at our [GitHub site](https://github.com/its-airborne/timelines-site). Suggest anything you like through the issue tracker, or proposed a change for us to merge in using the "pull request" system.
+หากคุณต้องการบริจาค โปรดดูที่ .ของเรา  [GitHub site](https://github.com/its-airborne/timelines-site). Sแนะนำสิ่งที่คุณต้องการผ่านตัวติดตามปัญหา หรือเสนอการเปลี่ยนแปลงเพื่อให้เรารวมเข้าด้วยกันโดยใช้ระบบ "คำขอดึง"
 
-You don't have to be too technical to make a contribution, but if you are, understand that our four timelines themselves are in JSON, documents are in Markdown, the site technology is Jekyll and it is hosted on GitHub.
+คุณไม่จำเป็นต้องใช้เทคนิคมากเกินไปในการบริจาค แต่ถ้าคุณเข้าใจ ให้เข้าใจว่าไทม์ไลน์ทั้งสี่ของเราอยู่ใน JSON เอกสารอยู่ใน Markdown เทคโนโลยีของไซต์คือ Jekyll และโฮสต์บน GitHub 
