@@ -3,6 +3,8 @@ title: Better Masks in 2021
 nav: "Better Masks in 2021 ⟿"
 nav_order: 5
 timeline-json: masks-2021.json
+permalink: /th/masks-2021
+
 timeline-options: 
   hash_bookmark: true
 ---
