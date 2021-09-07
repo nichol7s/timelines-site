@@ -39,6 +39,12 @@
             "  </a>\n" +
             "</li>\n";
 
+        const thNav = "<li class=\"nav-item\">\n" +
+            "  <a class=\"nav-link\" href=\"/th/\">\n" +
+            "    <img src='/media/thai_flag.png'>\n" +
+            "  </a>\n" +
+            "</li>\n";
+
         if (window.location.href.indexOf("/fr/") > -1) {
             $("#navbarContent").each(function (idx) {
                 $(this).html("<ul class=\"navbar-nav mr-auto\">\n" +
@@ -57,6 +63,7 @@
                     esNav +
                     ukNav +
                     seNav +
+                    thNav +
                     "</ul>");
             })
         } else if (window.location.href.indexOf("/es/") > -1) {
@@ -80,6 +87,7 @@
                     frNav +
                     ukNav +
                     seNav +
+                    thNav +
                     "</ul>");
             })
         } else if (window.location.href.indexOf("/se/") > -1) {
@@ -97,6 +105,25 @@
                     frNav +
                     ukNav +
                     esNav +
+                    thNav +
+                    "</ul>");
+            })
+        } else if (window.location.href.indexOf("/th/") > -1) {
+            $("#navbarContent").each(function (idx) {
+                $(this).html("<ul class=\"navbar-nav mr-auto\">\n" +
+                    "<li class=\"nav-item\">\n" +
+                    "  <a class=\"nav-link\" href=\"/th/\">Casa</a>\n" +
+                    "</li>\n" +
+                    "<li class=\"nav-item\">\n" +
+                    "  <a class=\"nav-link\" href=\"/th/covid-19-tidslinje-för-aerosol.html\">COVID-19 Is Airborne</a>\n" +
+                    "</li>\n" +
+                    "<li class=\"nav-item\">\n" +
+                    "  <a class=\"nav-link\" href=\"/th/aerosolhistoria.html\">Other diseases are airborne</a>\n" +
+                    "</li>\n" +
+                    frNav +
+                    ukNav +
+                    esNav +
+                    seNav +
                     "</ul>");
             })
         } else {
@@ -104,7 +131,8 @@
                 $(this).append(
                     frNav +
                     esNav +
-                    seNav);
+                    seNav +
+                    thNav);
             })
         }
 
