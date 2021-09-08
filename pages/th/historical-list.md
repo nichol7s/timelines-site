@@ -1,5 +1,5 @@
 ---
-title: A historical list of infectious disease transmitted in aerosols
+title: รายชื่อโรคติดต่อในละอองลอยในอดีต
 permalink: /th/historical-list
 layout: page
 ---
@@ -13,13 +13,14 @@ layout: page
 <script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css">
 
-The airborne or aerosol nature of infection has been talked about for other diseases over the years, and this list contains many of the major developments on these subjects.  <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fits-airborne.org%2Fhistorical-list&via=AerosolizedC19&text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation. See: " target="_blank">Tweet This Page</a>
+มีการพูดคุยกันถึงลักษณะของการติดเชื้อในอากาศหรือละอองลอยสำหรับโรคอื่น ๆ ในช่วงหลายปีที่ผ่านมา และรายการนี้ประกอบด้วยการพัฒนาที่สำคัญหลายประการในหัวข้อเหล่านี้  <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fits-airborne.org%2Fhistorical-list&via=AerosolizedC19&text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation. See: " target="_blank">Tweet This Page</a>
 
-For the sake of this timeline, **aerosol** = **airborne** = **droplet nuclei**. These are particles that are less-than-100-μm in diameter, and therefore typically evaporate before gravity pulls them to the ground. As small particles, they float for minutes, or even hours, and can travel some distance in this time. The word aerosol simply means a particle suspended in air.
+เพื่อประโยชน์ของไทม์ไลน์นี้ **ละอองลอย** = **ในอากาศ** = **นิวเคลียสของหยด** อนุภาคเหล่านี้เป็นอนุภาคที่มีเส้นผ่านศูนย์กลางน้อยกว่า 100 ไมโครเมตร ดังนั้นโดยทั่วไปจะระเหยไปก่อนที่แรงโน้มถ่วงจะดึงพวกมันลงสู่พื้น ในฐานะที่เป็นอนุภาคขนาดเล็ก พวกมันจะลอยเป็นนาทีหรือเป็นชั่วโมง และสามารถเดินทางได้ไกลในเวลานี้ คำว่าละอองลอยหมายถึงอนุภาคที่ลอยอยู่ในอากาศ
 
-On the other hand, **droplets**, those particles with diameters larger than 100 μm, typically get pulled by gravity to the ground - said to happen within two meters, usually - before they can evaporate and float.
+ในทางกลับกัน **หยด** อนุภาคเหล่านั้นที่มีเส้นผ่านศูนย์กลางใหญ่กว่า 100 ไมโครเมตร มักจะถูกแรงโน้มถ่วงดึงลงมาที่พื้น ซึ่งกล่าวกันว่าเกิดขึ้นภายในสองเมตร โดยปกติ - ก่อนที่พวกมันจะระเหยและลอยตัว
 
-Note: the medical and science communities are changing to a **100** μm (and above) definition of droplets. This was formerly **5** μm. <a target="_blank" href="https://twitter.com/linseymarr/status/1336318245348003840">See @linseymarr's tweets</a>. Everything smaller than 100 μm are aerosol.  See also, a [timeline](historical-timeline.html) version of this page.
+
+หมายเหตุ: ชุมชนทางการแพทย์และวิทยาศาสตร์กำลังเปลี่ยนเป็นคำจำกัดความ **100** μm (และสูงกว่า) ของหยด เดิมคือ **5** μm . <a target="_blank" href="https://twitter.com/linseymarr/status/1336318245348003840">See @linseymarr's tweets</a>. ทุกอย่างที่มีขนาดเล็กกว่า 100 μm เป็นละอองลอย ดูเพิ่มเติมที่เวอร์ชัน [ไทม์ไลน์](historical-timeline.html) ของหน้านี้
 
 <script>
 $(document).ready(function () {

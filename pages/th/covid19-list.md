@@ -1,5 +1,5 @@
 ---
-title:  COVID-19 Aerosol list
+title:  รายชื่อสเปรย์โควิด-19
 permalink: /th/covid19-list
 layout: page
 ---
