@@ -2,12 +2,12 @@
   "title": {
     "media": {
       "url": "https://user-images.githubusercontent.com/82182/101088239-43511880-35ab-11eb-8219-a2045be30d0d.png",
-      "caption": "Old problem, new challenge!",
-      "credit": "Yuguo Li - The University of Hong Kong"
+      "caption": "ปัญหาเก่า ความท้าทายใหม่!",
+      "credit": "Yuguo Li - มหาวิทยาลัยฮ่องกง"
     },
     "text": {
-      "headline": "Airborne/Aerosol: Old problem, new challenge!",
-      "text": "SARS-CoV-2 transmission: a inconsistency/ambiguity?<br>No authorities have admitted airborne transmission yet.<br>But all national and international authorities recommended maintaining good ventilation. If not airborne, why ventilate? - Yuguo Li"
+      "headline": "อากาศ/ละออง: ปัญหาเก่า ความท้าทายใหม่!",
+      "text": "การแพร่เชื้อ SARS-CoV-2: ความไม่สอดคล้อง/ความคลุมเครือ?<br>ยังไม่มีทางการที่ยอมรับการแพร่ระบาดในอากาศ<br>แต่หน่วยงานระดับประเทศและระดับนานาชาติทั้งหมดแนะนำให้รักษาการระบายอากาศที่ดี ถ้าไม่อยู่ในอากาศจะระบายอากาศทำไม? - Yuguo Li"
     }
   },
   "events": [
@@ -23,8 +23,8 @@
         "year": "1828"
       },
       "text": {
-        "headline": "Fresh air again referred to as important",
-        "text": "Fodere, in his treatise Lecons sur les epidemies, noted that fresh air in hospitals was important. Part of the text in this picture reads 'Make hospitals well isolated, well aired, with many air currents produced by ventilators and don't fill it with a large number of ill patients ...'<br><br><a href=\"https://twitter.com/jmcrookston/status/1299482590206930944\">post here (@jmcrookston)</a>"
+        "headline": "อากาศสดชื่นเรียกอีกอย่างว่าสำคัญ",
+        "text": "Fodere ในบทความของเขา Lecons sur les epidemies สังเกตว่าอากาศบริสุทธิ์ในโรงพยาบาลมีความสำคัญ ส่วนหนึ่งของข้อความในภาพนี้เขียนว่า 'ทำให้โรงพยาบาลแยกตัว อากาศดี มีกระแสลมจำนวนมากที่เกิดจากเครื่องช่วยหายใจ และไม่เติมผู้ป่วยจำนวนมาก ...'<br><br><a href =\"https://twitter.com/jmcrookston/status/1299482590206930944\">โพสต์ที่นี่ (@jmcrookston)</a>"
       }
     },
     {
@@ -39,8 +39,8 @@
         "year": "1845"
       },
       "text": {
-        "headline": "Book: On The History And Art Of Warming And Ventilating Rooms And Buildings ",
-        "text": "“We resort to places of assembly, and draw into our mouths air loaded with effluvia from the lungs (...) of every individual in the promiscuous crowd”. “Exhalations (...) prevented by the walls and ceiling from escaping, they are when thus concentrated (...) deleterious.”<br>Ref: <a href=\"https://twitter.com/mdc_martinus/status/1378912958458298368\">Research by (@mdc_martinus)</a>"
+        "headline": "หนังสือ: เกี่ยวกับประวัติศาสตร์และศิลปะการทำให้ห้องและอาคารร้อนและระบายอากาศ",
+        "text": "“เราหันไปใช้สถานที่ชุมนุม และสูดอากาศเข้าไปในปากของเราซึ่งเต็มไปด้วยน้ำที่ไหลออกจากปอด (...) ของทุกคนในฝูงชนที่สำส่อน” “การหายใจออก (...) ที่ผนังและเพดานขวางกั้นไม่ให้หลบหนี จึงมีความเข้มข้น (...) เป็นอันตราย”<br>Ref: <a href=\"https://twitter.com/mdc_martinus/status /1378912958458298368\">วิจัยโดย (@mdc_martinus)</a>"
       }
     },
     {
@@ -55,15 +55,15 @@
         "year": "1874"
       },
       "text": {
-        "headline": "CO2 “traffic lights” guiding ventilation recommendations",
-        "text": "Chaumont FD: \"On the theory of ventilation: an attempt to establish a positive basis for the calculation of the amount of fresh air required for an inhabited air-space\". Via <a href='https://twitter.com/mdc_martinus/status/1354110813607501829'>@mdc_martinus</a>"
+        "headline": "CO2 \"สัญญาณไฟจราจร\" ที่แนะนำการระบายอากาศ",
+        "text": "Chaumont FD: 'ในทฤษฎีการระบายอากาศ: ความพยายามที่จะสร้างพื้นฐานเชิงบวกสำหรับการคำนวณปริมาณอากาศบริสุทธิ์ที่จำเป็นสำหรับพื้นที่ที่มีคนอาศัยอยู่' ทาง <a href='https://twitter.com/mdc_martinus/status/1354110813607501829'>@mdc_martinus</a>"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/111068027-de1c9580-84be-11eb-82ec-d4219ad7df53.png",
-        "caption": "The Carbonic Acid, Organic Matter, and Micro-organisms Air, more especially of Dwellings and Schools",
+        "caption": "กรดคาร์บอนิก สารอินทรีย์ และอากาศของจุลินทรีย์ โดยเฉพาะอย่างยิ่งในที่อยู่อาศัยและโรงเรียน",
         "link": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.1887.0004",
         "credit": ""
       },
@@ -72,14 +72,14 @@
       },
       "text": {
         "headline": "TODO - Carnelley",
-        "text": "Carnelley and friends: using carbonic acid to quantify bacteria and virions in the air"
+        "text": "Carnelley และผองเพื่อน: ใช้กรดคาร์บอนิกในการหาปริมาณแบคทีเรียและ virions ในอากาศ"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://pbs.twimg.com/media/EnYk--CXUAE_FTw?format=png&name=900x900",
-        "caption": "Charles Chapin - Methods for the prevention of scarlet fever (1888)",
+        "caption": "Charles Chapin - วิธีการป้องกันไข้อีดำอีแดง (1888)",
         "link": "https://archive.org/details/101169236.nlm.nih.gov",
         "credit": ""
       },
@@ -87,15 +87,15 @@
         "year": "1888"
       },
       "text": {
-        "headline": "Charles Chapin knew scarlet fever was occasionally airborne",
-        "text": "Charles Chapin, who would later promote that most transmission was droplet borne, appreciated that scarlet fever could occasionally infect someone on the second floor of a house from the first - it was therefore airborne.<br><br><a href=\"https://archive.org/details/101169236.nlm.nih.gov\">His book</a>.<br><br><a href=\"https://twitter.com/jmcrookston/status/1330292495184519175\">post here (@jmcrookston)</a>"
+        "headline": "Charles Chapin รู้ว่ามีไข้อีดำอีแดงเป็นครั้งคราว",
+        "text": "ชาร์ลส์ แชแปง ซึ่งภายหลังได้ส่งเสริมว่าการแพร่กระจายส่วนใหญ่เกิดจากละอองฝอย ชื่นชมว่าไข้อีดำอีแดงอาจแพร่เชื้อสู่ผู้อื่นบนชั้นสองของบ้านได้เป็นครั้งคราวตั้งแต่ครั้งแรก - ดังนั้นจึงแพร่ระบาดในอากาศ<br><br><a href='https ://archive.org/details/101169236.nlm.nih.gov'>หนังสือของเขา</a>.<br><br><a href='https://twitter.com/jmcrookston/status/1330292495184519175' >โพสต์ที่นี่ (@jmcrookston)</a>"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101091779-95486d00-35b0-11eb-8b6c-83be3a549dc7.png",
-        "caption": "Charles Chapin MD - Sources and modes of infection (1910)",
+        "caption": "Charles Chapin MD - แหล่งที่มาและรูปแบบการติดเชื้อ (1910)",
         "link": "https://ia802703.us.archive.org/15/items/sourcesmodesofin00chaprich/sourcesmodesofin00chaprich.pdf",
         "credit": ""
       },
@@ -103,8 +103,8 @@
         "year": "1910"
       },
       "text": {
-        "headline": "Chapin proposed that pathogens live in our bodies and are transmitted from person to person",
-        "text": "Charles Chapin, medical doctor in Rhode Island, proposed in his groundbreaking book the radical notion that pathogens don't live long outside the body and were therefore transmitted person to person, and not simply freely floating in the air (miasma theory). He focussed therefore on stopping chains of transmission. Because he saw most transmission happening at short-range, which he called 'close contact', he suggested it was reasonable to him that this meant diseases were transmitted by droplets. He is wrong about this last part but the rest was brilliant. As an aside, he did not think fomites account for much transmission."
+        "headline": "เจ้าอาวาสเสนอว่าเชื้อโรคจะอาศัยอยู่ในร่างกายของเราและถ่ายทอดจากคนสู่คน",
+        "text": "Charles Chapin แพทย์ในโรดไอส์แลนด์ เสนอในหนังสือแนวความคิดของเขาเกี่ยวกับแนวคิดสุดขั้วที่ว่าเชื้อโรคไม่ได้อยู่ภายนอกร่างกายนานนัก และดังนั้นจึงถ่ายทอดจากคนสู่คน ไม่ใช่แค่ลอยอยู่ในอากาศอย่างอิสระ (ทฤษฎี miasma) เขาจึงเพ่งเล็งไปที่การหยุดโซ่ส่งกำลัง เพราะเขาเห็นว่าการแพร่เชื้อส่วนใหญ่เกิดขึ้นในระยะใกล้ ซึ่งเขาเรียกว่า 'การสัมผัสใกล้ชิด' เขาจึงแนะนำว่ามีเหตุผลสำหรับเขาว่าสิ่งนี้หมายถึงโรคติดต่อทางละออง เขาคิดผิดเกี่ยวกับส่วนสุดท้ายนี้ แต่ส่วนอื่นๆ นั้นยอดเยี่ยม นอกจากนี้ เขายังไม่คิดว่า fomites เป็นสาเหตุของการแพร่เชื้อ"
       }
     },
     {
@@ -119,15 +119,15 @@
         "year": "1910"
       },
       "text": {
-        "headline": "Dr Wu Lien-Teh rolled out gauze masks for a typeof bubonic plague in Manchuria",
-        "text": "\"Suddenly, everyone wanted the simple cotton and gauze mask that Wu had used and recommended. Volunteers were soon producing them by the thousands.\""
+        "headline": "Dr Wu Lien-Teh เปิดตัวหน้ากากผ้าก๊อซสำหรับกาฬโรคในแมนจูเรีย",
+        "text": "'ทันใดนั้น ทุกคนก็ต้องการหน้ากากผ้าฝ้ายและผ้ากอซแบบเรียบง่ายที่วูเคยใช้และแนะนำ ในไม่ช้าอาสาสมัครก็ผลิตพวกเขาเป็นพัน ๆ '"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Droplet_falling-evaporation_curves_for_different_humidities.png/1280px-Droplet_falling-evaporation_curves_for_different_humidities.png",
-        "caption": "Wells curves for different relative humidity",
+        "caption": "เส้นโค้ง Wells สำหรับความชื้นสัมพัทธ์ที่แตกต่างกัน",
         "link": "https://en.wikipedia.org/wiki/Wells_curve",
         "credit": ""
       },
@@ -135,15 +135,15 @@
         "year": "1934"
       },
       "text": {
-        "headline": " W. F. Wells founding the droplet nuclei science in 1934",
-        "text": "Wells thought that droplets smaller than a certain size would quickly evaporate, leaving a dry residue that drifts in the air. Since droplets from an infected person may contain infectious bacteria or viruses, these processes influence transmission of respiratory diseases"
+        "headline": "ดับเบิลยู. เอฟ. เวลส์ ผู้ก่อตั้งวิทยาศาสตร์นิวเคลียสหยดในปี ค.ศ. 1934",
+        "text": "เวลส์คิดว่าละอองที่มีขนาดเล็กกว่าขนาดที่กำหนดจะระเหยไปอย่างรวดเร็ว เหลือไว้ซึ่งเศษผงแห้งที่ลอยอยู่ในอากาศ เนื่องจากละอองจากผู้ติดเชื้ออาจมีแบคทีเรียหรือไวรัสที่ติดเชื้อ กระบวนการเหล่านี้จึงส่งผลต่อการแพร่กระจายของโรคทางเดินหายใจ"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://pbs.twimg.com/media/ErqJF4MXUAIAbF9?format=png&name=small",
-        "caption": "clip from study",
+        "caption": "คลิปจากการเรียน",
         "link": "https://www.sciencedirect.com/sdfe/pdf/download/eid/1-s2.0-S0140673600945458/first-page-pdf",
         "credit": ""
       },
@@ -152,8 +152,8 @@
         "month": 5
       },
       "text": {
-        "headline": "Strep is airborne",
-        "text": "Study finds that Streptococcal 'Strep' infections can happen in enclosed spaces. This disease is caused by a bacteria not a viruses. That is important because they are bigger in size, and convention wisdom said they could stay afloat in the air. See <a href='https://twitter.com/jmcrookston/status/1349543268137263104'> thread by @jmcrookston</a>."
+        "headline": "Strep ลอยอยู่ในอากาศ",
+        "text": "การศึกษาพบว่าการติดเชื้อ 'Streptococcal' สามารถเกิดขึ้นได้ในพื้นที่ปิด โรคนี้เกิดจากแบคทีเรียไม่ใช่ไวรัส นั่นเป็นสิ่งสำคัญเพราะพวกมันมีขนาดใหญ่กว่า และภูมิปัญญาดั้งเดิมกล่าวว่าพวกมันสามารถลอยอยู่ในอากาศได้ ดู <a href='https://twitter.com/jmcrookston/status/1349543268137263104'> เธรดโดย @jmcrookston</a>"
       }
     },
     {
@@ -168,15 +168,15 @@
         "year": "2001"
       },
       "text": {
-        "headline": "Guinea pigs proof of airborne transmission of Tuberculosis (TB)",
-        "text": "Richard L. Riley - first hand account of 1962 proof by Riley, Mills, O'Grady, Sultan, Willstadt, Shivpuri, and Wells: 'Infectiousness of air from a tuberculosis ward'. That study: <a href='https://pubmed.ncbi.nlm.nih.gov/14492300/'>here</a>"
+        "headline": "หนูตะเภาหลักฐานการแพร่กระจายของวัณโรคในอากาศ (TB)",
+        "text": "Richard L. Riley - บัญชีแรกของการพิสูจน์ปี 1962 โดย Riley, Mills, O'Grady, Sultan, Willstadt, Shivpuri และ Wells: 'การติดเชื้อในอากาศจากหอผู้ป่วยวัณโรค' การศึกษานั้น: <a href='https://pubmed.ncbi.nlm.nih.gov/14492300/'>ที่นี่</a>"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101094941-17d32b80-35b5-11eb-94d2-a4f7cfbec251.png",
-        "caption": "Flu too",
+        "caption": "ไข้หวัดใหญ่ด้วย",
         "link": "https://www.amjmed.com/article/0002-9343(74)90140-5/fulltext",
         "credit": "Richard L Riley"
       },
@@ -184,8 +184,8 @@
         "year": "2001"
       },
       "text": {
-        "headline": "Airborne infection: Flu too",
-        "text": "Riley studied the airborne nature of respiratory diseases in the middle of the 20th century, and published many times. <a href='https://hub.jhu.edu/2020/07/22/richard-riley-airborne-virus/'>See also a COVID19 era article on Riley</a>. "
+        "headline": "การติดเชื้อในอากาศ: ไข้หวัดใหญ่ด้วย",
+        "text": "ไรลีย์ศึกษาธรรมชาติของโรคระบบทางเดินหายใจในอากาศในช่วงกลางศตวรรษที่ 20 และตีพิมพ์หลายครั้ง <a href='https://hub.jhu.edu/2020/07/22/richard-riley-airborne-virus/'>ดูบทความเกี่ยวกับไรลีย์ในยุคโควิด19 ด้วย</a>"
       }
     },
     {
@@ -201,15 +201,15 @@
         "month": 9
       },
       "text": {
-        "headline": "MEDICAL REVIEWS: \"Coronaviruses\"",
-        "text": "\"... It is therefore probable that human coronaviruses can be spread by aerosol as well as by large droplet. Aerosol transmission has actually been documented in poultry by the agent of avian infectious bronchitis.\" For a full set of free review articles about corona viruses, see <a href='https://twitter.com/jmcrookston/status/1310275748108922881'> @jmcrookston thread</a> "
+        "headline": "ความคิดเห็นทางการแพทย์: 'Coronaviruses'",
+        "text": "'... ดังนั้นจึงเป็นไปได้ที่ coronaviruses ของมนุษย์สามารถแพร่กระจายได้ด้วยละอองลอยและละอองขนาดใหญ่ การแพร่กระจายของละอองลอยได้รับการบันทึกไว้ในสัตว์ปีกโดยตัวแทนของโรคหลอดลมอักเสบติดต่อในนก สำหรับชุดบทความรีวิวฟรีทั้งหมดเกี่ยวกับไวรัสโคโรน่า โปรดดูที่ <a href='https://twitter.com/jmcrookston/status/1310275748108922881'> @jmcrookston thread</a>"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/104123936-d9fcbc00-5345-11eb-9598-9ebf039f736c.png",
-        "caption": "Lots are airborne, study says",
+        "caption": "การศึกษากล่าวว่าจำนวนมากอยู่ในอากาศ",
         "link": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC1805417&blobtype=pdf",
         "credit": ""
       },
@@ -218,15 +218,15 @@
         "month": 12
       },
       "text": {
-        "headline": "Study: Viruses And Indoor Air Pollution",
-        "text": "\"Microbiologic and epidemiologic data have shown that a number of viruses may contaminate the air of rooms and be capable of initiating disease in those who inhale them. However, with the exception of lymphocytic choriomeningitis virus, all are viruses transmitted from person to person.\" See <a href='https://twitter.com/jmcrookston/status/1314220831032193024'>@jmcrookston tweet</a>."
+        "headline": "การศึกษา: ไวรัสและมลพิษทางอากาศในร่ม",
+        "text": "\"ข้อมูลทางจุลชีววิทยาและระบาดวิทยาแสดงให้เห็นว่าไวรัสจำนวนหนึ่งอาจปนเปื้อนอากาศในห้องและสามารถทำให้เกิดโรคในผู้ที่สูดดมได้ อย่างไรก็ตาม ยกเว้นไวรัสลิมโฟซิติก choriomeningitis ทั้งหมดเป็นไวรัสที่ถ่ายทอดจากคนสู่คน\" See <a href='https://twitter.com/jmcrookston/status/1314220831032193024'>@jmcrookston tweet</a>."
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://pbs.twimg.com/media/EgDCaInXoAQhN6G?format=png&name=small",
-        "caption": "Capture from the Bloch article - see 'airborne' in text",
+        "caption": "จับภาพจากบทความ Bloch - ดู 'ในอากาศ' ในข้อความ",
         "link": "https://pubmed.ncbi.nlm.nih.gov/3982900/",
         "credit": ""
       },
@@ -235,15 +235,15 @@
         "month": 4
       },
       "text": {
-        "headline": "Outbreak: One child infects seven in a physician's office (Bloch article)",
-        "text": "Measles outbreak in a pediatric practice: airborne transmission in an office setting. The study goes on to warn of modern office buildings having recirculated air.<br><br><a href=\"https://twitter.com/jmcrookston/status/1297250473448222720\">Measles thread (@jmcrookston)</a>.<br><br><a href=\"https://pubmed.ncbi.nlm.nih.gov/3982900/\">Link to Bloch article</a>."
+        "headline": "การระบาด: เด็กคนหนึ่งติดเชื้อเจ็ดคนในห้องทำงานของแพทย์ (บทความ Bloch)",
+        "text": "การระบาดของโรคหัดในการปฏิบัติสำหรับเด็ก: การแพร่เชื้อทางอากาศในที่ทำงาน การศึกษายังเตือนถึงอาคารสำนักงานสมัยใหม่ที่มีอากาศหมุนเวียน<br><br><a href=\"https://twitter.com/jmcrookston/status/1297250473448222720\">หัวข้อเกี่ยวกับโรคหัด (@jmcrookston)</a> .<br><br><a href=\"https://pubmed.ncbi.nlm.nih.gov/3982900/\">ลิงก์ไปยังบทความของ Bloch</a>"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://pbs.twimg.com/media/EgDJCrNXYAEtOWN?format=png&name=small",
-        "caption": "From the Remington article",
+        "caption": "จากบทความเรมิงตัน",
         "link": "https://pubmed.ncbi.nlm.nih.gov/3974036/",
         "credit": ""
       },
@@ -252,15 +252,15 @@
         "month": 3
       },
       "text": {
-        "headline": "Outbreak: Three children catch measles at doctor's office an hour after index patient left (Remington article)",
-        "text": "Three children caught measles at a doctor's office. They were there an hour after the original sick child left.<br><br><a href=\"https://twitter.com/jmcrookston/status/1297250473448222720\">Measles thread (@jmcrookston)</a>.<br><br><a href=\"https://pubmed.ncbi.nlm.nih.gov/3974036/\">Link to Remington article</a>."
+        "headline": "การระบาด: เด็กสามคนติดเชื้อหัดที่สำนักงานแพทย์หนึ่งชั่วโมงหลังจากที่ผู้ป่วยดัชนีออกไป (บทความเรมิงตัน)",
+        "text": "เด็กสามคนติดเชื้อหัดที่ห้องทำงานของแพทย์ พวกเขาอยู่ที่นั่นหนึ่งชั่วโมงหลังจากที่เด็กที่ป่วยคนเดิมออกไป<br><br><a href='https://twitter.com/jmcrookston/status/1297250473448222720'>หัวข้อเกี่ยวกับโรคหัด (@jmcrookston)</a>.< br><br><a href='https://pubmed.ncbi.nlm.nih.gov/3974036/'>ลิงก์ไปยังบทความของ Remington</a>"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101290999-90c4c400-37fd-11eb-97f0-8d6bfe18b606.png",
-        "caption": "Still shot from opening ceremony",
+        "caption": "ถ่ายจากพิธีเปิด",
         "link": "https://www.chicagotribune.com/news/ct-xpm-1991-08-13-9103280300-story.html",
         "credit": ""
       },
@@ -270,8 +270,8 @@
         "day": 13
       },
       "text": {
-        "headline": "Outbreak: Exposure to measles feared at sports event",
-        "text": "Thousands of people involved in the International Special Olympics last month may have been exposed to measles, one of the most easily transmitted communicable diseases (even outside), according to the Minnesota Health Department.<br><br><a href='https://twitter.com/jmcrookston/status/1297250473448222720'>measles thread (@jmcrookston)</a><br><br><a href='https://pubmed.ncbi.nlm.nih.gov/7876616/'>Link to Ehresmann article</a>"
+        "headline": "การระบาด: การสัมผัสกับโรคหัดที่กลัวในงานกีฬา",
+        "text": "กระทรวงสาธารณสุขมินนิโซตาระบุว่า ผู้คนหลายพันคนที่เกี่ยวข้องกับการแข่งขันกีฬาโอลิมปิกพิเศษระดับนานาชาติเมื่อเดือนที่แล้วอาจได้รับโรคหัด ซึ่งเป็นหนึ่งในโรคติดต่อที่ติดต่อได้ง่ายที่สุด (แม้อยู่ภายนอก)<br><br><a href='https ://twitter.com/jmcrookston/status/1297250473448222720'>ด้ายหัด (@jmcrookston)</a><br><br><a href='https://pubmed.ncbi.nlm.nih.gov/7876616 /'>ลิงก์ไปยังบทความของ Ehresmann</a>"
       }
     },
     {
@@ -288,8 +288,8 @@
         "day": 1
       },
       "text": {
-        "headline": "Study: Black Fungus (Mucormycosis) is airborne",
-        "text": "\"Mucormycosis refers to the disease caused by a growing number of members of the Mucorales. Typically an airborne infection, primary disease is initiated in the upper or lower airways\""
+        "headline": "การศึกษา: เชื้อราดำ (Mucormycosis) ลอยอยู่ในอากาศ",
+        "text": "\"Mucormycosis หมายถึงโรคที่เกิดจากสมาชิกของ Mucorales ที่เพิ่มขึ้น โดยปกติการติดเชื้อในอากาศ โรคปฐมภูมิจะเริ่มต้นที่ทางเดินหายใจส่วนบนหรือส่วนล่าง\""
       }
     },
     {
@@ -306,15 +306,15 @@
         "day": 21
       },
       "text": {
-        "headline": "Study: Small round structured viruses: airborne transmission and hospital control",
-        "text": "Norwalk disease causes vomiting which may launch millions of virus particles into the air, perhaps causing its explosive attack rate of over 50%. Via <a href='https://twitter.com/jmcrookston/status/1323461960323784707'>@jmcrookston</a>"
+        "headline": "การศึกษา: ไวรัสที่มีโครงสร้างกลมขนาดเล็ก: การแพร่เชื้อในอากาศและการควบคุมในโรงพยาบาล",
+        "text": "โรคนอร์วอล์คทำให้อาเจียนซึ่งอาจส่งอนุภาคไวรัสนับล้านขึ้นไปในอากาศ อาจทำให้อัตราการโจมตีระเบิดมากกว่า 50% ทาง <a href='https://twitter.com/jmcrookston/status/1323461960323784707'>@jmcrookston</a>"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://pbs.twimg.com/media/E3yOl5EVcAIzrCX?format=jpg&name=large",
-        "caption": "Virus Plume crossing the sea",
+        "caption": "ไวรัสขนนกข้ามทะเล",
         "link": "https://www.jstor.org/stable/3865096?seq=1#metadata_info_tab_contents",
         "credit": ""
       },
@@ -322,15 +322,15 @@
         "year": "2000"
       },
       "text": {
-        "headline": "Book: Foot and mouth is airborne",
-        "text": "Foot and mouth disease is recorded to have spread across the English Channel in an airborne plume. See <a href='https://twitter.com/YouAreLobbyLud/status/1404153975255957504'>YouAreLobbyLud tweet</a>"
+        "headline": "หนังสือ เท้าปากคืออากาศ",
+        "text": "โรคปากเท้าเปื่อยถูกบันทึกไว้ว่าได้แพร่กระจายไปทั่วช่องแคบอังกฤษในขนนกในอากาศ ดู<a href='https://twitter.com/YouAreLobbyLud/status/1404153975255957504'>ทวีต YouAreLobbyLud</a>"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "/media/ben-wicks-iDCtsz-INHI-unsplash.jpg",
-        "caption": "Kids not infected with anything hopefully",
+        "caption": "เด็กๆ ไม่ได้ติดเชื้ออะไร หวังว่า",
         "link": "https://www.researchgate.net/profile/Barry_Vipond/publication/10589869_A_school_outbreak_of_Norwalk-like_virus_evidence_for_airborne_transmission/links/5759549408ae414b8e43a7cd/A-school-outbreak-of-Norwalk-like-virus-evidence-for-airborne-transmission.pdf",
         "credit": "Photo by <a href='https://unsplash.com/@profwicks?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Ben Wicks</a> via <a href='https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a></span>"
       },
@@ -340,15 +340,15 @@
         "day": 20
       },
       "text": {
-        "headline": "A school outbreak of Norwalk-like virus: evidence for airborne transmission",
-        "text": "This study confirms the importance of vomiting in the transmission\nof NLV and provides evidence that direct infection with aerosolized viral particles occurs"
+        "headline": "การระบาดของไวรัสคล้ายนอร์วอล์คในโรงเรียน: หลักฐานการแพร่เชื้อในอากาศ",
+        "text": "การศึกษานี้ยืนยันถึงความสำคัญของการอาเจียนในการแพร่เชื้อ\nของ NLV และแสดงหลักฐานว่าเกิดการติดเชื้อโดยตรงกับอนุภาคไวรัสที่เป็นละออง"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/104086297-8bb8c180-524e-11eb-80f6-2689602333b6.png",
-        "caption": "Computer model of aitflow from one apartment block to another",
+        "caption": "แบบจำลองคอมพิวเตอร์ของการไหลของอากาศจากอพาร์ตเมนต์หนึ่งไปยังอีกห้องหนึ่ง",
         "link": "https://www.nejm.org/doi/full/10.1056/nejmoa032867",
         "credit": ""
       },
@@ -357,15 +357,15 @@
         "month": 3
       },
       "text": {
-        "headline": "Study: 187 airborne cases of SARS at 'Amoy Gardens' 2003",
-        "text": "\"According to our computational fluid-dynamics modeling, the buoyant [virus laden] plume (blue) rose from the air shaft between two housing units in building E (yellow) and was carried by a northeasterly wind toward the middle-level floors in buildings C and D\""
+        "headline": "การศึกษา: 187 กรณีของโรคซาร์สทางอากาศที่ 'Amoy Gardens' 2003",
+        "text": "\"ตามแบบจำลองการคำนวณพลศาสตร์ของไหล ขนนกที่ลอยตัว [ติดไวรัส] (สีน้ำเงิน) ลอยขึ้นจากปล่องอากาศระหว่างหน่วยบ้านสองหลังในอาคาร E (สีเหลือง) และถูกลมตะวันออกเฉียงเหนือพัดพาไปยังชั้นกลางในอาคาร C และดี\""
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://science.sciencemag.org/content/sci/339/6125/1272/F2.large.jpg?width=800&height=600&carousel=1",
-        "caption": "A man who spent one night at Hong Kong's Metropole Hotel (left) spread SARS to other ninth floor guests",
+        "caption": "ชายคนหนึ่งที่ใช้เวลาหนึ่งคืนที่โรงแรมเมโทรโพลของฮ่องกง (ซ้าย) แพร่กระจายโรคซาร์สไปยังแขกชั้นเก้าคนอื่นๆ",
         "link": "https://science.sciencemag.org/content/339/6125/1272",
         "credit": "AP PHOTO/ANAT GIVON; WHO/WPRO."
       },
@@ -375,15 +375,15 @@
         "day": 1
       },
       "text": {
-        "headline": "Study: Ninth floor guests at the Metropole Hotel catch SARS. Index case may have vomited in hall",
-        "text": "Twenty-one infected by one guest who vomited in a corridor. Excerpt: \"... At the time, it was not clear if the causative agent was being transmitted by airborne particles, as measles and tuberculosis spread ...\""
+        "headline": "การศึกษา: แขกชั้นเก้าที่โรงแรมเมโทรโพลจับโรคซาร์ส กรณีดัชนีอาจอาเจียนในห้องโถง",
+        "text": "แขกหนึ่งคนติดเชื้อ 21 รายที่อาเจียนในทางเดิน ข้อความที่ตัดตอนมา: '... ในขณะนั้นยังไม่ชัดเจนว่าเชื้อก่อโรคถูกส่งผ่านอนุภาคในอากาศหรือไม่ เนื่องจากโรคหัดและวัณโรคแพร่กระจาย ...'"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107804/bin/51-10-1176-fig003.jpg",
-        "caption": "Measured airflow rates at different ward locations",
+        "caption": "วัดอัตราการไหลของอากาศ ณ ที่ตั้งวอร์ดต่างๆ",
         "link": "https://www.who.int/water_sanitation_health/emerging/legionella.pdf",
         "credit": ""
       },
@@ -393,15 +393,15 @@
         "day": 15
       },
       "text": {
-        "headline": "WHO report: Legionnaires Disease can be transmitted by aerosol too",
-        "text": "Conclusions: Our findings suggest a possible role of aerosol transmission of influenza in an acute ward setting. Source and engineering controls, such as avoiding aerosol generation and improving ventilation design, may warrant consideration to prevent nosocomial outbreaks."
+        "headline": "รายงานขององค์การอนามัยโลก: โรคลีเจียนแนร์สามารถติดต่อผ่านละอองลอยได้เช่นกัน",
+        "text": "สรุป: ผลการวิจัยของเราชี้ให้เห็นถึงบทบาทที่เป็นไปได้ของการแพร่เชื้อไข้หวัดใหญ่ในหอผู้ป่วยเฉียบพลัน การควบคุมแหล่งที่มาและทางวิศวกรรม เช่น การหลีกเลี่ยงการสร้างละอองลอยและการปรับปรุงการออกแบบการระบายอากาศ อาจจำเป็นต้องพิจารณาเพื่อป้องกันการระบาดในโรงพยาบาล"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20160921000156093-0261:S0950268809002076:S0950268809002076_fig3g.gif?pub-status=live",
-        "caption": "Survival of F. tularensis in aerosols in open air",
+        "caption": "การอยู่รอดของ F. tularensis ในละอองลอยในที่โล่ง",
         "link": "https://www.cambridge.org/core/journals/epidemiology-and-infection/article/effect-of-openair-factors-on-the-virulence-and-viability-of-airborne-francisella-tularensis",
         "credit": "A. M. HOOD"
       },
@@ -411,15 +411,15 @@
         "day": 10
       },
       "text": {
-        "headline": "Study: The effect of open-air factors on the virulence and viability of airborne Francisella tularensis",
-        "text": "\"Unidentified open-air factors (OAFs) found to be adverse to the survival of microorganisms suspended on microthreads were investigated for their effect on realistic aerosols of Francisella tularensis in an open-air environment\""
+        "headline": "การศึกษา: ผลของปัจจัยกลางแจ้งต่อความรุนแรงและความมีชีวิตของเชื้อฟรานซิสเซลลา ทูลาเรนซิสในอากาศ",
+        "text": "\"ปัจจัยเปิดโล่งที่ไม่ปรากฏหลักฐาน (OAFs) ที่พบว่ามีผลเสียต่อการอยู่รอดของจุลินทรีย์ที่แขวนอยู่บนไมโครเธรด ได้รับการตรวจสอบถึงผลกระทบต่อละอองลอยที่เหมือนจริงของฟรานซิสเซลลา ทูลาเรนซิสในสภาพแวดล้อมกลางแจ้ง\""
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107804/bin/51-10-1176-fig003.jpg",
-        "caption": "Measured airflow rates at different ward locations",
+        "caption": "วัดอัตราการไหลของอากาศ ณ ที่ตั้งวอร์ดต่างๆ",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107804/",
         "credit": ""
       },
@@ -429,8 +429,8 @@
         "day": 15
       },
       "text": {
-        "headline": "Study: Possible Role of Aerosol Transmission in a Hospital Outbreak of Influenza",
-        "text": "Conclusions: Our findings suggest a possible role of aerosol transmission of influenza in an acute ward setting. Source and engineering controls, such as avoiding aerosol generation and improving ventilation design, may warrant consideration to prevent nosocomial outbreaks."
+        "headline": "การศึกษา: บทบาทที่เป็นไปได้ของการส่งผ่านละอองลอยในการแพร่ระบาดในโรงพยาบาลของไข้หวัดใหญ่",
+        "text": "สรุป: ผลการวิจัยของเราชี้ให้เห็นถึงบทบาทที่เป็นไปได้ของการแพร่เชื้อไข้หวัดใหญ่ในหอผู้ป่วยเฉียบพลัน การควบคุมแหล่งที่มาและทางวิศวกรรม เช่น การหลีกเลี่ยงการสร้างละอองลอยและการปรับปรุงการออกแบบการระบายอากาศ อาจจำเป็นต้องพิจารณาเพื่อป้องกันการระบาดในโรงพยาบาล"
       }
     },
     {
@@ -445,15 +445,15 @@
         "year": "2011"
       },
       "text": {
-        "headline": "Study: respiratory syncytial virus (RSV) is airborne",
-        "text": "Conclusions: \"Infants with RSV bronchiolitis produce aerosols that contain infectious RSV in aerosols small enough to deposit in the lower airways. These findings may influence infection control strategies to prevent aerosol transmission of RSV in a hospital setting\""
+        "headline": "การศึกษา: ไวรัส syncytial ระบบทางเดินหายใจ (RSV) อยู่ในอากาศ",
+        "text": "สรุป: 'ทารกที่เป็นโรคหลอดลมอักเสบ RSV จะผลิตละอองลอยที่มี RSV ที่ติดเชื้อในละอองลอยที่มีขนาดเล็กพอที่จะสะสมในทางเดินหายใจส่วนล่าง การค้นพบนี้อาจส่งผลต่อกลยุทธ์ในการควบคุมการติดเชื้อเพื่อป้องกันการส่ง RSV ของละอองลอยในโรงพยาบาล'"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://journals.plos.org/plospathogens/article/figure/image?size=inline&id=info:doi/10.1371/journal.ppat.1003205.g002",
-        "caption": "Exhaled breath collection system.",
+        "caption": "ระบบรวบรวมลมหายใจออก",
         "link": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1003205",
         "credit": "Credit: Dr. Donald K. Milton et al"
       },
@@ -463,15 +463,15 @@
         "day": 7
       },
       "text": {
-        "headline": "Study: Influenza Virus Aerosols in Human Exhaled Breath",
-        "text": "Results: We detected influenza virus RNA in the coarse fraction (particles greater than 5 µm) collected from 11% (4 of 37 volunteers) while wearing surgical masks and from 43% (16 of 37) while not wearing a mask."
+        "headline": "การศึกษา: ละอองไวรัสไข้หวัดใหญ่ในการหายใจออกของมนุษย์",
+        "text": "ผลลัพธ์: เราตรวจพบ RNA ของไวรัสไข้หวัดใหญ่ในเศษหยาบ (อนุภาคมากกว่า 5 µm) ที่เก็บจาก 11% (4 จาก 37 อาสาสมัคร) ขณะสวมหน้ากากผ่าตัด และจาก 43% (16 จาก 37) ขณะไม่สวมหน้ากาก"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/107283262-0e05f280-6a54-11eb-890d-5f70b1220d2a.png",
-        "caption": "Modified Andersen Sampler used to collect viral RNA\nin expelled particles produced on breathing and coughing",
+        "caption": "Modified Andersen Sampler ใช้เพื่อรวบรวม RNA ของไวรัส\nในอนุภาคที่ถูกขับออกจากการหายใจและการไอ",
         "link": "https://www.researchgate.net/publication/255986671_Respiratory_Virus_RNA_Is_Detectable_in_Airborne_and_Droplet_Particles",
         "credit": "Gralton et al, 2013"
       },
@@ -480,8 +480,8 @@
         "month": 8
       },
       "text": {
-        "headline": "Respiratory Virus RNA Is Detectable in Airborne and Droplet Particles",
-        "text": "By using viral RNA as a marker of virus presence, findings in this study show many symptomatic individuals produce both small and large particles on both breathing and coughing, and that hRV and parainfluenza viruses may be present in both small and large particles. Given that airborne-sized and droplet-sized particles contain viral RNA, the use of droplet precautions exclusively may be insufficient to protect healthcare workers from exposure to virus in airborne-sized particles"
+        "headline": "RNA ไวรัสทางเดินหายใจตรวจพบได้ในอนุภาคในอากาศและละออง",
+        "text": "โดยการใช้ RNA ของไวรัสเป็นเครื่องหมายของการมีอยู่ของไวรัส การค้นพบในการศึกษานี้แสดงให้เห็นว่าบุคคลที่แสดงอาการจำนวนมากผลิตอนุภาคขนาดเล็กและขนาดใหญ่ทั้งในการหายใจและการไอ และไวรัส hRV และ parainfluenza อาจมีอยู่ในอนุภาคทั้งขนาดเล็กและขนาดใหญ่ เนื่องจากอนุภาคขนาดในอากาศและขนาดหยดมี RNA ของไวรัส การใช้ข้อควรระวังหยดเพียงอย่างเดียวอาจไม่เพียงพอที่จะปกป้องบุคลากรทางการแพทย์จากการสัมผัสกับไวรัสในอนุภาคขนาดในอากาศ"
       }
     },
     {
@@ -498,8 +498,8 @@
         "day": 22
       },
       "text": {
-        "headline": "Study: MERS virus detected in air samples from Saudi camel barn",
-        "text": "“The clear message here is that detection of airborne MERS-CoV molecules, which were 100 percent identical with the viral genomic sequence detected from a camel actively shedding the virus in the same barn on the same day, warrants further investigations and measures to prevent possible airborne transmission of this deadly virus,” said Esam Azhar, an associate professor of medical virology at King Abdulaziz University in Jeddah. <a href='https://twitter.com/mvankerkhove/status/491494328104390656'>@mvankerkhove tweeted this too!</a>"
+        "headline": "การศึกษา: ตรวจพบไวรัส MERS ในตัวอย่างอากาศจากโรงเก็บอูฐซาอุดีอาระเบีย",
+        "text": "“ข้อความที่ชัดเจนคือการตรวจจับโมเลกุล MERS-CoV ในอากาศซึ่งเหมือนกัน 100 เปอร์เซ็นต์กับลำดับจีโนมของไวรัสที่ตรวจพบจากอูฐที่กำจัดไวรัสอย่างแข็งขันในโรงนาเดียวกันในวันเดียวกัน รับประกันการสอบสวนเพิ่มเติมและมาตรการเพื่อป้องกันการแพร่ระบาดในอากาศ การแพร่กระจายของไวรัสร้ายแรงนี้” Esam Azhar รองศาสตราจารย์ด้านไวรัสวิทยาทางการแพทย์ที่มหาวิทยาลัย King Abdulaziz ในเจดดาห์กล่าว <a href='https://twitter.com/mvankerkhove/status/491494328104390656'>@mvankerkhove tweeted this too!</a>"
       }
     },
     {
@@ -516,8 +516,8 @@
         "day": 29
       },
       "text": {
-        "headline": "Simplified Airborne Infection Model with FATE Nuclear Safety Software",
-        "text": "The nuclear field has used risk modelling software to model infectious diseases in waiting rooms. Excerpt: \"This model is more appropriate for modeling diseases which spread through inhalation such as whooping cough (pertussis), measles (rubeola), tuberculosis, or influenza\" See <a href='https://twitter.com/jmcrookston/status/1371193772608999425'>@jmcrookston tweet</a>"
+        "headline": "แบบจำลองการติดเชื้อในอากาศอย่างง่ายด้วยซอฟต์แวร์ความปลอดภัยนิวเคลียร์ FATE",
+        "text": "สนามนิวเคลียร์ได้ใช้ซอฟต์แวร์จำลองความเสี่ยงเพื่อสร้างแบบจำลองโรคติดเชื้อในห้องรอ ข้อความที่ตัดตอนมา: 'แบบจำลองนี้เหมาะสมกว่าสำหรับการสร้างแบบจำลองโรคที่แพร่กระจายผ่านการหายใจ เช่น โรคไอกรน (ไอกรน) โรคหัด (rubeola) วัณโรค หรือไข้หวัดใหญ่' ดู <a href='https://twitter.com/jmcrookston/status/1371193772608999425'>@jmcrookston tweet</a>"
       }
     },
     {
@@ -534,8 +534,8 @@
         "day": 15
       },
       "text": {
-        "headline": "Study: Influenza A virus transmission via respiratory aerosols or droplets as it relates to pandemic potential",
-        "text": "\"CONCLUDING REMARKS: It is without any doubt that influenza viruses of subtypes H1N1, H2N2 and H3N2 can be transmitted via respiratory droplets or aerosols between humans and other mammals, as it has been shown during previous pandemics and outbreaks in animals, and in the laboratory using animal models\". @jmcrookston points out that <a href='https://twitter.com/jmcrookston/status/1396636603637014528'>this research was playing with fire</a> though"
+        "headline": "การศึกษา: การแพร่เชื้อไวรัสไข้หวัดใหญ่ A ผ่านละอองหรือละอองระบบทางเดินหายใจที่เกี่ยวข้องกับศักยภาพในการแพร่ระบาด",
+        "text": "\"ข้อสังเกตโดยสรุป: ไม่ต้องสงสัยเลยว่าไวรัสไข้หวัดใหญ่ชนิดย่อย H1N1, H2N2 และ H3N2 สามารถแพร่เชื้อผ่านทางละอองทางเดินหายใจหรือละอองลอยระหว่างมนุษย์กับสัตว์เลี้ยงลูกด้วยนมอื่นๆ ตามที่ได้แสดงให้เห็นในช่วงการระบาดใหญ่ครั้งก่อนและการระบาดในสัตว์ และในห้องปฏิบัติการโดยใช้ โมเดลสัตว์\". @jmcrookston ชี้ให้เห็นว่า <a href='https://twitter.com/jmcrookston/status/1396636603637014528'>งานวิจัยชิ้นนี้กำลังเล่นกับไฟ</a> though"
       }
     },
     {
@@ -551,8 +551,8 @@
         "month": 1
       },
       "text": {
-        "headline": "Article: Flu breath: sick people can spread the flu virus just by breathing",
-        "text": "CDC Canada: A person infected with the flu who's not even coughing still emits fine aerosolized particles in their breath by simply sitting there, breathing and talking. Dr Don Milton: \"We were seeing lots of virus — maybe a thousand particles in some cases in a half an hour.\". See also <a href='https://sph.umd.edu/news-item/flu-may-be-spread-just-breathing-new-study-shows-coughing-and-sneezing-not-required'>umd.edu article</a>"
+        "headline": "บทความ : ลมหายใจไข้หวัดใหญ่ : คนป่วยแพร่เชื้อไวรัสไข้หวัดใหญ่ได้ด้วยการหายใจ",
+        "text": "CDC แคนาดา: คนที่ติดเชื้อไข้หวัดใหญ่ซึ่งไม่แม้แต่จะไอ ยังคงปล่อยอนุภาคละอองเล็ก ๆ ในลมหายใจออกมาโดยเพียงแค่นั่งหายใจและพูดคุย ดร.ดอน มิลตัน: 'เราเห็นไวรัสมากมาย - อาจมีอนุภาคนับพันในบางกรณีในครึ่งชั่วโมง' ดูสิ่งนี้ด้วย <a href='https://sph.umd.edu/news-item/flu-may-be-spread-just-breathing-new-study-shows-coughing-and-sneezing-not-required'>umd.edu article</a>"
       }
     },
     {
@@ -569,8 +569,8 @@
         "day": 30
       },
       "text": {
-        "headline": "Study: Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a college community",
-        "text": "\"We provide overwhelming evidence that humans generate infectious aerosols and quantitative data to improve mathematical models of transmission and public health interventions\" Via <a href='https://twitter.com/jljcolorado/status/1244252661530017794'>@jljcolorado</a>"
+        "headline": "การศึกษา: ไวรัสติดเชื้อในการหายใจออกของผู้ป่วยไข้หวัดใหญ่ตามฤดูกาลที่มีอาการจากชุมชนวิทยาลัย",
+        "text": "\"เราให้หลักฐานอย่างท่วมท้นว่ามนุษย์สร้างละอองลอยและข้อมูลเชิงปริมาณเพื่อปรับปรุงแบบจำลองทางคณิตศาสตร์ของการแพร่เชื้อและการแทรกแซงด้านสาธารณสุข\" Via <a href='https://twitter.com/jljcolorado/status/1244252661530017794'>@jljcolorado</a>"
       }
     },
     {
@@ -587,15 +587,15 @@
         "day": 22
       },
       "text": {
-        "headline": "Study: Taxon-specific aerosolization of bacteria and viruses in an experimental ocean-atmosphere mesocosm",
-        "text": "Need words here, team"
+        "headline": "การศึกษา: การทำให้ละอองของแบคทีเรียและไวรัสเฉพาะแบบอนุกรมวิธานใน mesocosm ของบรรยากาศในมหาสมุทรทดลอง",
+        "text": "ต้องการคำที่นี่ ทีม"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/104116944-0c41f580-5315-11eb-8b93-8808280e540c.png",
-        "caption": "Removal of upper 2/3 of windows from frames mitigated TB infection",
+        "caption": "การนำ 2/3 ส่วนบนของหน้าต่างออกจากเฟรมช่วยลดการติดเชื้อ TB",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217216/",
         "credit": ""
       },
@@ -604,15 +604,15 @@
         "month": 7
       },
       "text": {
-        "headline": "Study: Improving ventilation resulted in a 97% drop in cases in a TB outbreak at a university in Taiwan",
-        "text": "\"Maintaining adequate indoor ventilation could be a highly effective strategy for controlling TB outbreaks\". Study had stats for the university covering 8 or so years. See <a href='https://twitter.com/Orla_Hegarty/status/1347937626196750336'>@Orla_Hegarty tweets</a>"
+        "headline": "การศึกษา: การปรับปรุงการระบายอากาศส่งผลให้ผู้ป่วยวัณโรคที่มหาวิทยาลัยในไต้หวันลดลง 97%",
+        "text": "\"การรักษาการระบายอากาศภายในอาคารให้เพียงพออาจเป็นกลยุทธ์ที่มีประสิทธิภาพสูงในการควบคุมการระบาดของวัณโรค\" การศึกษามีสถิติของมหาวิทยาลัยครอบคลุม 8 ปีหรือมากกว่านั้น ดู <a href='https://twitter.com/Orla_Hegarty/status/1347937626196750336'>@Orla_Hegarty tweets</a>"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/132140562-70acc17f-63b1-43fd-846d-c47309688a33.png",
-        "caption": "clinical features",
+        "caption": "ลักษณะทางคลินิก",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6409114/",
         "credit": "Banerjee, Gupta, Kodan, Mittal, Ray, Nischal, Soneja, Biswas, and Wig"
       },
@@ -622,15 +622,15 @@
         "day": 8
       },
       "text": {
-        "headline": "Study: Nipah virus disease: A rare and intractable disease",
-        "text": "\"In case of NiV infection in health-care settings, additional measures, such as droplet, contact and **airborne precautions** should be applied\""
+        "headline": "ศึกษา: โรคไวรัสนิปาห์: โรคที่หายากและรักษายาก",
+        "text": "\"ในกรณีที่มีการติดเชื้อ NiV ในสถานพยาบาล ควรใช้มาตรการเพิ่มเติม เช่น การหยด การสัมผัส และ **ข้อควรระวังในอากาศ**\""
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-019-38808-z/MediaObjects/41598_2019_38808_Fig1_HTML.png?as=webp",
-        "caption": "raw data in which a participant (F4) said 'ɑ' for 5 seconds, followed by 15 seconds of nose breathing",
+        "caption": "ข้อมูลดิบที่ผู้เข้าร่วม (F4) กล่าว 'ɑ' เป็นเวลา 5 วินาที ตามด้วยการหายใจทางจมูก 15 วินาที",
         "link": "https://www.nature.com/articles/s41598-019-38808-z",
         "credit": ""
       },
@@ -640,15 +640,15 @@
         "day": 19
       },
       "text": {
-        "headline": "Study: Aerosol emission and superemission during human speech increase with voice loudness",
-        "text": "\"The existence of speech superemitters motivates consideration of a new hypothesis: that speech superemitters contribute to “super-spreading” of infectious diseases transmitted by emitted airborne particles.\". See also <a href='https://eu.usatoday.com/in-depth/graphics/2020/10/18/improving-indoor-air-quality-prevent-covid-19/3566978001'>article in USA Today</a>"
+        "headline": "ศึกษา: การปล่อยละอองลอยและ superemission ในระหว่างการพูดของมนุษย์เพิ่มขึ้นด้วยความดังของเสียง",
+        "text": "\"การมีอยู่ของ superemitters ของคำพูดกระตุ้นการพิจารณาสมมติฐานใหม่: superemitters ของคำพูดนั้นมีส่วนทำให้เกิด \"การแพร่กระจายอย่างมาก\" ของโรคติดเชื้อที่ส่งโดยอนุภาคในอากาศที่ปล่อยออกมา.\". See also <a href='https://eu.usatoday.com/in-depth/graphics/2020/10/18/improving-indoor-air-quality-prevent-covid-19/3566978001'>article in USA Today</a>"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101265672-331e7200-3740-11eb-95bd-61809d2a526b.png",
-        "caption": "Airflow study of MERS in South Korean hospital",
+        "caption": "การศึกษาการไหลเวียนของอากาศของ MERS ในโรงพยาบาลเกาหลีใต้",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6458380/",
         "credit": ""
       },
@@ -658,15 +658,15 @@
         "day": 15
       },
       "text": {
-        "headline": "South Korean Hospital (MERS)",
-        "text": "Airflow analysis of Pyeongtaek St Mary's Hospital during hospitalization of the first Middle East respiratory syndrome patient in Korea"
+        "headline": "โรงพยาบาลเกาหลีใต้ (MERS)",
+        "text": "การวิเคราะห์การไหลเวียนของอากาศของโรงพยาบาล Pyeongtaek St Mary ระหว่างการรักษาตัวในโรงพยาบาลของผู้ป่วยโรคระบบทางเดินหายใจในตะวันออกกลางรายแรกในเกาหลี"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://s.hdnux.com/photos/01/01/51/01/17207369/7/ratio3x2_1200.jpg",
-        "caption": "Texas Center for Infectious Disease",
+        "caption": "ศูนย์โรคติดเชื้อเท็กซัส",
         "link": "https://www.mysanantonio.com/news/local/article/San-Antonio-man-can-t-leave-a-TB-hospital-for-13758246.php",
         "credit": ""
       },
@@ -676,8 +676,8 @@
         "day": 11
       },
       "text": {
-        "headline": "San Antonio man can't leave a TB hospital for up to a year",
-        "text": "TB can be deadly and spreads through the air by sneezing and coughing. Treating active TB can require at least six to nine months of daily antibiotics"
+        "headline": "ชายซานอันโตนิโอออกจากโรงพยาบาลวัณโรคนานถึงหนึ่งปีไม่ได้",
+        "text": "วัณโรคอาจถึงตายได้และแพร่กระจายไปในอากาศโดยการจามและไอ การรักษาวัณโรคที่ออกฤทธิ์อาจต้องใช้ยาปฏิชีวนะทุกวันอย่างน้อย 6 ถึง 9 เดือน"
       }
     },
     {
@@ -694,8 +694,8 @@
         "day": 29
       },
       "text": {
-        "headline": "Flu & Ebola: WHO's Dr Tedros says they are airborne and warns of more airborne diseases to come",
-        "text": "\"Investing in preparedness saves lives, and it saves money. It's only a question of when, not whether, the world suffers the next pandemic of influenza or another airborne virus - which is more difficult than #Ebola. We are not ready. We must invest now\"-\n@DrTedros. See <a href='https://twitter.com/WHO/status/1144848451966066688'>their tweet</a>"
+        "headline": "ไข้หวัดใหญ่และอีโบลา: ดร.เทดรอส แห่ง WHO กล่าวว่าพวกมันลอยอยู่ในอากาศ และเตือนว่าจะมีโรคในอากาศตามมาอีกในอนาคต",
+        "text": "\"การลงทุนในการเตรียมความพร้อมช่วยชีวิตและประหยัดเงิน เป็นเพียงคำถามว่าเมื่อใด ไม่ว่าโลกจะประสบกับการระบาดใหญ่ครั้งต่อไปของไข้หวัดใหญ่หรือไวรัสในอากาศชนิดอื่น ซึ่งยากกว่า #อีโบลา เราไม่พร้อม เราต้องลงทุนตอนนี้\"-\n@DrTedros. See <a href='https://twitter.com/WHO/status/1144848451966066688'>their tweet</a>"
       }
     },
     {
@@ -712,8 +712,8 @@
         "day": 22
       },
       "text": {
-        "headline": "TedMed Talk: Lydia Bourouiba describes airborne transmission for generic epidemics",
-        "text": "Lydia, details the ridicule of Wells and the mistakes that medicine has been making for 70 years focussing on everything but aerosols"
+        "headline": "TedMed Talk: Lydia Bourouiba อธิบายการแพร่ระบาดในอากาศสำหรับโรคระบาดทั่วไป",
+        "text": "ลิเดีย รายละเอียดการเยาะเย้ยของเวลส์ และความผิดพลาดที่ยาทำมา 70 ปี เน้นทุกอย่างยกเว้นละอองลอย"
       }
     },
     {
@@ -730,8 +730,8 @@
         "day": 25
       },
       "text": {
-        "headline": "Study: Staphylococcus aureus can be airborne",
-        "text": "57 references to airborne in the study"
+        "headline": "การศึกษา: Staphylococcus aureus สามารถลอยอยู่ในอากาศได้",
+        "text": "57 การอ้างอิงถึงอากาศในการศึกษา"
       }
     },
     {
@@ -748,8 +748,8 @@
         "day": 25
       },
       "text": {
-        "headline": "Study: Flu infects without sneezes/coughs too",
-        "text": "44% of lab-confirmed, flu infections in the study were in people who reported no symptoms. Refer <a href='https://twitter.com/zeynep/status/1395052528996323329'>@zeynep thread</a>"
+        "headline": "งานวิจัย ไข้หวัดใหญ่แพร่เชื้อได้โดยไม่ต้องจาม/coughs too",
+        "text": "44% ของการติดเชื้อไข้หวัดใหญ่ที่ได้รับการยืนยันจากห้องปฏิบัติการในการศึกษานี้อยู่ในผู้ที่ไม่มีอาการ อ้างอิง <a href='https://twitter.com/zeynep/status/1395052528996323329'>@zeynep thread</a>"
       }
     }
   ]
