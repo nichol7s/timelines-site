@@ -5,6 +5,7 @@ permalink: /th/historical-timeline
 
 timeline-options: 
   hash_bookmark: true
+  lang: th
 ---
 
 หลายปีที่ผ่านมามีการพูดถึงลักษณะของการติดเชื้อในอากาศหรือละอองลอยในโรคอื่นๆ และไทม์ไลน์นี้มีพัฒนาการที่สำคัญหลายประการในหัวข้อเหล่านี้   <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fits-airborne.org%2Fhistorical-timeline&via=AerosolizedC19&text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation. See: " target="_blank">Tweet This Page</a>
