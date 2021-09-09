@@ -2,12 +2,12 @@
   "title": {
     "media": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/800px-SARS-CoV-2_without_background.png",
-      "caption": "This illustration, created at the Centers for Disease Control and Prevention (CDC)",
+      "caption": "ภาพประกอบนี้จัดทำขึ้นที่ศูนย์ควบคุมและป้องกันโรค (CDC)",
       "credit": "CDC/ Alissa Eckert, MS; Dan Higgins, MAM"
     },
     "text": {
-      "headline": "Fact: The principal mechanism of COVID-19 infection is aerosol",
-      "text": "See the Frequently Asked Questions (FAQ) mega document: <a href='https://tinyurl.com/FAQ-aerosols'>https://tinyurl.com/FAQ-aerosols</a>"
+      "headline": "ข้อเท็จจริง: กลไกหลักของการติดเชื้อ COVID-19 คือละอองลอย",
+      "text": "\n54 / 5000\nTranslation results\nดูเอกสารขนาดใหญ่ของคำถามที่พบบ่อย (FAQ) : <a href='https://tinyurl.com/FAQ-aerosols'>https://tinyurl.com/FAQ-aerosols</a>"
     }
   },
   "events": [
@@ -15,7 +15,7 @@
       "media": {
         "thumbnail": "/media/twiceAsFar.png",
         "url": "https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/03/11/2367f83c-61fc-11ea-8e9f-2d196083a37c_972x_161511.jpg",
-        "caption": "Red is the index patient. Purple got on the bus 30 minutes after the index patient left.",
+        "caption": "สีแดงคือผู้ป่วยดัชนี ม่วงขึ้นรถเมล์ 30 นาทีหลังจากคนไข้ดัชนีออกไป",
         "link": "https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay",
         "credit": ""
       },
@@ -25,8 +25,8 @@
         "day": 20
       },
       "text": {
-        "headline": "Outbreak: Hunan bus. COVID-19 can travel 'twice as far' (4.5m) and linger 30 minutes",
-        "text": "Newspaper article: Coronavirus can travel twice as far as official ‘safe distance’ and stay in air for 30 minutes, Chinese study finds. A number of passengers became infected during the four-hour bus journey. One was infected AFTER the index patient got off. There is CCTV on all Chinese inter-city busses, so they knew that the index patient never got out of his seat. <a href='https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay'>Article in SCMP, reported mid-January</a>. <a target='_blank' href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>Study re-published in September after an initial retraction</a>.<br><br><a href='https://twitter.com/jmcrookston/status/1308907690987528198'>Twitter post and original report (@jmcrookston)</a>"
+        "headline": "การระบาด: รถบัสหูหนาน โควิด-19 สามารถเดินทาง 'ไกลเป็นสองเท่า' (4.5 เมตร) และอยู่ได้ 30 นาที",
+        "text": "บทความในหนังสือพิมพ์: Coronavirus สามารถเดินทางได้ไกลเป็นสองเท่าของ 'ระยะปลอดภัย' อย่างเป็นทางการและอยู่ในอากาศเป็นเวลา 30 นาที ผลการศึกษาของจีนพบว่า ผู้โดยสารจำนวนหนึ่งติดเชื้อระหว่างการเดินทางโดยรถประจำทางสี่ชั่วโมง รายหนึ่งติดเชื้อหลังจากผู้ป่วยดัชนีลงจากรถ มีกล้องวงจรปิดบนรถบัสระหว่างเมืองทุกแห่งของจีน ดังนั้นพวกเขาจึงรู้ว่าผู้ป่วยดัชนีไม่เคยลุกจากที่นั่ง <a href='https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay'>บทความใน SCMP, รายงานเมื่อกลางเดือนมกราคม</a> <a target='_blank' href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>มีการเผยแพร่การศึกษาใหม่ในเดือนกันยายนหลังจากการเพิกถอนครั้งแรก</a><br><br><a href='https://twitter.com/jmcrookston/status/1308907690987528198'>โพสต์ Twitter และรายงานต้นฉบับ (@jmcrookston)</a>"
       }
     },
     {
