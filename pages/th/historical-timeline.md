@@ -8,7 +8,7 @@ timeline-options:
   lang: th
 ---
 
-หลายปีที่ผ่านมามีการพูดถึงลักษณะของการติดเชื้อในอากาศหรือละอองลอยในโรคอื่นๆ และไทม์ไลน์นี้มีพัฒนาการที่สำคัญหลายประการในหัวข้อเหล่านี้   <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fits-airborne.org%2Fhistorical-timeline&via=AerosolizedC19&text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation. See: " target="_blank">Tweet This Page</a>
+หลายปีที่ผ่านมามีการพูดถึงลักษณะของการติดเชื้อในอากาศหรือละอองลอยในโรคอื่นๆ และไทม์ไลน์นี้มีพัฒนาการที่สำคัญหลายประการในหัวข้อเหล่านี้   <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fits-airborne.org%2Fhistorical-timeline&via=AerosolizedC19&text=%23COVIDisAirborne%20%23masks4All%20%23bewareOfSharedAir%20%23ventilation. See: " target="_blank">ทวีตหน้านี้</a>
 
 เพื่อประโยชน์ของไทม์ไลน์นี้ **ละอองลอย** = **ในอากาศ** = **นิวเคลียสของหยด** อนุภาคเหล่านี้เป็นอนุภาคที่มีเส้นผ่านศูนย์กลางน้อยกว่า 100 ไมโครเมตร ดังนั้นโดยทั่วไปจะระเหยไปก่อนที่แรงโน้มถ่วงจะดึงพวกมันลงสู่พื้น ในฐานะที่เป็นอนุภาคขนาดเล็ก พวกมันจะลอยเป็นนาทีหรือเป็นชั่วโมง และสามารถเดินทางได้ไกลในเวลานี้ คำว่าละอองลอยหมายถึงอนุภาคที่ลอยอยู่ในอากาศ
 
