@@ -61,17 +61,17 @@
         "day": 13
       },
       "text": {
-        "headline": "Article: ทำไมเราไม่สวมหน้ากากที่ดีกว่านี้",
-        "text": "Zeynep Tufekci <a href='https://twitter.com/zeynep'></a> และ Jeremy Howard <a href='https://twitter.com/jeremyphoward'></a> เขียนคำเชิญชวน - บทความเกี่ยวกับอาวุธสำหรับ The Atlantic ทั้งคู่ขายหน้ากากไปทางทิศตะวันตกอย่างหนักตั้งแต่เริ่มต้น ในบทความนี้พวกเขาสร้างกรณีสำหรับมาสก์ที่ดีขึ้นสำหรับทุกคน นี่คือโลก ไม่ใช่แค่สหรัฐอเมริกาที่พวกเขาอาศัยอยู่"
+        "headline": "บทความ: ทำไมเราไม่สวมหน้ากากที่ดีกว่านี้",
+        "text": "Zeynep Tufekci <a href='https://twitter.com/zeynep'></a> และ Jeremy Howard <a href='https://twitter.com/jeremyphoward'></a> เขียนคำเชิญชวนในบทความ  The Atlantic โดยทั้งคู่ขายหน้ากากเป็นจำนวนมากไปยังแถบตะวันตกตั้งแต่เริ่มต้น ในบทความนี้พวกเขาได้บอกเหตุผลว่าทำไมเราทุกคนควรใช้หน้ากากอนามัยที่ดีกว่า ไม่ใช่แค่สหรัฐอเมริกาที่พวกเขาอาศัยอยู่ แต่รวมถึงทั้งโลก"
       }
     },
     {
       "media": {
         "thumbnail": "",
         "url": "https://cdn.vox-cdn.com/thumbor/l5kNslvY7uLnslvBfqU3QKoof3Q=/0x0:1024x683/920x613/filters:focal(431x261:593x423):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/68667433/GettyImages_1212966420__1_.0.jpg",
-        "caption": "บอกลาหน้ากากผ้า. ทักทายกับหน้ากากผ่าตัดที่กระชับหรือแม้แต่ N95",
+        "caption": "บอกลาหน้ากากผ้า แล้วหันมาใช้หน้ากากอนามัยทางการแพทย์ที่กระชับหรือใช้ N95",
         "link": "https://www.vox.com/22220301/covid-spread-new-strain-variants-safe-grocery-store-n95-masks-vaccine",
-        "credit": "Credit: Dan Kitwood/Getty Images"
+        "credit": "เครดิต: Dan Kitwood/Getty Images"
       },
       "start_date": {
         "year": "2021",
@@ -79,8 +79,8 @@
         "day": 15
       },
       "text": {
-        "headline": "ส่วนบทความ: รับหน้ากากที่ดีกว่า (Vox)",
-        "text": "Frieden กล่าวว่า \"ความจริงที่ว่า [ตัวแปร] แพร่เชื้อได้แสดงให้เห็นว่าฉันมีหน้ากากที่ดีกว่าเป็นความคิดที่ดี\" เมื่อพูดถึงการหลีกเลี่ยงการติดเชื้อ “หน้ากากผ่าตัดดีกว่าหน้ากากผ้า หน้ากากผ่าตัดที่รัดแน่นดีกว่าหน้ากากหลวม และ N95 ดีกว่าหน้ากากผ่าตัด”"
+        "headline": "ส่วนบทความ: ใช้หน้ากากที่ดีกว่า (Vox)",
+        "text": "Frieden กล่าวว่า \"ความจริงที่ว่า [สายพันธุ์ต่างๆ] แพร่เชื้อได้แสดงให้เห็นว่าการมีหน้ากากที่ดีกว่าเป็นเรื่องที่ดี\" เมื่อพูดถึงการหลีกเลี่ยงการติดเชื้อ “หน้ากากอนามัยทางการแพทย์ดีกว่าหน้ากากผ้า หน้ากากอนามัยทางการแพทย์ที่กระชับดีกว่าหน้ากากอนามัยที่หลวม และ N95 ดีกว่าหน้ากากอนามัยทางการแพทย์”"
       }
     },
     {
@@ -89,7 +89,7 @@
         "url": "https://austrianpress.com/wp-content/uploads/2020/10/covid-19-5000022_960_720.jpg",
         "caption": "",
         "link": "https://austrianpress.com/2021/01/18/lockdown-in-austria-is-extended-new-mask-more-distance/",
-        "credit": "Credit: AustrianPress"
+        "credit": "เครดิต: AustrianPress"
       },
       "start_date": {
         "year": "2021",
