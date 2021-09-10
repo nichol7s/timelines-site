@@ -2,12 +2,12 @@
   "title": {
     "media": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Corona_Face_mask_FFP2_%2850577401782%29.jpg/640px-Corona_Face_mask_FFP2_%2850577401782%29.jpg",
-      "caption": "FFP2 mask",
+      "caption": "หน้ากากอนามัย FFP2",
       "credit": "Wikimedia"
     },
     "text": {
-      "headline": "คำสั่งหน้ากากที่สเปคสูงขึ้นในปี 2021",
-      "text": "หน้ากากผ่าตัดมีการป้องกันเพียง 50% และผ้าปิดหน้ายังมีการป้องกันที่ต่ำกว่า ด้วยการตระหนักรู้นี้ ข้อบังคับสำหรับหน้ากากกรองที่สูงขึ้นกำลังถูกตราขึ้น แต่ละประเทศควรมีการตั้งค่าการผลิตภายในประเทศในช่วง 10 เดือนที่ผ่านมาเพื่ออำนวยความสะดวก คลิกลูกศรขวา ☞"
+      "headline": "ข้อบังคับเกี่ยวกับหน้ากากอนามัยที่สเปคสูงขึ้นในปี 2021",
+      "text": "หน้ากากอนามัยทางการแพทย์มีการป้องกันเพียง 50% และผ้าปิดหน้ายังมีการป้องกันที่ต่ำกว่า ด้วยเหตุนี้ ข้อบังคับเกี่ยวกับหน้ากากอนามัยที่กรองได้สูงขึ้นกำลังได้รับการออกกฏหมาย แต่ละประเทศควรมีการจัดการการผลิตภายในประเทศในช่วง 10 เดือนที่ผ่านมาเพื่ออำนวยความสะดวก คลิกลูกศรขวา ☞"
     }
   },
   "events": [
@@ -15,7 +15,7 @@
       "media": {
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/17px-Flag_of_the_United_States.svg.png",
         "url": "https://www.statnews.com/wp-content/uploads/2021/01/AdobeStock_350822281-768x432.jpeg",
-        "caption": "high-filtration",
+        "caption": "หน้ากากอนามัยที่กรองได้สูง",
         "link": "https://www.statnews.com/2021/01/07/national-hi-fi-mask-initiative-needed-with-vaccine-rollouts/",
         "credit": ""
       },
@@ -25,7 +25,7 @@
         "day": 7
       },
       "text": {
-        "headline": "นอกจากการเปิดตัววัคซีนแล้ว สหรัฐฯ ยังต้องการ National Hi-Fi Mask Initiative",
+        "headline": "นอกจากการเปิดตัววัคซีนแล้ว สหรัฐฯ ยังต้องการริเริ่มเรื่องหน้ากากแบบ Hi-Fi ระดับชาติ",
         "text": "แพทย์ Abraar Karan, Ranu Dhillon และ Devabhaktuni Srikrishna ในบทความ op-ed เรียกร้องให้มี National Hi-Fi Mask Initiative (USA) นั่นคือ N95 หรือเทียบเท่า - และทำให้ทุกคนอยู่ในนั้นโดยเร็วที่สุด ดูเพิ่มเติมที่<a href='https://edition.cnn.com/2021/01/29/opinions/covid-19-n95-masks-availability-karan-dhillon-srikrishna/'>CNN op-ed</a >"
       }
     },
