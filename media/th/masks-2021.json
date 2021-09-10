@@ -253,7 +253,7 @@
       "media": {
         "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/106552821-f4beec80-650f-11eb-961e-6a1040f681af.png",
-        "caption": "Fitter by bellus3d.com - หนึ่งในหลาย ๆ ทางเลือก",
+        "caption": "ตัวกรองโดย bellus3d.com หนึ่งในหลายๆ ทางเลือก",
         "link": "https://www.medscape.com/viewarticle/945019",
         "credit": ""
       },
@@ -263,8 +263,8 @@
         "day": 1
       },
       "text": {
-        "headline": "CDC: สวมหน้ากากอนามัยเพื่อการป้องกัน COVID-19 ที่ดีขึ้น",
-        "text": "“ช่างฟิตได้รับการพิสูจน์ทางวิทยาศาสตร์แล้วว่าสามารถปรับปรุงประสิทธิภาพการกรองได้มากถึง 90% หรือมากกว่า” John Brooks, MD, หัวหน้าเจ้าหน้าที่ทางการแพทย์ของ CDC's COVID-19 Response กล่าวเมื่อวันศุกร์ระหว่าง <a href='https://www. idsociety.org/multimedia/videos/idsa-media-briefing-with-cdc-experts/'>การบรรยายสรุปของสื่อ</a>กับสมาคมโรคติดเชื้อแห่งอเมริกา"
+        "headline": "CDC: สวมหน้ากากอนามัยเพื่อการป้องกันโควิด-19 ได้ดีขึ้น",
+        "text": "“ตัวกรองได้รับการพิสูจน์ทางวิทยาศาสตร์แล้วว่าสามารถปรับปรุงประสิทธิภาพการกรองได้มากถึง 90% หรือมากกว่านั้น” John Brooks กรรมการผู้จัดการ หัวหน้าเจ้าหน้าที่ทางการแพทย์ของ COVID-19 Response ของ CDC กล่าวเมื่อวันศุกร์ระหว่าง<a href='https://www. idsociety.org/multimedia/videos/idsa-media-briefing-with-cdc-experts/'>การบรรยายสรุปของสื่อ</a>กับสมาคมโรคติดเชื้อแห่งอเมริกา"
       }
     },
     {
@@ -281,8 +281,8 @@
         "day": 1
       },
       "text": {
-        "headline": "สภาคองเกรสและสมาชิกวุฒิสภาวอนไบเดนจำหน่ายและเพิ่มอุปทานหน้ากากคุณภาพสูง",
-        "text": "Schiff, Khanna, Sanders, Schatz Send Bicameral Letter to President Biden Encouraging Distribution and Increased Supply of High Quality Masks"
+        "headline": "สภาคองเกรสและสมาชิกวุฒิสภาวอน Biden จำหน่ายและเพิ่มการจัดหาหน้ากากคุณภาพสูง",
+        "text": "Schiff, Khanna, Sanders, Schatz ส่งจดหมายสองหน้าถึงประธานาธิบดี Biden ให้ส่งเสริมการจัดจำหน่ายและเพิ่มจำนวนหน้ากากคุณภาพสูง"
       }
     },
     {
@@ -291,7 +291,7 @@
         "url": "https://www.abc.net.au/cm/rimage/13062844-3x2-xlarge.jpg?v=2",
         "caption": "",
         "link": "https://www.abc.net.au/news/2021-02-05/victoria-coronavirus-cases-mask-rules-tighten-in-quarantine/13123194",
-        "credit": "โรงแรมกักกันในออสเตรเลีย - ABC"
+        "credit": "โรงแรมสำหรับกักตัวในออสเตรเลีย - ABC"
       },
       "start_date": {
         "year": "2021",
