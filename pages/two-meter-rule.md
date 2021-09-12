@@ -20,9 +20,11 @@ They historical studies they reviewed with conclusions:
 
 ## Ectypa Pestilentis
 
-The likely origin of the **six feet rule** is a published by a doctor in a book after a plague in the mid 1500's:{#txt}
+{:#txt}
+The likely origin of the **six feet rule** is a published by a doctor in a book after a plague in the mid 1500's:
 
-![](https://user-images.githubusercontent.com/82182/132978287-934afb13-d886-4880-b3b7-f71657925870.png){#img}
+{:#img}
+![](https://user-images.githubusercontent.com/82182/132978287-934afb13-d886-4880-b3b7-f71657925870.png)
 
 [Read more in a BBC article from 8th Jan 2021](https://www.bbc.com/future/article/20210107-the-432-year-old-manual-on-social-distancing)
 
