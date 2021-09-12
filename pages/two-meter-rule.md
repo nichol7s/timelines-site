@@ -22,7 +22,7 @@ They historical studies they reviewed with conclusions:
 
 ![](https://user-images.githubusercontent.com/82182/132978287-934afb13-d886-4880-b3b7-f71657925870.png){: style="float: right"}
 
-The likely origin of the **six feet rule** is a published by a doctor in a book after a plague in the mid 1500's:
+The likely origin of the<br> **six feet rule**<br> is published by a doctor<br> in a book after a plague<br> in the mid 1500's:
 
 <br clear="right">
 
