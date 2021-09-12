@@ -18,11 +18,12 @@ They historical studies they reviewed with conclusions:
 * Wells (1955): didn't conclude that 2 meters (or so) was significant, or a cut off for transmission
 * Flugge (1897): didn't conclude that 2 meters (or so) was significant, or a cut off for transmission
 
-## Ectypa Pestilentis
+## Book: Ectypa Pestilentis
 
 ![](https://user-images.githubusercontent.com/82182/132978287-934afb13-d886-4880-b3b7-f71657925870.png){: .mr-3}
 
-The likely origin of the<br> **six feet rule**<br> is published by a doctor<br> in a book after a plague<br> in the mid 1500's {: .media-body}
+{: .media-body}
+The likely origin of the<br> **six feet rule**<br> is published by a doctor<br> in a book after a plague<br> in the mid 1500's:
 
 [Read more in a BBC article from 8th Jan 2021](https://www.bbc.com/future/article/20210107-the-432-year-old-manual-on-social-distancing)
 
