@@ -17,3 +17,15 @@ They historical studies they reviewed with conclusions:
 
 * Wells (1955): didn't conclude that 2 meters (or so) was significant, or a cut off for transmission
 * Flugge (1897): didn't conclude that 2 meters (or so) was significant, or a cut off for transmission
+
+## Ectypa Pestilentis
+
+The likely origin of the **six feet rule** is a published by a doctor in a book after a plague in the mid 1500's:
+
+![](https://user-images.githubusercontent.com/82182/132978287-934afb13-d886-4880-b3b7-f71657925870.png)
+
+[Read more in a BBC article from 8th Jan 2021](https://www.bbc.com/future/article/20210107-the-432-year-old-manual-on-social-distancing)
+
+The US CDC themselves included a discussion [in a September 2013 edition of their 'Emerging Infection Diseases' magazine](https://wwwnc.cdc.gov/eid/article/19/9/12-0311_article).
+
+Wells confirmed TB was airborne with hamsters in the middle of the last century and struggled to get that accepted. No studies since to see if there was anything special about six feet / two meters in respect of airborne virus infections.
